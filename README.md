@@ -29,6 +29,8 @@ study m5Stack</br>
 <p>
     <h2>Reference</h2>
     <ul>
+        <li><a href="https://forum.m5stack.com/category/1/lessons-and-guides">M5Stack Lessons and Guides</a></li>
+        <li><a href="https://github.com/m5stack/M5Core2">M5Core2 Github(Examples)</a></li>
         <li><a href="https://github.com/m5stack/M5Stack_MicroPython">M5Stack MicroPython Github</a></li>
         <li><a href="https://docs.micropython.org/en/latest/esp32/quickref.html">MicroPython esp32</a></li>
         <li><a href="https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/datasheet/unit/uwb/dwm1000-datasheet-1.pdf">Decawave DWM1001 Datasheet</a></li>

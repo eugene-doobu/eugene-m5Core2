@@ -1,6 +1,7 @@
 /*
  * I Changed m5Stack/M5Stack Example(https://github.com/m5stack/M5Stack/blob/master/examples/Unit/UWB_DW1000/UWB_DW1000.ino)
  * for M5Core2
+ * UWB Module use UART Communication, but m5core2 only have external pin for I2C
  */
 
 /*
@@ -269,7 +270,7 @@ static void IRAM_ATTR Timer0_CallBack(void)      //Timer function 定时器函�
 void setup()
 {
   M5.begin();
-  Serial2.begin(115200, SERIAL_8N1, 16, 17);
+  Serial2.begin(115200, SERIAL_8N1, 13, 14);
   delay(100);
   UWB_Timer();
 
