@@ -21,6 +21,7 @@ study m5Stack</br>
 <p>
     <h2>Additional Module</h2>
     <ul>
+        <li><a href="https://shop.m5stack.com/products/m5go-battery-bottom2-for-core2-only?_pos=3&_sid=454cb226b">M5GO Battery Bottom2</a></li>
         <li><a href="https://shop.m5stack.com/products/ultra-wideband-uwb-unit-indoor-positioning-module-dw1000">UWB Module(DW1000)</a></li>
         <li><a href="https://shop.m5stack.com/products/earth-sensor-unit?_pos=1&_sid=4f6a56af3">Earth Moisture Sensor</a></li>
         <li><a href="https://shop.m5stack.com/products/mini-heart-unit?_pos=1&_sid=feec4d2a8">Heart Rate Unit (MAX30100)</a></li>
@@ -30,7 +31,7 @@ study m5Stack</br>
     <h2>Reference</h2>
     <ul>
         <li><a href="https://forum.m5stack.com/category/1/lessons-and-guides">M5Stack Lessons and Guides</a></li>
-        <li><a href="https://github.com/m5stack/M5Core2">M5Core2 Github(Examples)</a></li>
+        <li><a href="https://gitimgNamehub.com/m5stack/M5Core2">M5Core2 Github(Examples)</a></li>
         <li><a href="https://github.com/m5stack/M5Stack_MicroPython">M5Stack MicroPython Github</a></li>
         <li><a href="https://docs.micropython.org/en/latest/esp32/quickref.html">MicroPython esp32</a></li>
         <li><a href="https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/datasheet/unit/uwb/dwm1000-datasheet-1.pdf">Decawave DWM1001 Datasheet</a></li>

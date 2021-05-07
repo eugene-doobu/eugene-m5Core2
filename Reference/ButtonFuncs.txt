@@ -1,0 +1,15 @@
+M5.BtnA/B/C. read(); Constantly returns true if the button is pressed and false if pressed
+
+M5.BtnA/B/C. isPressed(); If the button was pressed – always returns true
+
+M5.BtnA/B/C. isReleased(); If the button is pressed – always returns true
+
+M5.BtnA/B/C. wasPressed(); One press – one true
+
+M5.BtnA/B/C. was released(); One UPS – single true
+
+M5.BtnA/B/C. pressedFor(uint32_t ms); If the button is pressed more than the set time – always returns true
+
+M5.BtnA/B/C. releasedFor(uint32_t ms); If the button is pressed more than the set time – always returns true
+
+M5.BtnA/B/C. lastChange(); Constantly returns true if the button has ever been pressed

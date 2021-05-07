@@ -1,0 +1,43 @@
+M5.Lcd.setBrightness(uint8_t brightness); Set the screen brightness
+
+M5.Lcd.drawPixel(int16_t x, int16_t y, uint16_t color); Paint the pixel located at the X and Y coordinates (relative to the upper left corner of the screen) to a color from 0 to 65535
+
+M5.Lcd.drawLine(int16_t x0, int16_t y0, int16_t x1, int16_t y1, uint16_t color); Draw a line from the point X0 and Y0 to the point X1 and Y1 with a color from 0 to 65535
+
+M5.Lcd.fillRect(int16_t x, int16_t y, int16_t w, int16_t h, uint16_t color); Draw a rectangle with the points X0 and Y0 to the point X1 and Y1 with width W, height H and color from 0 to 65535
+
+M5.Lcd.fillScreen(uint16_t color); Paint the whole screen with color 0 to 65535
+
+M5.Lcd.drawCircle(int16_t x0, int16_t y0, int16_t r, uint16_t color); Draw a circle with center at the point X0 and Y0, with radius R and color from 0 to 65535
+
+M5.Lcd.drawCircleHelper(int16_t x0, int16_t y0, int16_t r, uint8_t cornername,uint16_t color); Draw a quarter circle with the center at the point X0 and Y0, with radius R, and a quarter C, and a color from 0 to 65535
+
+M5.Lcd.fillCircle(int16_t x0, int16_t y0, int16_t r, uint16_t color); Draw a filled circle with center at the point X0 and Y0, with radius R and color from 0 to 65535
+
+M5.Lcd.fillCircleHelper(int16_t x0, int16_t y0, int16_t r, uint8_t cornername,int16_t delta, uint16_t color); Draw a filled quarter circle with the center at the point X0 and Y0, with radius R, the fourth from 0 to 255 and color from 0 to 65535
+
+M5.Lcd.drawTriangle(int16_t x0, int16_t y0, int16_t x1, int16_t y1, int16_t x2, int16_t y2, uint16_t color); Draw a triangle with vertices X0 and Y0, X1 and Y1, X2 and Y2 and the color from 0 to 65535
+
+M5.Lcd.fillTriangle(int16_t x0, int16_t y0, int16_t x1, int16_t y1, int16_t x2, int16_t y2, uint16_t color); Draw a filled triangle with vertices X0 and Y0, X1 and Y1, X2 and Y2 and the color from 0 to 65535
+
+M5.Lcd.drawRoundRect(int16_t x0, int16_t y0, int16_t w, int16_t h, int16_t radius, uint16_t color); Draw a rectangle with the points X0 and Y0 of width W, height H, radius of the rounded corners R and the color from 0 to 65535
+
+M5.Lcd.fillRoundRect(int16_t x0, int16_t y0, int16_t w, int16_t h, int16_t radius, uint16_t color); Draw a filled rectangle with the points X0 and Y0 of width W, height H, radius of the rounded corners R and the color from 0 to 65535
+
+M5.Lcd.drawBitmap(int16_t x, int16_t y, const uint8_t bitmap[], int16_t w, int16_t h, uint16_t color); Draw bitmap with points X0 and Y0, the bit array of brightness from 0 to 255, width W, height H and color from 0 to 65535
+
+M5.Lcd.drawRGBBitmap(int16_t x, int16_t y, const uint16_t bitmap[], int16_t w, int16_t h); Draw a colored bitmap from the point X0 and Y0, an array of the color bit from 0 to 65536, width W, height H
+
+M5.Lcd.drawChar(uint16_t x, uint16_t y, char c, uint16_t color, uint16_t bg, uint8_t size); to Draw a character with points X0 and Y0, with the character code C, color from 0 to 65535, background color, from 0 to 65535 in size from 0 to 256
+
+M5.Lcd.setCursor(int x, int y) Set the location of the cursor to the coordinates X and Y
+
+M5.Lcd.setTextColor(uint16_t color); to Set the text color from 0 to 65535
+
+M5.Lcd.setTextColor(uint16_t color, uint16_t backgroundcolor); Set the color of the text from 0 to 65535, and the background color behind it 0 to 65535
+
+M5.Lcd.setTextSize(uint8_t size); to Set the size of text from 0 to 255
+
+M5.Lcd.setTextWrap(boolean w); Use the wrap text to true or false
+
+M5.Lcd.printf(); Display the text on the screen
