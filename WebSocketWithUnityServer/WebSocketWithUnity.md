@@ -1,7 +1,7 @@
 <h1>WebSocketWithUnityServer</h1>
 This example is for communication between M5Core2 Client and Unity Server.</br>
 <img src="m5Core2Client.PNG" alt="m5Core2ClientImg" height="280"></br>
-</br></br>
+</br>
 
 <h2>.ino code</h2>
 You must change the code in order to execute it.</br></br>
