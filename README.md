@@ -37,6 +37,7 @@ study m5Stack</br>
         <li><a href="https://gitimgNamehub.com/m5stack/M5Core2">M5Core2 Github(Examples)</a></li>
         <li><a href="https://github.com/m5stack/M5Stack_MicroPython">M5Stack MicroPython Github</a></li>
         <li><a href="https://docs.micropython.org/en/latest/esp32/quickref.html">MicroPython esp32</a></li>
+        <li><a href="https://static-cdn.m5stack.com/image/m5-docs_table/I2C_Address.pdf">I2C Address</a></li>
         <li><a href="https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/datasheet/unit/uwb/dwm1000-datasheet-1.pdf">Decawave DWM1001 Datasheet</a></li>
     </ul>
 </p>

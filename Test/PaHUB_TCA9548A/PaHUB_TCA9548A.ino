@@ -52,10 +52,6 @@ void setup()
   uint8_t address;
 
   for( uint8_t channel=0; channel<TCA9548A_MAX_CHANNELS; channel++ ) {
-    M5.Lcd.setCursor(X_LOCAL, Y_LOCAL + Y_OFFSET*channel , FRONT);
-    M5.Lcd.printf("                                                                ");
-    M5.Lcd.setCursor(X_LOCAL, Y_LOCAL + Y_OFFSET*channel , FRONT);
-    M5.Lcd.printf("CH%d : ",channel);
     returnCode = tca9548a.selectChannel(channel);
     if( returnCode == 0 ) {
       for(address = 0x01; address < 0x7F; address++ ) {
@@ -91,14 +87,29 @@ void setup()
   }
 }
 
-// 0 : 87, 112
-// 1 : 87, 112
-
+byte ReadHeart(uint8_t address){
+  if(address == 0x57){
+    uint16_t ir, red;
+    sensor.update();
+    
+    Serial.print("Read heart sensor: ");
+    Serial.print(Wire.requestFrom(address, 128));
+    Serial.print(" ");
+    Serial.print(Wire.available());
+    Serial.print(" ");
+    byte status = Wire.read();
+    Serial.println(status);
+    sensor.resetFifo();
+    
+    return status;
+  }
+  return -1;
+}
 
 void PaHUB(void){
 	uint8_t returnCode = 0;
 	uint8_t address;
-    for( uint8_t channel=0; channel<TCA9548A_MAX_CHANNELS; channel++ ) {
+  for( uint8_t channel=0; channel<TCA9548A_MAX_CHANNELS; channel++ ) {
 		M5.Lcd.setCursor(X_LOCAL, Y_LOCAL + Y_OFFSET*channel , FRONT);
 		M5.Lcd.printf("                                                                ");
 		M5.Lcd.setCursor(X_LOCAL, Y_LOCAL + Y_OFFSET*channel , FRONT);
@@ -107,30 +118,20 @@ void PaHUB(void){
 		if( returnCode == 0 ) {
 			for(address = 0x01; address < 0x7F; address++ ) {
 				Wire.beginTransmission(address);
-				returnCode = Wire.endTransmission();
+        returnCode = Wire.endTransmission();
 				if (returnCode == 0) {
 					// Serial.print("I2C device = \n");
 					M5.Lcd.printf("0X%X  ",address);
-            
-          Serial.print("Read: ");
-          if(true){
-            Serial.println("Read heart sensor: ");
-            uint16_t ir, red;
-            sensor.update();
-        
-            while (sensor.getRawValues(&ir, &red)) {
-                Serial.println(""); // sensor value container
-                Serial.print(ir);
-                Serial.print('\t');
-                Serial.println(red);
-            }
-          }
+
+          ReadHeart(address);
 				} 
 			}    
 		}
 		delay(200); 	 
   }
 }
+
+
 
 void loop()
 {
