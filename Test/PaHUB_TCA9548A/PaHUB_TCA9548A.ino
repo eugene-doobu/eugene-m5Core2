@@ -88,6 +88,8 @@ void setup()
 }
 
 byte ReadHeart(uint8_t address){
+  // .ir=(uint16_t)((buffer[i*4] << 8) | buffer[i*4 + 1])
+  // .red=(uint16_t)((buffer[i*4 + 2] << 8) | buffer[i*4 + 3])
   if(address == 0x57){
     uint16_t ir, red;
     sensor.update();
@@ -99,6 +101,9 @@ byte ReadHeart(uint8_t address){
     Serial.print(" ");
     byte status = Wire.read();
     Serial.println(status);
+    Serial.println(Wire.read());
+    Serial.println(Wire.read());
+    Serial.println(Wire.read());
     sensor.resetFifo();
     
     return status;
