@@ -22,8 +22,10 @@
 #include <M5Core2.h>
 #include <math.h>
 // Please input the location of A
-float anchorX = 1;
-float anchorY = 1;
+double anchorX = 1;
+double anchorY = 1;
+const double PI = 3.14159265358979;
+const int numOfAnchor = 4;
 
 String DATA = " ";  //Used to store distance data
 int UWB_MODE = 2;   //Used to set UWB mode
@@ -32,7 +34,6 @@ int UWB_T_UI_NUMBER_2 = 0; // flag bit 标志位
 int UWB_T_UI_NUMBER_1 = 0;
 int UWB_T_NUMBER = 0;
 int UWB_B_NUMBER = 0;
-
 
 hw_timer_t *timer = NULL;
 int timer_flag = 0;
@@ -44,19 +45,28 @@ static void IRAM_ATTR Timer0_CallBack(void);
 // numbering is anchor id
 // T mean is Tag
 // H mean is foot of perpendicular of T
-void trilateration(){
-  if(UWB_T_NUMBER < 4) return;
-  // float dis0toT, dis1toT, dis2toT, dis3toT;
-  // float dis0to1, dis2to3;
-  // double angleT0H, angleT1H, angleT2H, angleT3H;
-  // double x0, x1, x2, x3;
-  // double y0, y1, y2, y3;
-  // float x, y;
-  double testMathLib1 = acos(0.5);
-  double testMathLib2 = cos(45.77);
-  // angleT0H = acos((pow(anchorX,2) + pow(dis0toT,2) - dis1toT^2)/(2*anchorX*dis0toT));
-  // x0 = cos(angleT0H) * dis0toT;
-  // y0 = sin(angleT0H) * dis0toT;
+void Trilateration() {
+  double disNtoT[4], angleTnH[4];
+  double xn[4], yn[4];
+  double x=0, y=0;
+
+  // temp
+  disNtoT[0] = 0.7;
+  disNtoT[1] = 0.9;
+  disNtoT[2] = 0.93;
+  disNtoT[3] = 0.9;
+
+  for (int i = 0; i < numOfAnchor; i++) {
+    int j = i % 2 ? i-1 : i+1;
+    // A = arccos((b^2 + c^2 - a^2)/(2bc))
+    angleTnH[i] = acos((pow(anchorX, 2) + pow(disNtoT[i], 2) - pow(disNtoT[j], 2)) / (2 * anchorX * disNtoT[i]));
+    xn[i] = cos(angleTnH[i]) * disNtoT[i];
+    yn[i] = sin(angleTnH[i]) * disNtoT[i];
+    x += xn[i];
+    y += yn[i];
+  }
+  x /= numOfAnchor;
+  y /= numOfAnchor;
 }
 
 //Data display
