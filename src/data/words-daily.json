@@ -1,0 +1,182 @@
+[
+  {
+    "id": "daily-001",
+    "word": "breakfast",
+    "pronunciation": "/ˈbrekfəst/",
+    "partOfSpeech": "명사",
+    "meaning": "아침 식사",
+    "exampleEn": "I usually skip breakfast.",
+    "exampleKo": "나는 보통 아침 식사를 거른다."
+  },
+  {
+    "id": "daily-002",
+    "word": "weather",
+    "pronunciation": "/ˈweðər/",
+    "partOfSpeech": "명사",
+    "meaning": "날씨",
+    "exampleEn": "How's the weather today?",
+    "exampleKo": "오늘 날씨 어때요?"
+  },
+  {
+    "id": "daily-003",
+    "word": "schedule",
+    "pronunciation": "/ˈskedʒuːl/",
+    "partOfSpeech": "명사/동사",
+    "meaning": "일정, 스케줄 / 예정하다",
+    "exampleEn": "What's your schedule for today?",
+    "exampleKo": "오늘 일정이 어떻게 되나요?"
+  },
+  {
+    "id": "daily-004",
+    "word": "commute",
+    "pronunciation": "/kəˈmjuːt/",
+    "partOfSpeech": "동사/명사",
+    "meaning": "통근하다 / 통근",
+    "exampleEn": "My commute takes about an hour.",
+    "exampleKo": "통근에 약 한 시간이 걸린다."
+  },
+  {
+    "id": "daily-005",
+    "word": "grocery",
+    "pronunciation": "/ˈɡroʊsəri/",
+    "partOfSpeech": "명사",
+    "meaning": "식료품",
+    "exampleEn": "I need to buy some groceries.",
+    "exampleKo": "식료품을 좀 사야 해."
+  },
+  {
+    "id": "daily-006",
+    "word": "appointment",
+    "pronunciation": "/əˈpɔɪntmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "약속, 예약",
+    "exampleEn": "I have a doctor's appointment at 3.",
+    "exampleKo": "3시에 병원 예약이 있어요."
+  },
+  {
+    "id": "daily-007",
+    "word": "exercise",
+    "pronunciation": "/ˈeksərsaɪz/",
+    "partOfSpeech": "명사/동사",
+    "meaning": "운동 / 운동하다",
+    "exampleEn": "I try to exercise every morning.",
+    "exampleKo": "매일 아침 운동하려고 해요."
+  },
+  {
+    "id": "daily-008",
+    "word": "laundry",
+    "pronunciation": "/ˈlɔːndri/",
+    "partOfSpeech": "명사",
+    "meaning": "빨래, 세탁",
+    "exampleEn": "I need to do the laundry today.",
+    "exampleKo": "오늘 빨래를 해야 해."
+  },
+  {
+    "id": "daily-009",
+    "word": "neighbor",
+    "pronunciation": "/ˈneɪbər/",
+    "partOfSpeech": "명사",
+    "meaning": "이웃",
+    "exampleEn": "My neighbor is very friendly.",
+    "exampleKo": "우리 이웃은 매우 친절해요."
+  },
+  {
+    "id": "daily-010",
+    "word": "traffic",
+    "pronunciation": "/ˈtræfɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "교통, 교통량",
+    "exampleEn": "The traffic is terrible during rush hour.",
+    "exampleKo": "출퇴근 시간 교통이 끔찍해요."
+  },
+  {
+    "id": "daily-011",
+    "word": "receipt",
+    "pronunciation": "/rɪˈsiːt/",
+    "partOfSpeech": "명사",
+    "meaning": "영수증",
+    "exampleEn": "Can I have the receipt, please?",
+    "exampleKo": "영수증 주시겠어요?"
+  },
+  {
+    "id": "daily-012",
+    "word": "convenient",
+    "pronunciation": "/kənˈviːniənt/",
+    "partOfSpeech": "형용사",
+    "meaning": "편리한",
+    "exampleEn": "This location is very convenient.",
+    "exampleKo": "이 위치는 매우 편리해요."
+  },
+  {
+    "id": "daily-013",
+    "word": "deliver",
+    "pronunciation": "/dɪˈlɪvər/",
+    "partOfSpeech": "동사",
+    "meaning": "배달하다",
+    "exampleEn": "They deliver food to your door.",
+    "exampleKo": "그들은 음식을 문 앞까지 배달해줘요."
+  },
+  {
+    "id": "daily-014",
+    "word": "reservation",
+    "pronunciation": "/ˌrezərˈveɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "예약",
+    "exampleEn": "I'd like to make a reservation for two.",
+    "exampleKo": "2인 예약하고 싶습니다."
+  },
+  {
+    "id": "daily-015",
+    "word": "expensive",
+    "pronunciation": "/ɪkˈspensɪv/",
+    "partOfSpeech": "형용사",
+    "meaning": "비싼",
+    "exampleEn": "This restaurant is too expensive.",
+    "exampleKo": "이 식당은 너무 비싸요."
+  },
+  {
+    "id": "daily-016",
+    "word": "comfortable",
+    "pronunciation": "/ˈkʌmfərtəbl/",
+    "partOfSpeech": "형용사",
+    "meaning": "편안한",
+    "exampleEn": "This chair is very comfortable.",
+    "exampleKo": "이 의자는 매우 편안해요."
+  },
+  {
+    "id": "daily-017",
+    "word": "umbrella",
+    "pronunciation": "/ʌmˈbrelə/",
+    "partOfSpeech": "명사",
+    "meaning": "우산",
+    "exampleEn": "Don't forget your umbrella.",
+    "exampleKo": "우산 잊지 마세요."
+  },
+  {
+    "id": "daily-018",
+    "word": "charge",
+    "pronunciation": "/tʃɑːrdʒ/",
+    "partOfSpeech": "동사/명사",
+    "meaning": "충전하다, 요금을 청구하다 / 요금",
+    "exampleEn": "I need to charge my phone.",
+    "exampleKo": "핸드폰을 충전해야 해요."
+  },
+  {
+    "id": "daily-019",
+    "word": "medicine",
+    "pronunciation": "/ˈmedɪsɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "약, 의학",
+    "exampleEn": "Take your medicine after meals.",
+    "exampleKo": "식후에 약을 드세요."
+  },
+  {
+    "id": "daily-020",
+    "word": "holiday",
+    "pronunciation": "/ˈhɑːlɪdeɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "휴일, 휴가",
+    "exampleEn": "Are you going anywhere for the holiday?",
+    "exampleKo": "휴일에 어디 가세요?"
+  }
+]
