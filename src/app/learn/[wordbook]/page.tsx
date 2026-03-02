@@ -11,12 +11,12 @@ export default function WordbookLearnPage() {
   const params = useParams();
   const wordbookId = params.wordbook as string;
 
+  const { getProgressRate } = useProgress();
+
   const wb = wordbooks.find((w) => w.id === wordbookId);
   if (!wb) {
     notFound();
   }
-
-  const { getProgressRate } = useProgress();
   const levels = getWordbookLevels(wordbookId);
   const wbWords = getAllWordsForWordbook(wordbookId);
   const wbWordIds = wbWords.map((w) => w.id);
@@ -28,6 +28,7 @@ export default function WordbookLearnPage() {
         <Link
           href="/learn"
           className="text-slate-400 hover:text-slate-600 transition-colors"
+          aria-label="뒤로 가기"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"

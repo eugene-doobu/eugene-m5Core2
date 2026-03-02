@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useMemo } from 'react';
 import type { Progress } from '@/types';
 
 const STORAGE_KEY = 'english-study-progress';
@@ -25,6 +25,11 @@ export function useProgress() {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
   }, [progress]);
 
+  const completedSet = useMemo(
+    () => new Set(progress.completedWords),
+    [progress.completedWords]
+  );
+
   const toggleWord = useCallback((wordId: string) => {
     setProgress((prev) => {
       const isCompleted = prev.completedWords.includes(wordId);
@@ -38,19 +43,17 @@ export function useProgress() {
   }, []);
 
   const isCompleted = useCallback(
-    (wordId: string) => progress.completedWords.includes(wordId),
-    [progress.completedWords]
+    (wordId: string) => completedSet.has(wordId),
+    [completedSet]
   );
 
   const getProgressRate = useCallback(
     (wordIds: string[]) => {
       if (wordIds.length === 0) return 0;
-      const completed = wordIds.filter((id) =>
-        progress.completedWords.includes(id)
-      ).length;
+      const completed = wordIds.filter((id) => completedSet.has(id)).length;
       return Math.round((completed / wordIds.length) * 100);
     },
-    [progress.completedWords]
+    [completedSet]
   );
 
   return { progress, toggleWord, isCompleted, getProgressRate };

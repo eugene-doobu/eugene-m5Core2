@@ -9,23 +9,18 @@ import { useProgress } from '@/hooks/useProgress';
 import { useTTS } from '@/hooks/useTTS';
 import { wordbooks, getWordbookLevels, getWordsByLevel } from '@/data';
 
-export default function LevelLearnPage() {
-  const params = useParams();
-  const wordbookId = params.wordbook as string;
-  const levelId = params.level as string;
-
-  const wb = wordbooks.find((w) => w.id === wordbookId);
-  const levels = getWordbookLevels(wordbookId);
-  const level = levels.find((l) => l.id === levelId);
-  const words = getWordsByLevel(wordbookId, levelId);
-
+function LevelLearnContent({
+  wordbookId,
+  levelNameKo,
+  words,
+}: {
+  wordbookId: string;
+  levelNameKo: string;
+  words: import('@/types').Word[];
+}) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const { isCompleted, toggleWord, getProgressRate } = useProgress();
   const { speak } = useTTS();
-
-  if (!wb || !level || words.length === 0) {
-    notFound();
-  }
 
   const currentWord = words[currentIndex];
   const wordIds = words.map((w) => w.id);
@@ -50,6 +45,7 @@ export default function LevelLearnPage() {
         <Link
           href={`/learn/${wordbookId}`}
           className="text-slate-400 hover:text-slate-600 transition-colors"
+          aria-label="뒤로 가기"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -65,7 +61,7 @@ export default function LevelLearnPage() {
           </svg>
         </Link>
         <div className="flex-1">
-          <h1 className="text-xl font-bold text-slate-800">{level.nameKo}</h1>
+          <h1 className="text-xl font-bold text-slate-800">{levelNameKo}</h1>
           <p className="text-sm text-slate-500">
             {currentIndex + 1} / {words.length}
           </p>
@@ -131,5 +127,28 @@ export default function LevelLearnPage() {
         </button>
       </div>
     </div>
+  );
+}
+
+export default function LevelLearnPage() {
+  const params = useParams();
+  const wordbookId = params.wordbook as string;
+  const levelId = params.level as string;
+
+  const wb = wordbooks.find((w) => w.id === wordbookId);
+  const levels = getWordbookLevels(wordbookId);
+  const level = levels.find((l) => l.id === levelId);
+  const words = getWordsByLevel(wordbookId, levelId);
+
+  if (!wb || !level || words.length === 0) {
+    notFound();
+  }
+
+  return (
+    <LevelLearnContent
+      wordbookId={wordbookId}
+      levelNameKo={level.nameKo}
+      words={words}
+    />
   );
 }

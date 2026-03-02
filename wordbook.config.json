@@ -68,14 +68,14 @@
       "id": "travel-english",
       "name": "Travel English",
       "nameKo": "여행 영어",
-      "description": "해외 여행에서 꼭 필요한 상황별 단어 500개",
+      "description": "해외 여행에서 꼭 필요한 상황별 단어 446개",
       "icon": "✈️",
       "levels": [
-        { "id": "airport", "name": "Airport & Transport", "nameKo": "공항·교통", "description": "공항, 비행기, 교통수단 관련 100개", "icon": "🛫" },
-        { "id": "hotel", "name": "Hotel & Accommodation", "nameKo": "숙소·호텔", "description": "호텔, 숙소 관련 100개", "icon": "🏨" },
-        { "id": "restaurant", "name": "Food & Restaurant", "nameKo": "음식·식당", "description": "식당, 음식 주문 관련 100개", "icon": "🍽️" },
-        { "id": "shopping", "name": "Shopping & Money", "nameKo": "쇼핑·환전", "description": "쇼핑, 결제, 환전 관련 100개", "icon": "🛍️" },
-        { "id": "sightseeing", "name": "Sightseeing & Emergency", "nameKo": "관광·긴급상황", "description": "관광, 길찾기, 긴급상황 관련 100개", "icon": "🗺️" }
+        { "id": "airport", "name": "Airport & Transport", "nameKo": "공항·교통", "description": "공항, 비행기, 교통수단 관련 104개", "icon": "🛫" },
+        { "id": "hotel", "name": "Hotel & Accommodation", "nameKo": "숙소·호텔", "description": "호텔, 숙소 관련 89개", "icon": "🏨" },
+        { "id": "restaurant", "name": "Food & Restaurant", "nameKo": "음식·식당", "description": "식당, 음식 주문 관련 91개", "icon": "🍽️" },
+        { "id": "shopping", "name": "Shopping & Money", "nameKo": "쇼핑·환전", "description": "쇼핑, 결제, 환전 관련 78개", "icon": "🛍️" },
+        { "id": "sightseeing", "name": "Sightseeing & Emergency", "nameKo": "관광·긴급상황", "description": "관광, 길찾기, 긴급상황 관련 84개", "icon": "🗺️" }
       ]
     },
     {
