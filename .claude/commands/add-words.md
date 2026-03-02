@@ -8,10 +8,11 @@
 ### 1. 요청 분석
 - 사용자가 지정한 **주제/목적** (예: 여행, 비즈니스, TOEIC, 음식 등)을 파악합니다.
 - 추가할 **단어 수**를 파악합니다 (기본 20개).
-- 기존 카테고리에 추가할지, 새 카테고리를 생성할지 판단합니다.
+- 기존 단어집/레벨에 추가할지, 새 단어집/레벨을 생성할지 판단합니다.
 
 ### 2. 기존 데이터 확인
-- `src/data/` 디렉토리의 기존 JSON 파일들을 확인합니다.
+- `wordbook.config.json`의 `wordbooks` 배열을 확인합니다.
+- `src/data/{단어집ID}/` 디렉토리의 기존 JSON 파일들을 확인합니다.
 - 이미 존재하는 단어와 ID가 중복되지 않도록 합니다.
 
 ### 3. 단어 데이터 생성
@@ -19,7 +20,7 @@
 
 ```json
 {
-  "id": "{카테고리}-{번호}",
+  "id": "{단어집ID}-{레벨ID}-{번호}",
   "word": "영어 단어",
   "pronunciation": "/발음기호/",
   "partOfSpeech": "품사 (한글)",
@@ -36,14 +37,34 @@
 - 발음기호는 IPA 표기법 사용
 
 ### 4. 파일 저장
-- 새 카테고리면: `src/data/words-{카테고리ID}.json` 파일 생성
-- 기존 카테고리면: 해당 JSON 파일에 단어 추가
+- 새 단어집이면: `src/data/{단어집ID}/` 디렉토리 생성
+- 새 레벨이면: `src/data/{단어집ID}/words-{레벨ID}.json` 파일 생성
+  - 파일명은 반드시 `words-{id}.json` 형식 (id는 config의 level id와 동일)
+- 기존 레벨이면: 해당 JSON 파일에 단어 추가
 - ID는 기존 데이터와 이어서 넘버링
 
-### 5. 카테고리 등록 (새 카테고리인 경우)
-- `src/app/learn/page.tsx`의 `categories` 배열에 새 카테고리 추가
-- `wordMap`에 새 데이터 import 및 매핑 추가
-- `src/app/learn/[category]/page.tsx`의 `wordMap`에도 동일하게 추가
+### 5. 설정 등록 (새 단어집/레벨인 경우)
+- 새 단어집이면 `wordbook.config.json`의 `wordbooks` 배열에 추가:
+```json
+{
+  "id": "단어집ID",
+  "name": "Wordbook Name",
+  "nameKo": "단어집 한글명",
+  "description": "단어집 설명",
+  "icon": "이모지",
+  "levels": [
+    {
+      "id": "레벨ID",
+      "name": "Level Name",
+      "nameKo": "레벨 한글명",
+      "description": "레벨 설명",
+      "icon": "이모지"
+    }
+  ]
+}
+```
+- 기존 단어집에 새 레벨이면 해당 wordbook의 `levels` 배열에 추가
+- **페이지 파일 수정은 필요 없습니다** (동적 로딩으로 자동 반영됨)
 
 ### 6. 빌드 확인
 - `npx next build`로 빌드 에러가 없는지 확인합니다.
