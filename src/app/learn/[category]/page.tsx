@@ -9,22 +9,16 @@ import { useProgress } from '@/hooks/useProgress';
 import { useTTS } from '@/hooks/useTTS';
 import type { Word } from '@/types';
 
-import wordsBasic from '@/data/words-basic.json';
-import wordsConversation from '@/data/words-conversation.json';
-import wordsDaily from '@/data/words-daily.json';
-import wordsEssentialVerbs from '@/data/words-essential-verbs.json';
-import wordsEssentialAdjectives from '@/data/words-essential-adjectives.json';
-import wordsEssentialNouns from '@/data/words-essential-nouns.json';
-import wordsEssentialAdverbs from '@/data/words-essential-adverbs.json';
+import wordsLevel1 from '@/data/words-level-1.json';
+import wordsLevel2 from '@/data/words-level-2.json';
+import wordsLevel3 from '@/data/words-level-3.json';
+import wordsLevel4 from '@/data/words-level-4.json';
 
 const wordMap: Record<string, { words: Word[]; title: string }> = {
-  basic: { words: wordsBasic, title: '기초 필수' },
-  conversation: { words: wordsConversation, title: '회화' },
-  daily: { words: wordsDaily, title: '일상' },
-  'essential-verbs': { words: wordsEssentialVerbs, title: '필수 동사' },
-  'essential-adjectives': { words: wordsEssentialAdjectives, title: '필수 형용사' },
-  'essential-nouns': { words: wordsEssentialNouns, title: '필수 명사' },
-  'essential-adverbs': { words: wordsEssentialAdverbs, title: '필수 부사/접속사' },
+  'level-1': { words: wordsLevel1, title: 'Lv.1 입문' },
+  'level-2': { words: wordsLevel2, title: 'Lv.2 초급' },
+  'level-3': { words: wordsLevel3, title: 'Lv.3 중급' },
+  'level-4': { words: wordsLevel4, title: 'Lv.4 중고급' },
 };
 
 export default function CategoryLearnPage() {
