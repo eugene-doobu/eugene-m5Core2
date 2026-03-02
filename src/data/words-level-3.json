@@ -1,0 +1,623 @@
+[
+  {
+    "id": "lv3-001",
+    "word": "understand",
+    "pronunciation": "/ˌʌndərˈstænd/",
+    "partOfSpeech": "동사",
+    "meaning": "이해하다",
+    "exampleEn": "I don't understand what you mean.",
+    "exampleKo": "무슨 말인지 이해가 안 돼요."
+  },
+  {
+    "id": "lv3-002",
+    "word": "excuse",
+    "pronunciation": "/ɪkˈskjuːz/",
+    "partOfSpeech": "동사",
+    "meaning": "용서하다, 실례하다",
+    "exampleEn": "Excuse me, where is the bathroom?",
+    "exampleKo": "실례합니다, 화장실이 어디예요?"
+  },
+  {
+    "id": "lv3-003",
+    "word": "agree",
+    "pronunciation": "/əˈɡriː/",
+    "partOfSpeech": "동사",
+    "meaning": "동의하다",
+    "exampleEn": "I totally agree with you.",
+    "exampleKo": "당신에게 완전히 동의합니다."
+  },
+  {
+    "id": "lv3-004",
+    "word": "actually",
+    "pronunciation": "/ˈæktʃuəli/",
+    "partOfSpeech": "부사",
+    "meaning": "사실은, 실제로",
+    "exampleEn": "Actually, I changed my mind.",
+    "exampleKo": "사실은, 마음이 바뀌었어요."
+  },
+  {
+    "id": "lv3-005",
+    "word": "suggest",
+    "pronunciation": "/səˈdʒest/",
+    "partOfSpeech": "동사",
+    "meaning": "제안하다",
+    "exampleEn": "I suggest we take a break.",
+    "exampleKo": "잠시 쉬는 게 어떨까요."
+  },
+  {
+    "id": "lv3-006",
+    "word": "recommend",
+    "pronunciation": "/ˌrekəˈmend/",
+    "partOfSpeech": "동사",
+    "meaning": "추천하다",
+    "exampleEn": "Can you recommend a good restaurant?",
+    "exampleKo": "좋은 식당 추천해줄 수 있나요?"
+  },
+  {
+    "id": "lv3-007",
+    "word": "schedule",
+    "pronunciation": "/ˈskedʒuːl/",
+    "partOfSpeech": "명사/동사",
+    "meaning": "일정, 스케줄 / 예정하다",
+    "exampleEn": "What's your schedule for today?",
+    "exampleKo": "오늘 일정이 어떻게 되나요?"
+  },
+  {
+    "id": "lv3-008",
+    "word": "commute",
+    "pronunciation": "/kəˈmjuːt/",
+    "partOfSpeech": "동사/명사",
+    "meaning": "통근하다 / 통근",
+    "exampleEn": "My commute takes about an hour.",
+    "exampleKo": "통근에 약 한 시간이 걸린다."
+  },
+  {
+    "id": "lv3-009",
+    "word": "grocery",
+    "pronunciation": "/ˈɡroʊsəri/",
+    "partOfSpeech": "명사",
+    "meaning": "식료품",
+    "exampleEn": "I need to buy some groceries.",
+    "exampleKo": "식료품을 좀 사야 해."
+  },
+  {
+    "id": "lv3-010",
+    "word": "appointment",
+    "pronunciation": "/əˈpɔɪntmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "약속, 예약",
+    "exampleEn": "I have a doctor's appointment at 3.",
+    "exampleKo": "3시에 병원 예약이 있어요."
+  },
+  {
+    "id": "lv3-011",
+    "word": "receipt",
+    "pronunciation": "/rɪˈsiːt/",
+    "partOfSpeech": "명사",
+    "meaning": "영수증",
+    "exampleEn": "Can I have the receipt, please?",
+    "exampleKo": "영수증 주시겠어요?"
+  },
+  {
+    "id": "lv3-012",
+    "word": "deliver",
+    "pronunciation": "/dɪˈlɪvər/",
+    "partOfSpeech": "동사",
+    "meaning": "배달하다",
+    "exampleEn": "They deliver food to your door.",
+    "exampleKo": "그들은 음식을 문 앞까지 배달해줘요."
+  },
+  {
+    "id": "lv3-013",
+    "word": "reservation",
+    "pronunciation": "/ˌrezərˈveɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "예약",
+    "exampleEn": "I'd like to make a reservation for two.",
+    "exampleKo": "2인 예약하고 싶습니다."
+  },
+  {
+    "id": "lv3-014",
+    "word": "charge",
+    "pronunciation": "/tʃɑːrdʒ/",
+    "partOfSpeech": "동사/명사",
+    "meaning": "충전하다, 요금을 청구하다 / 요금",
+    "exampleEn": "I need to charge my phone.",
+    "exampleKo": "핸드폰을 충전해야 해요."
+  },
+  {
+    "id": "lv3-015",
+    "word": "answer",
+    "pronunciation": "/ˈænsər/",
+    "partOfSpeech": "동사",
+    "meaning": "대답하다",
+    "exampleEn": "Please answer the phone.",
+    "exampleKo": "전화 좀 받아 주세요."
+  },
+  {
+    "id": "lv3-016",
+    "word": "wait",
+    "pronunciation": "/weɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "기다리다",
+    "exampleEn": "Please wait here for a moment.",
+    "exampleKo": "여기서 잠시만 기다려 주세요."
+  },
+  {
+    "id": "lv3-017",
+    "word": "leave",
+    "pronunciation": "/liːv/",
+    "partOfSpeech": "동사",
+    "meaning": "떠나다, 남기다",
+    "exampleEn": "I have to leave early today.",
+    "exampleKo": "오늘 일찍 떠나야 해요."
+  },
+  {
+    "id": "lv3-018",
+    "word": "stay",
+    "pronunciation": "/steɪ/",
+    "partOfSpeech": "동사",
+    "meaning": "머무르다",
+    "exampleEn": "I'll stay at a hotel tonight.",
+    "exampleKo": "오늘 밤 호텔에 머물 거야."
+  },
+  {
+    "id": "lv3-019",
+    "word": "move",
+    "pronunciation": "/muːv/",
+    "partOfSpeech": "동사",
+    "meaning": "움직이다, 이사하다",
+    "exampleEn": "We're moving to a new apartment.",
+    "exampleKo": "우리는 새 아파트로 이사한다."
+  },
+  {
+    "id": "lv3-020",
+    "word": "turn",
+    "pronunciation": "/tɜːrn/",
+    "partOfSpeech": "동사",
+    "meaning": "돌다, 돌리다",
+    "exampleEn": "Turn left at the next corner.",
+    "exampleKo": "다음 모퉁이에서 좌회전하세요."
+  },
+  {
+    "id": "lv3-021",
+    "word": "change",
+    "pronunciation": "/tʃeɪndʒ/",
+    "partOfSpeech": "동사",
+    "meaning": "바꾸다, 변하다",
+    "exampleEn": "I want to change my hairstyle.",
+    "exampleKo": "헤어스타일을 바꾸고 싶어."
+  },
+  {
+    "id": "lv3-022",
+    "word": "follow",
+    "pronunciation": "/ˈfɑːloʊ/",
+    "partOfSpeech": "동사",
+    "meaning": "따르다, 따라가다",
+    "exampleEn": "Follow me, I'll show you the way.",
+    "exampleKo": "나를 따라와, 길을 알려줄게."
+  },
+  {
+    "id": "lv3-023",
+    "word": "play",
+    "pronunciation": "/pleɪ/",
+    "partOfSpeech": "동사",
+    "meaning": "놀다, 연주하다",
+    "exampleEn": "The children are playing in the park.",
+    "exampleKo": "아이들이 공원에서 놀고 있다."
+  },
+  {
+    "id": "lv3-024",
+    "word": "watch",
+    "pronunciation": "/wɑːtʃ/",
+    "partOfSpeech": "동사",
+    "meaning": "보다, 지켜보다",
+    "exampleEn": "Let's watch a movie tonight.",
+    "exampleKo": "오늘 밤 영화 보자."
+  },
+  {
+    "id": "lv3-025",
+    "word": "send",
+    "pronunciation": "/send/",
+    "partOfSpeech": "동사",
+    "meaning": "보내다",
+    "exampleEn": "I'll send you the file by email.",
+    "exampleKo": "이메일로 파일을 보내줄게."
+  },
+  {
+    "id": "lv3-026",
+    "word": "receive",
+    "pronunciation": "/rɪˈsiːv/",
+    "partOfSpeech": "동사",
+    "meaning": "받다",
+    "exampleEn": "Did you receive my message?",
+    "exampleKo": "내 메시지 받았어?"
+  },
+  {
+    "id": "lv3-027",
+    "word": "bring",
+    "pronunciation": "/brɪŋ/",
+    "partOfSpeech": "동사",
+    "meaning": "가져오다",
+    "exampleEn": "Can you bring some water?",
+    "exampleKo": "물 좀 가져다줄 수 있어?"
+  },
+  {
+    "id": "lv3-028",
+    "word": "carry",
+    "pronunciation": "/ˈkæri/",
+    "partOfSpeech": "동사",
+    "meaning": "나르다, 들고 가다",
+    "exampleEn": "Let me carry that bag for you.",
+    "exampleKo": "그 가방 내가 들어줄게."
+  },
+  {
+    "id": "lv3-029",
+    "word": "full",
+    "pronunciation": "/fʊl/",
+    "partOfSpeech": "형용사",
+    "meaning": "가득 찬, 배부른",
+    "exampleEn": "I'm full, I can't eat any more.",
+    "exampleKo": "배불러, 더 이상 못 먹겠어."
+  },
+  {
+    "id": "lv3-030",
+    "word": "empty",
+    "pronunciation": "/ˈempti/",
+    "partOfSpeech": "형용사",
+    "meaning": "빈, 비어 있는",
+    "exampleEn": "The parking lot is empty.",
+    "exampleKo": "주차장이 비어 있다."
+  },
+  {
+    "id": "lv3-031",
+    "word": "clean",
+    "pronunciation": "/kliːn/",
+    "partOfSpeech": "형용사",
+    "meaning": "깨끗한",
+    "exampleEn": "Please keep your room clean.",
+    "exampleKo": "방을 깨끗하게 유지하세요."
+  },
+  {
+    "id": "lv3-032",
+    "word": "dirty",
+    "pronunciation": "/ˈdɜːrti/",
+    "partOfSpeech": "형용사",
+    "meaning": "더러운",
+    "exampleEn": "My shoes are really dirty.",
+    "exampleKo": "내 신발이 정말 더럽다."
+  },
+  {
+    "id": "lv3-033",
+    "word": "safe",
+    "pronunciation": "/seɪf/",
+    "partOfSpeech": "형용사",
+    "meaning": "안전한",
+    "exampleEn": "Is this area safe at night?",
+    "exampleKo": "이 지역은 밤에 안전한가요?"
+  },
+  {
+    "id": "lv3-034",
+    "word": "dangerous",
+    "pronunciation": "/ˈdeɪndʒərəs/",
+    "partOfSpeech": "형용사",
+    "meaning": "위험한",
+    "exampleEn": "It's dangerous to drive too fast.",
+    "exampleKo": "너무 빨리 운전하면 위험하다."
+  },
+  {
+    "id": "lv3-035",
+    "word": "strong",
+    "pronunciation": "/strɔːŋ/",
+    "partOfSpeech": "형용사",
+    "meaning": "강한, 힘센",
+    "exampleEn": "He is strong enough to lift that box.",
+    "exampleKo": "그는 그 상자를 들 만큼 힘이 세다."
+  },
+  {
+    "id": "lv3-036",
+    "word": "weak",
+    "pronunciation": "/wiːk/",
+    "partOfSpeech": "형용사",
+    "meaning": "약한",
+    "exampleEn": "I feel weak after the flu.",
+    "exampleKo": "독감 후에 몸이 약해진 느낌이다."
+  },
+  {
+    "id": "lv3-037",
+    "word": "quiet",
+    "pronunciation": "/ˈkwaɪət/",
+    "partOfSpeech": "형용사",
+    "meaning": "조용한",
+    "exampleEn": "Please be quiet in the library.",
+    "exampleKo": "도서관에서는 조용히 해 주세요."
+  },
+  {
+    "id": "lv3-038",
+    "word": "loud",
+    "pronunciation": "/laʊd/",
+    "partOfSpeech": "형용사",
+    "meaning": "시끄러운, 큰 소리의",
+    "exampleEn": "The music is too loud.",
+    "exampleKo": "음악이 너무 시끄럽다."
+  },
+  {
+    "id": "lv3-039",
+    "word": "bright",
+    "pronunciation": "/braɪt/",
+    "partOfSpeech": "형용사",
+    "meaning": "밝은, 영리한",
+    "exampleEn": "The room is nice and bright.",
+    "exampleKo": "방이 좋고 밝다."
+  },
+  {
+    "id": "lv3-040",
+    "word": "dark",
+    "pronunciation": "/dɑːrk/",
+    "partOfSpeech": "형용사",
+    "meaning": "어두운",
+    "exampleEn": "It gets dark early in winter.",
+    "exampleKo": "겨울에는 일찍 어두워진다."
+  },
+  {
+    "id": "lv3-041",
+    "word": "idea",
+    "pronunciation": "/aɪˈdiːə/",
+    "partOfSpeech": "명사",
+    "meaning": "생각, 아이디어",
+    "exampleEn": "I have a great idea!",
+    "exampleKo": "좋은 생각이 있어!"
+  },
+  {
+    "id": "lv3-042",
+    "word": "story",
+    "pronunciation": "/ˈstɔːri/",
+    "partOfSpeech": "명사",
+    "meaning": "이야기",
+    "exampleEn": "Tell me an interesting story.",
+    "exampleKo": "재미있는 이야기 해줘."
+  },
+  {
+    "id": "lv3-043",
+    "word": "music",
+    "pronunciation": "/ˈmjuːzɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "음악",
+    "exampleEn": "I listen to music while working.",
+    "exampleKo": "일하면서 음악을 듣는다."
+  },
+  {
+    "id": "lv3-044",
+    "word": "movie",
+    "pronunciation": "/ˈmuːvi/",
+    "partOfSpeech": "명사",
+    "meaning": "영화",
+    "exampleEn": "What movie do you want to see?",
+    "exampleKo": "어떤 영화 보고 싶어?"
+  },
+  {
+    "id": "lv3-045",
+    "word": "job",
+    "pronunciation": "/dʒɑːb/",
+    "partOfSpeech": "명사",
+    "meaning": "직업, 일",
+    "exampleEn": "I'm looking for a new job.",
+    "exampleKo": "새 직장을 찾고 있다."
+  },
+  {
+    "id": "lv3-046",
+    "word": "company",
+    "pronunciation": "/ˈkʌmpəni/",
+    "partOfSpeech": "명사",
+    "meaning": "회사",
+    "exampleEn": "She works for a big company.",
+    "exampleKo": "그녀는 큰 회사에서 일한다."
+  },
+  {
+    "id": "lv3-047",
+    "word": "market",
+    "pronunciation": "/ˈmɑːrkɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "시장",
+    "exampleEn": "Let's go to the market to buy vegetables.",
+    "exampleKo": "채소 사러 시장에 가자."
+  },
+  {
+    "id": "lv3-048",
+    "word": "price",
+    "pronunciation": "/praɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "가격",
+    "exampleEn": "What's the price of this jacket?",
+    "exampleKo": "이 재킷 가격이 얼마인가요?"
+  },
+  {
+    "id": "lv3-049",
+    "word": "news",
+    "pronunciation": "/njuːz/",
+    "partOfSpeech": "명사",
+    "meaning": "뉴스, 소식",
+    "exampleEn": "Did you hear the news today?",
+    "exampleKo": "오늘 뉴스 들었어?"
+  },
+  {
+    "id": "lv3-050",
+    "word": "plan",
+    "pronunciation": "/plæn/",
+    "partOfSpeech": "명사",
+    "meaning": "계획",
+    "exampleEn": "What's your plan for the summer?",
+    "exampleKo": "여름 계획이 뭐야?"
+  },
+  {
+    "id": "lv3-051",
+    "word": "party",
+    "pronunciation": "/ˈpɑːrti/",
+    "partOfSpeech": "명사",
+    "meaning": "파티, 모임",
+    "exampleEn": "Are you coming to the birthday party?",
+    "exampleKo": "생일 파티에 올 거야?"
+  },
+  {
+    "id": "lv3-052",
+    "word": "game",
+    "pronunciation": "/ɡeɪm/",
+    "partOfSpeech": "명사",
+    "meaning": "게임, 경기",
+    "exampleEn": "Let's play a game together.",
+    "exampleKo": "같이 게임하자."
+  },
+  {
+    "id": "lv3-053",
+    "word": "team",
+    "pronunciation": "/tiːm/",
+    "partOfSpeech": "명사",
+    "meaning": "팀",
+    "exampleEn": "Our team won the championship.",
+    "exampleKo": "우리 팀이 챔피언십에서 우승했다."
+  },
+  {
+    "id": "lv3-054",
+    "word": "student",
+    "pronunciation": "/ˈstuːdnt/",
+    "partOfSpeech": "명사",
+    "meaning": "학생",
+    "exampleEn": "I'm a college student.",
+    "exampleKo": "나는 대학생이다."
+  },
+  {
+    "id": "lv3-055",
+    "word": "before",
+    "pronunciation": "/bɪˈfɔːr/",
+    "partOfSpeech": "전치사/접속사",
+    "meaning": "~전에",
+    "exampleEn": "Wash your hands before eating.",
+    "exampleKo": "먹기 전에 손을 씻어라."
+  },
+  {
+    "id": "lv3-056",
+    "word": "after",
+    "pronunciation": "/ˈæftər/",
+    "partOfSpeech": "전치사/접속사",
+    "meaning": "~후에",
+    "exampleEn": "Let's have coffee after lunch.",
+    "exampleKo": "점심 후에 커피 마시자."
+  },
+  {
+    "id": "lv3-057",
+    "word": "during",
+    "pronunciation": "/ˈdʊrɪŋ/",
+    "partOfSpeech": "전치사",
+    "meaning": "~동안",
+    "exampleEn": "Please don't use your phone during class.",
+    "exampleKo": "수업 중에 핸드폰을 사용하지 마세요."
+  },
+  {
+    "id": "lv3-058",
+    "word": "between",
+    "pronunciation": "/bɪˈtwiːn/",
+    "partOfSpeech": "전치사",
+    "meaning": "~사이에",
+    "exampleEn": "The meeting is between 2 and 4 p.m.",
+    "exampleKo": "회의는 오후 2시에서 4시 사이다."
+  },
+  {
+    "id": "lv3-059",
+    "word": "without",
+    "pronunciation": "/wɪˈðaʊt/",
+    "partOfSpeech": "전치사",
+    "meaning": "~없이",
+    "exampleEn": "I can't live without music.",
+    "exampleKo": "음악 없이는 살 수 없다."
+  },
+  {
+    "id": "lv3-060",
+    "word": "while",
+    "pronunciation": "/waɪl/",
+    "partOfSpeech": "접속사",
+    "meaning": "~하는 동안",
+    "exampleEn": "I read a book while waiting.",
+    "exampleKo": "기다리는 동안 책을 읽었다."
+  },
+  {
+    "id": "lv3-061",
+    "word": "since",
+    "pronunciation": "/sɪns/",
+    "partOfSpeech": "접속사/전치사",
+    "meaning": "~이래로, ~이므로",
+    "exampleEn": "I've known her since high school.",
+    "exampleKo": "고등학교 때부터 그녀를 알고 있다."
+  },
+  {
+    "id": "lv3-062",
+    "word": "until",
+    "pronunciation": "/ənˈtɪl/",
+    "partOfSpeech": "전치사/접속사",
+    "meaning": "~까지",
+    "exampleEn": "I'll wait until you come back.",
+    "exampleKo": "네가 돌아올 때까지 기다릴게."
+  },
+  {
+    "id": "lv3-063",
+    "word": "however",
+    "pronunciation": "/haʊˈevər/",
+    "partOfSpeech": "접속부사",
+    "meaning": "그러나, 하지만",
+    "exampleEn": "I like the design. However, it's too expensive.",
+    "exampleKo": "디자인은 마음에 든다. 하지만 너무 비싸다."
+  },
+  {
+    "id": "lv3-064",
+    "word": "instead",
+    "pronunciation": "/ɪnˈsted/",
+    "partOfSpeech": "부사",
+    "meaning": "대신에",
+    "exampleEn": "I had tea instead of coffee.",
+    "exampleKo": "커피 대신 차를 마셨다."
+  },
+  {
+    "id": "lv3-065",
+    "word": "especially",
+    "pronunciation": "/ɪˈspeʃəli/",
+    "partOfSpeech": "부사",
+    "meaning": "특히",
+    "exampleEn": "I love fruit, especially strawberries.",
+    "exampleKo": "과일을 좋아한다, 특히 딸기를."
+  },
+  {
+    "id": "lv3-066",
+    "word": "probably",
+    "pronunciation": "/ˈprɑːbəbli/",
+    "partOfSpeech": "부사",
+    "meaning": "아마도",
+    "exampleEn": "I'll probably be late tonight.",
+    "exampleKo": "오늘 밤 아마 늦을 거야."
+  },
+  {
+    "id": "lv3-067",
+    "word": "certainly",
+    "pronunciation": "/ˈsɜːrtnli/",
+    "partOfSpeech": "부사",
+    "meaning": "확실히, 물론",
+    "exampleEn": "I will certainly be there.",
+    "exampleKo": "확실히 거기 갈 거야."
+  },
+  {
+    "id": "lv3-068",
+    "word": "quite",
+    "pronunciation": "/kwaɪt/",
+    "partOfSpeech": "부사",
+    "meaning": "꽤, 상당히",
+    "exampleEn": "The movie was quite good.",
+    "exampleKo": "영화가 꽤 좋았다."
+  },
+  {
+    "id": "lv3-069",
+    "word": "almost",
+    "pronunciation": "/ˈɔːlmoʊst/",
+    "partOfSpeech": "부사",
+    "meaning": "거의",
+    "exampleEn": "We're almost there.",
+    "exampleKo": "거의 다 왔어."
+  }
+]

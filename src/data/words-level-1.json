@@ -1,0 +1,614 @@
+[
+  {
+    "id": "lv1-001",
+    "word": "the",
+    "pronunciation": "/ðə/",
+    "partOfSpeech": "관사",
+    "meaning": "그, 그것의",
+    "exampleEn": "The book is on the table.",
+    "exampleKo": "그 책은 테이블 위에 있다."
+  },
+  {
+    "id": "lv1-002",
+    "word": "be",
+    "pronunciation": "/biː/",
+    "partOfSpeech": "동사",
+    "meaning": "~이다, 있다",
+    "exampleEn": "I want to be a doctor.",
+    "exampleKo": "나는 의사가 되고 싶다."
+  },
+  {
+    "id": "lv1-003",
+    "word": "have",
+    "pronunciation": "/hæv/",
+    "partOfSpeech": "동사",
+    "meaning": "가지다, ~하다",
+    "exampleEn": "I have a dream.",
+    "exampleKo": "나에게는 꿈이 있다."
+  },
+  {
+    "id": "lv1-004",
+    "word": "do",
+    "pronunciation": "/duː/",
+    "partOfSpeech": "동사",
+    "meaning": "하다",
+    "exampleEn": "What do you do for a living?",
+    "exampleKo": "직업이 무엇인가요?"
+  },
+  {
+    "id": "lv1-005",
+    "word": "say",
+    "pronunciation": "/seɪ/",
+    "partOfSpeech": "동사",
+    "meaning": "말하다",
+    "exampleEn": "What did you say?",
+    "exampleKo": "뭐라고 말했니?"
+  },
+  {
+    "id": "lv1-006",
+    "word": "get",
+    "pronunciation": "/ɡet/",
+    "partOfSpeech": "동사",
+    "meaning": "얻다, 도착하다",
+    "exampleEn": "I need to get some rest.",
+    "exampleKo": "나는 좀 쉬어야 한다."
+  },
+  {
+    "id": "lv1-007",
+    "word": "make",
+    "pronunciation": "/meɪk/",
+    "partOfSpeech": "동사",
+    "meaning": "만들다",
+    "exampleEn": "Let me make you a cup of coffee.",
+    "exampleKo": "내가 커피 한 잔 만들어 줄게."
+  },
+  {
+    "id": "lv1-008",
+    "word": "go",
+    "pronunciation": "/ɡoʊ/",
+    "partOfSpeech": "동사",
+    "meaning": "가다",
+    "exampleEn": "Let's go to the park.",
+    "exampleKo": "공원에 가자."
+  },
+  {
+    "id": "lv1-009",
+    "word": "know",
+    "pronunciation": "/noʊ/",
+    "partOfSpeech": "동사",
+    "meaning": "알다",
+    "exampleEn": "I know the answer.",
+    "exampleKo": "나는 답을 안다."
+  },
+  {
+    "id": "lv1-010",
+    "word": "take",
+    "pronunciation": "/teɪk/",
+    "partOfSpeech": "동사",
+    "meaning": "가져가다, 타다",
+    "exampleEn": "Take the bus to school.",
+    "exampleKo": "학교에 버스를 타고 가라."
+  },
+  {
+    "id": "lv1-011",
+    "word": "see",
+    "pronunciation": "/siː/",
+    "partOfSpeech": "동사",
+    "meaning": "보다",
+    "exampleEn": "I can see the mountains from here.",
+    "exampleKo": "여기서 산이 보인다."
+  },
+  {
+    "id": "lv1-012",
+    "word": "come",
+    "pronunciation": "/kʌm/",
+    "partOfSpeech": "동사",
+    "meaning": "오다",
+    "exampleEn": "Come here, please.",
+    "exampleKo": "이리 오세요."
+  },
+  {
+    "id": "lv1-013",
+    "word": "think",
+    "pronunciation": "/θɪŋk/",
+    "partOfSpeech": "동사",
+    "meaning": "생각하다",
+    "exampleEn": "I think you are right.",
+    "exampleKo": "네가 맞다고 생각해."
+  },
+  {
+    "id": "lv1-014",
+    "word": "look",
+    "pronunciation": "/lʊk/",
+    "partOfSpeech": "동사",
+    "meaning": "보다, ~처럼 보이다",
+    "exampleEn": "Look at the sky!",
+    "exampleKo": "하늘을 봐!"
+  },
+  {
+    "id": "lv1-015",
+    "word": "want",
+    "pronunciation": "/wɑːnt/",
+    "partOfSpeech": "동사",
+    "meaning": "원하다",
+    "exampleEn": "I want to learn English.",
+    "exampleKo": "나는 영어를 배우고 싶다."
+  },
+  {
+    "id": "lv1-016",
+    "word": "give",
+    "pronunciation": "/ɡɪv/",
+    "partOfSpeech": "동사",
+    "meaning": "주다",
+    "exampleEn": "Give me a chance.",
+    "exampleKo": "기회를 주세요."
+  },
+  {
+    "id": "lv1-017",
+    "word": "use",
+    "pronunciation": "/juːz/",
+    "partOfSpeech": "동사",
+    "meaning": "사용하다",
+    "exampleEn": "Can I use your phone?",
+    "exampleKo": "당신의 전화기를 써도 될까요?"
+  },
+  {
+    "id": "lv1-018",
+    "word": "find",
+    "pronunciation": "/faɪnd/",
+    "partOfSpeech": "동사",
+    "meaning": "찾다, 발견하다",
+    "exampleEn": "I need to find my keys.",
+    "exampleKo": "열쇠를 찾아야 해."
+  },
+  {
+    "id": "lv1-019",
+    "word": "tell",
+    "pronunciation": "/tel/",
+    "partOfSpeech": "동사",
+    "meaning": "말하다, 알려주다",
+    "exampleEn": "Tell me the truth.",
+    "exampleKo": "사실을 말해줘."
+  },
+  {
+    "id": "lv1-020",
+    "word": "work",
+    "pronunciation": "/wɜːrk/",
+    "partOfSpeech": "동사/명사",
+    "meaning": "일하다, 작동하다 / 일",
+    "exampleEn": "I work at a hospital.",
+    "exampleKo": "나는 병원에서 일한다."
+  },
+  {
+    "id": "lv1-021",
+    "word": "time",
+    "pronunciation": "/taɪm/",
+    "partOfSpeech": "명사",
+    "meaning": "시간, 때",
+    "exampleEn": "What time is it now?",
+    "exampleKo": "지금 몇 시야?"
+  },
+  {
+    "id": "lv1-022",
+    "word": "people",
+    "pronunciation": "/ˈpiːpl/",
+    "partOfSpeech": "명사",
+    "meaning": "사람들",
+    "exampleEn": "Many people like music.",
+    "exampleKo": "많은 사람들이 음악을 좋아한다."
+  },
+  {
+    "id": "lv1-023",
+    "word": "good",
+    "pronunciation": "/ɡʊd/",
+    "partOfSpeech": "형용사",
+    "meaning": "좋은",
+    "exampleEn": "This is a good idea.",
+    "exampleKo": "이것은 좋은 생각이다."
+  },
+  {
+    "id": "lv1-024",
+    "word": "new",
+    "pronunciation": "/njuː/",
+    "partOfSpeech": "형용사",
+    "meaning": "새로운",
+    "exampleEn": "I bought a new phone.",
+    "exampleKo": "나는 새 전화기를 샀다."
+  },
+  {
+    "id": "lv1-025",
+    "word": "first",
+    "pronunciation": "/fɜːrst/",
+    "partOfSpeech": "형용사/부사",
+    "meaning": "첫 번째의, 먼저",
+    "exampleEn": "This is my first time here.",
+    "exampleKo": "여기 오는 것은 처음이다."
+  },
+  {
+    "id": "lv1-026",
+    "word": "way",
+    "pronunciation": "/weɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "방법, 길",
+    "exampleEn": "Is there another way to solve this?",
+    "exampleKo": "이것을 풀 다른 방법이 있나요?"
+  },
+  {
+    "id": "lv1-027",
+    "word": "day",
+    "pronunciation": "/deɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "날, 하루",
+    "exampleEn": "Have a nice day!",
+    "exampleKo": "좋은 하루 보내세요!"
+  },
+  {
+    "id": "lv1-028",
+    "word": "thing",
+    "pronunciation": "/θɪŋ/",
+    "partOfSpeech": "명사",
+    "meaning": "것, 물건",
+    "exampleEn": "The most important thing is health.",
+    "exampleKo": "가장 중요한 것은 건강이다."
+  },
+  {
+    "id": "lv1-029",
+    "word": "world",
+    "pronunciation": "/wɜːrld/",
+    "partOfSpeech": "명사",
+    "meaning": "세계, 세상",
+    "exampleEn": "I want to travel around the world.",
+    "exampleKo": "세계 여행을 하고 싶다."
+  },
+  {
+    "id": "lv1-030",
+    "word": "life",
+    "pronunciation": "/laɪf/",
+    "partOfSpeech": "명사",
+    "meaning": "삶, 인생, 생명",
+    "exampleEn": "Life is full of surprises.",
+    "exampleKo": "인생은 놀라움으로 가득하다."
+  },
+  {
+    "id": "lv1-031",
+    "word": "eat",
+    "pronunciation": "/iːt/",
+    "partOfSpeech": "동사",
+    "meaning": "먹다",
+    "exampleEn": "Let's eat lunch together.",
+    "exampleKo": "같이 점심 먹자."
+  },
+  {
+    "id": "lv1-032",
+    "word": "drink",
+    "pronunciation": "/drɪŋk/",
+    "partOfSpeech": "동사",
+    "meaning": "마시다",
+    "exampleEn": "I drink water throughout the day.",
+    "exampleKo": "나는 하루 종일 물을 마신다."
+  },
+  {
+    "id": "lv1-033",
+    "word": "sleep",
+    "pronunciation": "/sliːp/",
+    "partOfSpeech": "동사",
+    "meaning": "자다",
+    "exampleEn": "I usually sleep for seven hours.",
+    "exampleKo": "나는 보통 7시간 잔다."
+  },
+  {
+    "id": "lv1-034",
+    "word": "run",
+    "pronunciation": "/rʌn/",
+    "partOfSpeech": "동사",
+    "meaning": "달리다, 운영하다",
+    "exampleEn": "I run every morning before work.",
+    "exampleKo": "나는 출근 전에 매일 아침 달린다."
+  },
+  {
+    "id": "lv1-035",
+    "word": "walk",
+    "pronunciation": "/wɔːk/",
+    "partOfSpeech": "동사",
+    "meaning": "걷다",
+    "exampleEn": "Let's walk to the station.",
+    "exampleKo": "역까지 걸어가자."
+  },
+  {
+    "id": "lv1-036",
+    "word": "talk",
+    "pronunciation": "/tɔːk/",
+    "partOfSpeech": "동사",
+    "meaning": "이야기하다",
+    "exampleEn": "Can we talk for a minute?",
+    "exampleKo": "잠깐 이야기 할 수 있을까요?"
+  },
+  {
+    "id": "lv1-037",
+    "word": "read",
+    "pronunciation": "/riːd/",
+    "partOfSpeech": "동사",
+    "meaning": "읽다",
+    "exampleEn": "I like to read books before bed.",
+    "exampleKo": "나는 자기 전에 책 읽는 것을 좋아한다."
+  },
+  {
+    "id": "lv1-038",
+    "word": "write",
+    "pronunciation": "/raɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "쓰다, 작성하다",
+    "exampleEn": "Please write your name here.",
+    "exampleKo": "여기에 이름을 써 주세요."
+  },
+  {
+    "id": "lv1-039",
+    "word": "need",
+    "pronunciation": "/niːd/",
+    "partOfSpeech": "동사",
+    "meaning": "필요하다",
+    "exampleEn": "I need your help right now.",
+    "exampleKo": "지금 당장 네 도움이 필요해."
+  },
+  {
+    "id": "lv1-040",
+    "word": "feel",
+    "pronunciation": "/fiːl/",
+    "partOfSpeech": "동사",
+    "meaning": "느끼다",
+    "exampleEn": "I feel much better today.",
+    "exampleKo": "오늘은 훨씬 기분이 좋다."
+  },
+  {
+    "id": "lv1-041",
+    "word": "big",
+    "pronunciation": "/bɪɡ/",
+    "partOfSpeech": "형용사",
+    "meaning": "큰",
+    "exampleEn": "We live in a big house.",
+    "exampleKo": "우리는 큰 집에 산다."
+  },
+  {
+    "id": "lv1-042",
+    "word": "small",
+    "pronunciation": "/smɔːl/",
+    "partOfSpeech": "형용사",
+    "meaning": "작은",
+    "exampleEn": "This shirt is too small for me.",
+    "exampleKo": "이 셔츠는 나에게 너무 작다."
+  },
+  {
+    "id": "lv1-043",
+    "word": "old",
+    "pronunciation": "/oʊld/",
+    "partOfSpeech": "형용사",
+    "meaning": "오래된, 나이 든",
+    "exampleEn": "How old are you?",
+    "exampleKo": "몇 살이에요?"
+  },
+  {
+    "id": "lv1-044",
+    "word": "long",
+    "pronunciation": "/lɔːŋ/",
+    "partOfSpeech": "형용사",
+    "meaning": "긴",
+    "exampleEn": "It was a long day at work.",
+    "exampleKo": "회사에서 긴 하루였다."
+  },
+  {
+    "id": "lv1-045",
+    "word": "short",
+    "pronunciation": "/ʃɔːrt/",
+    "partOfSpeech": "형용사",
+    "meaning": "짧은, 키가 작은",
+    "exampleEn": "I need a short break.",
+    "exampleKo": "짧은 휴식이 필요하다."
+  },
+  {
+    "id": "lv1-046",
+    "word": "hot",
+    "pronunciation": "/hɑːt/",
+    "partOfSpeech": "형용사",
+    "meaning": "뜨거운, 더운",
+    "exampleEn": "Be careful, the soup is very hot.",
+    "exampleKo": "조심해, 수프가 매우 뜨거워."
+  },
+  {
+    "id": "lv1-047",
+    "word": "cold",
+    "pronunciation": "/koʊld/",
+    "partOfSpeech": "형용사",
+    "meaning": "차가운, 추운",
+    "exampleEn": "It's really cold outside today.",
+    "exampleKo": "오늘 밖이 정말 춥다."
+  },
+  {
+    "id": "lv1-048",
+    "word": "happy",
+    "pronunciation": "/ˈhæpi/",
+    "partOfSpeech": "형용사",
+    "meaning": "행복한",
+    "exampleEn": "I'm so happy to see you again.",
+    "exampleKo": "다시 만나서 너무 행복해."
+  },
+  {
+    "id": "lv1-049",
+    "word": "easy",
+    "pronunciation": "/ˈiːzi/",
+    "partOfSpeech": "형용사",
+    "meaning": "쉬운",
+    "exampleEn": "This recipe is easy to follow.",
+    "exampleKo": "이 레시피는 따라하기 쉽다."
+  },
+  {
+    "id": "lv1-050",
+    "word": "hard",
+    "pronunciation": "/hɑːrd/",
+    "partOfSpeech": "형용사",
+    "meaning": "어려운, 단단한",
+    "exampleEn": "The test was really hard.",
+    "exampleKo": "시험이 정말 어려웠다."
+  },
+  {
+    "id": "lv1-051",
+    "word": "family",
+    "pronunciation": "/ˈfæməli/",
+    "partOfSpeech": "명사",
+    "meaning": "가족",
+    "exampleEn": "I love spending time with my family.",
+    "exampleKo": "가족과 시간 보내는 것을 좋아한다."
+  },
+  {
+    "id": "lv1-052",
+    "word": "friend",
+    "pronunciation": "/frend/",
+    "partOfSpeech": "명사",
+    "meaning": "친구",
+    "exampleEn": "She is my best friend.",
+    "exampleKo": "그녀는 내 가장 친한 친구다."
+  },
+  {
+    "id": "lv1-053",
+    "word": "water",
+    "pronunciation": "/ˈwɔːtər/",
+    "partOfSpeech": "명사",
+    "meaning": "물",
+    "exampleEn": "Can I have a glass of water?",
+    "exampleKo": "물 한 잔 주시겠어요?"
+  },
+  {
+    "id": "lv1-054",
+    "word": "food",
+    "pronunciation": "/fuːd/",
+    "partOfSpeech": "명사",
+    "meaning": "음식",
+    "exampleEn": "Korean food is delicious.",
+    "exampleKo": "한국 음식은 맛있다."
+  },
+  {
+    "id": "lv1-055",
+    "word": "money",
+    "pronunciation": "/ˈmʌni/",
+    "partOfSpeech": "명사",
+    "meaning": "돈",
+    "exampleEn": "Money isn't everything in life.",
+    "exampleKo": "돈이 인생의 전부는 아니다."
+  },
+  {
+    "id": "lv1-056",
+    "word": "home",
+    "pronunciation": "/hoʊm/",
+    "partOfSpeech": "명사",
+    "meaning": "집, 가정",
+    "exampleEn": "I'm going home after work.",
+    "exampleKo": "퇴근 후에 집에 갈 거야."
+  },
+  {
+    "id": "lv1-057",
+    "word": "school",
+    "pronunciation": "/skuːl/",
+    "partOfSpeech": "명사",
+    "meaning": "학교",
+    "exampleEn": "My children go to school by bus.",
+    "exampleKo": "내 아이들은 버스로 학교에 간다."
+  },
+  {
+    "id": "lv1-058",
+    "word": "book",
+    "pronunciation": "/bʊk/",
+    "partOfSpeech": "명사",
+    "meaning": "책",
+    "exampleEn": "I'm reading an interesting book.",
+    "exampleKo": "재미있는 책을 읽고 있다."
+  },
+  {
+    "id": "lv1-059",
+    "word": "name",
+    "pronunciation": "/neɪm/",
+    "partOfSpeech": "명사",
+    "meaning": "이름",
+    "exampleEn": "What is your name?",
+    "exampleKo": "이름이 뭐예요?"
+  },
+  {
+    "id": "lv1-060",
+    "word": "year",
+    "pronunciation": "/jɪr/",
+    "partOfSpeech": "명사",
+    "meaning": "년, 해",
+    "exampleEn": "I moved here three years ago.",
+    "exampleKo": "3년 전에 여기로 이사했다."
+  },
+  {
+    "id": "lv1-061",
+    "word": "always",
+    "pronunciation": "/ˈɔːlweɪz/",
+    "partOfSpeech": "부사",
+    "meaning": "항상",
+    "exampleEn": "I always wake up at seven.",
+    "exampleKo": "나는 항상 7시에 일어난다."
+  },
+  {
+    "id": "lv1-062",
+    "word": "never",
+    "pronunciation": "/ˈnevər/",
+    "partOfSpeech": "부사",
+    "meaning": "절대 ~않다",
+    "exampleEn": "I never eat fast food.",
+    "exampleKo": "나는 절대 패스트푸드를 먹지 않는다."
+  },
+  {
+    "id": "lv1-063",
+    "word": "very",
+    "pronunciation": "/ˈveri/",
+    "partOfSpeech": "부사",
+    "meaning": "매우, 아주",
+    "exampleEn": "Thank you very much.",
+    "exampleKo": "정말 감사합니다."
+  },
+  {
+    "id": "lv1-064",
+    "word": "really",
+    "pronunciation": "/ˈriːəli/",
+    "partOfSpeech": "부사",
+    "meaning": "정말로, 진짜",
+    "exampleEn": "I'm really tired today.",
+    "exampleKo": "오늘 정말 피곤하다."
+  },
+  {
+    "id": "lv1-065",
+    "word": "here",
+    "pronunciation": "/hɪr/",
+    "partOfSpeech": "부사",
+    "meaning": "여기에",
+    "exampleEn": "I've been living here for five years.",
+    "exampleKo": "5년째 여기 살고 있다."
+  },
+  {
+    "id": "lv1-066",
+    "word": "there",
+    "pronunciation": "/ðer/",
+    "partOfSpeech": "부사",
+    "meaning": "거기에",
+    "exampleEn": "I've been there before.",
+    "exampleKo": "거기 전에 가 본 적 있어."
+  },
+  {
+    "id": "lv1-067",
+    "word": "now",
+    "pronunciation": "/naʊ/",
+    "partOfSpeech": "부사",
+    "meaning": "지금",
+    "exampleEn": "I'm busy right now.",
+    "exampleKo": "지금 바빠."
+  },
+  {
+    "id": "lv1-068",
+    "word": "too",
+    "pronunciation": "/tuː/",
+    "partOfSpeech": "부사",
+    "meaning": "~도, 너무",
+    "exampleEn": "This coffee is too sweet.",
+    "exampleKo": "이 커피는 너무 달다."
+  }
+]

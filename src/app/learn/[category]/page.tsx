@@ -1,0 +1,143 @@
+'use client';
+
+import { useState } from 'react';
+import { useParams, notFound } from 'next/navigation';
+import Link from 'next/link';
+import WordCard from '@/components/WordCard';
+import ProgressBar from '@/components/ProgressBar';
+import { useProgress } from '@/hooks/useProgress';
+import { useTTS } from '@/hooks/useTTS';
+import type { Word } from '@/types';
+
+import wordsLevel1 from '@/data/words-level-1.json';
+import wordsLevel2 from '@/data/words-level-2.json';
+import wordsLevel3 from '@/data/words-level-3.json';
+import wordsLevel4 from '@/data/words-level-4.json';
+
+const wordMap: Record<string, { words: Word[]; title: string }> = {
+  'level-1': { words: wordsLevel1, title: 'Lv.1 입문' },
+  'level-2': { words: wordsLevel2, title: 'Lv.2 초급' },
+  'level-3': { words: wordsLevel3, title: 'Lv.3 중급' },
+  'level-4': { words: wordsLevel4, title: 'Lv.4 중고급' },
+};
+
+export default function CategoryLearnPage() {
+  const params = useParams();
+  const category = params.category as string;
+  const data = wordMap[category];
+
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const { isCompleted, toggleWord, getProgressRate } = useProgress();
+  const { speak } = useTTS();
+
+  if (!data) {
+    notFound();
+  }
+
+  const { words, title } = data;
+  const currentWord = words[currentIndex];
+  const wordIds = words.map((w) => w.id);
+  const progressRate = getProgressRate(wordIds);
+
+  const goNext = () => {
+    if (currentIndex < words.length - 1) {
+      setCurrentIndex(currentIndex + 1);
+    }
+  };
+
+  const goPrev = () => {
+    if (currentIndex > 0) {
+      setCurrentIndex(currentIndex - 1);
+    }
+  };
+
+  return (
+    <div className="max-w-4xl mx-auto px-4 py-10">
+      {/* Header */}
+      <div className="flex items-center gap-3 mb-6">
+        <Link
+          href="/learn"
+          className="text-slate-400 hover:text-slate-600 transition-colors"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            fill="currentColor"
+            className="w-6 h-6"
+          >
+            <path
+              fillRule="evenodd"
+              d="M7.72 12.53a.75.75 0 010-1.06l7.5-7.5a.75.75 0 111.06 1.06L9.31 12l6.97 6.97a.75.75 0 11-1.06 1.06l-7.5-7.5z"
+              clipRule="evenodd"
+            />
+          </svg>
+        </Link>
+        <div className="flex-1">
+          <h1 className="text-xl font-bold text-slate-800">{title}</h1>
+          <p className="text-sm text-slate-500">
+            {currentIndex + 1} / {words.length}
+          </p>
+        </div>
+      </div>
+
+      {/* Progress */}
+      <div className="mb-8">
+        <ProgressBar percentage={progressRate} label="학습 진행률" />
+      </div>
+
+      {/* Word Card */}
+      <WordCard
+        key={currentWord.id}
+        word={currentWord}
+        isCompleted={isCompleted(currentWord.id)}
+        onToggleComplete={() => toggleWord(currentWord.id)}
+        onSpeak={speak}
+      />
+
+      {/* Navigation */}
+      <div className="flex justify-between items-center mt-8 max-w-md mx-auto">
+        <button
+          onClick={goPrev}
+          disabled={currentIndex === 0}
+          className={`px-6 py-3 rounded-full text-sm font-medium transition-all ${
+            currentIndex === 0
+              ? 'bg-slate-100 text-slate-300 cursor-not-allowed'
+              : 'bg-slate-100 text-slate-600 hover:bg-slate-200'
+          }`}
+        >
+          이전
+        </button>
+
+        {/* Word dots */}
+        <div className="flex gap-1 flex-wrap justify-center max-w-[200px]">
+          {words.map((w, i) => (
+            <button
+              key={w.id}
+              onClick={() => setCurrentIndex(i)}
+              className={`w-2.5 h-2.5 rounded-full transition-all ${
+                i === currentIndex
+                  ? 'bg-blue-500 scale-125'
+                  : isCompleted(w.id)
+                    ? 'bg-green-400'
+                    : 'bg-slate-300'
+              }`}
+              aria-label={`단어 ${i + 1}`}
+            />
+          ))}
+        </div>
+
+        <button
+          onClick={goNext}
+          disabled={currentIndex === words.length - 1}
+          className={`px-6 py-3 rounded-full text-sm font-medium transition-all ${
+            currentIndex === words.length - 1
+              ? 'bg-slate-100 text-slate-300 cursor-not-allowed'
+              : 'bg-blue-500 text-white hover:bg-blue-600'
+          }`}
+        >
+          다음
+        </button>
+      </div>
+    </div>
+  );
+}
