@@ -7,34 +7,26 @@ import WordCard from '@/components/WordCard';
 import ProgressBar from '@/components/ProgressBar';
 import { useProgress } from '@/hooks/useProgress';
 import { useTTS } from '@/hooks/useTTS';
-import type { Word } from '@/types';
+import { wordbooks, getWordbookLevels, getWordsByLevel } from '@/data';
 
-import wordsLevel1 from '@/data/words-level-1.json';
-import wordsLevel2 from '@/data/words-level-2.json';
-import wordsLevel3 from '@/data/words-level-3.json';
-import wordsLevel4 from '@/data/words-level-4.json';
-
-const wordMap: Record<string, { words: Word[]; title: string }> = {
-  'level-1': { words: wordsLevel1, title: 'Lv.1 입문' },
-  'level-2': { words: wordsLevel2, title: 'Lv.2 초급' },
-  'level-3': { words: wordsLevel3, title: 'Lv.3 중급' },
-  'level-4': { words: wordsLevel4, title: 'Lv.4 중고급' },
-};
-
-export default function CategoryLearnPage() {
+export default function LevelLearnPage() {
   const params = useParams();
-  const category = params.category as string;
-  const data = wordMap[category];
+  const wordbookId = params.wordbook as string;
+  const levelId = params.level as string;
+
+  const wb = wordbooks.find((w) => w.id === wordbookId);
+  const levels = getWordbookLevels(wordbookId);
+  const level = levels.find((l) => l.id === levelId);
+  const words = getWordsByLevel(wordbookId, levelId);
 
   const [currentIndex, setCurrentIndex] = useState(0);
   const { isCompleted, toggleWord, getProgressRate } = useProgress();
   const { speak } = useTTS();
 
-  if (!data) {
+  if (!wb || !level || words.length === 0) {
     notFound();
   }
 
-  const { words, title } = data;
   const currentWord = words[currentIndex];
   const wordIds = words.map((w) => w.id);
   const progressRate = getProgressRate(wordIds);
@@ -56,7 +48,7 @@ export default function CategoryLearnPage() {
       {/* Header */}
       <div className="flex items-center gap-3 mb-6">
         <Link
-          href="/learn"
+          href={`/learn/${wordbookId}`}
           className="text-slate-400 hover:text-slate-600 transition-colors"
         >
           <svg
@@ -73,7 +65,7 @@ export default function CategoryLearnPage() {
           </svg>
         </Link>
         <div className="flex-1">
-          <h1 className="text-xl font-bold text-slate-800">{title}</h1>
+          <h1 className="text-xl font-bold text-slate-800">{level.nameKo}</h1>
           <p className="text-sm text-slate-500">
             {currentIndex + 1} / {words.length}
           </p>
