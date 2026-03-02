@@ -1,0 +1,72 @@
+{
+  "app": {
+    "title": "영어단어 학습",
+    "description": "빈도 기반 영어 단어 학습 웹 앱",
+    "lang": "ko",
+    "logo": "ABC",
+    "heroTitle": "영어단어,\n빈도순으로 배우자",
+    "heroHighlight": "빈도순",
+    "heroDescription": "가장 많이 쓰이는 단어부터 차근차근.\n카드 플립으로 재미있게 학습하세요.",
+    "startButtonText": "학습 시작하기",
+    "features": [
+      {
+        "icon": "📊",
+        "title": "빈도순 학습",
+        "description": "영어에서 가장 자주 쓰이는 단어부터 순서대로 학습합니다."
+      },
+      {
+        "icon": "🔊",
+        "title": "원어민 발음",
+        "description": "TTS로 단어와 예문의 원어민 발음을 바로 들어볼 수 있습니다."
+      },
+      {
+        "icon": "📝",
+        "title": "진행도 추적",
+        "description": "학습 완료한 단어를 체크하고 진행률을 한눈에 확인하세요."
+      }
+    ],
+    "nav": {
+      "home": "홈",
+      "learn": "학습하기"
+    }
+  },
+  "wordbooks": [
+    {
+      "id": "frequency-english",
+      "name": "Frequency English",
+      "nameKo": "빈도순 영단어",
+      "description": "가장 많이 쓰이는 단어부터 차근차근 배우세요.",
+      "icon": "📊",
+      "levels": [
+        {
+          "id": "level-1",
+          "name": "Level 1",
+          "nameKo": "Lv.1 입문",
+          "description": "가장 기본이 되는 필수 단어 68개",
+          "icon": "🌱"
+        },
+        {
+          "id": "level-2",
+          "name": "Level 2",
+          "nameKo": "Lv.2 초급",
+          "description": "일상에서 바로 쓰는 단어 68개",
+          "icon": "🌿"
+        },
+        {
+          "id": "level-3",
+          "name": "Level 3",
+          "nameKo": "Lv.3 중급",
+          "description": "회화와 실용 표현 단어 69개",
+          "icon": "🌳"
+        },
+        {
+          "id": "level-4",
+          "name": "Level 4",
+          "nameKo": "Lv.4 중고급",
+          "description": "표현력을 넓히는 단어 65개",
+          "icon": "🌲"
+        }
+      ]
+    }
+  ]
+}
