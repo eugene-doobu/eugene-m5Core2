@@ -8,6 +8,10 @@ import type { Category, Word } from '@/types';
 import wordsBasic from '@/data/words-basic.json';
 import wordsConversation from '@/data/words-conversation.json';
 import wordsDaily from '@/data/words-daily.json';
+import wordsEssentialVerbs from '@/data/words-essential-verbs.json';
+import wordsEssentialAdjectives from '@/data/words-essential-adjectives.json';
+import wordsEssentialNouns from '@/data/words-essential-nouns.json';
+import wordsEssentialAdverbs from '@/data/words-essential-adverbs.json';
 
 const categories: Category[] = [
   {
@@ -31,12 +35,44 @@ const categories: Category[] = [
     description: '생활 속 자주 쓰는 단어 20개',
     icon: '\u{2615}',
   },
+  {
+    id: 'essential-verbs',
+    name: 'Essential Verbs',
+    nameKo: '필수 동사',
+    description: '가장 많이 쓰이는 동사 50개',
+    icon: '\u{1F3C3}',
+  },
+  {
+    id: 'essential-adjectives',
+    name: 'Essential Adjectives',
+    nameKo: '필수 형용사',
+    description: '가장 많이 쓰이는 형용사 50개',
+    icon: '\u{1F308}',
+  },
+  {
+    id: 'essential-nouns',
+    name: 'Essential Nouns',
+    nameKo: '필수 명사',
+    description: '가장 많이 쓰이는 명사 50개',
+    icon: '\u{1F4E6}',
+  },
+  {
+    id: 'essential-adverbs',
+    name: 'Essential Adverbs',
+    nameKo: '필수 부사/접속사',
+    description: '필수 부사·전치사·접속사 50개',
+    icon: '\u{1F517}',
+  },
 ];
 
 const wordMap: Record<string, Word[]> = {
   basic: wordsBasic,
   conversation: wordsConversation,
   daily: wordsDaily,
+  'essential-verbs': wordsEssentialVerbs,
+  'essential-adjectives': wordsEssentialAdjectives,
+  'essential-nouns': wordsEssentialNouns,
+  'essential-adverbs': wordsEssentialAdverbs,
 };
 
 export default function LearnPage() {
@@ -46,6 +82,10 @@ export default function LearnPage() {
     ...wordsBasic,
     ...wordsConversation,
     ...wordsDaily,
+    ...wordsEssentialVerbs,
+    ...wordsEssentialAdjectives,
+    ...wordsEssentialNouns,
+    ...wordsEssentialAdverbs,
   ].map((w) => w.id);
   const totalProgress = getProgressRate(allWordIds);
 

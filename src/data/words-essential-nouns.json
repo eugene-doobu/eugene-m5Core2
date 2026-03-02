@@ -1,0 +1,452 @@
+[
+  {
+    "id": "enoun-001",
+    "word": "family",
+    "pronunciation": "/ˈfæməli/",
+    "partOfSpeech": "명사",
+    "meaning": "가족",
+    "exampleEn": "I love spending time with my family.",
+    "exampleKo": "가족과 시간 보내는 것을 좋아한다."
+  },
+  {
+    "id": "enoun-002",
+    "word": "friend",
+    "pronunciation": "/frend/",
+    "partOfSpeech": "명사",
+    "meaning": "친구",
+    "exampleEn": "She is my best friend.",
+    "exampleKo": "그녀는 내 가장 친한 친구다."
+  },
+  {
+    "id": "enoun-003",
+    "word": "water",
+    "pronunciation": "/ˈwɔːtər/",
+    "partOfSpeech": "명사",
+    "meaning": "물",
+    "exampleEn": "Can I have a glass of water?",
+    "exampleKo": "물 한 잔 주시겠어요?"
+  },
+  {
+    "id": "enoun-004",
+    "word": "food",
+    "pronunciation": "/fuːd/",
+    "partOfSpeech": "명사",
+    "meaning": "음식",
+    "exampleEn": "Korean food is delicious.",
+    "exampleKo": "한국 음식은 맛있다."
+  },
+  {
+    "id": "enoun-005",
+    "word": "money",
+    "pronunciation": "/ˈmʌni/",
+    "partOfSpeech": "명사",
+    "meaning": "돈",
+    "exampleEn": "Money isn't everything in life.",
+    "exampleKo": "돈이 인생의 전부는 아니다."
+  },
+  {
+    "id": "enoun-006",
+    "word": "home",
+    "pronunciation": "/hoʊm/",
+    "partOfSpeech": "명사",
+    "meaning": "집, 가정",
+    "exampleEn": "I'm going home after work.",
+    "exampleKo": "퇴근 후에 집에 갈 거야."
+  },
+  {
+    "id": "enoun-007",
+    "word": "school",
+    "pronunciation": "/skuːl/",
+    "partOfSpeech": "명사",
+    "meaning": "학교",
+    "exampleEn": "My children go to school by bus.",
+    "exampleKo": "내 아이들은 버스로 학교에 간다."
+  },
+  {
+    "id": "enoun-008",
+    "word": "book",
+    "pronunciation": "/bʊk/",
+    "partOfSpeech": "명사",
+    "meaning": "책",
+    "exampleEn": "I'm reading an interesting book.",
+    "exampleKo": "재미있는 책을 읽고 있다."
+  },
+  {
+    "id": "enoun-009",
+    "word": "car",
+    "pronunciation": "/kɑːr/",
+    "partOfSpeech": "명사",
+    "meaning": "자동차",
+    "exampleEn": "I drive my car to work every day.",
+    "exampleKo": "매일 자동차로 출근한다."
+  },
+  {
+    "id": "enoun-010",
+    "word": "phone",
+    "pronunciation": "/foʊn/",
+    "partOfSpeech": "명사",
+    "meaning": "전화기, 핸드폰",
+    "exampleEn": "I left my phone at home.",
+    "exampleKo": "핸드폰을 집에 두고 왔다."
+  },
+  {
+    "id": "enoun-011",
+    "word": "name",
+    "pronunciation": "/neɪm/",
+    "partOfSpeech": "명사",
+    "meaning": "이름",
+    "exampleEn": "What is your name?",
+    "exampleKo": "이름이 뭐예요?"
+  },
+  {
+    "id": "enoun-012",
+    "word": "place",
+    "pronunciation": "/pleɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "장소",
+    "exampleEn": "This is a nice place to relax.",
+    "exampleKo": "여기는 쉬기 좋은 장소다."
+  },
+  {
+    "id": "enoun-013",
+    "word": "country",
+    "pronunciation": "/ˈkʌntri/",
+    "partOfSpeech": "명사",
+    "meaning": "나라, 시골",
+    "exampleEn": "Which country are you from?",
+    "exampleKo": "어느 나라에서 왔나요?"
+  },
+  {
+    "id": "enoun-014",
+    "word": "city",
+    "pronunciation": "/ˈsɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "도시",
+    "exampleEn": "Seoul is a very big city.",
+    "exampleKo": "서울은 매우 큰 도시다."
+  },
+  {
+    "id": "enoun-015",
+    "word": "room",
+    "pronunciation": "/ruːm/",
+    "partOfSpeech": "명사",
+    "meaning": "방",
+    "exampleEn": "My room is on the second floor.",
+    "exampleKo": "내 방은 2층에 있다."
+  },
+  {
+    "id": "enoun-016",
+    "word": "door",
+    "pronunciation": "/dɔːr/",
+    "partOfSpeech": "명사",
+    "meaning": "문",
+    "exampleEn": "Please close the door behind you.",
+    "exampleKo": "나가면서 문을 닫아 주세요."
+  },
+  {
+    "id": "enoun-017",
+    "word": "year",
+    "pronunciation": "/jɪr/",
+    "partOfSpeech": "명사",
+    "meaning": "년, 해",
+    "exampleEn": "I moved here three years ago.",
+    "exampleKo": "3년 전에 여기로 이사했다."
+  },
+  {
+    "id": "enoun-018",
+    "word": "month",
+    "pronunciation": "/mʌnθ/",
+    "partOfSpeech": "명사",
+    "meaning": "월, 달",
+    "exampleEn": "I visit my parents once a month.",
+    "exampleKo": "한 달에 한 번 부모님을 뵙는다."
+  },
+  {
+    "id": "enoun-019",
+    "word": "week",
+    "pronunciation": "/wiːk/",
+    "partOfSpeech": "명사",
+    "meaning": "주",
+    "exampleEn": "I go swimming twice a week.",
+    "exampleKo": "일주일에 두 번 수영하러 간다."
+  },
+  {
+    "id": "enoun-020",
+    "word": "hour",
+    "pronunciation": "/aʊər/",
+    "partOfSpeech": "명사",
+    "meaning": "시간 (한 시간)",
+    "exampleEn": "The flight takes about two hours.",
+    "exampleKo": "비행은 약 2시간 걸린다."
+  },
+  {
+    "id": "enoun-021",
+    "word": "minute",
+    "pronunciation": "/ˈmɪnɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "분",
+    "exampleEn": "Wait a minute, please.",
+    "exampleKo": "잠깐만 기다려 주세요."
+  },
+  {
+    "id": "enoun-022",
+    "word": "night",
+    "pronunciation": "/naɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "밤",
+    "exampleEn": "I couldn't sleep last night.",
+    "exampleKo": "어젯밤에 잠을 못 잤다."
+  },
+  {
+    "id": "enoun-023",
+    "word": "morning",
+    "pronunciation": "/ˈmɔːrnɪŋ/",
+    "partOfSpeech": "명사",
+    "meaning": "아침",
+    "exampleEn": "Good morning! How did you sleep?",
+    "exampleKo": "좋은 아침! 잘 잤어?"
+  },
+  {
+    "id": "enoun-024",
+    "word": "question",
+    "pronunciation": "/ˈkwestʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "질문",
+    "exampleEn": "Do you have any questions?",
+    "exampleKo": "질문 있으신가요?"
+  },
+  {
+    "id": "enoun-025",
+    "word": "problem",
+    "pronunciation": "/ˈprɑːbləm/",
+    "partOfSpeech": "명사",
+    "meaning": "문제",
+    "exampleEn": "No problem, I can help you.",
+    "exampleKo": "문제없어요, 도와줄게요."
+  },
+  {
+    "id": "enoun-026",
+    "word": "idea",
+    "pronunciation": "/aɪˈdiːə/",
+    "partOfSpeech": "명사",
+    "meaning": "생각, 아이디어",
+    "exampleEn": "I have a great idea!",
+    "exampleKo": "좋은 생각이 있어!"
+  },
+  {
+    "id": "enoun-027",
+    "word": "story",
+    "pronunciation": "/ˈstɔːri/",
+    "partOfSpeech": "명사",
+    "meaning": "이야기",
+    "exampleEn": "Tell me an interesting story.",
+    "exampleKo": "재미있는 이야기 해줘."
+  },
+  {
+    "id": "enoun-028",
+    "word": "music",
+    "pronunciation": "/ˈmjuːzɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "음악",
+    "exampleEn": "I listen to music while working.",
+    "exampleKo": "일하면서 음악을 듣는다."
+  },
+  {
+    "id": "enoun-029",
+    "word": "movie",
+    "pronunciation": "/ˈmuːvi/",
+    "partOfSpeech": "명사",
+    "meaning": "영화",
+    "exampleEn": "What movie do you want to see?",
+    "exampleKo": "어떤 영화 보고 싶어?"
+  },
+  {
+    "id": "enoun-030",
+    "word": "job",
+    "pronunciation": "/dʒɑːb/",
+    "partOfSpeech": "명사",
+    "meaning": "직업, 일",
+    "exampleEn": "I'm looking for a new job.",
+    "exampleKo": "새 직장을 찾고 있다."
+  },
+  {
+    "id": "enoun-031",
+    "word": "company",
+    "pronunciation": "/ˈkʌmpəni/",
+    "partOfSpeech": "명사",
+    "meaning": "회사",
+    "exampleEn": "She works for a big company.",
+    "exampleKo": "그녀는 큰 회사에서 일한다."
+  },
+  {
+    "id": "enoun-032",
+    "word": "market",
+    "pronunciation": "/ˈmɑːrkɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "시장",
+    "exampleEn": "Let's go to the market to buy vegetables.",
+    "exampleKo": "채소 사러 시장에 가자."
+  },
+  {
+    "id": "enoun-033",
+    "word": "price",
+    "pronunciation": "/praɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "가격",
+    "exampleEn": "What's the price of this jacket?",
+    "exampleKo": "이 재킷 가격이 얼마인가요?"
+  },
+  {
+    "id": "enoun-034",
+    "word": "news",
+    "pronunciation": "/njuːz/",
+    "partOfSpeech": "명사",
+    "meaning": "뉴스, 소식",
+    "exampleEn": "Did you hear the news today?",
+    "exampleKo": "오늘 뉴스 들었어?"
+  },
+  {
+    "id": "enoun-035",
+    "word": "plan",
+    "pronunciation": "/plæn/",
+    "partOfSpeech": "명사",
+    "meaning": "계획",
+    "exampleEn": "What's your plan for the summer?",
+    "exampleKo": "여름 계획이 뭐야?"
+  },
+  {
+    "id": "enoun-036",
+    "word": "party",
+    "pronunciation": "/ˈpɑːrti/",
+    "partOfSpeech": "명사",
+    "meaning": "파티, 모임",
+    "exampleEn": "Are you coming to the birthday party?",
+    "exampleKo": "생일 파티에 올 거야?"
+  },
+  {
+    "id": "enoun-037",
+    "word": "game",
+    "pronunciation": "/ɡeɪm/",
+    "partOfSpeech": "명사",
+    "meaning": "게임, 경기",
+    "exampleEn": "Let's play a game together.",
+    "exampleKo": "같이 게임하자."
+  },
+  {
+    "id": "enoun-038",
+    "word": "team",
+    "pronunciation": "/tiːm/",
+    "partOfSpeech": "명사",
+    "meaning": "팀",
+    "exampleEn": "Our team won the championship.",
+    "exampleKo": "우리 팀이 챔피언십에서 우승했다."
+  },
+  {
+    "id": "enoun-039",
+    "word": "student",
+    "pronunciation": "/ˈstuːdnt/",
+    "partOfSpeech": "명사",
+    "meaning": "학생",
+    "exampleEn": "I'm a college student.",
+    "exampleKo": "나는 대학생이다."
+  },
+  {
+    "id": "enoun-040",
+    "word": "teacher",
+    "pronunciation": "/ˈtiːtʃər/",
+    "partOfSpeech": "명사",
+    "meaning": "선생님",
+    "exampleEn": "My English teacher is very kind.",
+    "exampleKo": "내 영어 선생님은 매우 친절하다."
+  },
+  {
+    "id": "enoun-041",
+    "word": "health",
+    "pronunciation": "/helθ/",
+    "partOfSpeech": "명사",
+    "meaning": "건강",
+    "exampleEn": "Health is the most important thing.",
+    "exampleKo": "건강이 가장 중요하다."
+  },
+  {
+    "id": "enoun-042",
+    "word": "body",
+    "pronunciation": "/ˈbɑːdi/",
+    "partOfSpeech": "명사",
+    "meaning": "몸, 신체",
+    "exampleEn": "Exercise is good for your body.",
+    "exampleKo": "운동은 몸에 좋다."
+  },
+  {
+    "id": "enoun-043",
+    "word": "hand",
+    "pronunciation": "/hænd/",
+    "partOfSpeech": "명사",
+    "meaning": "손",
+    "exampleEn": "Wash your hands before eating.",
+    "exampleKo": "먹기 전에 손을 씻어라."
+  },
+  {
+    "id": "enoun-044",
+    "word": "head",
+    "pronunciation": "/hed/",
+    "partOfSpeech": "명사",
+    "meaning": "머리",
+    "exampleEn": "I have a headache.",
+    "exampleKo": "머리가 아프다."
+  },
+  {
+    "id": "enoun-045",
+    "word": "heart",
+    "pronunciation": "/hɑːrt/",
+    "partOfSpeech": "명사",
+    "meaning": "심장, 마음",
+    "exampleEn": "Follow your heart.",
+    "exampleKo": "마음이 이끄는 대로 해."
+  },
+  {
+    "id": "enoun-046",
+    "word": "reason",
+    "pronunciation": "/ˈriːzn/",
+    "partOfSpeech": "명사",
+    "meaning": "이유",
+    "exampleEn": "What is the reason for being late?",
+    "exampleKo": "늦은 이유가 뭐야?"
+  },
+  {
+    "id": "enoun-047",
+    "word": "number",
+    "pronunciation": "/ˈnʌmbər/",
+    "partOfSpeech": "명사",
+    "meaning": "숫자, 번호",
+    "exampleEn": "Can I have your phone number?",
+    "exampleKo": "전화번호를 알 수 있을까요?"
+  },
+  {
+    "id": "enoun-048",
+    "word": "part",
+    "pronunciation": "/pɑːrt/",
+    "partOfSpeech": "명사",
+    "meaning": "부분",
+    "exampleEn": "This is the best part of the movie.",
+    "exampleKo": "이것이 영화의 가장 좋은 부분이다."
+  },
+  {
+    "id": "enoun-049",
+    "word": "side",
+    "pronunciation": "/saɪd/",
+    "partOfSpeech": "명사",
+    "meaning": "쪽, 면, 옆",
+    "exampleEn": "I'll always be on your side.",
+    "exampleKo": "항상 네 편이 될게."
+  },
+  {
+    "id": "enoun-050",
+    "word": "letter",
+    "pronunciation": "/ˈletər/",
+    "partOfSpeech": "명사",
+    "meaning": "편지, 글자",
+    "exampleEn": "I received a letter from my grandmother.",
+    "exampleKo": "할머니에게서 편지를 받았다."
+  }
+]

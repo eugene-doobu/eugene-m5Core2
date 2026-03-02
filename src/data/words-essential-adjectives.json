@@ -1,0 +1,452 @@
+[
+  {
+    "id": "eadj-001",
+    "word": "big",
+    "pronunciation": "/bɪɡ/",
+    "partOfSpeech": "형용사",
+    "meaning": "큰",
+    "exampleEn": "We live in a big house.",
+    "exampleKo": "우리는 큰 집에 산다."
+  },
+  {
+    "id": "eadj-002",
+    "word": "small",
+    "pronunciation": "/smɔːl/",
+    "partOfSpeech": "형용사",
+    "meaning": "작은",
+    "exampleEn": "This shirt is too small for me.",
+    "exampleKo": "이 셔츠는 나에게 너무 작다."
+  },
+  {
+    "id": "eadj-003",
+    "word": "old",
+    "pronunciation": "/oʊld/",
+    "partOfSpeech": "형용사",
+    "meaning": "오래된, 나이 든",
+    "exampleEn": "How old are you?",
+    "exampleKo": "몇 살이에요?"
+  },
+  {
+    "id": "eadj-004",
+    "word": "young",
+    "pronunciation": "/jʌŋ/",
+    "partOfSpeech": "형용사",
+    "meaning": "젊은, 어린",
+    "exampleEn": "She is young but very talented.",
+    "exampleKo": "그녀는 젊지만 매우 재능이 있다."
+  },
+  {
+    "id": "eadj-005",
+    "word": "long",
+    "pronunciation": "/lɔːŋ/",
+    "partOfSpeech": "형용사",
+    "meaning": "긴",
+    "exampleEn": "It was a long day at work.",
+    "exampleKo": "회사에서 긴 하루였다."
+  },
+  {
+    "id": "eadj-006",
+    "word": "short",
+    "pronunciation": "/ʃɔːrt/",
+    "partOfSpeech": "형용사",
+    "meaning": "짧은, 키가 작은",
+    "exampleEn": "I need a short break.",
+    "exampleKo": "짧은 휴식이 필요하다."
+  },
+  {
+    "id": "eadj-007",
+    "word": "hot",
+    "pronunciation": "/hɑːt/",
+    "partOfSpeech": "형용사",
+    "meaning": "뜨거운, 더운",
+    "exampleEn": "Be careful, the soup is very hot.",
+    "exampleKo": "조심해, 수프가 매우 뜨거워."
+  },
+  {
+    "id": "eadj-008",
+    "word": "cold",
+    "pronunciation": "/koʊld/",
+    "partOfSpeech": "형용사",
+    "meaning": "차가운, 추운",
+    "exampleEn": "It's really cold outside today.",
+    "exampleKo": "오늘 밖이 정말 춥다."
+  },
+  {
+    "id": "eadj-009",
+    "word": "fast",
+    "pronunciation": "/fæst/",
+    "partOfSpeech": "형용사",
+    "meaning": "빠른",
+    "exampleEn": "This train is very fast.",
+    "exampleKo": "이 기차는 매우 빠르다."
+  },
+  {
+    "id": "eadj-010",
+    "word": "slow",
+    "pronunciation": "/sloʊ/",
+    "partOfSpeech": "형용사",
+    "meaning": "느린",
+    "exampleEn": "The internet is really slow today.",
+    "exampleKo": "오늘 인터넷이 정말 느리다."
+  },
+  {
+    "id": "eadj-011",
+    "word": "easy",
+    "pronunciation": "/ˈiːzi/",
+    "partOfSpeech": "형용사",
+    "meaning": "쉬운",
+    "exampleEn": "This recipe is easy to follow.",
+    "exampleKo": "이 레시피는 따라하기 쉽다."
+  },
+  {
+    "id": "eadj-012",
+    "word": "hard",
+    "pronunciation": "/hɑːrd/",
+    "partOfSpeech": "형용사",
+    "meaning": "어려운, 단단한",
+    "exampleEn": "The test was really hard.",
+    "exampleKo": "시험이 정말 어려웠다."
+  },
+  {
+    "id": "eadj-013",
+    "word": "happy",
+    "pronunciation": "/ˈhæpi/",
+    "partOfSpeech": "형용사",
+    "meaning": "행복한",
+    "exampleEn": "I'm so happy to see you again.",
+    "exampleKo": "다시 만나서 너무 행복해."
+  },
+  {
+    "id": "eadj-014",
+    "word": "sad",
+    "pronunciation": "/sæd/",
+    "partOfSpeech": "형용사",
+    "meaning": "슬픈",
+    "exampleEn": "I feel sad when it rains.",
+    "exampleKo": "비가 오면 슬퍼진다."
+  },
+  {
+    "id": "eadj-015",
+    "word": "beautiful",
+    "pronunciation": "/ˈbjuːtɪfl/",
+    "partOfSpeech": "형용사",
+    "meaning": "아름다운",
+    "exampleEn": "The sunset is so beautiful.",
+    "exampleKo": "석양이 정말 아름답다."
+  },
+  {
+    "id": "eadj-016",
+    "word": "important",
+    "pronunciation": "/ɪmˈpɔːrtənt/",
+    "partOfSpeech": "형용사",
+    "meaning": "중요한",
+    "exampleEn": "This is a very important meeting.",
+    "exampleKo": "이것은 매우 중요한 회의다."
+  },
+  {
+    "id": "eadj-017",
+    "word": "different",
+    "pronunciation": "/ˈdɪfrənt/",
+    "partOfSpeech": "형용사",
+    "meaning": "다른",
+    "exampleEn": "We have different opinions.",
+    "exampleKo": "우리는 의견이 다르다."
+  },
+  {
+    "id": "eadj-018",
+    "word": "same",
+    "pronunciation": "/seɪm/",
+    "partOfSpeech": "형용사",
+    "meaning": "같은",
+    "exampleEn": "We go to the same school.",
+    "exampleKo": "우리는 같은 학교에 다닌다."
+  },
+  {
+    "id": "eadj-019",
+    "word": "possible",
+    "pronunciation": "/ˈpɑːsəbl/",
+    "partOfSpeech": "형용사",
+    "meaning": "가능한",
+    "exampleEn": "Is it possible to change the date?",
+    "exampleKo": "날짜를 변경하는 것이 가능한가요?"
+  },
+  {
+    "id": "eadj-020",
+    "word": "ready",
+    "pronunciation": "/ˈredi/",
+    "partOfSpeech": "형용사",
+    "meaning": "준비된",
+    "exampleEn": "Are you ready to go?",
+    "exampleKo": "갈 준비 됐어?"
+  },
+  {
+    "id": "eadj-021",
+    "word": "free",
+    "pronunciation": "/friː/",
+    "partOfSpeech": "형용사",
+    "meaning": "자유로운, 무료의",
+    "exampleEn": "Are you free this weekend?",
+    "exampleKo": "이번 주말에 시간 있어?"
+  },
+  {
+    "id": "eadj-022",
+    "word": "wrong",
+    "pronunciation": "/rɔːŋ/",
+    "partOfSpeech": "형용사",
+    "meaning": "잘못된, 틀린",
+    "exampleEn": "I think you dialed the wrong number.",
+    "exampleKo": "전화번호를 잘못 누르신 것 같아요."
+  },
+  {
+    "id": "eadj-023",
+    "word": "right",
+    "pronunciation": "/raɪt/",
+    "partOfSpeech": "형용사",
+    "meaning": "올바른, 오른쪽의",
+    "exampleEn": "You made the right decision.",
+    "exampleKo": "올바른 결정을 내렸어."
+  },
+  {
+    "id": "eadj-024",
+    "word": "full",
+    "pronunciation": "/fʊl/",
+    "partOfSpeech": "형용사",
+    "meaning": "가득 찬, 배부른",
+    "exampleEn": "I'm full, I can't eat any more.",
+    "exampleKo": "배불러, 더 이상 못 먹겠어."
+  },
+  {
+    "id": "eadj-025",
+    "word": "empty",
+    "pronunciation": "/ˈempti/",
+    "partOfSpeech": "형용사",
+    "meaning": "빈, 비어 있는",
+    "exampleEn": "The parking lot is empty.",
+    "exampleKo": "주차장이 비어 있다."
+  },
+  {
+    "id": "eadj-026",
+    "word": "clean",
+    "pronunciation": "/kliːn/",
+    "partOfSpeech": "형용사",
+    "meaning": "깨끗한",
+    "exampleEn": "Please keep your room clean.",
+    "exampleKo": "방을 깨끗하게 유지하세요."
+  },
+  {
+    "id": "eadj-027",
+    "word": "dirty",
+    "pronunciation": "/ˈdɜːrti/",
+    "partOfSpeech": "형용사",
+    "meaning": "더러운",
+    "exampleEn": "My shoes are really dirty.",
+    "exampleKo": "내 신발이 정말 더럽다."
+  },
+  {
+    "id": "eadj-028",
+    "word": "safe",
+    "pronunciation": "/seɪf/",
+    "partOfSpeech": "형용사",
+    "meaning": "안전한",
+    "exampleEn": "Is this area safe at night?",
+    "exampleKo": "이 지역은 밤에 안전한가요?"
+  },
+  {
+    "id": "eadj-029",
+    "word": "dangerous",
+    "pronunciation": "/ˈdeɪndʒərəs/",
+    "partOfSpeech": "형용사",
+    "meaning": "위험한",
+    "exampleEn": "It's dangerous to drive too fast.",
+    "exampleKo": "너무 빨리 운전하면 위험하다."
+  },
+  {
+    "id": "eadj-030",
+    "word": "strong",
+    "pronunciation": "/strɔːŋ/",
+    "partOfSpeech": "형용사",
+    "meaning": "강한, 힘센",
+    "exampleEn": "He is strong enough to lift that box.",
+    "exampleKo": "그는 그 상자를 들 만큼 힘이 세다."
+  },
+  {
+    "id": "eadj-031",
+    "word": "weak",
+    "pronunciation": "/wiːk/",
+    "partOfSpeech": "형용사",
+    "meaning": "약한",
+    "exampleEn": "I feel weak after the flu.",
+    "exampleKo": "독감 후에 몸이 약해진 느낌이다."
+  },
+  {
+    "id": "eadj-032",
+    "word": "rich",
+    "pronunciation": "/rɪtʃ/",
+    "partOfSpeech": "형용사",
+    "meaning": "부유한, 풍부한",
+    "exampleEn": "Korea is rich in cultural heritage.",
+    "exampleKo": "한국은 문화유산이 풍부하다."
+  },
+  {
+    "id": "eadj-033",
+    "word": "poor",
+    "pronunciation": "/pʊr/",
+    "partOfSpeech": "형용사",
+    "meaning": "가난한, 불쌍한",
+    "exampleEn": "The signal is poor in this area.",
+    "exampleKo": "이 지역은 신호가 약하다."
+  },
+  {
+    "id": "eadj-034",
+    "word": "healthy",
+    "pronunciation": "/ˈhelθi/",
+    "partOfSpeech": "형용사",
+    "meaning": "건강한",
+    "exampleEn": "Eating vegetables is healthy.",
+    "exampleKo": "채소를 먹는 것은 건강에 좋다."
+  },
+  {
+    "id": "eadj-035",
+    "word": "sick",
+    "pronunciation": "/sɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "아픈",
+    "exampleEn": "I can't come to work because I'm sick.",
+    "exampleKo": "아파서 출근을 못 하겠어요."
+  },
+  {
+    "id": "eadj-036",
+    "word": "busy",
+    "pronunciation": "/ˈbɪzi/",
+    "partOfSpeech": "형용사",
+    "meaning": "바쁜",
+    "exampleEn": "I've been really busy this week.",
+    "exampleKo": "이번 주 정말 바빴어."
+  },
+  {
+    "id": "eadj-037",
+    "word": "quiet",
+    "pronunciation": "/ˈkwaɪət/",
+    "partOfSpeech": "형용사",
+    "meaning": "조용한",
+    "exampleEn": "Please be quiet in the library.",
+    "exampleKo": "도서관에서는 조용히 해 주세요."
+  },
+  {
+    "id": "eadj-038",
+    "word": "loud",
+    "pronunciation": "/laʊd/",
+    "partOfSpeech": "형용사",
+    "meaning": "시끄러운, 큰 소리의",
+    "exampleEn": "The music is too loud.",
+    "exampleKo": "음악이 너무 시끄럽다."
+  },
+  {
+    "id": "eadj-039",
+    "word": "bright",
+    "pronunciation": "/braɪt/",
+    "partOfSpeech": "형용사",
+    "meaning": "밝은, 영리한",
+    "exampleEn": "The room is nice and bright.",
+    "exampleKo": "방이 좋고 밝다."
+  },
+  {
+    "id": "eadj-040",
+    "word": "dark",
+    "pronunciation": "/dɑːrk/",
+    "partOfSpeech": "형용사",
+    "meaning": "어두운",
+    "exampleEn": "It gets dark early in winter.",
+    "exampleKo": "겨울에는 일찍 어두워진다."
+  },
+  {
+    "id": "eadj-041",
+    "word": "simple",
+    "pronunciation": "/ˈsɪmpl/",
+    "partOfSpeech": "형용사",
+    "meaning": "간단한, 단순한",
+    "exampleEn": "The instructions are very simple.",
+    "exampleKo": "설명이 매우 간단하다."
+  },
+  {
+    "id": "eadj-042",
+    "word": "special",
+    "pronunciation": "/ˈspeʃl/",
+    "partOfSpeech": "형용사",
+    "meaning": "특별한",
+    "exampleEn": "Today is a special day for us.",
+    "exampleKo": "오늘은 우리에게 특별한 날이다."
+  },
+  {
+    "id": "eadj-043",
+    "word": "famous",
+    "pronunciation": "/ˈfeɪməs/",
+    "partOfSpeech": "형용사",
+    "meaning": "유명한",
+    "exampleEn": "This restaurant is famous for its pasta.",
+    "exampleKo": "이 식당은 파스타로 유명하다."
+  },
+  {
+    "id": "eadj-044",
+    "word": "popular",
+    "pronunciation": "/ˈpɑːpjələr/",
+    "partOfSpeech": "형용사",
+    "meaning": "인기 있는",
+    "exampleEn": "K-pop is popular around the world.",
+    "exampleKo": "케이팝은 세계적으로 인기가 있다."
+  },
+  {
+    "id": "eadj-045",
+    "word": "interesting",
+    "pronunciation": "/ˈɪntrəstɪŋ/",
+    "partOfSpeech": "형용사",
+    "meaning": "흥미로운",
+    "exampleEn": "That's a very interesting idea.",
+    "exampleKo": "그것은 매우 흥미로운 아이디어다."
+  },
+  {
+    "id": "eadj-046",
+    "word": "boring",
+    "pronunciation": "/ˈbɔːrɪŋ/",
+    "partOfSpeech": "형용사",
+    "meaning": "지루한",
+    "exampleEn": "The lecture was so boring.",
+    "exampleKo": "강의가 너무 지루했다."
+  },
+  {
+    "id": "eadj-047",
+    "word": "necessary",
+    "pronunciation": "/ˈnesəseri/",
+    "partOfSpeech": "형용사",
+    "meaning": "필요한",
+    "exampleEn": "Is it necessary to bring my passport?",
+    "exampleKo": "여권을 가져가야 하나요?"
+  },
+  {
+    "id": "eadj-048",
+    "word": "available",
+    "pronunciation": "/əˈveɪləbl/",
+    "partOfSpeech": "형용사",
+    "meaning": "이용 가능한",
+    "exampleEn": "Is this seat available?",
+    "exampleKo": "이 자리 비어 있나요?"
+  },
+  {
+    "id": "eadj-049",
+    "word": "enough",
+    "pronunciation": "/ɪˈnʌf/",
+    "partOfSpeech": "형용사",
+    "meaning": "충분한",
+    "exampleEn": "Do we have enough food for everyone?",
+    "exampleKo": "모두에게 충분한 음식이 있나요?"
+  },
+  {
+    "id": "eadj-050",
+    "word": "late",
+    "pronunciation": "/leɪt/",
+    "partOfSpeech": "형용사",
+    "meaning": "늦은",
+    "exampleEn": "I'm sorry I'm late.",
+    "exampleKo": "늦어서 죄송합니다."
+  }
+]

@@ -12,11 +12,19 @@ import type { Word } from '@/types';
 import wordsBasic from '@/data/words-basic.json';
 import wordsConversation from '@/data/words-conversation.json';
 import wordsDaily from '@/data/words-daily.json';
+import wordsEssentialVerbs from '@/data/words-essential-verbs.json';
+import wordsEssentialAdjectives from '@/data/words-essential-adjectives.json';
+import wordsEssentialNouns from '@/data/words-essential-nouns.json';
+import wordsEssentialAdverbs from '@/data/words-essential-adverbs.json';
 
 const wordMap: Record<string, { words: Word[]; title: string }> = {
   basic: { words: wordsBasic, title: '기초 필수' },
   conversation: { words: wordsConversation, title: '회화' },
   daily: { words: wordsDaily, title: '일상' },
+  'essential-verbs': { words: wordsEssentialVerbs, title: '필수 동사' },
+  'essential-adjectives': { words: wordsEssentialAdjectives, title: '필수 형용사' },
+  'essential-nouns': { words: wordsEssentialNouns, title: '필수 명사' },
+  'essential-adverbs': { words: wordsEssentialAdverbs, title: '필수 부사/접속사' },
 };
 
 export default function CategoryLearnPage() {
