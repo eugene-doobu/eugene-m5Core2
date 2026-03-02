@@ -2,6 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
+import { appConfig } from '@/lib/config';
 
 export default function Header() {
   const pathname = usePathname();
@@ -10,9 +11,11 @@ export default function Header() {
     <header className="bg-white shadow-sm border-b border-slate-200">
       <div className="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/" className="flex items-center gap-2">
-          <span className="text-2xl font-bold text-blue-500">ABC</span>
+          <span className="text-2xl font-bold text-blue-500">
+            {appConfig.app.logo}
+          </span>
           <span className="text-lg font-semibold text-slate-700">
-            영어단어 학습
+            {appConfig.app.title}
           </span>
         </Link>
         <nav className="flex gap-4">
@@ -24,7 +27,7 @@ export default function Header() {
                 : 'text-slate-500 hover:text-slate-700'
             }`}
           >
-            홈
+            {appConfig.app.nav.home}
           </Link>
           <Link
             href="/learn"
@@ -34,7 +37,7 @@ export default function Header() {
                 : 'text-slate-500 hover:text-slate-700'
             }`}
           >
-            학습하기
+            {appConfig.app.nav.learn}
           </Link>
         </nav>
       </div>
