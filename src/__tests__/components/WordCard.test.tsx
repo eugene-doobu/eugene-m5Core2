@@ -56,12 +56,28 @@ describe('WordCard', () => {
         isCompleted={false}
         onToggleComplete={mockToggle}
         onSpeak={mockSpeak}
+        ttsAvailable={true}
       />
     );
 
     const speakButton = screen.getByLabelText('발음 듣기');
     await user.click(speakButton);
     expect(mockSpeak).toHaveBeenCalledWith('hello');
+  });
+
+  test('hides speak buttons when ttsAvailable is false', () => {
+    render(
+      <WordCard
+        word={mockWord}
+        isCompleted={false}
+        onToggleComplete={mockToggle}
+        onSpeak={mockSpeak}
+        ttsAvailable={false}
+      />
+    );
+
+    expect(screen.queryByLabelText('발음 듣기')).not.toBeInTheDocument();
+    expect(screen.queryByText('예문 듣기')).not.toBeInTheDocument();
   });
 
   test('calls onToggleComplete when complete button is clicked', async () => {

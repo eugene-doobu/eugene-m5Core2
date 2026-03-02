@@ -2,6 +2,10 @@ import { render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import LevelLearnPage from '@/app/learn/[wordbook]/[level]/page';
 
+jest.mock('@/hooks/useTTS', () => ({
+  useTTS: () => ({ speak: jest.fn(), stop: jest.fn(), isAvailable: false }),
+}));
+
 const mockNotFound = jest.fn();
 
 jest.mock('next/navigation', () => ({

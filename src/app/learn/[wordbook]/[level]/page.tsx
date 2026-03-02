@@ -20,7 +20,7 @@ function LevelLearnContent({
 }) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const { isCompleted, toggleWord, getProgressRate } = useProgress();
-  const { speak } = useTTS();
+  const { speak, isAvailable: ttsAvailable } = useTTS();
 
   const currentWord = words[currentIndex];
   const wordIds = words.map((w) => w.id);
@@ -80,6 +80,7 @@ function LevelLearnContent({
         isCompleted={isCompleted(currentWord.id)}
         onToggleComplete={() => toggleWord(currentWord.id)}
         onSpeak={speak}
+        ttsAvailable={ttsAvailable}
       />
 
       {/* Navigation */}
