@@ -1,15 +1,17 @@
 import { render, screen } from '@testing-library/react';
 import CategoryCard from '@/components/CategoryCard';
 
-// Mock next/link
 jest.mock('next/link', () => {
-  return ({ children, href }: { children: React.ReactNode; href: string }) => (
-    <a href={href}>{children}</a>
-  );
+  function MockLink({ children, href }: { children: React.ReactNode; href: string }) {
+    return <a href={href}>{children}</a>;
+  }
+  MockLink.displayName = 'MockLink';
+  return MockLink;
 });
 
 describe('CategoryCard', () => {
   const defaultProps = {
+    wordbookId: 'frequency-english',
     id: 'level-1',
     nameKo: 'Lv.1 입문',
     description: '가장 기본이 되는 필수 단어 68개',
@@ -43,7 +45,7 @@ describe('CategoryCard', () => {
   test('links to correct learn page', () => {
     render(<CategoryCard {...defaultProps} />);
     const link = screen.getByRole('link');
-    expect(link).toHaveAttribute('href', '/learn/level-1');
+    expect(link).toHaveAttribute('href', '/learn/frequency-english/level-1');
   });
 
   test('renders icon', () => {

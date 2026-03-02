@@ -18,7 +18,7 @@ global.SpeechSynthesisUtterance = jest.fn().mockImplementation((text) => ({
   lang: '',
   rate: 1,
   pitch: 1,
-})) as any;
+})) as unknown as typeof SpeechSynthesisUtterance;
 
 describe('useTTS', () => {
   beforeEach(() => {

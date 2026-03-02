@@ -1,25 +1,59 @@
 import { render, screen } from '@testing-library/react';
 import LearnPage from '@/app/learn/page';
 
-// Mock next/link
 jest.mock('next/link', () => {
-  return ({ children, href }: { children: React.ReactNode; href: string }) => (
-    <a href={href}>{children}</a>
-  );
+  function MockLink({ children, href }: { children: React.ReactNode; href: string }) {
+    return <a href={href}>{children}</a>;
+  }
+  MockLink.displayName = 'MockLink';
+  return MockLink;
 });
 
-describe('Learn page', () => {
+jest.mock('@/lib/config', () => ({
+  appConfig: {
+    app: {
+      nav: { learn: '학습하기' },
+    },
+  },
+}));
+
+jest.mock('@/data', () => ({
+  wordbooks: [
+    {
+      id: 'frequency-english',
+      name: 'Frequency English',
+      nameKo: '빈도순 영단어',
+      description: '가장 많이 쓰이는 단어부터 차근차근 배우세요.',
+      icon: '📊',
+      levels: [],
+    },
+    {
+      id: 'toeic-vocab',
+      name: 'TOEIC Vocabulary',
+      nameKo: 'TOEIC 필수 단어',
+      description: 'TOEIC 시험 대비 핵심 단어.',
+      icon: '📝',
+      levels: [],
+    },
+  ],
+  getAllWordsForWordbook: (id: string) => {
+    if (id === 'frequency-english') return [{ id: 'w1' }, { id: 'w2' }];
+    if (id === 'toeic-vocab') return [{ id: 'w3' }];
+    return [];
+  },
+  allWords: [{ id: 'w1' }, { id: 'w2' }, { id: 'w3' }],
+}));
+
+describe('Learn page (wordbook selection)', () => {
   test('renders page title', () => {
     render(<LearnPage />);
     expect(screen.getByText('학습하기')).toBeInTheDocument();
   });
 
-  test('renders all 4 level cards', () => {
+  test('renders all wordbook cards', () => {
     render(<LearnPage />);
-    expect(screen.getByText('Lv.1 입문')).toBeInTheDocument();
-    expect(screen.getByText('Lv.2 초급')).toBeInTheDocument();
-    expect(screen.getByText('Lv.3 중급')).toBeInTheDocument();
-    expect(screen.getByText('Lv.4 중고급')).toBeInTheDocument();
+    expect(screen.getByText('빈도순 영단어')).toBeInTheDocument();
+    expect(screen.getByText('TOEIC 필수 단어')).toBeInTheDocument();
   });
 
   test('renders total progress bar', () => {
@@ -27,13 +61,11 @@ describe('Learn page', () => {
     expect(screen.getByText('전체 진행률')).toBeInTheDocument();
   });
 
-  test('each level links to correct path', () => {
+  test('each wordbook links to correct path', () => {
     render(<LearnPage />);
     const links = screen.getAllByRole('link');
     const hrefs = links.map((l) => l.getAttribute('href'));
-    expect(hrefs).toContain('/learn/level-1');
-    expect(hrefs).toContain('/learn/level-2');
-    expect(hrefs).toContain('/learn/level-3');
-    expect(hrefs).toContain('/learn/level-4');
+    expect(hrefs).toContain('/learn/frequency-english');
+    expect(hrefs).toContain('/learn/toeic-vocab');
   });
 });
