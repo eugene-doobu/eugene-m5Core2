@@ -1,614 +1,2531 @@
 [
   {
-    "id": "lv2-001",
-    "word": "hello",
-    "pronunciation": "/həˈloʊ/",
-    "partOfSpeech": "감탄사",
-    "meaning": "안녕하세요",
-    "exampleEn": "Hello, how are you?",
-    "exampleKo": "안녕하세요, 어떻게 지내세요?"
+    "id": "freq-lv2-001",
+    "word": "age",
+    "pronunciation": "/eɪdʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "나이, 연령",
+    "exampleEn": "What is the minimum age to rent a car?",
+    "exampleKo": "렌터카를 빌리기 위한 최소 연령은 얼마인가요?"
   },
   {
-    "id": "lv2-002",
-    "word": "thank",
-    "pronunciation": "/θæŋk/",
-    "partOfSpeech": "동사",
-    "meaning": "감사하다",
-    "exampleEn": "Thank you very much!",
-    "exampleKo": "정말 감사합니다!"
-  },
-  {
-    "id": "lv2-003",
-    "word": "sorry",
-    "pronunciation": "/ˈsɑːri/",
+    "id": "freq-lv2-002",
+    "word": "low",
+    "pronunciation": "/loʊ/",
     "partOfSpeech": "형용사",
-    "meaning": "미안한, 죄송한",
-    "exampleEn": "I'm sorry for being late.",
-    "exampleKo": "늦어서 죄송합니다."
+    "meaning": "낮은",
+    "exampleEn": "We found a hotel at a low price.",
+    "exampleKo": "저렴한 가격의 호텔을 찾았습니다."
   },
   {
-    "id": "lv2-004",
-    "word": "please",
-    "pronunciation": "/pliːz/",
-    "partOfSpeech": "부사",
-    "meaning": "제발, 부디",
-    "exampleEn": "Please sit down.",
-    "exampleKo": "앉으세요."
-  },
-  {
-    "id": "lv2-005",
-    "word": "help",
-    "pronunciation": "/help/",
-    "partOfSpeech": "동사/명사",
-    "meaning": "돕다 / 도움",
-    "exampleEn": "Can you help me with this?",
-    "exampleKo": "이것 좀 도와줄 수 있나요?"
-  },
-  {
-    "id": "lv2-006",
-    "word": "sure",
-    "pronunciation": "/ʃʊr/",
-    "partOfSpeech": "형용사/부사",
-    "meaning": "확실한, 물론",
-    "exampleEn": "Sure, I can do that.",
-    "exampleKo": "물론이죠, 그렇게 할 수 있어요."
-  },
-  {
-    "id": "lv2-007",
-    "word": "maybe",
-    "pronunciation": "/ˈmeɪbi/",
-    "partOfSpeech": "부사",
-    "meaning": "아마, 어쩌면",
-    "exampleEn": "Maybe we can meet tomorrow.",
-    "exampleKo": "아마 내일 만날 수 있을 거예요."
-  },
-  {
-    "id": "lv2-008",
-    "word": "enjoy",
-    "pronunciation": "/ɪnˈdʒɔɪ/",
+    "id": "freq-lv2-003",
+    "word": "speak",
+    "pronunciation": "/spiːk/",
     "partOfSpeech": "동사",
-    "meaning": "즐기다",
-    "exampleEn": "Enjoy your meal!",
-    "exampleKo": "맛있게 드세요!"
+    "meaning": "말하다",
+    "exampleEn": "Does anyone here speak Korean?",
+    "exampleKo": "여기 한국어를 하시는 분이 있나요?"
   },
   {
-    "id": "lv2-009",
-    "word": "worry",
-    "pronunciation": "/ˈwɜːri/",
-    "partOfSpeech": "동사/명사",
-    "meaning": "걱정하다 / 걱정",
-    "exampleEn": "Don't worry about it.",
-    "exampleKo": "그것에 대해 걱정하지 마세요."
+    "id": "freq-lv2-004",
+    "word": "within",
+    "pronunciation": "/wɪˈðɪn/",
+    "partOfSpeech": "전치사",
+    "meaning": "~이내에",
+    "exampleEn": "The hotel is within walking distance of the beach.",
+    "exampleKo": "호텔은 해변까지 걸어갈 수 있는 거리 내에 있습니다."
   },
   {
-    "id": "lv2-010",
-    "word": "welcome",
-    "pronunciation": "/ˈwelkəm/",
-    "partOfSpeech": "형용사/동사",
-    "meaning": "환영하는 / 환영하다",
-    "exampleEn": "You're welcome!",
-    "exampleKo": "천만에요!"
-  },
-  {
-    "id": "lv2-011",
-    "word": "breakfast",
-    "pronunciation": "/ˈbrekfəst/",
+    "id": "freq-lv2-005",
+    "word": "process",
+    "pronunciation": "/ˈprɒsɛs/",
     "partOfSpeech": "명사",
-    "meaning": "아침 식사",
-    "exampleEn": "I usually skip breakfast.",
-    "exampleKo": "나는 보통 아침 식사를 거른다."
+    "meaning": "과정, 절차",
+    "exampleEn": "The check-in process takes about five minutes.",
+    "exampleKo": "체크인 절차는 약 5분이 걸립니다."
   },
   {
-    "id": "lv2-012",
-    "word": "weather",
-    "pronunciation": "/ˈweðər/",
-    "partOfSpeech": "명사",
-    "meaning": "날씨",
-    "exampleEn": "How's the weather today?",
-    "exampleKo": "오늘 날씨 어때요?"
-  },
-  {
-    "id": "lv2-013",
-    "word": "exercise",
-    "pronunciation": "/ˈeksərsaɪz/",
-    "partOfSpeech": "명사/동사",
-    "meaning": "운동 / 운동하다",
-    "exampleEn": "I try to exercise every morning.",
-    "exampleKo": "매일 아침 운동하려고 해요."
-  },
-  {
-    "id": "lv2-014",
-    "word": "holiday",
-    "pronunciation": "/ˈhɑːlɪdeɪ/",
-    "partOfSpeech": "명사",
-    "meaning": "휴일, 휴가",
-    "exampleEn": "Are you going anywhere for the holiday?",
-    "exampleKo": "휴일에 어디 가세요?"
-  },
-  {
-    "id": "lv2-015",
-    "word": "traffic",
-    "pronunciation": "/ˈtræfɪk/",
-    "partOfSpeech": "명사",
-    "meaning": "교통, 교통량",
-    "exampleEn": "The traffic is terrible during rush hour.",
-    "exampleKo": "출퇴근 시간 교통이 끔찍해요."
-  },
-  {
-    "id": "lv2-016",
-    "word": "neighbor",
-    "pronunciation": "/ˈneɪbər/",
-    "partOfSpeech": "명사",
-    "meaning": "이웃",
-    "exampleEn": "My neighbor is very friendly.",
-    "exampleKo": "우리 이웃은 매우 친절해요."
-  },
-  {
-    "id": "lv2-017",
-    "word": "umbrella",
-    "pronunciation": "/ʌmˈbrelə/",
-    "partOfSpeech": "명사",
-    "meaning": "우산",
-    "exampleEn": "Don't forget your umbrella.",
-    "exampleKo": "우산 잊지 마세요."
-  },
-  {
-    "id": "lv2-018",
-    "word": "laundry",
-    "pronunciation": "/ˈlɔːndri/",
-    "partOfSpeech": "명사",
-    "meaning": "빨래, 세탁",
-    "exampleEn": "I need to do the laundry today.",
-    "exampleKo": "오늘 빨래를 해야 해."
-  },
-  {
-    "id": "lv2-019",
-    "word": "listen",
-    "pronunciation": "/ˈlɪsn/",
-    "partOfSpeech": "동사",
-    "meaning": "듣다",
-    "exampleEn": "Listen carefully to the instructions.",
-    "exampleKo": "설명을 주의 깊게 들어라."
-  },
-  {
-    "id": "lv2-020",
-    "word": "learn",
-    "pronunciation": "/lɜːrn/",
-    "partOfSpeech": "동사",
-    "meaning": "배우다",
-    "exampleEn": "I want to learn how to cook.",
-    "exampleKo": "요리하는 법을 배우고 싶다."
-  },
-  {
-    "id": "lv2-021",
-    "word": "buy",
-    "pronunciation": "/baɪ/",
-    "partOfSpeech": "동사",
-    "meaning": "사다",
-    "exampleEn": "I want to buy a gift for my friend.",
-    "exampleKo": "친구에게 줄 선물을 사고 싶다."
-  },
-  {
-    "id": "lv2-022",
-    "word": "sell",
-    "pronunciation": "/sel/",
-    "partOfSpeech": "동사",
-    "meaning": "팔다",
-    "exampleEn": "They sell fresh fruit at the market.",
-    "exampleKo": "그들은 시장에서 신선한 과일을 판다."
-  },
-  {
-    "id": "lv2-023",
-    "word": "pay",
-    "pronunciation": "/peɪ/",
-    "partOfSpeech": "동사",
-    "meaning": "지불하다",
-    "exampleEn": "Can I pay by credit card?",
-    "exampleKo": "신용카드로 결제할 수 있나요?"
-  },
-  {
-    "id": "lv2-024",
-    "word": "open",
-    "pronunciation": "/ˈoʊpən/",
-    "partOfSpeech": "동사",
-    "meaning": "열다",
-    "exampleEn": "Please open the window.",
-    "exampleKo": "창문을 열어 주세요."
-  },
-  {
-    "id": "lv2-025",
-    "word": "close",
-    "pronunciation": "/kloʊz/",
-    "partOfSpeech": "동사",
-    "meaning": "닫다",
-    "exampleEn": "The store closes at 9 p.m.",
-    "exampleKo": "가게는 오후 9시에 문을 닫는다."
-  },
-  {
-    "id": "lv2-026",
-    "word": "start",
-    "pronunciation": "/stɑːrt/",
-    "partOfSpeech": "동사",
-    "meaning": "시작하다",
-    "exampleEn": "The meeting will start at ten.",
-    "exampleKo": "회의는 10시에 시작된다."
-  },
-  {
-    "id": "lv2-027",
-    "word": "stop",
-    "pronunciation": "/stɑːp/",
-    "partOfSpeech": "동사",
-    "meaning": "멈추다, 그만두다",
-    "exampleEn": "Please stop talking during the movie.",
-    "exampleKo": "영화 중에 이야기하지 마세요."
-  },
-  {
-    "id": "lv2-028",
-    "word": "try",
-    "pronunciation": "/traɪ/",
-    "partOfSpeech": "동사",
-    "meaning": "시도하다, 노력하다",
-    "exampleEn": "I'll try my best.",
-    "exampleKo": "최선을 다하겠습니다."
-  },
-  {
-    "id": "lv2-029",
-    "word": "call",
-    "pronunciation": "/kɔːl/",
-    "partOfSpeech": "동사",
-    "meaning": "전화하다, 부르다",
-    "exampleEn": "I'll call you later tonight.",
-    "exampleKo": "오늘 밤에 전화할게."
-  },
-  {
-    "id": "lv2-030",
-    "word": "ask",
-    "pronunciation": "/æsk/",
-    "partOfSpeech": "동사",
-    "meaning": "묻다, 요청하다",
-    "exampleEn": "Can I ask you a question?",
-    "exampleKo": "질문 하나 해도 될까요?"
-  },
-  {
-    "id": "lv2-031",
-    "word": "young",
-    "pronunciation": "/jʌŋ/",
+    "id": "freq-lv2-006",
+    "word": "public",
+    "pronunciation": "/ˈpʌblɪk/",
     "partOfSpeech": "형용사",
-    "meaning": "젊은, 어린",
-    "exampleEn": "She is young but very talented.",
-    "exampleKo": "그녀는 젊지만 매우 재능이 있다."
+    "meaning": "공공의, 대중의",
+    "exampleEn": "The public transport is very convenient here.",
+    "exampleKo": "이곳의 대중교통은 매우 편리합니다."
   },
   {
-    "id": "lv2-032",
-    "word": "fast",
-    "pronunciation": "/fæst/",
-    "partOfSpeech": "형용사",
-    "meaning": "빠른",
-    "exampleEn": "This train is very fast.",
-    "exampleKo": "이 기차는 매우 빠르다."
-  },
-  {
-    "id": "lv2-033",
-    "word": "slow",
-    "pronunciation": "/sloʊ/",
-    "partOfSpeech": "형용사",
-    "meaning": "느린",
-    "exampleEn": "The internet is really slow today.",
-    "exampleKo": "오늘 인터넷이 정말 느리다."
-  },
-  {
-    "id": "lv2-034",
-    "word": "sad",
-    "pronunciation": "/sæd/",
-    "partOfSpeech": "형용사",
-    "meaning": "슬픈",
-    "exampleEn": "I feel sad when it rains.",
-    "exampleKo": "비가 오면 슬퍼진다."
-  },
-  {
-    "id": "lv2-035",
-    "word": "beautiful",
-    "pronunciation": "/ˈbjuːtɪfl/",
-    "partOfSpeech": "형용사",
-    "meaning": "아름다운",
-    "exampleEn": "The sunset is so beautiful.",
-    "exampleKo": "석양이 정말 아름답다."
-  },
-  {
-    "id": "lv2-036",
-    "word": "important",
-    "pronunciation": "/ɪmˈpɔːrtənt/",
-    "partOfSpeech": "형용사",
-    "meaning": "중요한",
-    "exampleEn": "This is a very important meeting.",
-    "exampleKo": "이것은 매우 중요한 회의다."
-  },
-  {
-    "id": "lv2-037",
-    "word": "different",
-    "pronunciation": "/ˈdɪfrənt/",
-    "partOfSpeech": "형용사",
-    "meaning": "다른",
-    "exampleEn": "We have different opinions.",
-    "exampleKo": "우리는 의견이 다르다."
-  },
-  {
-    "id": "lv2-038",
-    "word": "same",
-    "pronunciation": "/seɪm/",
-    "partOfSpeech": "형용사",
-    "meaning": "같은",
-    "exampleEn": "We go to the same school.",
-    "exampleKo": "우리는 같은 학교에 다닌다."
-  },
-  {
-    "id": "lv2-039",
-    "word": "ready",
-    "pronunciation": "/ˈredi/",
-    "partOfSpeech": "형용사",
-    "meaning": "준비된",
-    "exampleEn": "Are you ready to go?",
-    "exampleKo": "갈 준비 됐어?"
-  },
-  {
-    "id": "lv2-040",
-    "word": "free",
-    "pronunciation": "/friː/",
-    "partOfSpeech": "형용사",
-    "meaning": "자유로운, 무료의",
-    "exampleEn": "Are you free this weekend?",
-    "exampleKo": "이번 주말에 시간 있어?"
-  },
-  {
-    "id": "lv2-041",
-    "word": "right",
-    "pronunciation": "/raɪt/",
-    "partOfSpeech": "형용사",
-    "meaning": "올바른, 오른쪽의",
-    "exampleEn": "You made the right decision.",
-    "exampleKo": "올바른 결정을 내렸어."
-  },
-  {
-    "id": "lv2-042",
-    "word": "wrong",
-    "pronunciation": "/rɔːŋ/",
-    "partOfSpeech": "형용사",
-    "meaning": "잘못된, 틀린",
-    "exampleEn": "I think you dialed the wrong number.",
-    "exampleKo": "전화번호를 잘못 누르신 것 같아요."
-  },
-  {
-    "id": "lv2-043",
-    "word": "car",
-    "pronunciation": "/kɑːr/",
-    "partOfSpeech": "명사",
-    "meaning": "자동차",
-    "exampleEn": "I drive my car to work every day.",
-    "exampleKo": "매일 자동차로 출근한다."
-  },
-  {
-    "id": "lv2-044",
-    "word": "phone",
-    "pronunciation": "/foʊn/",
-    "partOfSpeech": "명사",
-    "meaning": "전화기, 핸드폰",
-    "exampleEn": "I left my phone at home.",
-    "exampleKo": "핸드폰을 집에 두고 왔다."
-  },
-  {
-    "id": "lv2-045",
-    "word": "place",
-    "pronunciation": "/pleɪs/",
-    "partOfSpeech": "명사",
-    "meaning": "장소",
-    "exampleEn": "This is a nice place to relax.",
-    "exampleKo": "여기는 쉬기 좋은 장소다."
-  },
-  {
-    "id": "lv2-046",
-    "word": "country",
-    "pronunciation": "/ˈkʌntri/",
-    "partOfSpeech": "명사",
-    "meaning": "나라, 시골",
-    "exampleEn": "Which country are you from?",
-    "exampleKo": "어느 나라에서 왔나요?"
-  },
-  {
-    "id": "lv2-047",
-    "word": "city",
-    "pronunciation": "/ˈsɪti/",
-    "partOfSpeech": "명사",
-    "meaning": "도시",
-    "exampleEn": "Seoul is a very big city.",
-    "exampleKo": "서울은 매우 큰 도시다."
-  },
-  {
-    "id": "lv2-048",
-    "word": "room",
-    "pronunciation": "/ruːm/",
-    "partOfSpeech": "명사",
-    "meaning": "방",
-    "exampleEn": "My room is on the second floor.",
-    "exampleKo": "내 방은 2층에 있다."
-  },
-  {
-    "id": "lv2-049",
-    "word": "door",
-    "pronunciation": "/dɔːr/",
-    "partOfSpeech": "명사",
-    "meaning": "문",
-    "exampleEn": "Please close the door behind you.",
-    "exampleKo": "나가면서 문을 닫아 주세요."
-  },
-  {
-    "id": "lv2-050",
-    "word": "month",
-    "pronunciation": "/mʌnθ/",
-    "partOfSpeech": "명사",
-    "meaning": "월, 달",
-    "exampleEn": "I visit my parents once a month.",
-    "exampleKo": "한 달에 한 번 부모님을 뵙는다."
-  },
-  {
-    "id": "lv2-051",
-    "word": "week",
-    "pronunciation": "/wiːk/",
-    "partOfSpeech": "명사",
-    "meaning": "주",
-    "exampleEn": "I go swimming twice a week.",
-    "exampleKo": "일주일에 두 번 수영하러 간다."
-  },
-  {
-    "id": "lv2-052",
-    "word": "hour",
-    "pronunciation": "/aʊər/",
-    "partOfSpeech": "명사",
-    "meaning": "시간 (한 시간)",
-    "exampleEn": "The flight takes about two hours.",
-    "exampleKo": "비행은 약 2시간 걸린다."
-  },
-  {
-    "id": "lv2-053",
-    "word": "night",
-    "pronunciation": "/naɪt/",
-    "partOfSpeech": "명사",
-    "meaning": "밤",
-    "exampleEn": "I couldn't sleep last night.",
-    "exampleKo": "어젯밤에 잠을 못 잤다."
-  },
-  {
-    "id": "lv2-054",
-    "word": "morning",
-    "pronunciation": "/ˈmɔːrnɪŋ/",
-    "partOfSpeech": "명사",
-    "meaning": "아침",
-    "exampleEn": "Good morning! How did you sleep?",
-    "exampleKo": "좋은 아침! 잘 잤어?"
-  },
-  {
-    "id": "lv2-055",
-    "word": "question",
-    "pronunciation": "/ˈkwestʃən/",
-    "partOfSpeech": "명사",
-    "meaning": "질문",
-    "exampleEn": "Do you have any questions?",
-    "exampleKo": "질문 있으신가요?"
-  },
-  {
-    "id": "lv2-056",
-    "word": "problem",
-    "pronunciation": "/ˈprɑːbləm/",
-    "partOfSpeech": "명사",
-    "meaning": "문제",
-    "exampleEn": "No problem, I can help you.",
-    "exampleKo": "문제없어요, 도와줄게요."
-  },
-  {
-    "id": "lv2-057",
+    "id": "freq-lv2-007",
     "word": "often",
-    "pronunciation": "/ˈɔːfn/",
+    "pronunciation": "/ˈɒfən/",
     "partOfSpeech": "부사",
     "meaning": "자주",
-    "exampleEn": "I often go to that café.",
-    "exampleKo": "나는 그 카페에 자주 간다."
+    "exampleEn": "Flights are often delayed in bad weather.",
+    "exampleKo": "나쁜 날씨에는 항공편이 자주 지연됩니다."
   },
   {
-    "id": "lv2-058",
-    "word": "sometimes",
-    "pronunciation": "/ˈsʌmtaɪmz/",
+    "id": "freq-lv2-008",
+    "word": "train",
+    "pronunciation": "/treɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "기차",
+    "exampleEn": "The train to the airport runs every 15 minutes.",
+    "exampleKo": "공항행 기차는 15분마다 운행됩니다."
+  },
+  {
+    "id": "freq-lv2-009",
+    "word": "possible",
+    "pronunciation": "/ˈpɒsɪbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "가능한",
+    "exampleEn": "Is it possible to request a crib?",
+    "exampleKo": "아기 침대를 요청하는 것이 가능한가요?"
+  },
+  {
+    "id": "freq-lv2-010",
+    "word": "actually",
+    "pronunciation": "/ˈæktʃuəli/",
     "partOfSpeech": "부사",
-    "meaning": "때때로",
-    "exampleEn": "Sometimes I work from home.",
-    "exampleKo": "때때로 재택근무를 한다."
+    "meaning": "실제로, 사실은",
+    "exampleEn": "Actually, there's been a change of plans.",
+    "exampleKo": "사실, 계획에 변경이 있었습니다."
   },
   {
-    "id": "lv2-059",
-    "word": "usually",
-    "pronunciation": "/ˈjuːʒuəli/",
+    "id": "freq-lv2-011",
+    "word": "rather",
+    "pronunciation": "/ˈrɑːðər/",
     "partOfSpeech": "부사",
-    "meaning": "보통, 대개",
-    "exampleEn": "I usually take the subway.",
-    "exampleKo": "나는 보통 지하철을 탄다."
+    "meaning": "오히려, 상당히",
+    "exampleEn": "I'd rather have a room on a lower floor.",
+    "exampleKo": "오히려 낮은 층의 방을 선호합니다."
   },
   {
-    "id": "lv2-060",
-    "word": "also",
-    "pronunciation": "/ˈɔːlsoʊ/",
+    "id": "freq-lv2-012",
+    "word": "view",
+    "pronunciation": "/vjuː/",
+    "partOfSpeech": "명사",
+    "meaning": "전망, 경치",
+    "exampleEn": "I'd like a room with a sea view.",
+    "exampleKo": "바다 전망의 방을 원합니다."
+  },
+  {
+    "id": "freq-lv2-013",
+    "word": "together",
+    "pronunciation": "/təˈɡɛðər/",
     "partOfSpeech": "부사",
-    "meaning": "또한, ~도",
-    "exampleEn": "I also like chocolate.",
-    "exampleKo": "나도 초콜릿을 좋아한다."
+    "meaning": "함께, 같이",
+    "exampleEn": "Are you all traveling together?",
+    "exampleKo": "모두 함께 여행 중이신가요?"
   },
   {
-    "id": "lv2-061",
-    "word": "just",
-    "pronunciation": "/dʒʌst/",
-    "partOfSpeech": "부사",
-    "meaning": "방금, 단지",
-    "exampleEn": "I just got home.",
-    "exampleKo": "방금 집에 도착했어."
+    "id": "freq-lv2-014",
+    "word": "consider",
+    "pronunciation": "/kənˈsɪdər/",
+    "partOfSpeech": "동사",
+    "meaning": "고려하다",
+    "exampleEn": "Please consider upgrading our room.",
+    "exampleKo": "객실 업그레이드를 고려해 주세요."
   },
   {
-    "id": "lv2-062",
-    "word": "still",
-    "pronunciation": "/stɪl/",
-    "partOfSpeech": "부사",
-    "meaning": "아직, 여전히",
-    "exampleEn": "Are you still awake?",
-    "exampleKo": "아직 안 잤어?"
+    "id": "freq-lv2-015",
+    "word": "price",
+    "pronunciation": "/praɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "가격",
+    "exampleEn": "What is the price for one night?",
+    "exampleKo": "1박 가격이 얼마인가요?"
   },
   {
-    "id": "lv2-063",
+    "id": "freq-lv2-016",
+    "word": "parent",
+    "pronunciation": "/ˈpɛərənt/",
+    "partOfSpeech": "명사",
+    "meaning": "부모",
+    "exampleEn": "A crib is available for young parents.",
+    "exampleKo": "어린 부모들을 위해 아기 침대가 이용 가능합니다."
+  },
+  {
+    "id": "freq-lv2-017",
+    "word": "hard",
+    "pronunciation": "/hɑːrd/",
+    "partOfSpeech": "형용사",
+    "meaning": "단단한, 어려운",
+    "exampleEn": "It's hard to find a taxi here at night.",
+    "exampleKo": "밤에는 여기서 택시를 잡기 어렵습니다."
+  },
+  {
+    "id": "freq-lv2-018",
+    "word": "party",
+    "pronunciation": "/ˈpɑːrti/",
+    "partOfSpeech": "명사",
+    "meaning": "일행, 파티",
+    "exampleEn": "How many in your party?",
+    "exampleKo": "일행이 몇 명이세요?"
+  },
+  {
+    "id": "freq-lv2-019",
+    "word": "local",
+    "pronunciation": "/ˈloʊkəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "현지의",
+    "exampleEn": "Ask the concierge for local restaurant recommendations.",
+    "exampleKo": "컨시어지에게 현지 레스토랑을 추천받으세요."
+  },
+  {
+    "id": "freq-lv2-020",
+    "word": "control",
+    "pronunciation": "/kənˈtroʊl/",
+    "partOfSpeech": "동사",
+    "meaning": "통제하다, 관리하다",
+    "exampleEn": "The remote control for the TV is on the desk.",
+    "exampleKo": "TV 리모컨은 책상 위에 있습니다."
+  },
+  {
+    "id": "freq-lv2-021",
     "word": "already",
-    "pronunciation": "/ɔːlˈredi/",
+    "pronunciation": "/ɔːlˈrɛdi/",
     "partOfSpeech": "부사",
-    "meaning": "이미, 벌써",
-    "exampleEn": "I've already finished my homework.",
-    "exampleKo": "숙제를 이미 끝냈다."
+    "meaning": "이미",
+    "exampleEn": "I've already paid the deposit.",
+    "exampleKo": "이미 보증금을 냈습니다."
   },
   {
-    "id": "lv2-064",
+    "id": "freq-lv2-022",
+    "word": "concern",
+    "pronunciation": "/kənˈsɜːrn/",
+    "partOfSpeech": "명사",
+    "meaning": "걱정, 관심사",
+    "exampleEn": "If you have any concerns, please let us know.",
+    "exampleKo": "걱정되는 것이 있으면 알려주세요."
+  },
+  {
+    "id": "freq-lv2-023",
+    "word": "product",
+    "pronunciation": "/ˈprɒdʌkt/",
+    "partOfSpeech": "명사",
+    "meaning": "제품",
+    "exampleEn": "All hotel products are eco-friendly.",
+    "exampleKo": "모든 호텔 제품은 친환경입니다."
+  },
+  {
+    "id": "freq-lv2-024",
+    "word": "lose",
+    "pronunciation": "/luːz/",
+    "partOfSpeech": "동사",
+    "meaning": "잃어버리다",
+    "exampleEn": "I think I lost my room key.",
+    "exampleKo": "객실 키를 잃어버린 것 같습니다."
+  },
+  {
+    "id": "freq-lv2-025",
+    "word": "story",
+    "pronunciation": "/ˈstɔːri/",
+    "partOfSpeech": "명사",
+    "meaning": "이야기, 층",
+    "exampleEn": "Our hotel has an interesting story behind it.",
+    "exampleKo": "우리 호텔에는 흥미로운 이야기가 있습니다."
+  },
+  {
+    "id": "freq-lv2-026",
+    "word": "almost",
+    "pronunciation": "/ˈɔːlmoʊst/",
+    "partOfSpeech": "부사",
+    "meaning": "거의",
+    "exampleEn": "We almost missed our connecting flight.",
+    "exampleKo": "연결 항공편을 거의 놓칠 뻔했습니다."
+  },
+  {
+    "id": "freq-lv2-027",
+    "word": "continue",
+    "pronunciation": "/kənˈtɪnjuː/",
+    "partOfSpeech": "동사",
+    "meaning": "계속하다",
+    "exampleEn": "Continue straight for two blocks.",
+    "exampleKo": "두 블록 직진하세요."
+  },
+  {
+    "id": "freq-lv2-028",
+    "word": "stand",
+    "pronunciation": "/stænd/",
+    "partOfSpeech": "동사",
+    "meaning": "서다",
+    "exampleEn": "Please stand in line for check-in.",
+    "exampleKo": "체크인을 위해 줄을 서 주세요."
+  },
+  {
+    "id": "freq-lv2-029",
+    "word": "whole",
+    "pronunciation": "/hoʊl/",
+    "partOfSpeech": "형용사",
+    "meaning": "전체의, 모든",
+    "exampleEn": "I spent the whole day sightseeing.",
+    "exampleKo": "하루 종일 관광하며 보냈습니다."
+  },
+  {
+    "id": "freq-lv2-030",
+    "word": "yet",
+    "pronunciation": "/jɛt/",
+    "partOfSpeech": "부사",
+    "meaning": "아직, 그러나",
+    "exampleEn": "Has the taxi arrived yet?",
+    "exampleKo": "택시가 아직 도착하지 않았나요?"
+  },
+  {
+    "id": "freq-lv2-031",
+    "word": "rate",
+    "pronunciation": "/reɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "요금, 비율",
+    "exampleEn": "What is the nightly rate?",
+    "exampleKo": "1박 요금이 얼마인가요?"
+  },
+  {
+    "id": "freq-lv2-032",
+    "word": "care",
+    "pronunciation": "/kɛər/",
+    "partOfSpeech": "동사",
+    "meaning": "돌보다, 신경 쓰다",
+    "exampleEn": "The hotel staff cares about your comfort.",
+    "exampleKo": "호텔 직원은 고객의 편안함을 중요시합니다."
+  },
+  {
+    "id": "freq-lv2-033",
+    "word": "expect",
+    "pronunciation": "/ɪkˈspɛkt/",
+    "partOfSpeech": "동사",
+    "meaning": "기대하다, 예상하다",
+    "exampleEn": "I expect the taxi to arrive soon.",
+    "exampleKo": "택시가 곧 도착할 것으로 예상합니다."
+  },
+  {
+    "id": "freq-lv2-034",
+    "word": "effect",
+    "pronunciation": "/ɪˈfɛkt/",
+    "partOfSpeech": "명사",
+    "meaning": "효과, 영향",
+    "exampleEn": "The jet lag effect lasted two days.",
+    "exampleKo": "시차 적응 효과가 이틀 동안 지속됐습니다."
+  },
+  {
+    "id": "freq-lv2-035",
+    "word": "sort",
+    "pronunciation": "/sɔːrt/",
+    "partOfSpeech": "명사",
+    "meaning": "종류, 분류",
+    "exampleEn": "What sort of room do you prefer?",
+    "exampleKo": "어떤 종류의 방을 선호하세요?"
+  },
+  {
+    "id": "freq-lv2-036",
+    "word": "ever",
+    "pronunciation": "/ˈɛvər/",
+    "partOfSpeech": "부사",
+    "meaning": "언젠가, 이제까지",
+    "exampleEn": "Have you ever visited this country before?",
+    "exampleKo": "이 나라를 방문한 적이 있나요?"
+  },
+  {
+    "id": "freq-lv2-037",
+    "word": "anything",
+    "pronunciation": "/ˈɛniθɪŋ/",
+    "partOfSpeech": "대명사",
+    "meaning": "무엇이든",
+    "exampleEn": "Is there anything I can help you with?",
+    "exampleKo": "도와드릴 것이 있나요?"
+  },
+  {
+    "id": "freq-lv2-038",
+    "word": "cause",
+    "pronunciation": "/kɔːz/",
+    "partOfSpeech": "동사",
+    "meaning": "야기하다",
+    "exampleEn": "The storm caused flight cancellations.",
+    "exampleKo": "폭풍이 항공편 취소를 야기했습니다."
+  },
+  {
+    "id": "freq-lv2-039",
+    "word": "fall",
+    "pronunciation": "/fɔːl/",
+    "partOfSpeech": "동사",
+    "meaning": "떨어지다, 가을",
+    "exampleEn": "Be careful not to fall on the wet floor.",
+    "exampleKo": "젖은 바닥에서 넘어지지 않도록 조심하세요."
+  },
+  {
+    "id": "freq-lv2-040",
+    "word": "deal",
+    "pronunciation": "/diːl/",
+    "partOfSpeech": "명사",
+    "meaning": "거래, 협상",
+    "exampleEn": "The travel agent offered us a great deal.",
+    "exampleKo": "여행사에서 훌륭한 거래를 제안했습니다."
+  },
+  {
+    "id": "freq-lv2-041",
+    "word": "water",
+    "pronunciation": "/ˈwɔːtər/",
+    "partOfSpeech": "명사",
+    "meaning": "물",
+    "exampleEn": "Can I get a bottle of water?",
+    "exampleKo": "물 한 병 주실 수 있나요?"
+  },
+  {
+    "id": "freq-lv2-042",
+    "word": "send",
+    "pronunciation": "/sɛnd/",
+    "partOfSpeech": "동사",
+    "meaning": "보내다",
+    "exampleEn": "Can you send a taxi to the hotel?",
+    "exampleKo": "호텔로 택시를 보내주실 수 있나요?"
+  },
+  {
+    "id": "freq-lv2-043",
+    "word": "allow",
+    "pronunciation": "/əˈlaʊ/",
+    "partOfSpeech": "동사",
+    "meaning": "허락하다",
+    "exampleEn": "Pets are not allowed in this hotel.",
+    "exampleKo": "이 호텔에서는 반려동물이 허용되지 않습니다."
+  },
+  {
+    "id": "freq-lv2-044",
     "word": "soon",
     "pronunciation": "/suːn/",
     "partOfSpeech": "부사",
     "meaning": "곧",
-    "exampleEn": "I'll be there soon.",
-    "exampleKo": "곧 거기 갈게."
+    "exampleEn": "The shuttle will arrive soon.",
+    "exampleKo": "셔틀이 곧 도착할 것입니다."
   },
   {
-    "id": "lv2-065",
-    "word": "again",
-    "pronunciation": "/əˈɡen/",
+    "id": "freq-lv2-045",
+    "word": "watch",
+    "pronunciation": "/wɒtʃ/",
+    "partOfSpeech": "동사",
+    "meaning": "지켜보다, 조심하다",
+    "exampleEn": "Watch out for your belongings.",
+    "exampleKo": "소지품을 조심하세요."
+  },
+  {
+    "id": "freq-lv2-046",
+    "word": "base",
+    "pronunciation": "/beɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "기반, 기지",
+    "exampleEn": "Use this hotel as a base for exploring the city.",
+    "exampleKo": "도시 탐방의 기지로 이 호텔을 이용하세요."
+  },
+  {
+    "id": "freq-lv2-047",
+    "word": "probably",
+    "pronunciation": "/ˈprɒbəbli/",
     "partOfSpeech": "부사",
-    "meaning": "다시",
-    "exampleEn": "Can you say that again?",
-    "exampleKo": "다시 한번 말해줄 수 있어?"
+    "meaning": "아마도",
+    "exampleEn": "The bus will probably be a few minutes late.",
+    "exampleKo": "버스가 아마도 몇 분 늦을 것입니다."
   },
   {
-    "id": "lv2-066",
-    "word": "together",
-    "pronunciation": "/təˈɡeðər/",
+    "id": "freq-lv2-048",
+    "word": "suggest",
+    "pronunciation": "/səˈdʒɛst/",
+    "partOfSpeech": "동사",
+    "meaning": "제안하다",
+    "exampleEn": "Can you suggest a local restaurant?",
+    "exampleKo": "현지 식당을 추천해 주시겠어요?"
+  },
+  {
+    "id": "freq-lv2-049",
+    "word": "past",
+    "pronunciation": "/pɑːst/",
+    "partOfSpeech": "명사",
+    "meaning": "과거, 지나서",
+    "exampleEn": "Walk past the fountain and turn left.",
+    "exampleKo": "분수를 지나쳐 왼쪽으로 도세요."
+  },
+  {
+    "id": "freq-lv2-050",
+    "word": "power",
+    "pronunciation": "/ˈpaʊər/",
+    "partOfSpeech": "명사",
+    "meaning": "힘, 전력",
+    "exampleEn": "Is there a power outlet near the desk?",
+    "exampleKo": "책상 근처에 전원 콘센트가 있나요?"
+  },
+  {
+    "id": "freq-lv2-051",
+    "word": "test",
+    "pronunciation": "/tɛst/",
+    "partOfSpeech": "동사",
+    "meaning": "시험하다, 테스트하다",
+    "exampleEn": "I need to test the internet connection.",
+    "exampleKo": "인터넷 연결을 테스트해야 합니다."
+  },
+  {
+    "id": "freq-lv2-052",
+    "word": "visit",
+    "pronunciation": "/ˈvɪzɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "방문하다",
+    "exampleEn": "I plan to visit the museum tomorrow.",
+    "exampleKo": "내일 박물관을 방문할 계획입니다."
+  },
+  {
+    "id": "freq-lv2-053",
+    "word": "center",
+    "pronunciation": "/ˈsɛntər/",
+    "partOfSpeech": "명사",
+    "meaning": "중심, 센터",
+    "exampleEn": "The information center is downtown.",
+    "exampleKo": "안내 센터는 시내에 있습니다."
+  },
+  {
+    "id": "freq-lv2-054",
+    "word": "grow",
+    "pronunciation": "/ɡroʊ/",
+    "partOfSpeech": "동사",
+    "meaning": "성장하다, 자라다",
+    "exampleEn": "Tourism has grown significantly in this region.",
+    "exampleKo": "이 지역의 관광이 크게 성장했습니다."
+  },
+  {
+    "id": "freq-lv2-055",
+    "word": "nothing",
+    "pronunciation": "/ˈnʌθɪŋ/",
+    "partOfSpeech": "대명사",
+    "meaning": "아무것도 없는",
+    "exampleEn": "There is nothing in the minibar.",
+    "exampleKo": "미니바에 아무것도 없습니다."
+  },
+  {
+    "id": "freq-lv2-056",
+    "word": "return",
+    "pronunciation": "/rɪˈtɜːrn/",
+    "partOfSpeech": "동사",
+    "meaning": "돌아오다, 반환하다",
+    "exampleEn": "When do you return from your trip?",
+    "exampleKo": "여행에서 언제 돌아오시나요?"
+  },
+  {
+    "id": "freq-lv2-057",
+    "word": "mother",
+    "pronunciation": "/ˈmʌðər/",
+    "partOfSpeech": "명사",
+    "meaning": "어머니",
+    "exampleEn": "I'm traveling with my mother.",
+    "exampleKo": "어머니와 함께 여행 중입니다."
+  },
+  {
+    "id": "freq-lv2-058",
+    "word": "walk",
+    "pronunciation": "/wɔːk/",
+    "partOfSpeech": "동사",
+    "meaning": "걷다",
+    "exampleEn": "Let's walk to the beach.",
+    "exampleKo": "해변까지 걸어갑시다."
+  },
+  {
+    "id": "freq-lv2-059",
+    "word": "matter",
+    "pronunciation": "/ˈmætər/",
+    "partOfSpeech": "동사",
+    "meaning": "중요하다",
+    "exampleEn": "It doesn't matter which floor the room is on.",
+    "exampleKo": "방이 몇 층에 있든 상관없습니다."
+  },
+  {
+    "id": "freq-lv2-060",
+    "word": "mind",
+    "pronunciation": "/maɪnd/",
+    "partOfSpeech": "동사",
+    "meaning": "꺼리다, 신경 쓰다",
+    "exampleEn": "Would you mind moving your luggage?",
+    "exampleKo": "짐을 옮겨주시겠어요?"
+  },
+  {
+    "id": "freq-lv2-061",
+    "word": "value",
+    "pronunciation": "/ˈvæljuː/",
+    "partOfSpeech": "명사",
+    "meaning": "가치",
+    "exampleEn": "This hotel offers great value for money.",
+    "exampleKo": "이 호텔은 가격 대비 훌륭한 가치를 제공합니다."
+  },
+  {
+    "id": "freq-lv2-062",
+    "word": "office",
+    "pronunciation": "/ˈɒfɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "사무소, 사무실",
+    "exampleEn": "The tourist office is next to the station.",
+    "exampleKo": "관광 안내소는 역 옆에 있습니다."
+  },
+  {
+    "id": "freq-lv2-063",
+    "word": "record",
+    "pronunciation": "/ˈrɛkɔːrd/",
+    "partOfSpeech": "동사",
+    "meaning": "기록하다",
+    "exampleEn": "Let me record your complaint.",
+    "exampleKo": "불만 사항을 기록하겠습니다."
+  },
+  {
+    "id": "freq-lv2-064",
+    "word": "stay",
+    "pronunciation": "/steɪ/",
+    "partOfSpeech": "동사",
+    "meaning": "머물다",
+    "exampleEn": "How long will you stay?",
+    "exampleKo": "얼마나 머무실 건가요?"
+  },
+  {
+    "id": "freq-lv2-065",
+    "word": "force",
+    "pronunciation": "/fɔːrs/",
+    "partOfSpeech": "명사",
+    "meaning": "힘, 강제",
+    "exampleEn": "Bad weather forced the cancellation of all flights.",
+    "exampleKo": "나쁜 날씨로 모든 항공편이 취소됐습니다."
+  },
+  {
+    "id": "freq-lv2-066",
+    "word": "stop",
+    "pronunciation": "/stɒp/",
+    "partOfSpeech": "동사",
+    "meaning": "멈추다",
+    "exampleEn": "Could you stop the car here, please?",
+    "exampleKo": "여기서 차를 세워 주시겠어요?"
+  },
+  {
+    "id": "freq-lv2-067",
+    "word": "several",
+    "pronunciation": "/ˈsɛvərəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "몇몇의, 여러",
+    "exampleEn": "There are several restaurants nearby.",
+    "exampleKo": "근처에 여러 식당이 있습니다."
+  },
+  {
+    "id": "freq-lv2-068",
+    "word": "light",
+    "pronunciation": "/laɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "빛, 조명",
+    "exampleEn": "The room has good natural light.",
+    "exampleKo": "방에 자연 채광이 잘 들어옵니다."
+  },
+  {
+    "id": "freq-lv2-069",
+    "word": "develop",
+    "pronunciation": "/dɪˈvɛləp/",
+    "partOfSpeech": "동사",
+    "meaning": "개발하다, 발전하다",
+    "exampleEn": "The area has developed into a popular tourist zone.",
+    "exampleKo": "이 지역은 인기 있는 관광 지구로 발전했습니다."
+  },
+  {
+    "id": "freq-lv2-070",
+    "word": "remember",
+    "pronunciation": "/rɪˈmɛmbər/",
+    "partOfSpeech": "동사",
+    "meaning": "기억하다",
+    "exampleEn": "Remember to pick up your key card.",
+    "exampleKo": "키 카드를 챙기는 것을 잊지 마세요."
+  },
+  {
+    "id": "freq-lv2-071",
+    "word": "bit",
+    "pronunciation": "/bɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "조금, 약간",
+    "exampleEn": "The room is a bit cold.",
+    "exampleKo": "방이 조금 춥습니다."
+  },
+  {
+    "id": "freq-lv2-072",
+    "word": "share",
+    "pronunciation": "/ʃɛər/",
+    "partOfSpeech": "동사",
+    "meaning": "공유하다",
+    "exampleEn": "Can we share a taxi to the airport?",
+    "exampleKo": "공항까지 택시를 같이 탈 수 있나요?"
+  },
+  {
+    "id": "freq-lv2-073",
+    "word": "real",
+    "pronunciation": "/riːl/",
+    "partOfSpeech": "형용사",
+    "meaning": "진짜의, 실제의",
+    "exampleEn": "Is this a real leather bag?",
+    "exampleKo": "이것은 진짜 가죽 가방인가요?"
+  },
+  {
+    "id": "freq-lv2-074",
+    "word": "answer",
+    "pronunciation": "/ˈɑːnsər/",
+    "partOfSpeech": "동사",
+    "meaning": "대답하다, 응답하다",
+    "exampleEn": "Please answer the phone if the front desk calls.",
+    "exampleKo": "프런트 데스크에서 전화하면 받아주세요."
+  },
+  {
+    "id": "freq-lv2-075",
+    "word": "sit",
+    "pronunciation": "/sɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "앉다",
+    "exampleEn": "Please sit and wait in the lobby.",
+    "exampleKo": "로비에 앉아서 기다려 주세요."
+  },
+  {
+    "id": "freq-lv2-076",
+    "word": "figure",
+    "pronunciation": "/ˈfɪɡər/",
+    "partOfSpeech": "동사",
+    "meaning": "생각하다, 알아내다",
+    "exampleEn": "I figured out the best route to the city.",
+    "exampleKo": "도심으로 가는 최적의 경로를 알아냈습니다."
+  },
+  {
+    "id": "freq-lv2-077",
+    "word": "letter",
+    "pronunciation": "/ˈlɛtər/",
+    "partOfSpeech": "명사",
+    "meaning": "편지, 글자",
+    "exampleEn": "Is there a letter for me at reception?",
+    "exampleKo": "리셉션에 내 편지가 있나요?"
+  },
+  {
+    "id": "freq-lv2-078",
+    "word": "decide",
+    "pronunciation": "/dɪˈsaɪd/",
+    "partOfSpeech": "동사",
+    "meaning": "결정하다",
+    "exampleEn": "We decided to extend our stay.",
+    "exampleKo": "우리는 숙박을 연장하기로 결정했습니다."
+  },
+  {
+    "id": "freq-lv2-079",
+    "word": "language",
+    "pronunciation": "/ˈlæŋɡwɪdʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "언어",
+    "exampleEn": "Do you speak any other language?",
+    "exampleKo": "다른 언어를 하시나요?"
+  },
+  {
+    "id": "freq-lv2-080",
+    "word": "subject",
+    "pronunciation": "/ˈsʌbdʒɪkt/",
+    "partOfSpeech": "명사",
+    "meaning": "주제, 과목",
+    "exampleEn": "The subject of the tour is local history.",
+    "exampleKo": "투어의 주제는 지역 역사입니다."
+  },
+  {
+    "id": "freq-lv2-081",
+    "word": "class",
+    "pronunciation": "/klɑːs/",
+    "partOfSpeech": "명사",
+    "meaning": "등급, 수업",
+    "exampleEn": "I'm booked in business class.",
+    "exampleKo": "비즈니스 클래스로 예약되어 있습니다."
+  },
+  {
+    "id": "freq-lv2-082",
+    "word": "development",
+    "pronunciation": "/dɪˈvɛləpmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "개발, 발전",
+    "exampleEn": "The rapid development of tourism has changed this area.",
+    "exampleKo": "관광의 급속한 발전이 이 지역을 변화시켰습니다."
+  },
+  {
+    "id": "freq-lv2-083",
+    "word": "town",
+    "pronunciation": "/taʊn/",
+    "partOfSpeech": "명사",
+    "meaning": "마을, 도심",
+    "exampleEn": "The hotel is in the center of town.",
+    "exampleKo": "호텔은 마을 중심부에 있습니다."
+  },
+  {
+    "id": "freq-lv2-084",
+    "word": "half",
+    "pronunciation": "/hɑːf/",
+    "partOfSpeech": "명사",
+    "meaning": "절반",
+    "exampleEn": "I'll be there in half an hour.",
+    "exampleKo": "30분 후에 도착할 것입니다."
+  },
+  {
+    "id": "freq-lv2-085",
+    "word": "minute",
+    "pronunciation": "/ˈmɪnɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "분, 잠깐",
+    "exampleEn": "Wait a minute, please.",
+    "exampleKo": "잠깐만 기다려 주세요."
+  },
+  {
+    "id": "freq-lv2-086",
+    "word": "food",
+    "pronunciation": "/fuːd/",
+    "partOfSpeech": "명사",
+    "meaning": "음식, 식품",
+    "exampleEn": "This food is delicious.",
+    "exampleKo": "이 음식은 맛있어요."
+  },
+  {
+    "id": "freq-lv2-087",
+    "word": "break",
+    "pronunciation": "/breɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "휴식",
+    "exampleEn": "Let's take a short break here.",
+    "exampleKo": "여기서 잠깐 휴식을 취합시다."
+  },
+  {
+    "id": "freq-lv2-088",
+    "word": "clear",
+    "pronunciation": "/klɪər/",
+    "partOfSpeech": "형용사",
+    "meaning": "명확한, 맑은",
+    "exampleEn": "The weather is clear for our trip today.",
+    "exampleKo": "오늘 여행 날씨가 맑습니다."
+  },
+  {
+    "id": "freq-lv2-089",
+    "word": "future",
+    "pronunciation": "/ˈfjuːtʃər/",
+    "partOfSpeech": "명사",
+    "meaning": "미래, 장래",
+    "exampleEn": "We should plan for the future.",
+    "exampleKo": "우리는 미래를 위해 계획해야 합니다."
+  },
+  {
+    "id": "freq-lv2-090",
+    "word": "either",
+    "pronunciation": "/ˈiːðər/",
     "partOfSpeech": "부사",
-    "meaning": "함께",
-    "exampleEn": "Let's work together on this project.",
-    "exampleKo": "이 프로젝트를 함께 하자."
+    "meaning": "어느 쪽이든, 역시",
+    "exampleEn": "Either option works for me.",
+    "exampleKo": "어느 쪽이든 저에겐 괜찮습니다."
   },
   {
-    "id": "lv2-067",
-    "word": "about",
-    "pronunciation": "/əˈbaʊt/",
-    "partOfSpeech": "전치사/부사",
-    "meaning": "~에 대해, 약",
-    "exampleEn": "Tell me about your weekend.",
-    "exampleKo": "주말에 대해 말해줘."
+    "id": "freq-lv2-091",
+    "word": "ago",
+    "pronunciation": "/əˈɡoʊ/",
+    "partOfSpeech": "부사",
+    "meaning": "전에, 이전에",
+    "exampleEn": "He left two hours ago.",
+    "exampleKo": "그는 두 시간 전에 떠났습니다."
   },
   {
-    "id": "lv2-068",
-    "word": "because",
-    "pronunciation": "/bɪˈkɔːz/",
-    "partOfSpeech": "접속사",
-    "meaning": "왜냐하면, ~때문에",
-    "exampleEn": "I stayed home because it was raining.",
-    "exampleKo": "비가 와서 집에 있었다."
+    "id": "freq-lv2-092",
+    "word": "per",
+    "pronunciation": "/pɜːr/",
+    "partOfSpeech": "전치사",
+    "meaning": "~마다, ~당",
+    "exampleEn": "It costs ten dollars per hour.",
+    "exampleKo": "시간당 10달러입니다."
+  },
+  {
+    "id": "freq-lv2-093",
+    "word": "remain",
+    "pronunciation": "/rɪˈmeɪn/",
+    "partOfSpeech": "동사",
+    "meaning": "남다, 계속 ~이다",
+    "exampleEn": "Please remain seated.",
+    "exampleKo": "앉아 계세요."
+  },
+  {
+    "id": "freq-lv2-094",
+    "word": "top",
+    "pronunciation": "/tɒp/",
+    "partOfSpeech": "명사",
+    "meaning": "꼭대기, 최고",
+    "exampleEn": "She reached the top of the mountain.",
+    "exampleKo": "그녀는 산 꼭대기에 올랐습니다."
+  },
+  {
+    "id": "freq-lv2-095",
+    "word": "among",
+    "pronunciation": "/əˈmʌŋ/",
+    "partOfSpeech": "전치사",
+    "meaning": "~사이에, ~중에서",
+    "exampleEn": "He is popular among his classmates.",
+    "exampleKo": "그는 반 친구들 사이에서 인기가 있습니다."
+  },
+  {
+    "id": "freq-lv2-096",
+    "word": "win",
+    "pronunciation": "/wɪn/",
+    "partOfSpeech": "동사",
+    "meaning": "이기다, 우승하다",
+    "exampleEn": "Our team won the championship.",
+    "exampleKo": "우리 팀이 챔피언십에서 우승했습니다."
+  },
+  {
+    "id": "freq-lv2-097",
+    "word": "color",
+    "pronunciation": "/ˈkʌlər/",
+    "partOfSpeech": "명사",
+    "meaning": "색, 색깔",
+    "exampleEn": "What color is your car?",
+    "exampleKo": "당신의 자동차는 무슨 색인가요?"
+  },
+  {
+    "id": "freq-lv2-098",
+    "word": "involve",
+    "pronunciation": "/ɪnˈvɒlv/",
+    "partOfSpeech": "동사",
+    "meaning": "포함하다, 수반하다",
+    "exampleEn": "The project involves many people.",
+    "exampleKo": "이 프로젝트는 많은 사람들이 관여합니다."
+  },
+  {
+    "id": "freq-lv2-099",
+    "word": "reach",
+    "pronunciation": "/riːtʃ/",
+    "partOfSpeech": "동사",
+    "meaning": "도달하다",
+    "exampleEn": "How long does it take to reach the center?",
+    "exampleKo": "시내까지 얼마나 걸리나요?"
+  },
+  {
+    "id": "freq-lv2-100",
+    "word": "social",
+    "pronunciation": "/ˈsoʊʃəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "사회적인",
+    "exampleEn": "The hotel has a social lounge area.",
+    "exampleKo": "호텔에는 소셜 라운지 공간이 있습니다."
+  },
+  {
+    "id": "freq-lv2-101",
+    "word": "period",
+    "pronunciation": "/ˈpɪəriəd/",
+    "partOfSpeech": "명사",
+    "meaning": "기간, 시기, 마침표",
+    "exampleEn": "This period of history is important.",
+    "exampleKo": "역사의 이 시기는 중요합니다."
+  },
+  {
+    "id": "freq-lv2-102",
+    "word": "across",
+    "pronunciation": "/əˈkrɒs/",
+    "partOfSpeech": "전치사",
+    "meaning": "맞은편에",
+    "exampleEn": "The supermarket is across the street.",
+    "exampleKo": "슈퍼마켓은 길 건너편에 있습니다."
+  },
+  {
+    "id": "freq-lv2-103",
+    "word": "note",
+    "pronunciation": "/noʊt/",
+    "partOfSpeech": "명사",
+    "meaning": "메모, 노트",
+    "exampleEn": "Please take note of this.",
+    "exampleKo": "이것을 메모해 두세요."
+  },
+  {
+    "id": "freq-lv2-104",
+    "word": "history",
+    "pronunciation": "/ˈhɪstəri/",
+    "partOfSpeech": "명사",
+    "meaning": "역사",
+    "exampleEn": "She studied history at university.",
+    "exampleKo": "그녀는 대학에서 역사를 공부했습니다."
+  },
+  {
+    "id": "freq-lv2-105",
+    "word": "create",
+    "pronunciation": "/kriˈeɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "만들다, 창조하다",
+    "exampleEn": "The trip created unforgettable memories.",
+    "exampleKo": "그 여행은 잊을 수 없는 추억을 만들었습니다."
+  },
+  {
+    "id": "freq-lv2-106",
+    "word": "drive",
+    "pronunciation": "/draɪv/",
+    "partOfSpeech": "동사",
+    "meaning": "운전하다",
+    "exampleEn": "It takes 20 minutes to drive to the airport.",
+    "exampleKo": "공항까지 운전하면 20분이 걸립니다."
+  },
+  {
+    "id": "freq-lv2-107",
+    "word": "along",
+    "pronunciation": "/əˈlɒŋ/",
+    "partOfSpeech": "전치사",
+    "meaning": "~을 따라, 함께",
+    "exampleEn": "Walk along the river.",
+    "exampleKo": "강을 따라 걸으세요."
+  },
+  {
+    "id": "freq-lv2-108",
+    "word": "type",
+    "pronunciation": "/taɪp/",
+    "partOfSpeech": "명사",
+    "meaning": "유형, 종류",
+    "exampleEn": "What type of room would you prefer?",
+    "exampleKo": "어떤 유형의 방을 선호하세요?"
+  },
+  {
+    "id": "freq-lv2-109",
+    "word": "sound",
+    "pronunciation": "/saʊnd/",
+    "partOfSpeech": "명사",
+    "meaning": "소리, 음",
+    "exampleEn": "I heard a strange sound.",
+    "exampleKo": "이상한 소리를 들었습니다."
+  },
+  {
+    "id": "freq-lv2-110",
+    "word": "eye",
+    "pronunciation": "/aɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "눈",
+    "exampleEn": "The eye-catching architecture attracted tourists.",
+    "exampleKo": "눈길을 끄는 건축물이 관광객들을 끌어들였습니다."
+  },
+  {
+    "id": "freq-lv2-111",
+    "word": "music",
+    "pronunciation": "/ˈmjuːzɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "음악",
+    "exampleEn": "She loves listening to music.",
+    "exampleKo": "그녀는 음악 듣는 것을 좋아합니다."
+  },
+  {
+    "id": "freq-lv2-112",
+    "word": "game",
+    "pronunciation": "/ɡeɪm/",
+    "partOfSpeech": "명사",
+    "meaning": "게임, 경기",
+    "exampleEn": "Let's play a game.",
+    "exampleKo": "게임을 합시다."
+  },
+  {
+    "id": "freq-lv2-113",
+    "word": "political",
+    "pronunciation": "/pəˈlɪtɪkəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "정치적인",
+    "exampleEn": "This is a political issue.",
+    "exampleKo": "이것은 정치적인 문제입니다."
+  },
+  {
+    "id": "freq-lv2-114",
+    "word": "free",
+    "pronunciation": "/friː/",
+    "partOfSpeech": "형용사",
+    "meaning": "무료의, 자유로운",
+    "exampleEn": "Is Wi-Fi free at this hotel?",
+    "exampleKo": "이 호텔에서 와이파이가 무료인가요?"
+  },
+  {
+    "id": "freq-lv2-115",
+    "word": "receive",
+    "pronunciation": "/rɪˈsiːv/",
+    "partOfSpeech": "동사",
+    "meaning": "받다",
+    "exampleEn": "I didn't receive the confirmation email.",
+    "exampleKo": "확인 이메일을 받지 못했습니다."
+  },
+  {
+    "id": "freq-lv2-116",
+    "word": "moment",
+    "pronunciation": "/ˈmoʊmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "순간",
+    "exampleEn": "Can you give me a moment to check?",
+    "exampleKo": "잠깐 확인할 시간을 주시겠어요?"
+  },
+  {
+    "id": "freq-lv2-117",
+    "word": "sale",
+    "pronunciation": "/seɪl/",
+    "partOfSpeech": "명사",
+    "meaning": "판매, 세일",
+    "exampleEn": "Everything is on sale today.",
+    "exampleKo": "오늘은 모든 것이 세일 중입니다."
+  },
+  {
+    "id": "freq-lv2-118",
+    "word": "policy",
+    "pronunciation": "/ˈpɒləsi/",
+    "partOfSpeech": "명사",
+    "meaning": "정책, 방침",
+    "exampleEn": "The company has a strict policy.",
+    "exampleKo": "그 회사는 엄격한 정책을 가지고 있습니다."
+  },
+  {
+    "id": "freq-lv2-119",
+    "word": "further",
+    "pronunciation": "/ˈfɜːrðər/",
+    "partOfSpeech": "부사",
+    "meaning": "더, 더 멀리",
+    "exampleEn": "We need to discuss this further.",
+    "exampleKo": "이에 대해 더 논의해야 합니다."
+  },
+  {
+    "id": "freq-lv2-120",
+    "word": "body",
+    "pronunciation": "/ˈbɒdi/",
+    "partOfSpeech": "명사",
+    "meaning": "몸, 신체",
+    "exampleEn": "The spa offers various body treatments.",
+    "exampleKo": "스파에서는 다양한 신체 관리 서비스를 제공합니다."
+  },
+  {
+    "id": "freq-lv2-121",
+    "word": "require",
+    "pronunciation": "/rɪˈkwaɪər/",
+    "partOfSpeech": "동사",
+    "meaning": "요구하다",
+    "exampleEn": "This visa requires advance application.",
+    "exampleKo": "이 비자는 사전 신청이 필요합니다."
+  },
+  {
+    "id": "freq-lv2-122",
+    "word": "wait",
+    "pronunciation": "/weɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "기다리다",
+    "exampleEn": "Please wait here for the shuttle.",
+    "exampleKo": "셔틀을 위해 여기서 기다려 주세요."
+  },
+  {
+    "id": "freq-lv2-123",
+    "word": "general",
+    "pronunciation": "/ˈdʒɛnərəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "일반적인",
+    "exampleEn": "What is the general check-out time?",
+    "exampleKo": "일반적인 체크아웃 시간이 어떻게 되나요?"
+  },
+  {
+    "id": "freq-lv2-124",
+    "word": "appear",
+    "pronunciation": "/əˈpɪər/",
+    "partOfSpeech": "동사",
+    "meaning": "나타나다, 보이다",
+    "exampleEn": "A star appeared in the sky.",
+    "exampleKo": "하늘에 별이 나타났습니다."
+  },
+  {
+    "id": "freq-lv2-125",
+    "word": "toward",
+    "pronunciation": "/tɔːrd/",
+    "partOfSpeech": "전치사",
+    "meaning": "~쪽으로, ~를 향해",
+    "exampleEn": "He walked toward the door.",
+    "exampleKo": "그는 문 쪽으로 걸어갔습니다."
+  },
+  {
+    "id": "freq-lv2-126",
+    "word": "team",
+    "pronunciation": "/tiːm/",
+    "partOfSpeech": "명사",
+    "meaning": "팀, 집단",
+    "exampleEn": "Our team works well together.",
+    "exampleKo": "우리 팀은 함께 잘 일합니다."
+  },
+  {
+    "id": "freq-lv2-127",
+    "word": "easy",
+    "pronunciation": "/ˈiːzi/",
+    "partOfSpeech": "형용사",
+    "meaning": "쉬운, 편한",
+    "exampleEn": "This exercise is easy.",
+    "exampleKo": "이 운동은 쉽습니다."
+  },
+  {
+    "id": "freq-lv2-128",
+    "word": "individual",
+    "pronunciation": "/ˌɪndɪˈvɪdʒuəl/",
+    "partOfSpeech": "명사",
+    "meaning": "개인, 개체",
+    "exampleEn": "Each individual is unique.",
+    "exampleKo": "각 개인은 독특합니다."
+  },
+  {
+    "id": "freq-lv2-129",
+    "word": "full",
+    "pronunciation": "/fʊl/",
+    "partOfSpeech": "형용사",
+    "meaning": "가득 찬, 만실의",
+    "exampleEn": "I'm afraid we're fully booked.",
+    "exampleKo": "죄송하지만 만실입니다."
+  },
+  {
+    "id": "freq-lv2-130",
+    "word": "black",
+    "pronunciation": "/blæk/",
+    "partOfSpeech": "형용사",
+    "meaning": "검은, 흑색의",
+    "exampleEn": "She wore a black dress.",
+    "exampleKo": "그녀는 검은 드레스를 입었습니다."
+  },
+  {
+    "id": "freq-lv2-131",
+    "word": "sense",
+    "pronunciation": "/sɛns/",
+    "partOfSpeech": "명사",
+    "meaning": "감각, 의미",
+    "exampleEn": "This doesn't make sense.",
+    "exampleKo": "이것은 이해가 되지 않습니다."
+  },
+  {
+    "id": "freq-lv2-132",
+    "word": "perhaps",
+    "pronunciation": "/pərˈhæps/",
+    "partOfSpeech": "부사",
+    "meaning": "아마도, 어쩌면",
+    "exampleEn": "Perhaps we can meet tomorrow.",
+    "exampleKo": "아마도 내일 만날 수 있을 것입니다."
+  },
+  {
+    "id": "freq-lv2-133",
+    "word": "add",
+    "pronunciation": "/æd/",
+    "partOfSpeech": "동사",
+    "meaning": "추가하다",
+    "exampleEn": "Can I add breakfast to my reservation?",
+    "exampleKo": "예약에 조식을 추가할 수 있나요?"
+  },
+  {
+    "id": "freq-lv2-134",
+    "word": "rule",
+    "pronunciation": "/ruːl/",
+    "partOfSpeech": "명사",
+    "meaning": "규칙, 규정",
+    "exampleEn": "Please follow the rules.",
+    "exampleKo": "규칙을 따라 주세요."
+  },
+  {
+    "id": "freq-lv2-135",
+    "word": "pass",
+    "pronunciation": "/pɑːs/",
+    "partOfSpeech": "동사",
+    "meaning": "지나가다, 통과하다",
+    "exampleEn": "Please pass through the security gate.",
+    "exampleKo": "보안 게이트를 통과해 주세요."
+  },
+  {
+    "id": "freq-lv2-136",
+    "word": "produce",
+    "pronunciation": "/prəˈdjuːs/",
+    "partOfSpeech": "동사",
+    "meaning": "생산하다, 만들다",
+    "exampleEn": "This factory produces cars.",
+    "exampleKo": "이 공장은 자동차를 생산합니다."
+  },
+  {
+    "id": "freq-lv2-137",
+    "word": "sell",
+    "pronunciation": "/sɛl/",
+    "partOfSpeech": "동사",
+    "meaning": "팔다, 판매하다",
+    "exampleEn": "They sell organic vegetables.",
+    "exampleKo": "그들은 유기농 채소를 팝니다."
+  },
+  {
+    "id": "freq-lv2-138",
+    "word": "short",
+    "pronunciation": "/ʃɔːrt/",
+    "partOfSpeech": "형용사",
+    "meaning": "짧은, 키가 작은",
+    "exampleEn": "The meeting was short.",
+    "exampleKo": "회의가 짧았습니다."
+  },
+  {
+    "id": "freq-lv2-139",
+    "word": "agree",
+    "pronunciation": "/əˈɡriː/",
+    "partOfSpeech": "동사",
+    "meaning": "동의하다, 찬성하다",
+    "exampleEn": "I agree with your opinion.",
+    "exampleKo": "저는 당신의 의견에 동의합니다."
+  },
+  {
+    "id": "freq-lv2-140",
+    "word": "law",
+    "pronunciation": "/lɔː/",
+    "partOfSpeech": "명사",
+    "meaning": "법, 법률",
+    "exampleEn": "Everyone must obey the law.",
+    "exampleKo": "모든 사람은 법을 지켜야 합니다."
+  },
+  {
+    "id": "freq-lv2-141",
+    "word": "everything",
+    "pronunciation": "/ˈɛvriθɪŋ/",
+    "partOfSpeech": "대명사",
+    "meaning": "모든 것",
+    "exampleEn": "Everything is ready.",
+    "exampleKo": "모든 것이 준비되었습니다."
+  },
+  {
+    "id": "freq-lv2-142",
+    "word": "research",
+    "pronunciation": "/ˈriːsɜːrtʃ/",
+    "partOfSpeech": "동사",
+    "meaning": "조사하다",
+    "exampleEn": "I always research hotels before booking.",
+    "exampleKo": "나는 예약 전에 항상 호텔을 조사합니다."
+  },
+  {
+    "id": "freq-lv2-143",
+    "word": "cover",
+    "pronunciation": "/ˈkʌvər/",
+    "partOfSpeech": "동사",
+    "meaning": "덮다, 커버하다",
+    "exampleEn": "Does the insurance cover lost luggage?",
+    "exampleKo": "보험이 분실 수하물을 보장하나요?"
+  },
+  {
+    "id": "freq-lv2-144",
+    "word": "paper",
+    "pronunciation": "/ˈpeɪpər/",
+    "partOfSpeech": "명사",
+    "meaning": "종이, 논문",
+    "exampleEn": "Please write on this paper.",
+    "exampleKo": "이 종이에 써 주세요."
+  },
+  {
+    "id": "freq-lv2-145",
+    "word": "position",
+    "pronunciation": "/pəˈzɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "위치, 자리",
+    "exampleEn": "The hotel is in a central position.",
+    "exampleKo": "호텔은 중심부에 위치해 있습니다."
+  },
+  {
+    "id": "freq-lv2-146",
+    "word": "near",
+    "pronunciation": "/nɪər/",
+    "partOfSpeech": "형용사",
+    "meaning": "가까운",
+    "exampleEn": "Is there a convenience store near the hotel?",
+    "exampleKo": "호텔 근처에 편의점이 있나요?"
+  },
+  {
+    "id": "freq-lv2-147",
+    "word": "human",
+    "pronunciation": "/ˈhjuːmən/",
+    "partOfSpeech": "명사",
+    "meaning": "인간, 사람",
+    "exampleEn": "Humans are social creatures.",
+    "exampleKo": "인간은 사회적 동물입니다."
+  },
+  {
+    "id": "freq-lv2-148",
+    "word": "computer",
+    "pronunciation": "/kəmˈpjuːtər/",
+    "partOfSpeech": "명사",
+    "meaning": "컴퓨터",
+    "exampleEn": "I use a computer every day.",
+    "exampleKo": "저는 매일 컴퓨터를 사용합니다."
+  },
+  {
+    "id": "freq-lv2-149",
+    "word": "situation",
+    "pronunciation": "/ˌsɪtʃuˈeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "상황",
+    "exampleEn": "What is the current situation with my flight?",
+    "exampleKo": "내 항공편의 현재 상황이 어떻게 되나요?"
+  },
+  {
+    "id": "freq-lv2-150",
+    "word": "staff",
+    "pronunciation": "/stæf/",
+    "partOfSpeech": "명사",
+    "meaning": "직원, 스태프",
+    "exampleEn": "The staff is very helpful.",
+    "exampleKo": "직원들이 매우 친절합니다."
+  },
+  {
+    "id": "freq-lv2-151",
+    "word": "activity",
+    "pronunciation": "/ækˈtɪvɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "활동, 행동",
+    "exampleEn": "Physical activity is important.",
+    "exampleKo": "신체 활동이 중요합니다."
+  },
+  {
+    "id": "freq-lv2-152",
+    "word": "film",
+    "pronunciation": "/fɪlm/",
+    "partOfSpeech": "명사",
+    "meaning": "영화, 필름",
+    "exampleEn": "Have you seen this film?",
+    "exampleKo": "이 영화를 보셨나요?"
+  },
+  {
+    "id": "freq-lv2-153",
+    "word": "morning",
+    "pronunciation": "/ˈmɔːrnɪŋ/",
+    "partOfSpeech": "명사",
+    "meaning": "아침",
+    "exampleEn": "Good morning! How can I help you?",
+    "exampleKo": "안녕하세요! 무엇을 도와드릴까요?"
+  },
+  {
+    "id": "freq-lv2-154",
+    "word": "war",
+    "pronunciation": "/wɔːr/",
+    "partOfSpeech": "명사",
+    "meaning": "전쟁",
+    "exampleEn": "War causes great suffering.",
+    "exampleKo": "전쟁은 큰 고통을 야기합니다."
+  },
+  {
+    "id": "freq-lv2-155",
+    "word": "account",
+    "pronunciation": "/əˈkaʊnt/",
+    "partOfSpeech": "명사",
+    "meaning": "계좌, 계정",
+    "exampleEn": "Please charge it to my account.",
+    "exampleKo": "내 계정으로 청구해 주세요."
+  },
+  {
+    "id": "freq-lv2-156",
+    "word": "shop",
+    "pronunciation": "/ʃɒp/",
+    "partOfSpeech": "명사",
+    "meaning": "가게, 상점",
+    "exampleEn": "There's a nice coffee shop nearby.",
+    "exampleKo": "근처에 좋은 커피숍이 있습니다."
+  },
+  {
+    "id": "freq-lv2-157",
+    "word": "major",
+    "pronunciation": "/ˈmeɪdʒər/",
+    "partOfSpeech": "형용사",
+    "meaning": "주요한",
+    "exampleEn": "All major credit cards are accepted.",
+    "exampleKo": "모든 주요 신용카드가 허용됩니다."
+  },
+  {
+    "id": "freq-lv2-158",
+    "word": "someone",
+    "pronunciation": "/ˈsʌmwʌn/",
+    "partOfSpeech": "대명사",
+    "meaning": "누군가",
+    "exampleEn": "Is there someone who speaks English?",
+    "exampleKo": "영어를 하시는 분이 계신가요?"
+  },
+  {
+    "id": "freq-lv2-159",
+    "word": "above",
+    "pronunciation": "/əˈbʌv/",
+    "partOfSpeech": "전치사",
+    "meaning": "위에, ~이상으로",
+    "exampleEn": "The picture is above the desk.",
+    "exampleKo": "그림은 책상 위에 있습니다."
+  },
+  {
+    "id": "freq-lv2-160",
+    "word": "design",
+    "pronunciation": "/dɪˈzaɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "디자인, 설계",
+    "exampleEn": "I love the design of this product.",
+    "exampleKo": "저는 이 제품의 디자인이 마음에 듭니다."
+  },
+  {
+    "id": "freq-lv2-161",
+    "word": "event",
+    "pronunciation": "/ɪˈvɛnt/",
+    "partOfSpeech": "명사",
+    "meaning": "행사, 사건",
+    "exampleEn": "The event starts at 7 PM.",
+    "exampleKo": "행사는 오후 7시에 시작합니다."
+  },
+  {
+    "id": "freq-lv2-162",
+    "word": "special",
+    "pronunciation": "/ˈspɛʃəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "특별한",
+    "exampleEn": "Today is a special day.",
+    "exampleKo": "오늘은 특별한 날입니다."
+  },
+  {
+    "id": "freq-lv2-163",
+    "word": "sometimes",
+    "pronunciation": "/ˈsʌmtaɪmz/",
+    "partOfSpeech": "부사",
+    "meaning": "때때로, 가끔",
+    "exampleEn": "I sometimes go for a walk.",
+    "exampleKo": "저는 때때로 산책을 갑니다."
+  },
+  {
+    "id": "freq-lv2-164",
+    "word": "condition",
+    "pronunciation": "/kənˈdɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "상태, 조건",
+    "exampleEn": "The car is in good condition.",
+    "exampleKo": "자동차가 좋은 상태입니다."
+  },
+  {
+    "id": "freq-lv2-165",
+    "word": "carry",
+    "pronunciation": "/ˈkæri/",
+    "partOfSpeech": "동사",
+    "meaning": "나르다, 들다",
+    "exampleEn": "Can you carry my bag to the room?",
+    "exampleKo": "방까지 가방을 들어다 주시겠어요?"
+  },
+  {
+    "id": "freq-lv2-166",
+    "word": "choose",
+    "pronunciation": "/tʃuːz/",
+    "partOfSpeech": "동사",
+    "meaning": "선택하다, 고르다",
+    "exampleEn": "You can choose any color.",
+    "exampleKo": "어떤 색이든 선택할 수 있습니다."
+  },
+  {
+    "id": "freq-lv2-167",
+    "word": "father",
+    "pronunciation": "/ˈfɑːðər/",
+    "partOfSpeech": "명사",
+    "meaning": "아버지, 아빠",
+    "exampleEn": "My father works hard.",
+    "exampleKo": "아버지는 열심히 일하십니다."
+  },
+  {
+    "id": "freq-lv2-168",
+    "word": "decision",
+    "pronunciation": "/dɪˈsɪʒən/",
+    "partOfSpeech": "명사",
+    "meaning": "결정, 결심",
+    "exampleEn": "This is an important decision.",
+    "exampleKo": "이것은 중요한 결정입니다."
+  },
+  {
+    "id": "freq-lv2-169",
+    "word": "table",
+    "pronunciation": "/ˈteɪbəl/",
+    "partOfSpeech": "명사",
+    "meaning": "테이블, 식탁",
+    "exampleEn": "Please set the table for dinner.",
+    "exampleKo": "저녁 식사를 위해 식탁을 준비해 주세요."
+  },
+  {
+    "id": "freq-lv2-170",
+    "word": "certain",
+    "pronunciation": "/ˈsɜːrtən/",
+    "partOfSpeech": "형용사",
+    "meaning": "확실한, 특정한",
+    "exampleEn": "Are you certain about this?",
+    "exampleKo": "이것이 확실한가요?"
+  },
+  {
+    "id": "freq-lv2-171",
+    "word": "forward",
+    "pronunciation": "/ˈfɔːrwərd/",
+    "partOfSpeech": "부사",
+    "meaning": "앞으로, 전방으로",
+    "exampleEn": "Please move forward.",
+    "exampleKo": "앞으로 나아가세요."
+  },
+  {
+    "id": "freq-lv2-172",
+    "word": "main",
+    "pronunciation": "/meɪn/",
+    "partOfSpeech": "형용사",
+    "meaning": "주요한, 주된",
+    "exampleEn": "What is the main point?",
+    "exampleKo": "주요 요점이 무엇인가요?"
+  },
+  {
+    "id": "freq-lv2-173",
+    "word": "die",
+    "pronunciation": "/daɪ/",
+    "partOfSpeech": "동사",
+    "meaning": "죽다, 사망하다",
+    "exampleEn": "All living things eventually die.",
+    "exampleKo": "모든 생명체는 결국 죽습니다."
+  },
+  {
+    "id": "freq-lv2-174",
+    "word": "bear",
+    "pronunciation": "/bɛər/",
+    "partOfSpeech": "동사",
+    "meaning": "견디다, 참다",
+    "exampleEn": "I can't bear the heat.",
+    "exampleKo": "저는 더위를 견딜 수 없습니다."
+  },
+  {
+    "id": "freq-lv2-175",
+    "word": "cut",
+    "pronunciation": "/kʌt/",
+    "partOfSpeech": "동사",
+    "meaning": "자르다, 줄이다",
+    "exampleEn": "Please cut the paper in half.",
+    "exampleKo": "종이를 반으로 잘라 주세요."
+  },
+  {
+    "id": "freq-lv2-176",
+    "word": "describe",
+    "pronunciation": "/dɪˈskraɪb/",
+    "partOfSpeech": "동사",
+    "meaning": "묘사하다, 설명하다",
+    "exampleEn": "Can you describe what happened?",
+    "exampleKo": "무슨 일이 있었는지 묘사할 수 있나요?"
+  },
+  {
+    "id": "freq-lv2-177",
+    "word": "himself",
+    "pronunciation": "/hɪmˈsɛlf/",
+    "partOfSpeech": "대명사",
+    "meaning": "그 자신, 그 스스로",
+    "exampleEn": "He did it himself.",
+    "exampleKo": "그는 혼자서 했습니다."
+  },
+  {
+    "id": "freq-lv2-178",
+    "word": "available",
+    "pronunciation": "/əˈveɪləbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "이용 가능한",
+    "exampleEn": "Is a single room available for tonight?",
+    "exampleKo": "오늘 밤 싱글룸이 이용 가능한가요?"
+  },
+  {
+    "id": "freq-lv2-179",
+    "word": "especially",
+    "pronunciation": "/ɪˈspɛʃəli/",
+    "partOfSpeech": "부사",
+    "meaning": "특히, 특별히",
+    "exampleEn": "I love nature, especially the mountains.",
+    "exampleKo": "저는 자연, 특히 산을 좋아합니다."
+  },
+  {
+    "id": "freq-lv2-180",
+    "word": "strong",
+    "pronunciation": "/strɒŋ/",
+    "partOfSpeech": "형용사",
+    "meaning": "강한, 튼튼한",
+    "exampleEn": "She has a strong will.",
+    "exampleKo": "그녀는 강한 의지를 가지고 있습니다."
+  },
+  {
+    "id": "freq-lv2-181",
+    "word": "rise",
+    "pronunciation": "/raɪz/",
+    "partOfSpeech": "동사",
+    "meaning": "오르다, 상승하다",
+    "exampleEn": "Prices continue to rise.",
+    "exampleKo": "물가가 계속 오르고 있습니다."
+  },
+  {
+    "id": "freq-lv2-182",
+    "word": "girl",
+    "pronunciation": "/ɡɜːrl/",
+    "partOfSpeech": "명사",
+    "meaning": "소녀, 여자아이",
+    "exampleEn": "The girl is reading a book.",
+    "exampleKo": "소녀가 책을 읽고 있습니다."
+  },
+  {
+    "id": "freq-lv2-183",
+    "word": "maybe",
+    "pronunciation": "/ˈmeɪbi/",
+    "partOfSpeech": "부사",
+    "meaning": "아마도, 어쩌면",
+    "exampleEn": "Maybe we should try again.",
+    "exampleKo": "아마 우리는 다시 시도해야 할 것 같습니다."
+  },
+  {
+    "id": "freq-lv2-184",
+    "word": "community",
+    "pronunciation": "/kəˈmjuːnɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "공동체, 지역사회",
+    "exampleEn": "Our community works together.",
+    "exampleKo": "우리 공동체는 함께 일합니다."
+  },
+  {
+    "id": "freq-lv2-185",
+    "word": "else",
+    "pronunciation": "/ɛls/",
+    "partOfSpeech": "부사",
+    "meaning": "그 밖에, 다른",
+    "exampleEn": "What else do you need?",
+    "exampleKo": "그 밖에 무엇이 필요한가요?"
+  },
+  {
+    "id": "freq-lv2-186",
+    "word": "particular",
+    "pronunciation": "/pərˈtɪkjələr/",
+    "partOfSpeech": "형용사",
+    "meaning": "특정한, 특별한",
+    "exampleEn": "Do you have a particular preference?",
+    "exampleKo": "특별한 선호가 있나요?"
+  },
+  {
+    "id": "freq-lv2-187",
+    "word": "role",
+    "pronunciation": "/roʊl/",
+    "partOfSpeech": "명사",
+    "meaning": "역할, 임무",
+    "exampleEn": "Everyone has an important role.",
+    "exampleKo": "모든 사람은 중요한 역할을 가지고 있습니다."
+  },
+  {
+    "id": "freq-lv2-188",
+    "word": "join",
+    "pronunciation": "/dʒɔɪn/",
+    "partOfSpeech": "동사",
+    "meaning": "참여하다, 합류하다",
+    "exampleEn": "Would you like to join us?",
+    "exampleKo": "우리와 함께 하시겠어요?"
+  },
+  {
+    "id": "freq-lv2-189",
+    "word": "difficult",
+    "pronunciation": "/ˈdɪfɪkəlt/",
+    "partOfSpeech": "형용사",
+    "meaning": "어려운",
+    "exampleEn": "This problem is difficult.",
+    "exampleKo": "이 문제는 어렵습니다."
+  },
+  {
+    "id": "freq-lv2-190",
+    "word": "please",
+    "pronunciation": "/pliːz/",
+    "partOfSpeech": "부사",
+    "meaning": "제발, 부탁합니다",
+    "exampleEn": "Please sit down.",
+    "exampleKo": "앉아 주세요."
+  },
+  {
+    "id": "freq-lv2-191",
+    "word": "detail",
+    "pronunciation": "/ˈdiːteɪl/",
+    "partOfSpeech": "명사",
+    "meaning": "세부사항, 상세",
+    "exampleEn": "Please check the details.",
+    "exampleKo": "세부사항을 확인해 주세요."
+  },
+  {
+    "id": "freq-lv2-192",
+    "word": "difference",
+    "pronunciation": "/ˈdɪfərəns/",
+    "partOfSpeech": "명사",
+    "meaning": "차이, 다름",
+    "exampleEn": "What is the difference?",
+    "exampleKo": "차이가 무엇인가요?"
+  },
+  {
+    "id": "freq-lv2-193",
+    "word": "action",
+    "pronunciation": "/ˈækʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "행동, 조치",
+    "exampleEn": "We need to take action.",
+    "exampleKo": "우리는 조치를 취해야 합니다."
+  },
+  {
+    "id": "freq-lv2-194",
+    "word": "health",
+    "pronunciation": "/hɛlθ/",
+    "partOfSpeech": "명사",
+    "meaning": "건강",
+    "exampleEn": "Good health is important.",
+    "exampleKo": "좋은 건강이 중요합니다."
+  },
+  {
+    "id": "freq-lv2-195",
+    "word": "eat",
+    "pronunciation": "/iːt/",
+    "partOfSpeech": "동사",
+    "meaning": "먹다",
+    "exampleEn": "I usually eat breakfast at 7.",
+    "exampleKo": "저는 보통 7시에 아침을 먹습니다."
+  },
+  {
+    "id": "freq-lv2-196",
+    "word": "step",
+    "pronunciation": "/stɛp/",
+    "partOfSpeech": "명사",
+    "meaning": "걸음, 단계",
+    "exampleEn": "Take it one step at a time.",
+    "exampleKo": "한 번에 한 단계씩 해 나가세요."
+  },
+  {
+    "id": "freq-lv2-197",
+    "word": "TRUE",
+    "pronunciation": "/truː/",
+    "partOfSpeech": "형용사",
+    "meaning": "사실인, 진실한",
+    "exampleEn": "Is that true?",
+    "exampleKo": "그것이 사실인가요?"
+  },
+  {
+    "id": "freq-lv2-198",
+    "word": "phone",
+    "pronunciation": "/foʊn/",
+    "partOfSpeech": "명사",
+    "meaning": "전화, 전화기",
+    "exampleEn": "My phone is out of battery.",
+    "exampleKo": "내 전화기 배터리가 다 됐습니다."
+  },
+  {
+    "id": "freq-lv2-199",
+    "word": "themselves",
+    "pronunciation": "/ðəmˈsɛlvz/",
+    "partOfSpeech": "대명사",
+    "meaning": "그들 자신, 그들 스스로",
+    "exampleEn": "They did everything themselves.",
+    "exampleKo": "그들은 모든 것을 혼자 했습니다."
+  },
+  {
+    "id": "freq-lv2-200",
+    "word": "draw",
+    "pronunciation": "/drɔː/",
+    "partOfSpeech": "동사",
+    "meaning": "그리다, 끌다",
+    "exampleEn": "She loves to draw.",
+    "exampleKo": "그녀는 그림 그리기를 좋아합니다."
+  },
+  {
+    "id": "freq-lv2-201",
+    "word": "white",
+    "pronunciation": "/waɪt/",
+    "partOfSpeech": "형용사",
+    "meaning": "흰, 백색의",
+    "exampleEn": "He wore a white shirt.",
+    "exampleKo": "그는 흰 셔츠를 입었습니다."
+  },
+  {
+    "id": "freq-lv2-202",
+    "word": "date",
+    "pronunciation": "/deɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "날짜, 데이트",
+    "exampleEn": "What is today's date?",
+    "exampleKo": "오늘 날짜가 어떻게 되나요?"
+  },
+  {
+    "id": "freq-lv2-203",
+    "word": "practice",
+    "pronunciation": "/ˈpræktɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "연습, 실습",
+    "exampleEn": "Practice makes perfect.",
+    "exampleKo": "연습이 완벽을 만든다."
+  },
+  {
+    "id": "freq-lv2-204",
+    "word": "model",
+    "pronunciation": "/ˈmɒdəl/",
+    "partOfSpeech": "명사",
+    "meaning": "모델, 모형",
+    "exampleEn": "This is a new model.",
+    "exampleKo": "이것은 새 모델입니다."
+  },
+  {
+    "id": "freq-lv2-205",
+    "word": "raise",
+    "pronunciation": "/reɪz/",
+    "partOfSpeech": "동사",
+    "meaning": "올리다, 기르다",
+    "exampleEn": "Please raise your hand.",
+    "exampleKo": "손을 들어 주세요."
+  },
+  {
+    "id": "freq-lv2-206",
+    "word": "customer",
+    "pronunciation": "/ˈkʌstəmər/",
+    "partOfSpeech": "명사",
+    "meaning": "고객, 손님",
+    "exampleEn": "The customer is always right.",
+    "exampleKo": "고객은 항상 옳습니다."
+  },
+  {
+    "id": "freq-lv2-207",
+    "word": "front",
+    "pronunciation": "/frʌnt/",
+    "partOfSpeech": "명사",
+    "meaning": "앞, 정면",
+    "exampleEn": "Please come to the front.",
+    "exampleKo": "앞으로 나와 주세요."
+  },
+  {
+    "id": "freq-lv2-208",
+    "word": "explain",
+    "pronunciation": "/ɪkˈspleɪn/",
+    "partOfSpeech": "동사",
+    "meaning": "설명하다",
+    "exampleEn": "Can you explain this?",
+    "exampleKo": "이것을 설명해 줄 수 있나요?"
+  },
+  {
+    "id": "freq-lv2-209",
+    "word": "door",
+    "pronunciation": "/dɔːr/",
+    "partOfSpeech": "명사",
+    "meaning": "문",
+    "exampleEn": "Please keep the fire door closed.",
+    "exampleKo": "방화문을 닫아두세요."
+  },
+  {
+    "id": "freq-lv2-210",
+    "word": "outside",
+    "pronunciation": "/ˌaʊtˈsaɪd/",
+    "partOfSpeech": "부사",
+    "meaning": "밖에, 바깥에",
+    "exampleEn": "Let's go outside.",
+    "exampleKo": "밖에 나가자."
+  },
+  {
+    "id": "freq-lv2-211",
+    "word": "behind",
+    "pronunciation": "/bɪˈhaɪnd/",
+    "partOfSpeech": "전치사",
+    "meaning": "뒤에, 뒤쪽에",
+    "exampleEn": "The car is behind the house.",
+    "exampleKo": "자동차가 집 뒤에 있습니다."
+  },
+  {
+    "id": "freq-lv2-212",
+    "word": "economic",
+    "pronunciation": "/ˌiːkəˈnɒmɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "경제적인",
+    "exampleEn": "Economic growth is key.",
+    "exampleKo": "경제 성장이 핵심입니다."
+  },
+  {
+    "id": "freq-lv2-213",
+    "word": "site",
+    "pronunciation": "/saɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "장소, 사이트",
+    "exampleEn": "This is a good site for camping.",
+    "exampleKo": "이곳은 캠핑하기 좋은 장소입니다."
+  },
+  {
+    "id": "freq-lv2-214",
+    "word": "approach",
+    "pronunciation": "/əˈproʊtʃ/",
+    "partOfSpeech": "동사",
+    "meaning": "접근하다",
+    "exampleEn": "The taxi is approaching the terminal.",
+    "exampleKo": "택시가 터미널에 접근 중입니다."
+  },
+  {
+    "id": "freq-lv2-215",
+    "word": "teacher",
+    "pronunciation": "/ˈtiːtʃər/",
+    "partOfSpeech": "명사",
+    "meaning": "선생님, 교사",
+    "exampleEn": "My teacher is very kind.",
+    "exampleKo": "저의 선생님은 매우 친절합니다."
+  },
+  {
+    "id": "freq-lv2-216",
+    "word": "land",
+    "pronunciation": "/lænd/",
+    "partOfSpeech": "동사",
+    "meaning": "착륙하다",
+    "exampleEn": "The plane will land in 30 minutes.",
+    "exampleKo": "비행기가 30분 후 착륙할 것입니다."
+  },
+  {
+    "id": "freq-lv2-217",
+    "word": "charge",
+    "pronunciation": "/tʃɑːrdʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "요금, 비용",
+    "exampleEn": "There's an extra charge.",
+    "exampleKo": "추가 요금이 있습니다."
+  },
+  {
+    "id": "freq-lv2-218",
+    "word": "finally",
+    "pronunciation": "/ˈfaɪnəli/",
+    "partOfSpeech": "부사",
+    "meaning": "마침내, 드디어",
+    "exampleEn": "We finally reached our goal.",
+    "exampleKo": "우리는 마침내 목표에 도달했습니다."
+  },
+  {
+    "id": "freq-lv2-219",
+    "word": "sign",
+    "pronunciation": "/saɪn/",
+    "partOfSpeech": "동사",
+    "meaning": "서명하다",
+    "exampleEn": "Please sign the registration form.",
+    "exampleKo": "등록 양식에 서명해 주세요."
+  },
+  {
+    "id": "freq-lv2-220",
+    "word": "claim",
+    "pronunciation": "/kleɪm/",
+    "partOfSpeech": "동사",
+    "meaning": "주장하다, 청구하다",
+    "exampleEn": "He claims to be an expert.",
+    "exampleKo": "그는 전문가라고 주장합니다."
+  },
+  {
+    "id": "freq-lv2-221",
+    "word": "relationship",
+    "pronunciation": "/rɪˈleɪʃənʃɪp/",
+    "partOfSpeech": "명사",
+    "meaning": "관계, 사이",
+    "exampleEn": "They have a good relationship.",
+    "exampleKo": "그들은 좋은 관계를 가지고 있습니다."
+  },
+  {
+    "id": "freq-lv2-222",
+    "word": "travel",
+    "pronunciation": "/ˈtrævəl/",
+    "partOfSpeech": "동사",
+    "meaning": "여행하다",
+    "exampleEn": "I love to travel to new places.",
+    "exampleKo": "나는 새로운 곳으로 여행하는 것을 좋아합니다."
+  },
+  {
+    "id": "freq-lv2-223",
+    "word": "enjoy",
+    "pronunciation": "/ɪnˈdʒɔɪ/",
+    "partOfSpeech": "동사",
+    "meaning": "즐기다, 즐거워하다",
+    "exampleEn": "I enjoy reading books.",
+    "exampleKo": "저는 책 읽는 것을 즐깁니다."
+  },
+  {
+    "id": "freq-lv2-224",
+    "word": "death",
+    "pronunciation": "/dɛθ/",
+    "partOfSpeech": "명사",
+    "meaning": "죽음, 사망",
+    "exampleEn": "He was sad about the death of his pet.",
+    "exampleKo": "그는 반려동물의 죽음에 슬퍼했습니다."
+  },
+  {
+    "id": "freq-lv2-225",
+    "word": "nice",
+    "pronunciation": "/naɪs/",
+    "partOfSpeech": "형용사",
+    "meaning": "좋은, 멋진",
+    "exampleEn": "What a nice day!",
+    "exampleKo": "정말 좋은 날씨네요!"
+  },
+  {
+    "id": "freq-lv2-226",
+    "word": "amount",
+    "pronunciation": "/əˈmaʊnt/",
+    "partOfSpeech": "명사",
+    "meaning": "양, 금액",
+    "exampleEn": "What is the total amount?",
+    "exampleKo": "총 금액이 얼마인가요?"
+  },
+  {
+    "id": "freq-lv2-227",
+    "word": "improve",
+    "pronunciation": "/ɪmˈpruːv/",
+    "partOfSpeech": "동사",
+    "meaning": "개선하다, 향상시키다",
+    "exampleEn": "We need to improve our service.",
+    "exampleKo": "우리는 서비스를 개선해야 합니다."
+  },
+  {
+    "id": "freq-lv2-228",
+    "word": "picture",
+    "pronunciation": "/ˈpɪktʃər/",
+    "partOfSpeech": "명사",
+    "meaning": "그림, 사진",
+    "exampleEn": "I took a picture of the sunset.",
+    "exampleKo": "일몰 사진을 찍었습니다."
+  },
+  {
+    "id": "freq-lv2-229",
+    "word": "boy",
+    "pronunciation": "/bɔɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "소년, 남자아이",
+    "exampleEn": "The boy is playing soccer.",
+    "exampleKo": "소년이 축구를 하고 있습니다."
+  },
+  {
+    "id": "freq-lv2-230",
+    "word": "regard",
+    "pronunciation": "/rɪˈɡɑːrd/",
+    "partOfSpeech": "동사",
+    "meaning": "여기다, 간주하다",
+    "exampleEn": "I regard you as a friend.",
+    "exampleKo": "저는 당신을 친구로 여깁니다."
+  },
+  {
+    "id": "freq-lv2-231",
+    "word": "organization",
+    "pronunciation": "/ˌɔːrɡənɪˈzeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "조직, 단체",
+    "exampleEn": "She works for a non-profit organization.",
+    "exampleKo": "그녀는 비영리 단체에서 일합니다."
+  },
+  {
+    "id": "freq-lv2-232",
+    "word": "happy",
+    "pronunciation": "/ˈhæpi/",
+    "partOfSpeech": "형용사",
+    "meaning": "행복한, 기쁜",
+    "exampleEn": "Are you happy with the result?",
+    "exampleKo": "결과에 만족하시나요?"
+  },
+  {
+    "id": "freq-lv2-233",
+    "word": "couple",
+    "pronunciation": "/ˈkʌpəl/",
+    "partOfSpeech": "명사",
+    "meaning": "두 개, 커플",
+    "exampleEn": "I'll be back in a couple of minutes.",
+    "exampleKo": "몇 분 후에 돌아오겠습니다."
+  },
+  {
+    "id": "freq-lv2-234",
+    "word": "act",
+    "pronunciation": "/ækt/",
+    "partOfSpeech": "동사",
+    "meaning": "행동하다, 연기하다",
+    "exampleEn": "We must act quickly.",
+    "exampleKo": "우리는 빨리 행동해야 합니다."
+  },
+  {
+    "id": "freq-lv2-235",
+    "word": "range",
+    "pronunciation": "/reɪndʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "범위, 폭",
+    "exampleEn": "We offer a wide range of products.",
+    "exampleKo": "저희는 다양한 제품을 제공합니다."
+  },
+  {
+    "id": "freq-lv2-236",
+    "word": "quality",
+    "pronunciation": "/ˈkwɒlɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "품질",
+    "exampleEn": "The quality of service is excellent here.",
+    "exampleKo": "이곳의 서비스 품질이 훌륭합니다."
+  },
+  {
+    "id": "freq-lv2-237",
+    "word": "project",
+    "pronunciation": "/ˈprɒdʒɛkt/",
+    "partOfSpeech": "명사",
+    "meaning": "프로젝트, 계획",
+    "exampleEn": "This project is very important.",
+    "exampleKo": "이 프로젝트는 매우 중요합니다."
+  },
+  {
+    "id": "freq-lv2-238",
+    "word": "round",
+    "pronunciation": "/raʊnd/",
+    "partOfSpeech": "형용사",
+    "meaning": "둥근, 원형의",
+    "exampleEn": "The table is round.",
+    "exampleKo": "테이블이 둥급니다."
+  },
+  {
+    "id": "freq-lv2-239",
+    "word": "opportunity",
+    "pronunciation": "/ˌɒpərˈtjuːnɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "기회",
+    "exampleEn": "This is a great opportunity.",
+    "exampleKo": "이것은 좋은 기회입니다."
+  },
+  {
+    "id": "freq-lv2-240",
+    "word": "road",
+    "pronunciation": "/roʊd/",
+    "partOfSpeech": "명사",
+    "meaning": "도로",
+    "exampleEn": "This road leads to the city center.",
+    "exampleKo": "이 도로는 도심으로 이어집니다."
+  },
+  {
+    "id": "freq-lv2-241",
+    "word": "accord",
+    "pronunciation": "/əˈkɔːrd/",
+    "partOfSpeech": "명사",
+    "meaning": "합의, 일치",
+    "exampleEn": "They reached an accord.",
+    "exampleKo": "그들은 합의에 도달했습니다."
+  },
+  {
+    "id": "freq-lv2-242",
+    "word": "list",
+    "pronunciation": "/lɪst/",
+    "partOfSpeech": "명사",
+    "meaning": "목록, 리스트",
+    "exampleEn": "I made a shopping list.",
+    "exampleKo": "저는 쇼핑 목록을 만들었습니다."
+  },
+  {
+    "id": "freq-lv2-243",
+    "word": "wish",
+    "pronunciation": "/wɪʃ/",
+    "partOfSpeech": "동사",
+    "meaning": "바라다, 원하다",
+    "exampleEn": "I wish you good luck.",
+    "exampleKo": "행운을 빕니다."
+  },
+  {
+    "id": "freq-lv2-244",
+    "word": "therefore",
+    "pronunciation": "/ˈðɛrfɔːr/",
+    "partOfSpeech": "부사",
+    "meaning": "그러므로, 따라서",
+    "exampleEn": "He was tired, therefore he rested.",
+    "exampleKo": "그는 피곤했으므로 쉬었습니다."
+  },
+  {
+    "id": "freq-lv2-245",
+    "word": "wear",
+    "pronunciation": "/wɛər/",
+    "partOfSpeech": "동사",
+    "meaning": "입다, 착용하다",
+    "exampleEn": "What should I wear today?",
+    "exampleKo": "오늘 무엇을 입을까요?"
+  },
+  {
+    "id": "freq-lv2-246",
+    "word": "fund",
+    "pronunciation": "/fʌnd/",
+    "partOfSpeech": "명사",
+    "meaning": "자금",
+    "exampleEn": "I need to add funds to my travel card.",
+    "exampleKo": "여행 카드에 충전이 필요합니다."
+  },
+  {
+    "id": "freq-lv2-247",
+    "word": "rest",
+    "pronunciation": "/rɛst/",
+    "partOfSpeech": "명사",
+    "meaning": "휴식, 나머지",
+    "exampleEn": "You should get some rest.",
+    "exampleKo": "좀 쉬어야 합니다."
+  },
+  {
+    "id": "freq-lv2-248",
+    "word": "kid",
+    "pronunciation": "/kɪd/",
+    "partOfSpeech": "명사",
+    "meaning": "아이, 어린이",
+    "exampleEn": "The kids are playing outside.",
+    "exampleKo": "아이들이 밖에서 놀고 있습니다."
+  },
+  {
+    "id": "freq-lv2-249",
+    "word": "industry",
+    "pronunciation": "/ˈɪndəstri/",
+    "partOfSpeech": "명사",
+    "meaning": "산업, 업계",
+    "exampleEn": "The technology industry is growing.",
+    "exampleKo": "기술 산업이 성장하고 있습니다."
+  },
+  {
+    "id": "freq-lv2-250",
+    "word": "education",
+    "pronunciation": "/ˌɛdʒʊˈkeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "교육",
+    "exampleEn": "Education is the key to success.",
+    "exampleKo": "교육은 성공의 열쇠입니다."
+  },
+  {
+    "id": "freq-lv2-251",
+    "word": "measure",
+    "pronunciation": "/ˈmɛʒər/",
+    "partOfSpeech": "동사",
+    "meaning": "측정하다, 재다",
+    "exampleEn": "Please measure the room.",
+    "exampleKo": "방을 재어 주세요."
+  },
+  {
+    "id": "freq-lv2-252",
+    "word": "kill",
+    "pronunciation": "/kɪl/",
+    "partOfSpeech": "동사",
+    "meaning": "죽이다",
+    "exampleEn": "The cold weather killed the plants.",
+    "exampleKo": "추운 날씨가 식물을 죽였습니다."
+  },
+  {
+    "id": "freq-lv2-253",
+    "word": "serve",
+    "pronunciation": "/sɜːrv/",
+    "partOfSpeech": "동사",
+    "meaning": "제공하다, 봉사하다",
+    "exampleEn": "They serve excellent food.",
+    "exampleKo": "그들은 훌륭한 음식을 제공합니다."
+  },
+  {
+    "id": "freq-lv2-254",
+    "word": "likely",
+    "pronunciation": "/ˈlaɪkli/",
+    "partOfSpeech": "형용사",
+    "meaning": "~할 것 같은",
+    "exampleEn": "It's likely to rain.",
+    "exampleKo": "비가 올 것 같습니다."
+  },
+  {
+    "id": "freq-lv2-255",
+    "word": "certainly",
+    "pronunciation": "/ˈsɜːrtənli/",
+    "partOfSpeech": "부사",
+    "meaning": "확실히, 분명히",
+    "exampleEn": "This is certainly the best option.",
+    "exampleKo": "이것이 확실히 최선의 선택입니다."
+  },
+  {
+    "id": "freq-lv2-256",
+    "word": "national",
+    "pronunciation": "/ˈnæʃənəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "국가의, 전국적인",
+    "exampleEn": "Tomorrow is a national holiday.",
+    "exampleKo": "내일은 국가 공휴일입니다."
+  },
+  {
+    "id": "freq-lv2-257",
+    "word": "itself",
+    "pronunciation": "/ɪtˈsɛlf/",
+    "partOfSpeech": "대명사",
+    "meaning": "그것 자체, 그 자신",
+    "exampleEn": "The problem solved itself.",
+    "exampleKo": "문제가 저절로 해결되었습니다."
+  },
+  {
+    "id": "freq-lv2-258",
+    "word": "teach",
+    "pronunciation": "/tiːtʃ/",
+    "partOfSpeech": "동사",
+    "meaning": "가르치다, 교육하다",
+    "exampleEn": "She teaches English at school.",
+    "exampleKo": "그녀는 학교에서 영어를 가르칩니다."
+  },
+  {
+    "id": "freq-lv2-259",
+    "word": "field",
+    "pronunciation": "/fiːld/",
+    "partOfSpeech": "명사",
+    "meaning": "분야, 들판",
+    "exampleEn": "She is an expert in her field.",
+    "exampleKo": "그녀는 자신의 분야 전문가입니다."
+  },
+  {
+    "id": "freq-lv2-260",
+    "word": "security",
+    "pronunciation": "/sɪˈkjʊərɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "보안, 안전",
+    "exampleEn": "Security is our top priority.",
+    "exampleKo": "보안이 우리의 최우선 사항입니다."
+  },
+  {
+    "id": "freq-lv2-261",
+    "word": "air",
+    "pronunciation": "/ɛər/",
+    "partOfSpeech": "명사",
+    "meaning": "공기, 항공",
+    "exampleEn": "The fresh air here is wonderful.",
+    "exampleKo": "이곳의 신선한 공기가 훌륭합니다."
+  },
+  {
+    "id": "freq-lv2-262",
+    "word": "benefit",
+    "pronunciation": "/ˈbɛnɪfɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "혜택, 이익",
+    "exampleEn": "Exercise has many health benefits.",
+    "exampleKo": "운동에는 많은 건강 상의 이점이 있습니다."
+  },
+  {
+    "id": "freq-lv2-263",
+    "word": "trade",
+    "pronunciation": "/treɪd/",
+    "partOfSpeech": "명사",
+    "meaning": "무역, 거래",
+    "exampleEn": "International trade is important.",
+    "exampleKo": "국제 무역은 중요합니다."
+  },
+  {
+    "id": "freq-lv2-264",
+    "word": "risk",
+    "pronunciation": "/rɪsk/",
+    "partOfSpeech": "명사",
+    "meaning": "위험, 리스크",
+    "exampleEn": "There is a risk of failure.",
+    "exampleKo": "실패의 위험이 있습니다."
+  },
+  {
+    "id": "freq-lv2-265",
+    "word": "news",
+    "pronunciation": "/njuːz/",
+    "partOfSpeech": "명사",
+    "meaning": "뉴스, 소식",
+    "exampleEn": "Have you heard the news?",
+    "exampleKo": "뉴스를 들었나요?"
+  },
+  {
+    "id": "freq-lv2-266",
+    "word": "standard",
+    "pronunciation": "/ˈstændərd/",
+    "partOfSpeech": "명사",
+    "meaning": "기준, 표준",
+    "exampleEn": "This hotel meets international standards.",
+    "exampleKo": "이 호텔은 국제 기준을 충족합니다."
+  },
+  {
+    "id": "freq-lv2-267",
+    "word": "vote",
+    "pronunciation": "/voʊt/",
+    "partOfSpeech": "동사",
+    "meaning": "투표하다",
+    "exampleEn": "Please vote in the election.",
+    "exampleKo": "선거에서 투표해 주세요."
+  },
+  {
+    "id": "freq-lv2-268",
+    "word": "percent",
+    "pronunciation": "/pərˈsɛnt/",
+    "partOfSpeech": "명사",
+    "meaning": "퍼센트, 백분율",
+    "exampleEn": "Prices went up by 5 percent.",
+    "exampleKo": "가격이 5퍼센트 올랐습니다."
+  },
+  {
+    "id": "freq-lv2-269",
+    "word": "focus",
+    "pronunciation": "/ˈfoʊkəs/",
+    "partOfSpeech": "동사",
+    "meaning": "집중하다, 초점을 맞추다",
+    "exampleEn": "Please focus on the task.",
+    "exampleKo": "업무에 집중해 주세요."
+  },
+  {
+    "id": "freq-lv2-270",
+    "word": "stage",
+    "pronunciation": "/steɪdʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "단계, 무대",
+    "exampleEn": "We are in the final stage.",
+    "exampleKo": "우리는 마지막 단계에 있습니다."
+  },
+  {
+    "id": "freq-lv2-271",
+    "word": "space",
+    "pronunciation": "/speɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "공간, 우주",
+    "exampleEn": "We need more space.",
+    "exampleKo": "우리는 더 많은 공간이 필요합니다."
+  },
+  {
+    "id": "freq-lv2-272",
+    "word": "instead",
+    "pronunciation": "/ɪnˈstɛd/",
+    "partOfSpeech": "부사",
+    "meaning": "대신에",
+    "exampleEn": "Let's go by train instead.",
+    "exampleKo": "대신 기차로 가자."
+  },
+  {
+    "id": "freq-lv2-273",
+    "word": "realize",
+    "pronunciation": "/ˈriːəlaɪz/",
+    "partOfSpeech": "동사",
+    "meaning": "깨닫다, 실현하다",
+    "exampleEn": "I didn't realize it was so late.",
+    "exampleKo": "이렇게 늦은 줄 몰랐습니다."
+  },
+  {
+    "id": "freq-lv2-274",
+    "word": "usually",
+    "pronunciation": "/ˈjuːʒuəli/",
+    "partOfSpeech": "부사",
+    "meaning": "보통, 대개",
+    "exampleEn": "I usually wake up at 6 AM.",
+    "exampleKo": "저는 보통 오전 6시에 일어납니다."
+  },
+  {
+    "id": "freq-lv2-275",
+    "word": "data",
+    "pronunciation": "/ˈdeɪtə/",
+    "partOfSpeech": "명사",
+    "meaning": "데이터, 자료",
+    "exampleEn": "The data shows an increase.",
+    "exampleKo": "데이터는 증가를 보여줍니다."
+  },
+  {
+    "id": "freq-lv2-276",
+    "word": "single",
+    "pronunciation": "/ˈsɪŋɡəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "단 하나의, 독신의",
+    "exampleEn": "Not a single word was wrong.",
+    "exampleKo": "단 한 단어도 틀리지 않았습니다."
+  },
+  {
+    "id": "freq-lv2-277",
+    "word": "address",
+    "pronunciation": "/əˈdrɛs/",
+    "partOfSpeech": "명사",
+    "meaning": "주소, 연설",
+    "exampleEn": "Please write your address here.",
+    "exampleKo": "여기에 주소를 써 주세요."
+  },
+  {
+    "id": "freq-lv2-278",
+    "word": "performance",
+    "pronunciation": "/pərˈfɔːrməns/",
+    "partOfSpeech": "명사",
+    "meaning": "성과, 공연",
+    "exampleEn": "His performance was excellent.",
+    "exampleKo": "그의 성과는 훌륭했습니다."
+  },
+  {
+    "id": "freq-lv2-279",
+    "word": "chance",
+    "pronunciation": "/tʃæns/",
+    "partOfSpeech": "명사",
+    "meaning": "기회, 가능성",
+    "exampleEn": "Give me a chance to explain.",
+    "exampleKo": "설명할 기회를 주세요."
+  },
+  {
+    "id": "freq-lv2-280",
+    "word": "accept",
+    "pronunciation": "/əkˈsɛpt/",
+    "partOfSpeech": "동사",
+    "meaning": "받아들이다, 수락하다",
+    "exampleEn": "I accept your apology.",
+    "exampleKo": "당신의 사과를 받아들이겠습니다."
+  },
+  {
+    "id": "freq-lv2-281",
+    "word": "society",
+    "pronunciation": "/səˈsaɪəti/",
+    "partOfSpeech": "명사",
+    "meaning": "사회, 단체",
+    "exampleEn": "We live in a complex society.",
+    "exampleKo": "우리는 복잡한 사회에서 삽니다."
   }
 ]
