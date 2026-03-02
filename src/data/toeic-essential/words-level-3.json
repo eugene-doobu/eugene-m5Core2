@@ -1,0 +1,2252 @@
+[
+  {
+    "id": "toeic-lv3-001",
+    "word": "lawn",
+    "pronunciation": "/lɔːn/",
+    "partOfSpeech": "명사",
+    "meaning": "잔디밭",
+    "exampleEn": "Mow the lawn.",
+    "exampleKo": "잔디를 깎으세요."
+  },
+  {
+    "id": "toeic-lv3-002",
+    "word": "microscope",
+    "pronunciation": "/ˈmaɪkrəskoʊp/",
+    "partOfSpeech": "명사",
+    "meaning": "현미경",
+    "exampleEn": "Look through the microscope.",
+    "exampleKo": "현미경으로 보세요."
+  },
+  {
+    "id": "toeic-lv3-003",
+    "word": "mislead",
+    "pronunciation": "/mɪsˈliːd/",
+    "partOfSpeech": "동사",
+    "meaning": "오도하다, 잘못 이끌다",
+    "exampleEn": "Don't mislead customers.",
+    "exampleKo": "고객을 오도하지 마세요."
+  },
+  {
+    "id": "toeic-lv3-004",
+    "word": "misplace",
+    "pronunciation": "/mɪsˈpleɪs/",
+    "partOfSpeech": "동사",
+    "meaning": "잘못 두다, 분실하다",
+    "exampleEn": "Misplace important documents.",
+    "exampleKo": "중요한 서류를 잘못 두다."
+  },
+  {
+    "id": "toeic-lv3-005",
+    "word": "newsstand",
+    "pronunciation": "/ˈnjuːzstænd/",
+    "partOfSpeech": "명사",
+    "meaning": "신문 판매대",
+    "exampleEn": "Buy a magazine at the newsstand.",
+    "exampleKo": "신문 판매대에서 잡지를 사세요."
+  },
+  {
+    "id": "toeic-lv3-006",
+    "word": "overhead",
+    "pronunciation": "/ˈoʊvərˌhɛd/",
+    "partOfSpeech": "형용사",
+    "meaning": "머리 위의",
+    "exampleEn": "Place your bag in the overhead compartment.",
+    "exampleKo": "짐을 머리 위 수납공간에 넣어 주세요."
+  },
+  {
+    "id": "toeic-lv3-007",
+    "word": "portfolio",
+    "pronunciation": "/pɔːrtˈfoʊlioʊ/",
+    "partOfSpeech": "명사",
+    "meaning": "포트폴리오",
+    "exampleEn": "Diversify your investment portfolio.",
+    "exampleKo": "투자 포트폴리오를 다양화하세요."
+  },
+  {
+    "id": "toeic-lv3-008",
+    "word": "rack",
+    "pronunciation": "/ræk/",
+    "partOfSpeech": "명사",
+    "meaning": "선반, 걸이",
+    "exampleEn": "Put clothes on the rack.",
+    "exampleKo": "옷을 옷걸이에 걸어두세요."
+  },
+  {
+    "id": "toeic-lv3-009",
+    "word": "remodel",
+    "pronunciation": "/riːˈmɒdəl/",
+    "partOfSpeech": "동사",
+    "meaning": "개조하다, 리모델링하다",
+    "exampleEn": "Remodel the kitchen.",
+    "exampleKo": "주방을 개조하세요."
+  },
+  {
+    "id": "toeic-lv3-010",
+    "word": "statistics",
+    "pronunciation": "/stəˈtɪstɪks/",
+    "partOfSpeech": "명사",
+    "meaning": "통계학, 통계",
+    "exampleEn": "Interpret the statistics.",
+    "exampleKo": "통계를 해석하세요."
+  },
+  {
+    "id": "toeic-lv3-011",
+    "word": "tunnel",
+    "pronunciation": "/ˈtʌnəl/",
+    "partOfSpeech": "명사",
+    "meaning": "터널",
+    "exampleEn": "Drive through the tunnel.",
+    "exampleKo": "터널을 통과해 운전하세요."
+  },
+  {
+    "id": "toeic-lv3-012",
+    "word": "unlimited",
+    "pronunciation": "/ʌnˈlɪmɪtɪd/",
+    "partOfSpeech": "형용사",
+    "meaning": "무제한의",
+    "exampleEn": "Unlimited data plan.",
+    "exampleKo": "무제한 데이터 요금제."
+  },
+  {
+    "id": "toeic-lv3-013",
+    "word": "vitamin",
+    "pronunciation": "/ˈvaɪtəmɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "비타민",
+    "exampleEn": "Take daily vitamins.",
+    "exampleKo": "매일 비타민을 복용하세요."
+  },
+  {
+    "id": "toeic-lv3-014",
+    "word": "zoo",
+    "pronunciation": "/zuː/",
+    "partOfSpeech": "명사",
+    "meaning": "동물원",
+    "exampleEn": "Visit the zoo.",
+    "exampleKo": "동물원을 방문하세요."
+  },
+  {
+    "id": "toeic-lv3-015",
+    "word": "alert",
+    "pronunciation": "/əˈlɜːrt/",
+    "partOfSpeech": "동사",
+    "meaning": "경고하다, 알리다",
+    "exampleEn": "Alert the staff.",
+    "exampleKo": "직원들에게 알리세요."
+  },
+  {
+    "id": "toeic-lv3-016",
+    "word": "auditorium",
+    "pronunciation": "/ˌɔːdɪˈtɔːriəm/",
+    "partOfSpeech": "명사",
+    "meaning": "강당",
+    "exampleEn": "Meet in the auditorium.",
+    "exampleKo": "강당에서 만나세요."
+  },
+  {
+    "id": "toeic-lv3-017",
+    "word": "celebrity",
+    "pronunciation": "/sɪˈlɛbrɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "유명인, 연예인",
+    "exampleEn": "A famous celebrity.",
+    "exampleKo": "유명한 연예인."
+  },
+  {
+    "id": "toeic-lv3-018",
+    "word": "deduct",
+    "pronunciation": "/dɪˈdʌkt/",
+    "partOfSpeech": "동사",
+    "meaning": "공제하다, 빼다",
+    "exampleEn": "Deduct taxes.",
+    "exampleKo": "세금을 공제하세요."
+  },
+  {
+    "id": "toeic-lv3-019",
+    "word": "disruption",
+    "pronunciation": "/dɪsˈrʌpʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "방해, 혼란",
+    "exampleEn": "Minimize disruption.",
+    "exampleKo": "방해를 최소화하세요."
+  },
+  {
+    "id": "toeic-lv3-020",
+    "word": "electrician",
+    "pronunciation": "/ɪˌlɛkˈtrɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "전기공",
+    "exampleEn": "Call an electrician.",
+    "exampleKo": "전기공을 부르세요."
+  },
+  {
+    "id": "toeic-lv3-021",
+    "word": "enthusiastic",
+    "pronunciation": "/ɪnˌθjuːziˈæstɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "열정적인",
+    "exampleEn": "An enthusiastic team.",
+    "exampleKo": "열정적인 팀."
+  },
+  {
+    "id": "toeic-lv3-022",
+    "word": "graduation",
+    "pronunciation": "/ˌɡrædʒuˈeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "졸업",
+    "exampleEn": "Attend graduation ceremony.",
+    "exampleKo": "졸업식에 참석하세요."
+  },
+  {
+    "id": "toeic-lv3-023",
+    "word": "icy",
+    "pronunciation": "/ˈaɪsi/",
+    "partOfSpeech": "형용사",
+    "meaning": "빙판의, 차가운",
+    "exampleEn": "Icy roads.",
+    "exampleKo": "빙판길."
+  },
+  {
+    "id": "toeic-lv3-024",
+    "word": "irregular",
+    "pronunciation": "/ɪˈrɛɡjʊlər/",
+    "partOfSpeech": "형용사",
+    "meaning": "불규칙한",
+    "exampleEn": "Irregular schedule.",
+    "exampleKo": "불규칙한 일정."
+  },
+  {
+    "id": "toeic-lv3-025",
+    "word": "login",
+    "pronunciation": "/ˈlɒɡɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "로그인",
+    "exampleEn": "Enter your login details.",
+    "exampleKo": "로그인 정보를 입력하세요."
+  },
+  {
+    "id": "toeic-lv3-026",
+    "word": "managerial",
+    "pronunciation": "/ˌmænɪˈdʒɪəriəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "관리의",
+    "exampleEn": "Managerial position.",
+    "exampleKo": "관리직."
+  },
+  {
+    "id": "toeic-lv3-027",
+    "word": "mineral",
+    "pronunciation": "/ˈmɪnərəl/",
+    "partOfSpeech": "명사",
+    "meaning": "미네랄, 광물",
+    "exampleEn": "Mineral water.",
+    "exampleKo": "미네랄 워터."
+  },
+  {
+    "id": "toeic-lv3-028",
+    "word": "motorcycle",
+    "pronunciation": "/ˈmoʊtərˌsaɪkəl/",
+    "partOfSpeech": "명사",
+    "meaning": "오토바이",
+    "exampleEn": "Ride a motorcycle.",
+    "exampleKo": "오토바이를 타세요."
+  },
+  {
+    "id": "toeic-lv3-029",
+    "word": "necessity",
+    "pronunciation": "/nɪˈsɛsɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "필수품, 필요성",
+    "exampleEn": "A basic necessity.",
+    "exampleKo": "기본 필수품."
+  },
+  {
+    "id": "toeic-lv3-030",
+    "word": "planner",
+    "pronunciation": "/ˈplænər/",
+    "partOfSpeech": "명사",
+    "meaning": "플래너, 계획자",
+    "exampleEn": "Use a daily planner.",
+    "exampleKo": "일일 플래너를 사용하세요."
+  },
+  {
+    "id": "toeic-lv3-031",
+    "word": "programmer",
+    "pronunciation": "/ˈproʊɡræmər/",
+    "partOfSpeech": "명사",
+    "meaning": "프로그래머",
+    "exampleEn": "She is a skilled programmer.",
+    "exampleKo": "그녀는 숙련된 프로그래머이다."
+  },
+  {
+    "id": "toeic-lv3-032",
+    "word": "proofread",
+    "pronunciation": "/ˈpruːfriːd/",
+    "partOfSpeech": "동사",
+    "meaning": "교정하다",
+    "exampleEn": "Proofread the document.",
+    "exampleKo": "문서를 교정하세요."
+  },
+  {
+    "id": "toeic-lv3-033",
+    "word": "recruiter",
+    "pronunciation": "/rɪˈkruːtər/",
+    "partOfSpeech": "명사",
+    "meaning": "채용 담당자",
+    "exampleEn": "Contact the recruiter.",
+    "exampleKo": "채용 담당자에게 연락하세요."
+  },
+  {
+    "id": "toeic-lv3-034",
+    "word": "remainder",
+    "pronunciation": "/rɪˈmeɪndər/",
+    "partOfSpeech": "명사",
+    "meaning": "나머지",
+    "exampleEn": "Divide the remainder.",
+    "exampleKo": "나머지를 나누세요."
+  },
+  {
+    "id": "toeic-lv3-035",
+    "word": "statue",
+    "pronunciation": "/ˈstætʃuː/",
+    "partOfSpeech": "명사",
+    "meaning": "조각상",
+    "exampleEn": "The Statue of Liberty.",
+    "exampleKo": "자유의 여신상."
+  },
+  {
+    "id": "toeic-lv3-036",
+    "word": "steadily",
+    "pronunciation": "/ˈstɛdɪli/",
+    "partOfSpeech": "부사",
+    "meaning": "꾸준히",
+    "exampleEn": "Progress steadily.",
+    "exampleKo": "꾸준히 발전하세요."
+  },
+  {
+    "id": "toeic-lv3-037",
+    "word": "stockholder",
+    "pronunciation": "/ˈstɒkhoʊldər/",
+    "partOfSpeech": "명사",
+    "meaning": "주주",
+    "exampleEn": "Stockholder meeting.",
+    "exampleKo": "주주 회의."
+  },
+  {
+    "id": "toeic-lv3-038",
+    "word": "vacant",
+    "pronunciation": "/ˈveɪkənt/",
+    "partOfSpeech": "형용사",
+    "meaning": "빈, 비어있는",
+    "exampleEn": "A vacant position.",
+    "exampleKo": "공석인 자리."
+  },
+  {
+    "id": "toeic-lv3-039",
+    "word": "accessory",
+    "pronunciation": "/əkˈsɛsəri/",
+    "partOfSpeech": "명사",
+    "meaning": "액세서리, 부속품",
+    "exampleEn": "Fashion accessories.",
+    "exampleKo": "패션 액세서리."
+  },
+  {
+    "id": "toeic-lv3-040",
+    "word": "assembly",
+    "pronunciation": "/əˈsɛmbli/",
+    "partOfSpeech": "명사",
+    "meaning": "조립, 집회",
+    "exampleEn": "Assembly line.",
+    "exampleKo": "조립 라인."
+  },
+  {
+    "id": "toeic-lv3-041",
+    "word": "basket",
+    "pronunciation": "/ˈbɑːskɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "바구니",
+    "exampleEn": "Put it in the basket.",
+    "exampleKo": "바구니에 넣으세요."
+  },
+  {
+    "id": "toeic-lv3-042",
+    "word": "certification",
+    "pronunciation": "/ˌsɜːrtɪfɪˈkeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "자격증, 인증",
+    "exampleEn": "Get a certification.",
+    "exampleKo": "자격증을 취득하세요."
+  },
+  {
+    "id": "toeic-lv3-043",
+    "word": "closure",
+    "pronunciation": "/ˈkloʊʒər/",
+    "partOfSpeech": "명사",
+    "meaning": "폐쇄, 종결",
+    "exampleEn": "Road closure.",
+    "exampleKo": "도로 폐쇄."
+  },
+  {
+    "id": "toeic-lv3-044",
+    "word": "dislike",
+    "pronunciation": "/dɪsˈlaɪk/",
+    "partOfSpeech": "동사",
+    "meaning": "싫어하다",
+    "exampleEn": "I dislike delays.",
+    "exampleKo": "지연을 싫어한다."
+  },
+  {
+    "id": "toeic-lv3-045",
+    "word": "downstairs",
+    "pronunciation": "/ˌdaʊnˈstɛərz/",
+    "partOfSpeech": "부사",
+    "meaning": "아래층으로",
+    "exampleEn": "Come downstairs.",
+    "exampleKo": "아래층으로 내려오세요."
+  },
+  {
+    "id": "toeic-lv3-046",
+    "word": "expiration",
+    "pronunciation": "/ˌɛkspɪˈreɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "만료, 만기",
+    "exampleEn": "Check the expiration date.",
+    "exampleKo": "만료일을 확인하세요."
+  },
+  {
+    "id": "toeic-lv3-047",
+    "word": "headache",
+    "pronunciation": "/ˈhɛdeɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "두통",
+    "exampleEn": "I have a headache.",
+    "exampleKo": "두통이 있다."
+  },
+  {
+    "id": "toeic-lv3-048",
+    "word": "jam",
+    "pronunciation": "/dʒæm/",
+    "partOfSpeech": "명사",
+    "meaning": "잼, 교통 체증",
+    "exampleEn": "Traffic jam.",
+    "exampleKo": "교통 체증."
+  },
+  {
+    "id": "toeic-lv3-049",
+    "word": "nail",
+    "pronunciation": "/neɪl/",
+    "partOfSpeech": "명사",
+    "meaning": "못, 손톱",
+    "exampleEn": "Hammer the nail.",
+    "exampleKo": "못을 박으세요."
+  },
+  {
+    "id": "toeic-lv3-050",
+    "word": "optimistic",
+    "pronunciation": "/ˌɒptɪˈmɪstɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "낙관적인",
+    "exampleEn": "Be optimistic.",
+    "exampleKo": "낙관적으로 생각하세요."
+  },
+  {
+    "id": "toeic-lv3-051",
+    "word": "pedestrian",
+    "pronunciation": "/pɪˈdɛstriən/",
+    "partOfSpeech": "명사",
+    "meaning": "보행자",
+    "exampleEn": "Pedestrian crossing.",
+    "exampleKo": "횡단보도."
+  },
+  {
+    "id": "toeic-lv3-052",
+    "word": "projection",
+    "pronunciation": "/prəˈdʒɛkʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "예상, 투영",
+    "exampleEn": "Sales projections.",
+    "exampleKo": "판매 예상치."
+  },
+  {
+    "id": "toeic-lv3-053",
+    "word": "sleeve",
+    "pronunciation": "/sliːv/",
+    "partOfSpeech": "명사",
+    "meaning": "소매",
+    "exampleEn": "Roll up your sleeves.",
+    "exampleKo": "소매를 걷으세요."
+  },
+  {
+    "id": "toeic-lv3-054",
+    "word": "suburb",
+    "pronunciation": "/ˈsʌbɜːrb/",
+    "partOfSpeech": "명사",
+    "meaning": "교외, 외곽 지역",
+    "exampleEn": "Live in the suburbs.",
+    "exampleKo": "교외에 살다."
+  },
+  {
+    "id": "toeic-lv3-055",
+    "word": "takeover",
+    "pronunciation": "/ˈteɪkoʊvər/",
+    "partOfSpeech": "명사",
+    "meaning": "인수합병",
+    "exampleEn": "Hostile takeover.",
+    "exampleKo": "적대적 인수합병."
+  },
+  {
+    "id": "toeic-lv3-056",
+    "word": "unsure",
+    "pronunciation": "/ʌnˈʃʊər/",
+    "partOfSpeech": "형용사",
+    "meaning": "확실하지 않은",
+    "exampleEn": "I am unsure.",
+    "exampleKo": "확실하지 않다."
+  },
+  {
+    "id": "toeic-lv3-057",
+    "word": "upstairs",
+    "pronunciation": "/ˌʌpˈstɛərz/",
+    "partOfSpeech": "부사",
+    "meaning": "위층으로",
+    "exampleEn": "Go upstairs.",
+    "exampleKo": "위층으로 올라가세요."
+  },
+  {
+    "id": "toeic-lv3-058",
+    "word": "verbal",
+    "pronunciation": "/ˈvɜːrbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "말로 하는, 구두의",
+    "exampleEn": "Verbal agreement.",
+    "exampleKo": "구두 합의."
+  },
+  {
+    "id": "toeic-lv3-059",
+    "word": "visa",
+    "pronunciation": "/ˈviːzə/",
+    "partOfSpeech": "명사",
+    "meaning": "비자",
+    "exampleEn": "Apply for a visa.",
+    "exampleKo": "비자를 신청하세요."
+  },
+  {
+    "id": "toeic-lv3-060",
+    "word": "wildlife",
+    "pronunciation": "/ˈwaɪldlaɪf/",
+    "partOfSpeech": "명사",
+    "meaning": "야생 생물",
+    "exampleEn": "Protect wildlife.",
+    "exampleKo": "야생 생물을 보호하세요."
+  },
+  {
+    "id": "toeic-lv3-061",
+    "word": "workforce",
+    "pronunciation": "/ˈwɜːrkfɔːrs/",
+    "partOfSpeech": "명사",
+    "meaning": "노동력, 직원",
+    "exampleEn": "Train the workforce.",
+    "exampleKo": "직원들을 교육하세요."
+  },
+  {
+    "id": "toeic-lv3-062",
+    "word": "absent",
+    "pronunciation": "/ˈæbsənt/",
+    "partOfSpeech": "형용사",
+    "meaning": "결석한, 부재인",
+    "exampleEn": "She is absent today.",
+    "exampleKo": "그녀는 오늘 결석했다."
+  },
+  {
+    "id": "toeic-lv3-063",
+    "word": "accumulate",
+    "pronunciation": "/əˈkjuːmjʊleɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "축적하다, 모으다",
+    "exampleEn": "Accumulate savings.",
+    "exampleKo": "저축을 축적하세요."
+  },
+  {
+    "id": "toeic-lv3-064",
+    "word": "appraisal",
+    "pronunciation": "/əˈpreɪzəl/",
+    "partOfSpeech": "명사",
+    "meaning": "평가, 감정",
+    "exampleEn": "Annual performance appraisal.",
+    "exampleKo": "연간 성과 평가."
+  },
+  {
+    "id": "toeic-lv3-065",
+    "word": "apprentice",
+    "pronunciation": "/əˈprɛntɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "견습생",
+    "exampleEn": "Hire an apprentice.",
+    "exampleKo": "견습생을 채용하세요."
+  },
+  {
+    "id": "toeic-lv3-066",
+    "word": "businessman",
+    "pronunciation": "/ˈbɪznɪsmæn/",
+    "partOfSpeech": "명사",
+    "meaning": "사업가, 기업인",
+    "exampleEn": "A successful businessman.",
+    "exampleKo": "성공한 사업가."
+  },
+  {
+    "id": "toeic-lv3-067",
+    "word": "ceiling",
+    "pronunciation": "/ˈsiːlɪŋ/",
+    "partOfSpeech": "명사",
+    "meaning": "천장",
+    "exampleEn": "High ceiling.",
+    "exampleKo": "높은 천장."
+  },
+  {
+    "id": "toeic-lv3-068",
+    "word": "colorful",
+    "pronunciation": "/ˈkʌlərfʊl/",
+    "partOfSpeech": "형용사",
+    "meaning": "화려한, 다채로운",
+    "exampleEn": "Colorful design.",
+    "exampleKo": "화려한 디자인."
+  },
+  {
+    "id": "toeic-lv3-069",
+    "word": "compensate",
+    "pronunciation": "/ˈkɒmpɛnseɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "보상하다",
+    "exampleEn": "Compensate for the loss.",
+    "exampleKo": "손실을 보상하세요."
+  },
+  {
+    "id": "toeic-lv3-070",
+    "word": "costume",
+    "pronunciation": "/ˈkɒstjuːm/",
+    "partOfSpeech": "명사",
+    "meaning": "의상, 복장",
+    "exampleEn": "Halloween costume.",
+    "exampleKo": "할로윈 의상."
+  },
+  {
+    "id": "toeic-lv3-071",
+    "word": "editorial",
+    "pronunciation": "/ˌɛdɪˈtɔːriəl/",
+    "partOfSpeech": "명사",
+    "meaning": "사설, 편집의",
+    "exampleEn": "Editorial team.",
+    "exampleKo": "편집팀."
+  },
+  {
+    "id": "toeic-lv3-072",
+    "word": "effectiveness",
+    "pronunciation": "/ɪˈfɛktɪvnɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "효과성",
+    "exampleEn": "Measure effectiveness.",
+    "exampleKo": "효과성을 측정하세요."
+  },
+  {
+    "id": "toeic-lv3-073",
+    "word": "facilitate",
+    "pronunciation": "/fəˈsɪlɪteɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "용이하게 하다, 촉진하다",
+    "exampleEn": "Facilitate communication.",
+    "exampleKo": "소통을 촉진하세요."
+  },
+  {
+    "id": "toeic-lv3-074",
+    "word": "firefighter",
+    "pronunciation": "/ˈfaɪərfaɪtər/",
+    "partOfSpeech": "명사",
+    "meaning": "소방관",
+    "exampleEn": "Brave firefighters.",
+    "exampleKo": "용감한 소방관들."
+  },
+  {
+    "id": "toeic-lv3-075",
+    "word": "gasoline",
+    "pronunciation": "/ˈɡæsəliːn/",
+    "partOfSpeech": "명사",
+    "meaning": "가솔린, 휘발유",
+    "exampleEn": "Fill up with gasoline.",
+    "exampleKo": "휘발유를 채우세요."
+  },
+  {
+    "id": "toeic-lv3-076",
+    "word": "inappropriate",
+    "pronunciation": "/ˌɪnəˈproʊpriɪt/",
+    "partOfSpeech": "형용사",
+    "meaning": "부적절한",
+    "exampleEn": "Inappropriate behavior.",
+    "exampleKo": "부적절한 행동."
+  },
+  {
+    "id": "toeic-lv3-077",
+    "word": "internet",
+    "pronunciation": "/ˈɪntərˌnɛt/",
+    "partOfSpeech": "명사",
+    "meaning": "인터넷",
+    "exampleEn": "The internet is very useful.",
+    "exampleKo": "인터넷은 매우 유용합니다."
+  },
+  {
+    "id": "toeic-lv3-078",
+    "word": "landlord",
+    "pronunciation": "/ˈlændlɔːrd/",
+    "partOfSpeech": "명사",
+    "meaning": "집주인",
+    "exampleEn": "Pay rent to the landlord.",
+    "exampleKo": "집주인에게 임대료를 내세요."
+  },
+  {
+    "id": "toeic-lv3-079",
+    "word": "layout",
+    "pronunciation": "/ˈleɪaʊt/",
+    "partOfSpeech": "명사",
+    "meaning": "레이아웃, 배치",
+    "exampleEn": "Page layout.",
+    "exampleKo": "페이지 레이아웃."
+  },
+  {
+    "id": "toeic-lv3-080",
+    "word": "lunchtime",
+    "pronunciation": "/ˈlʌntʃtaɪm/",
+    "partOfSpeech": "명사",
+    "meaning": "점심시간",
+    "exampleEn": "Meet at lunchtime.",
+    "exampleKo": "점심 시간에 만나세요."
+  },
+  {
+    "id": "toeic-lv3-081",
+    "word": "payroll",
+    "pronunciation": "/ˈpeɪroʊl/",
+    "partOfSpeech": "명사",
+    "meaning": "급여 대장",
+    "exampleEn": "Process the payroll.",
+    "exampleKo": "급여를 처리하세요."
+  },
+  {
+    "id": "toeic-lv3-082",
+    "word": "pharmaceutical",
+    "pronunciation": "/ˌfɑːrməˈsuːtɪkəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "제약의",
+    "exampleEn": "Pharmaceutical company.",
+    "exampleKo": "제약 회사."
+  },
+  {
+    "id": "toeic-lv3-083",
+    "word": "plausible",
+    "pronunciation": "/ˈplɔːzɪbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "그럴듯한, 타당한",
+    "exampleEn": "Plausible explanation.",
+    "exampleKo": "그럴듯한 설명."
+  },
+  {
+    "id": "toeic-lv3-084",
+    "word": "premium",
+    "pronunciation": "/ˈpriːmiəm/",
+    "partOfSpeech": "명사",
+    "meaning": "프리미엄, 보험료",
+    "exampleEn": "Members receive premium customer service.",
+    "exampleKo": "회원은 프리미엄 고객 서비스를 받습니다."
+  },
+  {
+    "id": "toeic-lv3-085",
+    "word": "safely",
+    "pronunciation": "/ˈseɪfli/",
+    "partOfSpeech": "부사",
+    "meaning": "안전하게",
+    "exampleEn": "Drive safely.",
+    "exampleKo": "안전하게 운전하세요."
+  },
+  {
+    "id": "toeic-lv3-086",
+    "word": "simplify",
+    "pronunciation": "/ˈsɪmplɪfaɪ/",
+    "partOfSpeech": "동사",
+    "meaning": "단순화하다",
+    "exampleEn": "Simplify the process.",
+    "exampleKo": "과정을 단순화하세요."
+  },
+  {
+    "id": "toeic-lv3-087",
+    "word": "specialty",
+    "pronunciation": "/ˈspɛʃəlti/",
+    "partOfSpeech": "명사",
+    "meaning": "전문, 특기",
+    "exampleEn": "Medical specialty.",
+    "exampleKo": "의료 전문 분야."
+  },
+  {
+    "id": "toeic-lv3-088",
+    "word": "tech",
+    "pronunciation": "/tɛk/",
+    "partOfSpeech": "명사",
+    "meaning": "기술, 테크",
+    "exampleEn": "High-tech industry.",
+    "exampleKo": "첨단 기술 산업."
+  },
+  {
+    "id": "toeic-lv3-089",
+    "word": "unexpected",
+    "pronunciation": "/ˌʌnɪkˈspɛktɪd/",
+    "partOfSpeech": "형용사",
+    "meaning": "예상치 못한",
+    "exampleEn": "Unexpected costs.",
+    "exampleKo": "예상치 못한 비용."
+  },
+  {
+    "id": "toeic-lv3-090",
+    "word": "unspecified",
+    "pronunciation": "/ʌnˈspɛsɪfaɪd/",
+    "partOfSpeech": "형용사",
+    "meaning": "명시되지 않은",
+    "exampleEn": "Unspecified amount.",
+    "exampleKo": "명시되지 않은 금액."
+  },
+  {
+    "id": "toeic-lv3-091",
+    "word": "adhere",
+    "pronunciation": "/ədˈhɪər/",
+    "partOfSpeech": "동사",
+    "meaning": "고수하다, 준수하다",
+    "exampleEn": "Adhere to the rules.",
+    "exampleKo": "규칙을 준수하세요."
+  },
+  {
+    "id": "toeic-lv3-092",
+    "word": "bankrupt",
+    "pronunciation": "/ˈbæŋkrʌpt/",
+    "partOfSpeech": "형용사",
+    "meaning": "파산한",
+    "exampleEn": "The company went bankrupt.",
+    "exampleKo": "회사가 파산했다."
+  },
+  {
+    "id": "toeic-lv3-093",
+    "word": "caution",
+    "pronunciation": "/ˈkɔːʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "주의, 경고",
+    "exampleEn": "Proceed with caution.",
+    "exampleKo": "주의를 기울여 진행하세요."
+  },
+  {
+    "id": "toeic-lv3-094",
+    "word": "clip",
+    "pronunciation": "/klɪp/",
+    "partOfSpeech": "명사",
+    "meaning": "클립, 집게",
+    "exampleEn": "Use a paper clip.",
+    "exampleKo": "종이 클립을 사용하세요."
+  },
+  {
+    "id": "toeic-lv3-095",
+    "word": "comply",
+    "pronunciation": "/kəmˈplaɪ/",
+    "partOfSpeech": "동사",
+    "meaning": "따르다, 준수하다",
+    "exampleEn": "We must comply with regulations.",
+    "exampleKo": "규정을 준수해야 합니다."
+  },
+  {
+    "id": "toeic-lv3-096",
+    "word": "diner",
+    "pronunciation": "/ˈdaɪnər/",
+    "partOfSpeech": "명사",
+    "meaning": "식당",
+    "exampleEn": "Eat at a diner.",
+    "exampleKo": "식당에서 드세요."
+  },
+  {
+    "id": "toeic-lv3-097",
+    "word": "duplicate",
+    "pronunciation": "/ˈdjuːplɪkɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "복사하다, 복제하다",
+    "exampleEn": "Duplicate the file.",
+    "exampleKo": "파일을 복사하세요."
+  },
+  {
+    "id": "toeic-lv3-098",
+    "word": "eager",
+    "pronunciation": "/ˈiːɡər/",
+    "partOfSpeech": "형용사",
+    "meaning": "열렬한, 간절한",
+    "exampleEn": "She is eager to learn new skills.",
+    "exampleKo": "그녀는 새로운 기술을 배우기를 간절히 원합니다."
+  },
+  {
+    "id": "toeic-lv3-099",
+    "word": "economist",
+    "pronunciation": "/ɪˈkɒnəmɪst/",
+    "partOfSpeech": "명사",
+    "meaning": "경제학자",
+    "exampleEn": "The economist predicted growth.",
+    "exampleKo": "경제학자가 성장을 예측했다."
+  },
+  {
+    "id": "toeic-lv3-100",
+    "word": "embassy",
+    "pronunciation": "/ˈɛmbəsi/",
+    "partOfSpeech": "명사",
+    "meaning": "대사관",
+    "exampleEn": "Visit the embassy.",
+    "exampleKo": "대사관을 방문하세요."
+  },
+  {
+    "id": "toeic-lv3-101",
+    "word": "fasten",
+    "pronunciation": "/ˈfæsən/",
+    "partOfSpeech": "동사",
+    "meaning": "채우다, 고정하다",
+    "exampleEn": "Fasten the seatbelt.",
+    "exampleKo": "안전벨트를 채우세요."
+  },
+  {
+    "id": "toeic-lv3-102",
+    "word": "harmful",
+    "pronunciation": "/ˈhɑːrmfʊl/",
+    "partOfSpeech": "형용사",
+    "meaning": "해로운",
+    "exampleEn": "Harmful chemicals.",
+    "exampleKo": "해로운 화학물질."
+  },
+  {
+    "id": "toeic-lv3-103",
+    "word": "informative",
+    "pronunciation": "/ɪnˈfɔːrmətɪv/",
+    "partOfSpeech": "형용사",
+    "meaning": "유익한",
+    "exampleEn": "Very informative session.",
+    "exampleKo": "매우 유익한 세션."
+  },
+  {
+    "id": "toeic-lv3-104",
+    "word": "institute",
+    "pronunciation": "/ˈɪnstɪtjuːt/",
+    "partOfSpeech": "명사",
+    "meaning": "기관, 연구소",
+    "exampleEn": "Research institute.",
+    "exampleKo": "연구기관."
+  },
+  {
+    "id": "toeic-lv3-105",
+    "word": "kit",
+    "pronunciation": "/kɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "키트, 도구 세트",
+    "exampleEn": "First aid kit.",
+    "exampleKo": "응급 처치 키트."
+  },
+  {
+    "id": "toeic-lv3-106",
+    "word": "locally",
+    "pronunciation": "/ˈloʊkəli/",
+    "partOfSpeech": "부사",
+    "meaning": "지역적으로",
+    "exampleEn": "Buy locally produced goods.",
+    "exampleKo": "지역 생산 제품을 구매하세요."
+  },
+  {
+    "id": "toeic-lv3-107",
+    "word": "mentor",
+    "pronunciation": "/ˈmɛntɔːr/",
+    "partOfSpeech": "명사",
+    "meaning": "멘토",
+    "exampleEn": "Find a good mentor.",
+    "exampleKo": "좋은 멘토를 찾으세요."
+  },
+  {
+    "id": "toeic-lv3-108",
+    "word": "nominate",
+    "pronunciation": "/ˈnɒmɪneɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "추천하다, 지명하다",
+    "exampleEn": "Nominate a candidate.",
+    "exampleKo": "후보를 지명하세요."
+  },
+  {
+    "id": "toeic-lv3-109",
+    "word": "opt",
+    "pronunciation": "/ɒpt/",
+    "partOfSpeech": "동사",
+    "meaning": "선택하다",
+    "exampleEn": "Opt for the better plan.",
+    "exampleKo": "더 좋은 계획을 선택하세요."
+  },
+  {
+    "id": "toeic-lv3-110",
+    "word": "parade",
+    "pronunciation": "/pəˈreɪd/",
+    "partOfSpeech": "명사",
+    "meaning": "퍼레이드",
+    "exampleEn": "Watch the parade.",
+    "exampleKo": "퍼레이드를 보세요."
+  },
+  {
+    "id": "toeic-lv3-111",
+    "word": "physician",
+    "pronunciation": "/fɪˈzɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "의사",
+    "exampleEn": "Consult your physician.",
+    "exampleKo": "주치의에게 상담하세요."
+  },
+  {
+    "id": "toeic-lv3-112",
+    "word": "polish",
+    "pronunciation": "/ˈpɒlɪʃ/",
+    "partOfSpeech": "동사",
+    "meaning": "닦다, 광택 내다",
+    "exampleEn": "Polish your shoes.",
+    "exampleKo": "신발을 닦으세요."
+  },
+  {
+    "id": "toeic-lv3-113",
+    "word": "postage",
+    "pronunciation": "/ˈpoʊstɪdʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "우편 요금",
+    "exampleEn": "Prepaid postage.",
+    "exampleKo": "선불 우편 요금."
+  },
+  {
+    "id": "toeic-lv3-114",
+    "word": "recreational",
+    "pronunciation": "/ˌrɛkriˈeɪʃənəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "레크리에이션의",
+    "exampleEn": "Recreational activities.",
+    "exampleKo": "레크리에이션 활동."
+  },
+  {
+    "id": "toeic-lv3-115",
+    "word": "rehearse",
+    "pronunciation": "/rɪˈhɜːrs/",
+    "partOfSpeech": "동사",
+    "meaning": "연습하다, 리허설하다",
+    "exampleEn": "Rehearse the presentation.",
+    "exampleKo": "발표 리허설을 하세요."
+  },
+  {
+    "id": "toeic-lv3-116",
+    "word": "removal",
+    "pronunciation": "/rɪˈmuːvəl/",
+    "partOfSpeech": "명사",
+    "meaning": "제거, 이동",
+    "exampleEn": "Waste removal.",
+    "exampleKo": "폐기물 제거."
+  },
+  {
+    "id": "toeic-lv3-117",
+    "word": "satisfactory",
+    "pronunciation": "/ˌsætɪsˈfæktəri/",
+    "partOfSpeech": "형용사",
+    "meaning": "만족스러운",
+    "exampleEn": "Satisfactory result.",
+    "exampleKo": "만족스러운 결과."
+  },
+  {
+    "id": "toeic-lv3-118",
+    "word": "seasonal",
+    "pronunciation": "/ˈsiːzənəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "계절적인",
+    "exampleEn": "Seasonal sales peaks occur in December.",
+    "exampleKo": "계절적 판매 피크는 12월에 발생합니다."
+  },
+  {
+    "id": "toeic-lv3-119",
+    "word": "separately",
+    "pronunciation": "/ˈsɛpərɪtli/",
+    "partOfSpeech": "부사",
+    "meaning": "별도로",
+    "exampleEn": "Bill separately.",
+    "exampleKo": "별도로 청구하세요."
+  },
+  {
+    "id": "toeic-lv3-120",
+    "word": "turnover",
+    "pronunciation": "/ˈtɜːrnoʊvər/",
+    "partOfSpeech": "명사",
+    "meaning": "매출액, 직원 이직률",
+    "exampleEn": "Annual turnover increased.",
+    "exampleKo": "연간 매출이 증가했습니다."
+  },
+  {
+    "id": "toeic-lv3-121",
+    "word": "unnecessary",
+    "pronunciation": "/ʌnˈnɛsɪsəri/",
+    "partOfSpeech": "형용사",
+    "meaning": "불필요한",
+    "exampleEn": "Avoid unnecessary costs.",
+    "exampleKo": "불필요한 비용을 피하세요."
+  },
+  {
+    "id": "toeic-lv3-122",
+    "word": "accordingly",
+    "pronunciation": "/əˈkɔːrdɪŋli/",
+    "partOfSpeech": "부사",
+    "meaning": "따라서, 그에 맞게",
+    "exampleEn": "Act accordingly.",
+    "exampleKo": "그에 맞게 행동하세요."
+  },
+  {
+    "id": "toeic-lv3-123",
+    "word": "apple",
+    "pronunciation": "/ˈæpəl/",
+    "partOfSpeech": "명사",
+    "meaning": "사과",
+    "exampleEn": "An apple a day.",
+    "exampleKo": "하루에 사과 하나."
+  },
+  {
+    "id": "toeic-lv3-124",
+    "word": "applicable",
+    "pronunciation": "/ˈæplɪkəbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "해당하는, 적용 가능한",
+    "exampleEn": "Applicable rules.",
+    "exampleKo": "적용 가능한 규칙."
+  },
+  {
+    "id": "toeic-lv3-125",
+    "word": "auction",
+    "pronunciation": "/ˈɔːkʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "경매",
+    "exampleEn": "Online auction.",
+    "exampleKo": "온라인 경매."
+  },
+  {
+    "id": "toeic-lv3-126",
+    "word": "balcony",
+    "pronunciation": "/ˈbælkəni/",
+    "partOfSpeech": "명사",
+    "meaning": "발코니",
+    "exampleEn": "Sit on the balcony.",
+    "exampleKo": "발코니에 앉으세요."
+  },
+  {
+    "id": "toeic-lv3-127",
+    "word": "basement",
+    "pronunciation": "/ˈbeɪsmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "지하층",
+    "exampleEn": "Store it in the basement.",
+    "exampleKo": "지하층에 보관하세요."
+  },
+  {
+    "id": "toeic-lv3-128",
+    "word": "beforehand",
+    "pronunciation": "/bɪˈfɔːrhænd/",
+    "partOfSpeech": "부사",
+    "meaning": "미리, 사전에",
+    "exampleEn": "Prepare beforehand.",
+    "exampleKo": "미리 준비하세요."
+  },
+  {
+    "id": "toeic-lv3-129",
+    "word": "culinary",
+    "pronunciation": "/ˈkʌlɪnəri/",
+    "partOfSpeech": "형용사",
+    "meaning": "요리의",
+    "exampleEn": "Culinary arts.",
+    "exampleKo": "요리 예술."
+  },
+  {
+    "id": "toeic-lv3-130",
+    "word": "documentary",
+    "pronunciation": "/ˌdɒkjʊˈmɛntəri/",
+    "partOfSpeech": "명사",
+    "meaning": "다큐멘터리",
+    "exampleEn": "Watch a documentary.",
+    "exampleKo": "다큐멘터리를 보세요."
+  },
+  {
+    "id": "toeic-lv3-131",
+    "word": "downturn",
+    "pronunciation": "/ˈdaʊntɜːrn/",
+    "partOfSpeech": "명사",
+    "meaning": "하락, 침체",
+    "exampleEn": "Economic downturn.",
+    "exampleKo": "경기 침체."
+  },
+  {
+    "id": "toeic-lv3-132",
+    "word": "earthquake",
+    "pronunciation": "/ˈɜːrθkweɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "지진",
+    "exampleEn": "Earthquake preparedness.",
+    "exampleKo": "지진 대비."
+  },
+  {
+    "id": "toeic-lv3-133",
+    "word": "elegant",
+    "pronunciation": "/ˈɛlɪɡənt/",
+    "partOfSpeech": "형용사",
+    "meaning": "우아한",
+    "exampleEn": "Elegant design.",
+    "exampleKo": "우아한 디자인."
+  },
+  {
+    "id": "toeic-lv3-134",
+    "word": "excessive",
+    "pronunciation": "/ɪkˈsɛsɪv/",
+    "partOfSpeech": "형용사",
+    "meaning": "과도한",
+    "exampleEn": "Excessive spending.",
+    "exampleKo": "과도한 지출."
+  },
+  {
+    "id": "toeic-lv3-135",
+    "word": "generic",
+    "pronunciation": "/dʒɪˈnɛrɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "일반적인, 비상표의",
+    "exampleEn": "Generic medicine.",
+    "exampleKo": "비상표 의약품."
+  },
+  {
+    "id": "toeic-lv3-136",
+    "word": "jazz",
+    "pronunciation": "/dʒæz/",
+    "partOfSpeech": "명사",
+    "meaning": "재즈",
+    "exampleEn": "Jazz music.",
+    "exampleKo": "재즈 음악."
+  },
+  {
+    "id": "toeic-lv3-137",
+    "word": "lifetime",
+    "pronunciation": "/ˈlaɪftaɪm/",
+    "partOfSpeech": "명사",
+    "meaning": "일생, 평생",
+    "exampleEn": "A lifetime warranty.",
+    "exampleKo": "평생 보증."
+  },
+  {
+    "id": "toeic-lv3-138",
+    "word": "massage",
+    "pronunciation": "/ˈmæsɑːʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "마사지",
+    "exampleEn": "Get a massage.",
+    "exampleKo": "마사지를 받으세요."
+  },
+  {
+    "id": "toeic-lv3-139",
+    "word": "maximize",
+    "pronunciation": "/ˈmæksɪmaɪz/",
+    "partOfSpeech": "동사",
+    "meaning": "최대화하다",
+    "exampleEn": "Maximize profits.",
+    "exampleKo": "이익을 최대화하세요."
+  },
+  {
+    "id": "toeic-lv3-140",
+    "word": "mild",
+    "pronunciation": "/maɪld/",
+    "partOfSpeech": "형용사",
+    "meaning": "순한, 온화한",
+    "exampleEn": "Mild flavor.",
+    "exampleKo": "순한 맛."
+  },
+  {
+    "id": "toeic-lv3-141",
+    "word": "ongoing",
+    "pronunciation": "/ˈɒnɡoʊɪŋ/",
+    "partOfSpeech": "형용사",
+    "meaning": "진행 중인",
+    "exampleEn": "Ongoing project.",
+    "exampleKo": "진행 중인 프로젝트."
+  },
+  {
+    "id": "toeic-lv3-142",
+    "word": "periodically",
+    "pronunciation": "/ˌpɪəriˈɒdɪkli/",
+    "partOfSpeech": "부사",
+    "meaning": "주기적으로",
+    "exampleEn": "Check periodically.",
+    "exampleKo": "주기적으로 확인하세요."
+  },
+  {
+    "id": "toeic-lv3-143",
+    "word": "pie",
+    "pronunciation": "/paɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "파이",
+    "exampleEn": "Bake a pie.",
+    "exampleKo": "파이를 구우세요."
+  },
+  {
+    "id": "toeic-lv3-144",
+    "word": "plug",
+    "pronunciation": "/plʌɡ/",
+    "partOfSpeech": "명사",
+    "meaning": "플러그",
+    "exampleEn": "Pull the plug.",
+    "exampleKo": "플러그를 뽑으세요."
+  },
+  {
+    "id": "toeic-lv3-145",
+    "word": "recruitment",
+    "pronunciation": "/rɪˈkruːtmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "채용",
+    "exampleEn": "Recruitment process.",
+    "exampleKo": "채용 과정."
+  },
+  {
+    "id": "toeic-lv3-146",
+    "word": "referee",
+    "pronunciation": "/ˌrɛfəˈriː/",
+    "partOfSpeech": "명사",
+    "meaning": "심판, 추천인",
+    "exampleEn": "The referee blew the whistle.",
+    "exampleKo": "심판이 호루라기를 불었다."
+  },
+  {
+    "id": "toeic-lv3-147",
+    "word": "referral",
+    "pronunciation": "/rɪˈfɜːrəl/",
+    "partOfSpeech": "명사",
+    "meaning": "추천, 의뢰",
+    "exampleEn": "Employee referral.",
+    "exampleKo": "직원 추천."
+  },
+  {
+    "id": "toeic-lv3-148",
+    "word": "renown",
+    "pronunciation": "/rɪˈnaʊn/",
+    "partOfSpeech": "명사",
+    "meaning": "명성",
+    "exampleEn": "World renown.",
+    "exampleKo": "세계적인 명성."
+  },
+  {
+    "id": "toeic-lv3-149",
+    "word": "runner",
+    "pronunciation": "/ˈrʌnər/",
+    "partOfSpeech": "명사",
+    "meaning": "달리는 사람, 심부름꾼",
+    "exampleEn": "Marathon runner.",
+    "exampleKo": "마라톤 선수."
+  },
+  {
+    "id": "toeic-lv3-150",
+    "word": "sock",
+    "pronunciation": "/sɒk/",
+    "partOfSpeech": "명사",
+    "meaning": "양말",
+    "exampleEn": "Wear matching socks.",
+    "exampleKo": "짝이 맞는 양말을 신으세요."
+  },
+  {
+    "id": "toeic-lv3-151",
+    "word": "spam",
+    "pronunciation": "/spæm/",
+    "partOfSpeech": "명사",
+    "meaning": "스팸",
+    "exampleEn": "Block spam emails.",
+    "exampleKo": "스팸 이메일을 차단하세요."
+  },
+  {
+    "id": "toeic-lv3-152",
+    "word": "surf",
+    "pronunciation": "/sɜːrf/",
+    "partOfSpeech": "동사",
+    "meaning": "서핑하다, 인터넷을 검색하다",
+    "exampleEn": "Surf the internet.",
+    "exampleKo": "인터넷을 검색하세요."
+  },
+  {
+    "id": "toeic-lv3-153",
+    "word": "timetable",
+    "pronunciation": "/ˈtaɪmteɪbəl/",
+    "partOfSpeech": "명사",
+    "meaning": "시간표",
+    "exampleEn": "Check the train timetable.",
+    "exampleKo": "기차 시간표를 확인하세요."
+  },
+  {
+    "id": "toeic-lv3-154",
+    "word": "vase",
+    "pronunciation": "/vɑːz/",
+    "partOfSpeech": "명사",
+    "meaning": "꽃병",
+    "exampleEn": "Put flowers in the vase.",
+    "exampleKo": "꽃병에 꽃을 꽂으세요."
+  },
+  {
+    "id": "toeic-lv3-155",
+    "word": "aboard",
+    "pronunciation": "/əˈbɔːrd/",
+    "partOfSpeech": "부사",
+    "meaning": "배에 타고",
+    "exampleEn": "All aboard!",
+    "exampleKo": "모두 탑승하세요!"
+  },
+  {
+    "id": "toeic-lv3-156",
+    "word": "advancement",
+    "pronunciation": "/ədˈvɑːnsmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "발전, 진급",
+    "exampleEn": "Career advancement.",
+    "exampleKo": "경력 발전."
+  },
+  {
+    "id": "toeic-lv3-157",
+    "word": "advertiser",
+    "pronunciation": "/ˈædvərtaɪzər/",
+    "partOfSpeech": "명사",
+    "meaning": "광고주",
+    "exampleEn": "Partner with advertisers.",
+    "exampleKo": "광고주와 협력하세요."
+  },
+  {
+    "id": "toeic-lv3-158",
+    "word": "alternatively",
+    "pronunciation": "/ɔːlˈtɜːrnətɪvli/",
+    "partOfSpeech": "부사",
+    "meaning": "대안으로",
+    "exampleEn": "Alternatively, use another method.",
+    "exampleKo": "대안으로 다른 방법을 사용하세요."
+  },
+  {
+    "id": "toeic-lv3-159",
+    "word": "amuse",
+    "pronunciation": "/əˈmjuːz/",
+    "partOfSpeech": "동사",
+    "meaning": "즐겁게 하다, 재미있게 하다",
+    "exampleEn": "The show amused us.",
+    "exampleKo": "공연이 우리를 즐겁게 했다."
+  },
+  {
+    "id": "toeic-lv3-160",
+    "word": "attorney",
+    "pronunciation": "/əˈtɜːrni/",
+    "partOfSpeech": "명사",
+    "meaning": "변호사",
+    "exampleEn": "Consult an attorney.",
+    "exampleKo": "변호사에게 상담하세요."
+  },
+  {
+    "id": "toeic-lv3-161",
+    "word": "authorization",
+    "pronunciation": "/ˌɔːθərɪˈzeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "허가, 승인",
+    "exampleEn": "Get authorization.",
+    "exampleKo": "허가를 받으세요."
+  },
+  {
+    "id": "toeic-lv3-162",
+    "word": "campus",
+    "pronunciation": "/ˈkæmpəs/",
+    "partOfSpeech": "명사",
+    "meaning": "캠퍼스",
+    "exampleEn": "Meet on campus.",
+    "exampleKo": "캠퍼스에서 만나세요."
+  },
+  {
+    "id": "toeic-lv3-163",
+    "word": "candy",
+    "pronunciation": "/ˈkændi/",
+    "partOfSpeech": "명사",
+    "meaning": "사탕",
+    "exampleEn": "Share candy with friends.",
+    "exampleKo": "친구들과 사탕을 나누세요."
+  },
+  {
+    "id": "toeic-lv3-164",
+    "word": "certify",
+    "pronunciation": "/ˈsɜːrtɪfaɪ/",
+    "partOfSpeech": "동사",
+    "meaning": "증명하다, 인증하다",
+    "exampleEn": "Certify the document.",
+    "exampleKo": "문서를 인증하세요."
+  },
+  {
+    "id": "toeic-lv3-165",
+    "word": "checkout",
+    "pronunciation": "/ˈtʃɛkaʊt/",
+    "partOfSpeech": "명사",
+    "meaning": "체크아웃, 계산대",
+    "exampleEn": "Fast checkout.",
+    "exampleKo": "빠른 체크아웃."
+  },
+  {
+    "id": "toeic-lv3-166",
+    "word": "chemistry",
+    "pronunciation": "/ˈkɛmɪstri/",
+    "partOfSpeech": "명사",
+    "meaning": "화학",
+    "exampleEn": "Chemistry lab.",
+    "exampleKo": "화학 실험실."
+  },
+  {
+    "id": "toeic-lv3-167",
+    "word": "circulation",
+    "pronunciation": "/ˌsɜːrkjʊˈleɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "순환, 유통",
+    "exampleEn": "Improve blood circulation.",
+    "exampleKo": "혈액 순환을 개선하세요."
+  },
+  {
+    "id": "toeic-lv3-168",
+    "word": "concierge",
+    "pronunciation": "/ˌkɒnsiˈɛərʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "컨시어지",
+    "exampleEn": "Ask the concierge.",
+    "exampleKo": "컨시어지에게 물어보세요."
+  },
+  {
+    "id": "toeic-lv3-169",
+    "word": "consent",
+    "pronunciation": "/kənˈsɛnt/",
+    "partOfSpeech": "명사",
+    "meaning": "동의, 허락",
+    "exampleEn": "Get written consent.",
+    "exampleKo": "서면 동의를 받으세요."
+  },
+  {
+    "id": "toeic-lv3-170",
+    "word": "consistently",
+    "pronunciation": "/kənˈsɪstəntli/",
+    "partOfSpeech": "부사",
+    "meaning": "일관되게",
+    "exampleEn": "Perform consistently.",
+    "exampleKo": "일관되게 수행하세요."
+  },
+  {
+    "id": "toeic-lv3-171",
+    "word": "cookie",
+    "pronunciation": "/ˈkʊki/",
+    "partOfSpeech": "명사",
+    "meaning": "쿠키",
+    "exampleEn": "Bake cookies.",
+    "exampleKo": "쿠키를 구우세요."
+  },
+  {
+    "id": "toeic-lv3-172",
+    "word": "deck",
+    "pronunciation": "/dɛk/",
+    "partOfSpeech": "명사",
+    "meaning": "갑판, 데크",
+    "exampleEn": "Meet on the deck.",
+    "exampleKo": "데크에서 만나세요."
+  },
+  {
+    "id": "toeic-lv3-173",
+    "word": "descriptive",
+    "pronunciation": "/dɪˈskrɪptɪv/",
+    "partOfSpeech": "형용사",
+    "meaning": "묘사적인",
+    "exampleEn": "Descriptive writing.",
+    "exampleKo": "묘사적인 글쓰기."
+  },
+  {
+    "id": "toeic-lv3-174",
+    "word": "detach",
+    "pronunciation": "/dɪˈtætʃ/",
+    "partOfSpeech": "동사",
+    "meaning": "분리하다",
+    "exampleEn": "Detach the cable.",
+    "exampleKo": "케이블을 분리하세요."
+  },
+  {
+    "id": "toeic-lv3-175",
+    "word": "documentation",
+    "pronunciation": "/ˌdɒkjʊmɛnˈteɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "문서화",
+    "exampleEn": "Proper documentation.",
+    "exampleKo": "적절한 문서화."
+  },
+  {
+    "id": "toeic-lv3-176",
+    "word": "entrepreneur",
+    "pronunciation": "/ˌɒntrəprəˈnɜːr/",
+    "partOfSpeech": "명사",
+    "meaning": "기업가",
+    "exampleEn": "A successful entrepreneur.",
+    "exampleKo": "성공한 기업가."
+  },
+  {
+    "id": "toeic-lv3-177",
+    "word": "exceptional",
+    "pronunciation": "/ɪkˈsɛpʃənəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "탁월한, 예외적인",
+    "exampleEn": "Exceptional performance.",
+    "exampleKo": "탁월한 성과."
+  },
+  {
+    "id": "toeic-lv3-178",
+    "word": "familiarize",
+    "pronunciation": "/fəˈmɪliəraɪz/",
+    "partOfSpeech": "동사",
+    "meaning": "익숙하게 하다",
+    "exampleEn": "Familiarize yourself.",
+    "exampleKo": "익숙해지세요."
+  },
+  {
+    "id": "toeic-lv3-179",
+    "word": "hotline",
+    "pronunciation": "/ˈhɒtlaɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "핫라인",
+    "exampleEn": "Call the hotline.",
+    "exampleKo": "핫라인에 전화하세요."
+  },
+  {
+    "id": "toeic-lv3-180",
+    "word": "intonation",
+    "pronunciation": "/ˌɪntəˈneɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "억양",
+    "exampleEn": "Natural intonation.",
+    "exampleKo": "자연스러운 억양."
+  },
+  {
+    "id": "toeic-lv3-181",
+    "word": "invention",
+    "pronunciation": "/ɪnˈvɛnʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "발명",
+    "exampleEn": "A remarkable invention.",
+    "exampleKo": "놀라운 발명."
+  },
+  {
+    "id": "toeic-lv3-182",
+    "word": "irritate",
+    "pronunciation": "/ˈɪrɪteɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "짜증나게 하다",
+    "exampleEn": "Don't irritate others.",
+    "exampleKo": "다른 사람을 짜증나게 하지 마세요."
+  },
+  {
+    "id": "toeic-lv3-183",
+    "word": "locker",
+    "pronunciation": "/ˈlɒkər/",
+    "partOfSpeech": "명사",
+    "meaning": "사물함",
+    "exampleEn": "Use the locker.",
+    "exampleKo": "사물함을 사용하세요."
+  },
+  {
+    "id": "toeic-lv3-184",
+    "word": "overlook",
+    "pronunciation": "/ˌoʊvərˈlʊk/",
+    "partOfSpeech": "동사",
+    "meaning": "간과하다, 내려다보다",
+    "exampleEn": "Don't overlook details.",
+    "exampleKo": "세부 사항을 간과하지 마세요."
+  },
+  {
+    "id": "toeic-lv3-185",
+    "word": "patent",
+    "pronunciation": "/ˈpeɪtənt/",
+    "partOfSpeech": "명사",
+    "meaning": "특허",
+    "exampleEn": "Apply for a patent.",
+    "exampleKo": "특허를 신청하세요."
+  },
+  {
+    "id": "toeic-lv3-186",
+    "word": "payable",
+    "pronunciation": "/ˈpeɪəbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "지불해야 할",
+    "exampleEn": "Payable on receipt.",
+    "exampleKo": "수령 시 지불."
+  },
+  {
+    "id": "toeic-lv3-187",
+    "word": "preliminary",
+    "pronunciation": "/prɪˈlɪmɪnəri/",
+    "partOfSpeech": "형용사",
+    "meaning": "예비의, 초보의",
+    "exampleEn": "Preliminary results.",
+    "exampleKo": "예비 결과."
+  },
+  {
+    "id": "toeic-lv3-188",
+    "word": "salesman",
+    "pronunciation": "/ˈseɪlzmən/",
+    "partOfSpeech": "명사",
+    "meaning": "영업사원, 판매원",
+    "exampleEn": "Top salesman.",
+    "exampleKo": "최고 영업사원."
+  },
+  {
+    "id": "toeic-lv3-189",
+    "word": "sauna",
+    "pronunciation": "/ˈsɔːnə/",
+    "partOfSpeech": "명사",
+    "meaning": "사우나",
+    "exampleEn": "Relax in the sauna.",
+    "exampleKo": "사우나에서 쉬세요."
+  },
+  {
+    "id": "toeic-lv3-190",
+    "word": "smoothly",
+    "pronunciation": "/ˈsmuːðli/",
+    "partOfSpeech": "부사",
+    "meaning": "매끄럽게, 순조롭게",
+    "exampleEn": "Run smoothly.",
+    "exampleKo": "순조롭게 진행하세요."
+  },
+  {
+    "id": "toeic-lv3-191",
+    "word": "sunshine",
+    "pronunciation": "/ˈsʌnʃaɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "햇살",
+    "exampleEn": "Enjoy the sunshine.",
+    "exampleKo": "햇살을 즐기세요."
+  },
+  {
+    "id": "toeic-lv3-192",
+    "word": "tow",
+    "pronunciation": "/toʊ/",
+    "partOfSpeech": "동사",
+    "meaning": "끌다, 견인하다",
+    "exampleEn": "Tow the car.",
+    "exampleKo": "차를 견인하세요."
+  },
+  {
+    "id": "toeic-lv3-193",
+    "word": "translator",
+    "pronunciation": "/trænsˈleɪtər/",
+    "partOfSpeech": "명사",
+    "meaning": "번역가",
+    "exampleEn": "Hire a translator.",
+    "exampleKo": "번역가를 고용하세요."
+  },
+  {
+    "id": "toeic-lv3-194",
+    "word": "tuition",
+    "pronunciation": "/tjuːˈɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "수업료",
+    "exampleEn": "Pay tuition fees.",
+    "exampleKo": "수업료를 납부하세요."
+  },
+  {
+    "id": "toeic-lv3-195",
+    "word": "unavailable",
+    "pronunciation": "/ˌʌnəˈveɪləbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "이용할 수 없는",
+    "exampleEn": "Service unavailable.",
+    "exampleKo": "서비스 이용 불가."
+  },
+  {
+    "id": "toeic-lv3-196",
+    "word": "violation",
+    "pronunciation": "/ˌvaɪəˈleɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "위반",
+    "exampleEn": "Traffic violation.",
+    "exampleKo": "교통 위반."
+  },
+  {
+    "id": "toeic-lv3-197",
+    "word": "webpage",
+    "pronunciation": "/ˈwɛbpeɪdʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "웹페이지",
+    "exampleEn": "Visit the webpage.",
+    "exampleKo": "웹페이지를 방문하세요."
+  },
+  {
+    "id": "toeic-lv3-198",
+    "word": "acceptance",
+    "pronunciation": "/əkˈsɛptəns/",
+    "partOfSpeech": "명사",
+    "meaning": "수락, 합격",
+    "exampleEn": "Letter of acceptance.",
+    "exampleKo": "합격 통지서."
+  },
+  {
+    "id": "toeic-lv3-199",
+    "word": "allocate",
+    "pronunciation": "/ˈæləkeɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "할당하다",
+    "exampleEn": "Allocate resources.",
+    "exampleKo": "자원을 할당하세요."
+  },
+  {
+    "id": "toeic-lv3-200",
+    "word": "ambitious",
+    "pronunciation": "/æmˈbɪʃəs/",
+    "partOfSpeech": "형용사",
+    "meaning": "야망 있는",
+    "exampleEn": "She is ambitious.",
+    "exampleKo": "그녀는 야망이 있다."
+  },
+  {
+    "id": "toeic-lv3-201",
+    "word": "appendix",
+    "pronunciation": "/əˈpɛndɪks/",
+    "partOfSpeech": "명사",
+    "meaning": "부록, 맹장",
+    "exampleEn": "See the appendix.",
+    "exampleKo": "부록을 참조하세요."
+  },
+  {
+    "id": "toeic-lv3-202",
+    "word": "booth",
+    "pronunciation": "/buːð/",
+    "partOfSpeech": "명사",
+    "meaning": "부스, 칸막이 좌석",
+    "exampleEn": "Phone booth.",
+    "exampleKo": "전화 부스."
+  },
+  {
+    "id": "toeic-lv3-203",
+    "word": "clarify",
+    "pronunciation": "/ˈklærɪfaɪ/",
+    "partOfSpeech": "동사",
+    "meaning": "명확히 하다",
+    "exampleEn": "Clarify the instructions.",
+    "exampleKo": "지침을 명확히 하세요."
+  },
+  {
+    "id": "toeic-lv3-204",
+    "word": "classmate",
+    "pronunciation": "/ˈklɑːsmeɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "반 친구, 동기",
+    "exampleEn": "My classmate.",
+    "exampleKo": "내 반 친구."
+  },
+  {
+    "id": "toeic-lv3-205",
+    "word": "compile",
+    "pronunciation": "/kəmˈpaɪl/",
+    "partOfSpeech": "동사",
+    "meaning": "수집하다, 편찬하다",
+    "exampleEn": "Compile the data.",
+    "exampleKo": "데이터를 수집하세요."
+  },
+  {
+    "id": "toeic-lv3-206",
+    "word": "correction",
+    "pronunciation": "/kəˈrɛkʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "수정, 교정",
+    "exampleEn": "Make corrections.",
+    "exampleKo": "수정을 하세요."
+  },
+  {
+    "id": "toeic-lv3-207",
+    "word": "customize",
+    "pronunciation": "/ˈkʌstəmaɪz/",
+    "partOfSpeech": "동사",
+    "meaning": "맞춤 제작하다",
+    "exampleEn": "Customize your settings.",
+    "exampleKo": "설정을 맞춤화하세요."
+  },
+  {
+    "id": "toeic-lv3-208",
+    "word": "dedication",
+    "pronunciation": "/ˌdɛdɪˈkeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "헌신, 전념",
+    "exampleEn": "Hard work and dedication.",
+    "exampleKo": "노력과 헌신."
+  },
+  {
+    "id": "toeic-lv3-209",
+    "word": "diagnose",
+    "pronunciation": "/ˈdaɪəɡnoʊz/",
+    "partOfSpeech": "동사",
+    "meaning": "진단하다",
+    "exampleEn": "The condition was difficult to diagnose accurately.",
+    "exampleKo": "그 상태는 정확하게 진단하기 어려웠습니다."
+  },
+  {
+    "id": "toeic-lv3-210",
+    "word": "discontinue",
+    "pronunciation": "/ˌdɪskənˈtɪnjuː/",
+    "partOfSpeech": "동사",
+    "meaning": "중단하다, 폐지하다",
+    "exampleEn": "Discontinue the service.",
+    "exampleKo": "서비스를 중단하세요."
+  },
+  {
+    "id": "toeic-lv3-211",
+    "word": "dishwasher",
+    "pronunciation": "/ˈdɪʃwɒʃər/",
+    "partOfSpeech": "명사",
+    "meaning": "식기세척기",
+    "exampleEn": "Load the dishwasher.",
+    "exampleKo": "식기세척기에 넣으세요."
+  },
+  {
+    "id": "toeic-lv3-212",
+    "word": "drought",
+    "pronunciation": "/draʊt/",
+    "partOfSpeech": "명사",
+    "meaning": "가뭄",
+    "exampleEn": "Severe drought.",
+    "exampleKo": "심각한 가뭄."
+  },
+  {
+    "id": "toeic-lv3-213",
+    "word": "economize",
+    "pronunciation": "/ɪˈkɒnəmaɪz/",
+    "partOfSpeech": "동사",
+    "meaning": "절약하다",
+    "exampleEn": "Economize on electricity.",
+    "exampleKo": "전기를 절약하세요."
+  },
+  {
+    "id": "toeic-lv3-214",
+    "word": "entrée",
+    "pronunciation": "/ˈɒntreɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "주요리, 앙트레",
+    "exampleEn": "Order the entrée.",
+    "exampleKo": "주요리를 주문하세요."
+  },
+  {
+    "id": "toeic-lv3-215",
+    "word": "firework",
+    "pronunciation": "/ˈfaɪərwɜːrk/",
+    "partOfSpeech": "명사",
+    "meaning": "불꽃놀이",
+    "exampleEn": "Watch fireworks.",
+    "exampleKo": "불꽃놀이를 보세요."
+  },
+  {
+    "id": "toeic-lv3-216",
+    "word": "freight",
+    "pronunciation": "/freɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "화물",
+    "exampleEn": "Freight delivery.",
+    "exampleKo": "화물 배달."
+  },
+  {
+    "id": "toeic-lv3-217",
+    "word": "fry",
+    "pronunciation": "/fraɪ/",
+    "partOfSpeech": "동사",
+    "meaning": "튀기다, 볶다",
+    "exampleEn": "Fry the eggs.",
+    "exampleKo": "달걀을 볶으세요."
+  },
+  {
+    "id": "toeic-lv3-218",
+    "word": "gallon",
+    "pronunciation": "/ˈɡælən/",
+    "partOfSpeech": "명사",
+    "meaning": "갤런",
+    "exampleEn": "Buy a gallon of milk.",
+    "exampleKo": "우유 한 갤런을 사세요."
+  },
+  {
+    "id": "toeic-lv3-219",
+    "word": "gardener",
+    "pronunciation": "/ˈɡɑːrdənər/",
+    "partOfSpeech": "명사",
+    "meaning": "정원사",
+    "exampleEn": "Hire a gardener.",
+    "exampleKo": "정원사를 고용하세요."
+  },
+  {
+    "id": "toeic-lv3-220",
+    "word": "ideally",
+    "pronunciation": "/aɪˈdiːəli/",
+    "partOfSpeech": "부사",
+    "meaning": "이상적으로",
+    "exampleEn": "Ideally, we would start now.",
+    "exampleKo": "이상적으로는 지금 시작하겠습니다."
+  },
+  {
+    "id": "toeic-lv3-221",
+    "word": "inclusive",
+    "pronunciation": "/ɪnˈkluːsɪv/",
+    "partOfSpeech": "형용사",
+    "meaning": "포괄적인",
+    "exampleEn": "All-inclusive package.",
+    "exampleKo": "올인클루시브 패키지."
+  },
+  {
+    "id": "toeic-lv3-222",
+    "word": "insufficient",
+    "pronunciation": "/ˌɪnsəˈfɪʃənt/",
+    "partOfSpeech": "형용사",
+    "meaning": "불충분한",
+    "exampleEn": "Insufficient funds.",
+    "exampleKo": "불충분한 자금."
+  },
+  {
+    "id": "toeic-lv3-223",
+    "word": "introductory",
+    "pronunciation": "/ˌɪntrəˈdʌktəri/",
+    "partOfSpeech": "형용사",
+    "meaning": "입문의, 서론의",
+    "exampleEn": "Introductory price.",
+    "exampleKo": "입문 가격."
+  },
+  {
+    "id": "toeic-lv3-224",
+    "word": "junk",
+    "pronunciation": "/dʒʌŋk/",
+    "partOfSpeech": "명사",
+    "meaning": "쓰레기, 불필요한 물건",
+    "exampleEn": "Throw away junk.",
+    "exampleKo": "쓰레기를 버리세요."
+  },
+  {
+    "id": "toeic-lv3-225",
+    "word": "ma'am",
+    "pronunciation": "/mæm/",
+    "partOfSpeech": "명사",
+    "meaning": "마님, 여사",
+    "exampleEn": "Yes, ma'am.",
+    "exampleKo": "예, 마님."
+  },
+  {
+    "id": "toeic-lv3-226",
+    "word": "mileage",
+    "pronunciation": "/ˈmaɪlɪdʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "주행 거리",
+    "exampleEn": "Check the car's mileage.",
+    "exampleKo": "차의 주행 거리를 확인하세요."
+  },
+  {
+    "id": "toeic-lv3-227",
+    "word": "noisy",
+    "pronunciation": "/ˈnɔɪzi/",
+    "partOfSpeech": "형용사",
+    "meaning": "시끄러운",
+    "exampleEn": "Noisy environment.",
+    "exampleKo": "시끄러운 환경."
+  },
+  {
+    "id": "toeic-lv3-228",
+    "word": "pan",
+    "pronunciation": "/pæn/",
+    "partOfSpeech": "명사",
+    "meaning": "팬, 냄비",
+    "exampleEn": "Heat the pan.",
+    "exampleKo": "팬을 달구세요."
+  },
+  {
+    "id": "toeic-lv3-229",
+    "word": "parcel",
+    "pronunciation": "/ˈpɑːrsəl/",
+    "partOfSpeech": "명사",
+    "meaning": "소포",
+    "exampleEn": "Deliver the parcel.",
+    "exampleKo": "소포를 배달하세요."
+  },
+  {
+    "id": "toeic-lv3-230",
+    "word": "pasta",
+    "pronunciation": "/ˈpæstə/",
+    "partOfSpeech": "명사",
+    "meaning": "파스타",
+    "exampleEn": "Cook pasta.",
+    "exampleKo": "파스타를 요리하세요."
+  },
+  {
+    "id": "toeic-lv3-231",
+    "word": "periodical",
+    "pronunciation": "/ˌpɪəriˈɒdɪkəl/",
+    "partOfSpeech": "명사",
+    "meaning": "정기 간행물",
+    "exampleEn": "Academic periodical.",
+    "exampleKo": "학술 정기 간행물."
+  },
+  {
+    "id": "toeic-lv3-232",
+    "word": "pill",
+    "pronunciation": "/pɪl/",
+    "partOfSpeech": "명사",
+    "meaning": "알약",
+    "exampleEn": "Take the pill.",
+    "exampleKo": "알약을 복용하세요."
+  },
+  {
+    "id": "toeic-lv3-233",
+    "word": "portable",
+    "pronunciation": "/ˈpɔːrtəbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "휴대용의",
+    "exampleEn": "Portable charger.",
+    "exampleKo": "휴대용 충전기."
+  },
+  {
+    "id": "toeic-lv3-234",
+    "word": "punctual",
+    "pronunciation": "/ˈpʌŋktʃuəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "시간을 지키는",
+    "exampleEn": "Be punctual.",
+    "exampleKo": "시간을 지키세요."
+  },
+  {
+    "id": "toeic-lv3-235",
+    "word": "recreation",
+    "pronunciation": "/ˌrɛkriˈeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "여가, 오락",
+    "exampleEn": "Recreation area.",
+    "exampleKo": "여가 공간."
+  },
+  {
+    "id": "toeic-lv3-236",
+    "word": "relieve",
+    "pronunciation": "/rɪˈliːv/",
+    "partOfSpeech": "동사",
+    "meaning": "완화하다, 교대하다",
+    "exampleEn": "Relieve stress.",
+    "exampleKo": "스트레스를 완화하세요."
+  },
+  {
+    "id": "toeic-lv3-237",
+    "word": "reminder",
+    "pronunciation": "/rɪˈmaɪndər/",
+    "partOfSpeech": "명사",
+    "meaning": "알림, 리마인더",
+    "exampleEn": "Set a reminder.",
+    "exampleKo": "알림을 설정하세요."
+  },
+  {
+    "id": "toeic-lv3-238",
+    "word": "rumor",
+    "pronunciation": "/ˈruːmər/",
+    "partOfSpeech": "명사",
+    "meaning": "소문",
+    "exampleEn": "Ignore the rumor.",
+    "exampleKo": "소문을 무시하세요."
+  },
+  {
+    "id": "toeic-lv3-239",
+    "word": "scarf",
+    "pronunciation": "/skɑːrf/",
+    "partOfSpeech": "명사",
+    "meaning": "스카프",
+    "exampleEn": "Wear a warm scarf.",
+    "exampleKo": "따뜻한 스카프를 두르세요."
+  },
+  {
+    "id": "toeic-lv3-240",
+    "word": "seaside",
+    "pronunciation": "/ˈsiːsaɪd/",
+    "partOfSpeech": "명사",
+    "meaning": "해변가",
+    "exampleEn": "Relax at the seaside.",
+    "exampleKo": "해변가에서 쉬세요."
+  },
+  {
+    "id": "toeic-lv3-241",
+    "word": "shorten",
+    "pronunciation": "/ˈʃɔːrtən/",
+    "partOfSpeech": "동사",
+    "meaning": "줄이다, 단축하다",
+    "exampleEn": "Shorten the deadline.",
+    "exampleKo": "마감 기한을 단축하세요."
+  },
+  {
+    "id": "toeic-lv3-242",
+    "word": "specially",
+    "pronunciation": "/ˈspɛʃəli/",
+    "partOfSpeech": "부사",
+    "meaning": "특별히",
+    "exampleEn": "Specially prepared.",
+    "exampleKo": "특별히 준비됐다."
+  },
+  {
+    "id": "toeic-lv3-243",
+    "word": "spill",
+    "pronunciation": "/spɪl/",
+    "partOfSpeech": "동사",
+    "meaning": "쏟다, 엎지르다",
+    "exampleEn": "Spill the coffee.",
+    "exampleKo": "커피를 쏟다."
+  },
+  {
+    "id": "toeic-lv3-244",
+    "word": "spouse",
+    "pronunciation": "/spaʊs/",
+    "partOfSpeech": "명사",
+    "meaning": "배우자",
+    "exampleEn": "My spouse.",
+    "exampleKo": "내 배우자."
+  },
+  {
+    "id": "toeic-lv3-245",
+    "word": "subtract",
+    "pronunciation": "/səbˈtrækt/",
+    "partOfSpeech": "동사",
+    "meaning": "빼다, 차감하다",
+    "exampleEn": "Subtract the discount.",
+    "exampleKo": "할인액을 빼세요."
+  },
+  {
+    "id": "toeic-lv3-246",
+    "word": "tablet",
+    "pronunciation": "/ˈtæblɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "태블릿",
+    "exampleEn": "Use a tablet.",
+    "exampleKo": "태블릿을 사용하세요."
+  },
+  {
+    "id": "toeic-lv3-247",
+    "word": "ton",
+    "pronunciation": "/tʌn/",
+    "partOfSpeech": "명사",
+    "meaning": "톤",
+    "exampleEn": "One ton.",
+    "exampleKo": "1톤."
+  },
+  {
+    "id": "toeic-lv3-248",
+    "word": "vend",
+    "pronunciation": "/vɛnd/",
+    "partOfSpeech": "동사",
+    "meaning": "판매하다, 팔다",
+    "exampleEn": "Vend the product.",
+    "exampleKo": "제품을 판매하다."
+  },
+  {
+    "id": "toeic-lv3-249",
+    "word": "yoga",
+    "pronunciation": "/ˈjoʊɡə/",
+    "partOfSpeech": "명사",
+    "meaning": "요가",
+    "exampleEn": "Practice yoga daily.",
+    "exampleKo": "매일 요가를 하세요."
+  },
+  {
+    "id": "toeic-lv3-250",
+    "word": "accent",
+    "pronunciation": "/ˈæksɛnt/",
+    "partOfSpeech": "명사",
+    "meaning": "억양, 강조",
+    "exampleEn": "The speaker had a distinct regional accent.",
+    "exampleKo": "그 화자는 뚜렷한 지역 억양을 가지고 있었습니다."
+  }
+]
