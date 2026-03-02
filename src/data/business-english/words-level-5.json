@@ -1,0 +1,2621 @@
+[
+  {
+    "id": "biz-lv5-001",
+    "word": "geographical",
+    "pronunciation": "/ˌdʒiːəˈɡræfɪkəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "지리적인",
+    "exampleEn": "The geographical scope of operations has expanded.",
+    "exampleKo": "운영의 지리적 범위가 확대됐습니다."
+  },
+  {
+    "id": "biz-lv5-002",
+    "word": "voucher",
+    "pronunciation": "/ˈvaʊtʃər/",
+    "partOfSpeech": "명사",
+    "meaning": "상품권, 바우처",
+    "exampleEn": "Redeem your voucher at any participating store.",
+    "exampleKo": "참여 매장 어디서든 바우처를 사용하세요."
+  },
+  {
+    "id": "biz-lv5-003",
+    "word": "encompass",
+    "pronunciation": "/ɪnˈkʌmpəs/",
+    "partOfSpeech": "동사",
+    "meaning": "포괄하다",
+    "exampleEn": "The strategy encompasses all market segments.",
+    "exampleKo": "전략은 모든 시장 부문을 포괄합니다."
+  },
+  {
+    "id": "biz-lv5-004",
+    "word": "proportional",
+    "pronunciation": "/prəˈpɔːrʃənəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "비례하는",
+    "exampleEn": "The bonus is proportional to performance.",
+    "exampleKo": "보너스는 성과에 비례합니다."
+  },
+  {
+    "id": "biz-lv5-005",
+    "word": "seminar",
+    "pronunciation": "/ˈsɛmɪnɑːr/",
+    "partOfSpeech": "명사",
+    "meaning": "세미나",
+    "exampleEn": "The annual seminar will be held next week.",
+    "exampleKo": "연례 세미나가 다음 주에 열릴 것입니다."
+  },
+  {
+    "id": "biz-lv5-006",
+    "word": "uncover",
+    "pronunciation": "/ʌnˈkʌvər/",
+    "partOfSpeech": "동사",
+    "meaning": "발견하다, 밝히다",
+    "exampleEn": "The audit uncovered several discrepancies.",
+    "exampleKo": "감사에서 몇 가지 불일치가 발견됐습니다."
+  },
+  {
+    "id": "biz-lv5-007",
+    "word": "petty",
+    "pronunciation": "/ˈpeti/",
+    "partOfSpeech": "형용사",
+    "meaning": "사소한, 하찮은",
+    "exampleEn": "Petty cash was misused.",
+    "exampleKo": "소액 현금이 남용됐다."
+  },
+  {
+    "id": "biz-lv5-008",
+    "word": "convergence",
+    "pronunciation": "/kənˈvɜːrdʒəns/",
+    "partOfSpeech": "명사",
+    "meaning": "수렴, 융합",
+    "exampleEn": "Industry convergence continued.",
+    "exampleKo": "산업 융합이 계속됐다."
+  },
+  {
+    "id": "biz-lv5-009",
+    "word": "worsen",
+    "pronunciation": "/ˈwɜːrsən/",
+    "partOfSpeech": "동사",
+    "meaning": "악화되다",
+    "exampleEn": "Conditions worsened sharply.",
+    "exampleKo": "상황이 크게 악화됐다."
+  },
+  {
+    "id": "biz-lv5-010",
+    "word": "rejection",
+    "pronunciation": "/rɪˈdʒekʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "거절, 기각",
+    "exampleEn": "The bid faced rejection.",
+    "exampleKo": "입찰이 기각됐다."
+  },
+  {
+    "id": "biz-lv5-011",
+    "word": "reorganization",
+    "pronunciation": "/ˌriːˌɔːrɡənaɪˈzeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "구조 재편",
+    "exampleEn": "A corporate reorganization began.",
+    "exampleKo": "기업 구조 재편이 시작됐다."
+  },
+  {
+    "id": "biz-lv5-012",
+    "word": "mitigate",
+    "pronunciation": "/ˈmɪtɪɡeɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "완화하다",
+    "exampleEn": "Risks were mitigated.",
+    "exampleKo": "위험이 완화됐다."
+  },
+  {
+    "id": "biz-lv5-013",
+    "word": "successive",
+    "pronunciation": "/səkˈsesɪv/",
+    "partOfSpeech": "형용사",
+    "meaning": "연속적인",
+    "exampleEn": "Successive losses alarmed investors.",
+    "exampleKo": "연속적인 손실이 투자자들을 놀라게 했다."
+  },
+  {
+    "id": "biz-lv5-014",
+    "word": "blend",
+    "pronunciation": "/blend/",
+    "partOfSpeech": "명사",
+    "meaning": "혼합",
+    "exampleEn": "A blend of strategies was used.",
+    "exampleKo": "전략의 혼합이 사용됐다."
+  },
+  {
+    "id": "biz-lv5-015",
+    "word": "performer",
+    "pronunciation": "/pərˈfɔːrmər/",
+    "partOfSpeech": "명사",
+    "meaning": "공연자",
+    "exampleEn": "A talented performer.",
+    "exampleKo": "재능 있는 공연자."
+  },
+  {
+    "id": "biz-lv5-016",
+    "word": "simplicity",
+    "pronunciation": "/sɪmˈplɪsɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "단순성",
+    "exampleEn": "Simplicity drives good design.",
+    "exampleKo": "단순성이 좋은 디자인을 이끈다."
+  },
+  {
+    "id": "biz-lv5-017",
+    "word": "static",
+    "pronunciation": "/ˈstætɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "정적인, 변화 없는",
+    "exampleEn": "The market remained static.",
+    "exampleKo": "시장이 정적인 상태를 유지했다."
+  },
+  {
+    "id": "biz-lv5-018",
+    "word": "deregulation",
+    "pronunciation": "/ˌdiːˌreɡjʊˈleɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "규제 완화",
+    "exampleEn": "Deregulation boosted competition.",
+    "exampleKo": "규제 완화가 경쟁을 촉진했다."
+  },
+  {
+    "id": "biz-lv5-019",
+    "word": "computerize",
+    "pronunciation": "/kəmˈpjuːtəraɪz/",
+    "partOfSpeech": "동사",
+    "meaning": "전산화하다",
+    "exampleEn": "Records were computerized.",
+    "exampleKo": "기록이 전산화됐다."
+  },
+  {
+    "id": "biz-lv5-020",
+    "word": "succession",
+    "pronunciation": "/səkˈseʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "계승, 승계",
+    "exampleEn": "CEO succession was planned.",
+    "exampleKo": "CEO 승계가 계획됐다."
+  },
+  {
+    "id": "biz-lv5-021",
+    "word": "royalty",
+    "pronunciation": "/ˈrɔɪəlti/",
+    "partOfSpeech": "명사",
+    "meaning": "로열티, 사용료",
+    "exampleEn": "Royalties were paid monthly.",
+    "exampleKo": "로열티가 매월 지급됐다."
+  },
+  {
+    "id": "biz-lv5-022",
+    "word": "classroom",
+    "pronunciation": "/ˈklɑːsruːm/",
+    "partOfSpeech": "명사",
+    "meaning": "교실",
+    "exampleEn": "Online classroom usage grew.",
+    "exampleKo": "온라인 교실 이용이 증가했다."
+  },
+  {
+    "id": "biz-lv5-023",
+    "word": "spectacular",
+    "pronunciation": "/spekˈtækjʊlər/",
+    "partOfSpeech": "형용사",
+    "meaning": "놀라운, 훌륭한",
+    "exampleEn": "Spectacular growth was reported.",
+    "exampleKo": "놀라운 성장이 보고됐다."
+  },
+  {
+    "id": "biz-lv5-024",
+    "word": "macro",
+    "pronunciation": "/ˈmækroʊ/",
+    "partOfSpeech": "형용사",
+    "meaning": "거시적인",
+    "exampleEn": "Macro risks are rising.",
+    "exampleKo": "거시적 위험이 증가하고 있다."
+  },
+  {
+    "id": "biz-lv5-025",
+    "word": "flourish",
+    "pronunciation": "/ˈflʌrɪʃ/",
+    "partOfSpeech": "동사",
+    "meaning": "번성하다",
+    "exampleEn": "Small firms flourished.",
+    "exampleKo": "소기업들이 번성했다."
+  },
+  {
+    "id": "biz-lv5-026",
+    "word": "insurgent",
+    "pronunciation": "/ɪnˈsɜːrdʒənt/",
+    "partOfSpeech": "명사",
+    "meaning": "반군, 반란자",
+    "exampleEn": "Insurgent activity disrupted supply.",
+    "exampleKo": "반군 활동이 공급을 방해했다."
+  },
+  {
+    "id": "biz-lv5-027",
+    "word": "script",
+    "pronunciation": "/skrɪpt/",
+    "partOfSpeech": "명사",
+    "meaning": "각본, 스크립트",
+    "exampleEn": "The sales script was updated.",
+    "exampleKo": "영업 스크립트가 업데이트됐다."
+  },
+  {
+    "id": "biz-lv5-028",
+    "word": "relevance",
+    "pronunciation": "/ˈreləvəns/",
+    "partOfSpeech": "명사",
+    "meaning": "관련성, 타당성",
+    "exampleEn": "Market relevance was questioned.",
+    "exampleKo": "시장 관련성이 의문시됐다."
+  },
+  {
+    "id": "biz-lv5-029",
+    "word": "complement",
+    "pronunciation": "/ˈkɒmplɪment/",
+    "partOfSpeech": "명사",
+    "meaning": "보완물",
+    "exampleEn": "The product is a complement.",
+    "exampleKo": "제품이 보완물이다."
+  },
+  {
+    "id": "biz-lv5-030",
+    "word": "oral",
+    "pronunciation": "/ˈɔːrəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "구두의, 구술의",
+    "exampleEn": "An oral agreement was made.",
+    "exampleKo": "구두 합의가 이루어졌다."
+  },
+  {
+    "id": "biz-lv5-031",
+    "word": "setup",
+    "pronunciation": "/ˈsetʌp/",
+    "partOfSpeech": "명사",
+    "meaning": "설정, 구성",
+    "exampleEn": "The setup costs were high.",
+    "exampleKo": "설정 비용이 높았다."
+  },
+  {
+    "id": "biz-lv5-032",
+    "word": "notable",
+    "pronunciation": "/ˈnoʊtəbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "주목할 만한",
+    "exampleEn": "Notable gains were made.",
+    "exampleKo": "주목할 만한 성과가 이루어졌다."
+  },
+  {
+    "id": "biz-lv5-033",
+    "word": "tranche",
+    "pronunciation": "/trɑːnʃ/",
+    "partOfSpeech": "명사",
+    "meaning": "트란쉐, 분할 발행",
+    "exampleEn": "The first tranche was sold.",
+    "exampleKo": "첫 번째 트란쉐가 매각됐다."
+  },
+  {
+    "id": "biz-lv5-034",
+    "word": "numerical",
+    "pronunciation": "/njuːˈmerɪkəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "수치의, 수량의",
+    "exampleEn": "Numerical targets were set.",
+    "exampleKo": "수치 목표가 설정됐다."
+  },
+  {
+    "id": "biz-lv5-035",
+    "word": "policymaker",
+    "pronunciation": "/ˈpɒlɪsiˌmeɪkər/",
+    "partOfSpeech": "명사",
+    "meaning": "정책 입안자",
+    "exampleEn": "Policymakers met to discuss rates.",
+    "exampleKo": "정책 입안자들이 금리 논의에 모였다."
+  },
+  {
+    "id": "biz-lv5-036",
+    "word": "technically",
+    "pronunciation": "/ˈteknɪkli/",
+    "partOfSpeech": "부사",
+    "meaning": "기술적으로",
+    "exampleEn": "Technically, they defaulted.",
+    "exampleKo": "기술적으로는 채무불이행이다."
+  },
+  {
+    "id": "biz-lv5-037",
+    "word": "organ",
+    "pronunciation": "/ˈɔːrɡən/",
+    "partOfSpeech": "명사",
+    "meaning": "기관, 조직",
+    "exampleEn": "A regulatory organ was created.",
+    "exampleKo": "규제 기관이 설립됐다."
+  },
+  {
+    "id": "biz-lv5-038",
+    "word": "cheat",
+    "pronunciation": "/tʃiːt/",
+    "partOfSpeech": "동사",
+    "meaning": "속이다",
+    "exampleEn": "Companies cheated on taxes.",
+    "exampleKo": "기업들이 세금을 속였다."
+  },
+  {
+    "id": "biz-lv5-039",
+    "word": "utilization",
+    "pronunciation": "/ˌjuːtɪlaɪˈzeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "활용률",
+    "exampleEn": "Capacity utilization rose.",
+    "exampleKo": "설비 활용률이 올랐다."
+  },
+  {
+    "id": "biz-lv5-040",
+    "word": "tumble",
+    "pronunciation": "/ˈtʌmbəl/",
+    "partOfSpeech": "동사",
+    "meaning": "급락하다",
+    "exampleEn": "Stocks tumbled on the news.",
+    "exampleKo": "주가가 소식에 급락했다."
+  },
+  {
+    "id": "biz-lv5-041",
+    "word": "baseline",
+    "pronunciation": "/ˈbeɪslaɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "기준선, 기초치",
+    "exampleEn": "Baseline data was established.",
+    "exampleKo": "기준 데이터가 확립됐다."
+  },
+  {
+    "id": "biz-lv5-042",
+    "word": "template",
+    "pronunciation": "/ˈtemplɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "템플릿, 틀",
+    "exampleEn": "A reporting template was created.",
+    "exampleKo": "보고 템플릿이 만들어졌다."
+  },
+  {
+    "id": "biz-lv5-043",
+    "word": "cheer",
+    "pronunciation": "/tʃɪər/",
+    "partOfSpeech": "동사",
+    "meaning": "응원하다, 기운을 북돋우다",
+    "exampleEn": "Cheer the team.",
+    "exampleKo": "팀을 응원하세요."
+  },
+  {
+    "id": "biz-lv5-044",
+    "word": "dependence",
+    "pronunciation": "/dɪˈpɛndəns/",
+    "partOfSpeech": "명사",
+    "meaning": "의존",
+    "exampleEn": "Reduce dependence.",
+    "exampleKo": "의존도를 줄이세요."
+  },
+  {
+    "id": "biz-lv5-045",
+    "word": "instability",
+    "pronunciation": "/ˌɪnstəˈbɪlɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "불안정성",
+    "exampleEn": "Political instability hurt markets.",
+    "exampleKo": "정치적 불안정이 시장을 해쳤다."
+  },
+  {
+    "id": "biz-lv5-046",
+    "word": "obituary",
+    "pronunciation": "/əˈbɪtʃuəri/",
+    "partOfSpeech": "명사",
+    "meaning": "부고, 사망 기사",
+    "exampleEn": "An industry obituary was written.",
+    "exampleKo": "산업 부고가 쓰였다."
+  },
+  {
+    "id": "biz-lv5-047",
+    "word": "ray",
+    "pronunciation": "/reɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "광선",
+    "exampleEn": "A ray of sunlight.",
+    "exampleKo": "햇살."
+  },
+  {
+    "id": "biz-lv5-048",
+    "word": "peso",
+    "pronunciation": "/ˈpeɪsoʊ/",
+    "partOfSpeech": "명사",
+    "meaning": "페소",
+    "exampleEn": "The peso weakened sharply.",
+    "exampleKo": "페소가 크게 약세를 보였다."
+  },
+  {
+    "id": "biz-lv5-049",
+    "word": "denominate",
+    "pronunciation": "/dɪˈnɒmɪneɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "~표시로 나타내다",
+    "exampleEn": "Bonds denominated in dollars.",
+    "exampleKo": "달러 표시 채권."
+  },
+  {
+    "id": "biz-lv5-050",
+    "word": "shortfall",
+    "pronunciation": "/ˈʃɔːrtfɔːl/",
+    "partOfSpeech": "명사",
+    "meaning": "부족분, 적자",
+    "exampleEn": "A revenue shortfall emerged.",
+    "exampleKo": "수익 부족분이 발생했다."
+  },
+  {
+    "id": "biz-lv5-051",
+    "word": "durable",
+    "pronunciation": "/ˈdjʊərəbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "내구성 있는",
+    "exampleEn": "Durable materials.",
+    "exampleKo": "내구성 있는 소재."
+  },
+  {
+    "id": "biz-lv5-052",
+    "word": "countryside",
+    "pronunciation": "/ˈkʌntrisaɪd/",
+    "partOfSpeech": "명사",
+    "meaning": "시골",
+    "exampleEn": "Live in the countryside.",
+    "exampleKo": "시골에 살다."
+  },
+  {
+    "id": "biz-lv5-053",
+    "word": "originate",
+    "pronunciation": "/əˈrɪdʒɪneɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "발생하다, 시작되다",
+    "exampleEn": "The loan was originated locally.",
+    "exampleKo": "대출이 현지에서 시작됐다."
+  },
+  {
+    "id": "biz-lv5-054",
+    "word": "bureaucratic",
+    "pronunciation": "/ˌbjʊərəˈkrætɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "관료적인",
+    "exampleEn": "Bureaucratic red tape slows deals.",
+    "exampleKo": "관료적 형식주의가 거래를 늦춘다."
+  },
+  {
+    "id": "biz-lv5-055",
+    "word": "periodically",
+    "pronunciation": "/ˌpɪəriˈɒdɪkli/",
+    "partOfSpeech": "부사",
+    "meaning": "주기적으로",
+    "exampleEn": "Check periodically.",
+    "exampleKo": "주기적으로 확인하세요."
+  },
+  {
+    "id": "biz-lv5-056",
+    "word": "campus",
+    "pronunciation": "/ˈkæmpəs/",
+    "partOfSpeech": "명사",
+    "meaning": "캠퍼스",
+    "exampleEn": "Meet on campus.",
+    "exampleKo": "캠퍼스에서 만나세요."
+  },
+  {
+    "id": "biz-lv5-057",
+    "word": "stochastic",
+    "pronunciation": "/stəˈkæstɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "확률적인",
+    "exampleEn": "Stochastic models were used.",
+    "exampleKo": "확률적 모델이 사용됐다."
+  },
+  {
+    "id": "biz-lv5-058",
+    "word": "kidnap",
+    "pronunciation": "/ˈkɪdnæp/",
+    "partOfSpeech": "동사",
+    "meaning": "납치하다",
+    "exampleEn": "A CEO was kidnapped.",
+    "exampleKo": "CEO가 납치됐다."
+  },
+  {
+    "id": "biz-lv5-059",
+    "word": "prevention",
+    "pronunciation": "/prɪˈvenʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "예방",
+    "exampleEn": "Fraud prevention improved.",
+    "exampleKo": "사기 예방이 향상됐다."
+  },
+  {
+    "id": "biz-lv5-060",
+    "word": "redundancy",
+    "pronunciation": "/rɪˈdʌndənsi/",
+    "partOfSpeech": "명사",
+    "meaning": "잉여 인원, 정리해고",
+    "exampleEn": "Redundancies were announced.",
+    "exampleKo": "정리해고가 발표됐다."
+  },
+  {
+    "id": "biz-lv5-061",
+    "word": "dictator",
+    "pronunciation": "/ˈdɪkteɪtər/",
+    "partOfSpeech": "명사",
+    "meaning": "독재자",
+    "exampleEn": "The market dictator set prices.",
+    "exampleKo": "시장 독재자가 가격을 정했다."
+  },
+  {
+    "id": "biz-lv5-062",
+    "word": "dual",
+    "pronunciation": "/djuːəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "이중의",
+    "exampleEn": "A dual listing was planned.",
+    "exampleKo": "이중 상장이 계획됐다."
+  },
+  {
+    "id": "biz-lv5-063",
+    "word": "brick",
+    "pronunciation": "/brɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "벽돌, 오프라인 매장",
+    "exampleEn": "Brick and mortar stores declined.",
+    "exampleKo": "오프라인 매장이 감소했다."
+  },
+  {
+    "id": "biz-lv5-064",
+    "word": "internally",
+    "pronunciation": "/ɪnˈtɜːrnəli/",
+    "partOfSpeech": "부사",
+    "meaning": "내부적으로",
+    "exampleEn": "Promotions were handled internally.",
+    "exampleKo": "승진이 내부적으로 처리됐다."
+  },
+  {
+    "id": "biz-lv5-065",
+    "word": "unhappy",
+    "pronunciation": "/ʌnˈhæpi/",
+    "partOfSpeech": "형용사",
+    "meaning": "불행한, 불만족스러운",
+    "exampleEn": "She is unhappy with the result.",
+    "exampleKo": "그녀는 결과에 불만족합니다."
+  },
+  {
+    "id": "biz-lv5-066",
+    "word": "erode",
+    "pronunciation": "/ɪˈroʊd/",
+    "partOfSpeech": "동사",
+    "meaning": "침식하다, 약화시키다",
+    "exampleEn": "Profits eroded over time.",
+    "exampleKo": "수익이 시간이 지나면서 약화됐다."
+  },
+  {
+    "id": "biz-lv5-067",
+    "word": "refinance",
+    "pronunciation": "/ˌriːfaɪˈnæns/",
+    "partOfSpeech": "동사",
+    "meaning": "차환하다",
+    "exampleEn": "The debt was refinanced.",
+    "exampleKo": "부채가 차환됐다."
+  },
+  {
+    "id": "biz-lv5-068",
+    "word": "tribal",
+    "pronunciation": "/ˈtraɪbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "부족의",
+    "exampleEn": "Tribal conflicts disrupted supply.",
+    "exampleKo": "부족 갈등이 공급을 방해했다."
+  },
+  {
+    "id": "biz-lv5-069",
+    "word": "empower",
+    "pronunciation": "/ɪmˈpaʊər/",
+    "partOfSpeech": "동사",
+    "meaning": "권한을 부여하다",
+    "exampleEn": "Employees were empowered.",
+    "exampleKo": "직원들에게 권한이 부여됐다."
+  },
+  {
+    "id": "biz-lv5-070",
+    "word": "oversight",
+    "pronunciation": "/ˈoʊvərsaɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "감독, 실수",
+    "exampleEn": "Regulatory oversight increased.",
+    "exampleKo": "규제 감독이 강화됐다."
+  },
+  {
+    "id": "biz-lv5-071",
+    "word": "transparent",
+    "pronunciation": "/trænsˈpærənt/",
+    "partOfSpeech": "형용사",
+    "meaning": "투명한",
+    "exampleEn": "Reporting must be transparent.",
+    "exampleKo": "보고가 투명해야 한다."
+  },
+  {
+    "id": "biz-lv5-072",
+    "word": "predictor",
+    "pronunciation": "/prɪˈdɪktər/",
+    "partOfSpeech": "명사",
+    "meaning": "예측 변수",
+    "exampleEn": "GDP is a strong predictor.",
+    "exampleKo": "GDP가 강력한 예측 변수이다."
+  },
+  {
+    "id": "biz-lv5-073",
+    "word": "interfere",
+    "pronunciation": "/ˌɪntərˈfɪər/",
+    "partOfSpeech": "동사",
+    "meaning": "간섭하다",
+    "exampleEn": "Don't interfere.",
+    "exampleKo": "간섭하지 마세요."
+  },
+  {
+    "id": "biz-lv5-074",
+    "word": "dominance",
+    "pronunciation": "/ˈdɒmɪnəns/",
+    "partOfSpeech": "명사",
+    "meaning": "우세, 지배력",
+    "exampleEn": "Market dominance was achieved.",
+    "exampleKo": "시장 지배력이 달성됐다."
+  },
+  {
+    "id": "biz-lv5-075",
+    "word": "segmentation",
+    "pronunciation": "/ˌseɡmenˈteɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "세분화",
+    "exampleEn": "Market segmentation was key.",
+    "exampleKo": "시장 세분화가 핵심이었다."
+  },
+  {
+    "id": "biz-lv5-076",
+    "word": "hugely",
+    "pronunciation": "/ˈhjuːdʒli/",
+    "partOfSpeech": "부사",
+    "meaning": "엄청나게",
+    "exampleEn": "The deal was hugely profitable.",
+    "exampleKo": "거래가 엄청나게 수익성이 있었다."
+  },
+  {
+    "id": "biz-lv5-077",
+    "word": "arbitrary",
+    "pronunciation": "/ˈɑːrbɪtrəri/",
+    "partOfSpeech": "형용사",
+    "meaning": "임의적인",
+    "exampleEn": "Arbitrary decisions hurt morale.",
+    "exampleKo": "임의적인 결정이 사기를 해쳤다."
+  },
+  {
+    "id": "biz-lv5-078",
+    "word": "seemingly",
+    "pronunciation": "/ˈsiːmɪŋli/",
+    "partOfSpeech": "부사",
+    "meaning": "겉보기에는",
+    "exampleEn": "Seemingly minor risks accumulated.",
+    "exampleKo": "겉보기에는 사소한 위험이 누적됐다."
+  },
+  {
+    "id": "biz-lv5-079",
+    "word": "integral",
+    "pronunciation": "/ˈɪntɪɡrəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "필수적인, 통합적인",
+    "exampleEn": "Integral part.",
+    "exampleKo": "필수적인 부분."
+  },
+  {
+    "id": "biz-lv5-080",
+    "word": "wholesaler",
+    "pronunciation": "/ˈhoʊlseɪlər/",
+    "partOfSpeech": "명사",
+    "meaning": "도매업자",
+    "exampleEn": "Wholesalers cut margins.",
+    "exampleKo": "도매업자들이 마진을 줄였다."
+  },
+  {
+    "id": "biz-lv5-081",
+    "word": "renewable",
+    "pronunciation": "/rɪˈnjuːəbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "재생 가능한",
+    "exampleEn": "Renewable energy investment grew.",
+    "exampleKo": "재생에너지 투자가 증가했다."
+  },
+  {
+    "id": "biz-lv5-082",
+    "word": "bilateral",
+    "pronunciation": "/ˌbaɪˈlætərəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "양자 간의",
+    "exampleEn": "A bilateral trade deal was signed.",
+    "exampleKo": "양자 무역 협정이 체결됐다."
+  },
+  {
+    "id": "biz-lv5-083",
+    "word": "visa",
+    "pronunciation": "/ˈviːzə/",
+    "partOfSpeech": "명사",
+    "meaning": "비자",
+    "exampleEn": "Apply for a visa.",
+    "exampleKo": "비자를 신청하세요."
+  },
+  {
+    "id": "biz-lv5-084",
+    "word": "disagreement",
+    "pronunciation": "/ˌdɪsəˈɡriːmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "불일치, 의견 차이",
+    "exampleEn": "Resolve the disagreement.",
+    "exampleKo": "의견 차이를 해결하세요."
+  },
+  {
+    "id": "biz-lv5-085",
+    "word": "cotton",
+    "pronunciation": "/ˈkɒtən/",
+    "partOfSpeech": "명사",
+    "meaning": "면화",
+    "exampleEn": "Cotton futures fell.",
+    "exampleKo": "면화 선물이 하락했다."
+  },
+  {
+    "id": "biz-lv5-086",
+    "word": "intensity",
+    "pronunciation": "/ɪnˈtensɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "강도, 집중도",
+    "exampleEn": "Competition intensity rose.",
+    "exampleKo": "경쟁 강도가 높아졌다."
+  },
+  {
+    "id": "biz-lv5-087",
+    "word": "routinely",
+    "pronunciation": "/ruːˈtiːnli/",
+    "partOfSpeech": "부사",
+    "meaning": "일상적으로",
+    "exampleEn": "Audits are routinely performed.",
+    "exampleKo": "감사가 일상적으로 수행된다."
+  },
+  {
+    "id": "biz-lv5-088",
+    "word": "displace",
+    "pronunciation": "/dɪˈspleɪs/",
+    "partOfSpeech": "동사",
+    "meaning": "대체하다, 몰아내다",
+    "exampleEn": "Automation displaced workers.",
+    "exampleKo": "자동화가 노동자를 대체했다."
+  },
+  {
+    "id": "biz-lv5-089",
+    "word": "immune",
+    "pronunciation": "/ɪˈmjuːn/",
+    "partOfSpeech": "형용사",
+    "meaning": "면역이 있는, 영향받지 않는",
+    "exampleEn": "No sector is immune to risk.",
+    "exampleKo": "어떤 섹터도 위험에서 면역이 없다."
+  },
+  {
+    "id": "biz-lv5-090",
+    "word": "obscure",
+    "pronunciation": "/əbˈskjʊər/",
+    "partOfSpeech": "형용사",
+    "meaning": "모호한, 잘 알려지지 않은",
+    "exampleEn": "Obscure accounting rules hid losses.",
+    "exampleKo": "모호한 회계 규정이 손실을 감췄다."
+  },
+  {
+    "id": "biz-lv5-091",
+    "word": "mobility",
+    "pronunciation": "/moʊˈbɪlɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "이동성, 유동성",
+    "exampleEn": "Labor mobility increased.",
+    "exampleKo": "노동 이동성이 증가했다."
+  },
+  {
+    "id": "biz-lv5-092",
+    "word": "dilute",
+    "pronunciation": "/daɪˈluːt/",
+    "partOfSpeech": "동사",
+    "meaning": "희석하다",
+    "exampleEn": "The solution was diluted to reduce concentration.",
+    "exampleKo": "농도를 낮추기 위해 용액을 희석했습니다."
+  },
+  {
+    "id": "biz-lv5-093",
+    "word": "precedent",
+    "pronunciation": "/ˈpresɪdənt/",
+    "partOfSpeech": "명사",
+    "meaning": "선례",
+    "exampleEn": "A legal precedent was set.",
+    "exampleKo": "법적 선례가 세워졌다."
+  },
+  {
+    "id": "biz-lv5-094",
+    "word": "elaborate",
+    "pronunciation": "/ɪˈlæbərɪt/",
+    "partOfSpeech": "형용사",
+    "meaning": "정교한",
+    "exampleEn": "An elaborate scheme was uncovered.",
+    "exampleKo": "정교한 계획이 드러났다."
+  },
+  {
+    "id": "biz-lv5-095",
+    "word": "reprint",
+    "pronunciation": "/ˌriːˈprɪnt/",
+    "partOfSpeech": "동사",
+    "meaning": "재인쇄하다",
+    "exampleEn": "The report was reprinted.",
+    "exampleKo": "보고서가 재인쇄됐다."
+  },
+  {
+    "id": "biz-lv5-096",
+    "word": "bull",
+    "pronunciation": "/bʊl/",
+    "partOfSpeech": "명사",
+    "meaning": "강세장, 황소",
+    "exampleEn": "A bull market emerged.",
+    "exampleKo": "강세장이 나타났다."
+  },
+  {
+    "id": "biz-lv5-097",
+    "word": "grocery",
+    "pronunciation": "/ˈɡroʊsəri/",
+    "partOfSpeech": "명사",
+    "meaning": "식료품",
+    "exampleEn": "Buy groceries at the store.",
+    "exampleKo": "가게에서 식료품을 구매하세요."
+  },
+  {
+    "id": "biz-lv5-098",
+    "word": "satisfactory",
+    "pronunciation": "/ˌsætɪsˈfæktəri/",
+    "partOfSpeech": "형용사",
+    "meaning": "만족스러운",
+    "exampleEn": "Satisfactory result.",
+    "exampleKo": "만족스러운 결과."
+  },
+  {
+    "id": "biz-lv5-099",
+    "word": "clone",
+    "pronunciation": "/kloʊn/",
+    "partOfSpeech": "동사",
+    "meaning": "복제하다",
+    "exampleEn": "Products were cloned cheaply.",
+    "exampleKo": "제품이 저렴하게 복제됐다."
+  },
+  {
+    "id": "biz-lv5-100",
+    "word": "extremist",
+    "pronunciation": "/ɪkˈstriːmɪst/",
+    "partOfSpeech": "명사",
+    "meaning": "극단주의자",
+    "exampleEn": "Extremist groups affected markets.",
+    "exampleKo": "극단주의 단체들이 시장에 영향을 미쳤다."
+  },
+  {
+    "id": "biz-lv5-101",
+    "word": "peg",
+    "pronunciation": "/peɡ/",
+    "partOfSpeech": "명사",
+    "meaning": "고정환율, 못",
+    "exampleEn": "The currency peg was maintained.",
+    "exampleKo": "통화 고정환율이 유지됐다."
+  },
+  {
+    "id": "biz-lv5-102",
+    "word": "idle",
+    "pronunciation": "/ˈaɪdəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "유휴의, 놀고 있는",
+    "exampleEn": "Idle capacity was a problem.",
+    "exampleKo": "유휴 설비가 문제였다."
+  },
+  {
+    "id": "biz-lv5-103",
+    "word": "urgent",
+    "pronunciation": "/ˈɜːrdʒənt/",
+    "partOfSpeech": "형용사",
+    "meaning": "긴급한, 시급한",
+    "exampleEn": "This is urgent.",
+    "exampleKo": "이것은 긴급하다."
+  },
+  {
+    "id": "biz-lv5-104",
+    "word": "affordable",
+    "pronunciation": "/əˈfɔːrdəbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "저렴한, 부담 없는",
+    "exampleEn": "The price is affordable.",
+    "exampleKo": "가격이 저렴합니다."
+  },
+  {
+    "id": "biz-lv5-105",
+    "word": "allegedly",
+    "pronunciation": "/əˈledʒɪdli/",
+    "partOfSpeech": "부사",
+    "meaning": "주장에 따르면",
+    "exampleEn": "Funds were allegedly misused.",
+    "exampleKo": "자금이 주장에 따르면 남용됐다."
+  },
+  {
+    "id": "biz-lv5-106",
+    "word": "laptop",
+    "pronunciation": "/ˈlæptɒp/",
+    "partOfSpeech": "명사",
+    "meaning": "노트북 컴퓨터",
+    "exampleEn": "I work on my laptop.",
+    "exampleKo": "노트북으로 일합니다."
+  },
+  {
+    "id": "biz-lv5-107",
+    "word": "annualize",
+    "pronunciation": "/ˈænjʊəlaɪz/",
+    "partOfSpeech": "동사",
+    "meaning": "연율화하다",
+    "exampleEn": "Returns were annualized.",
+    "exampleKo": "수익이 연율화됐다."
+  },
+  {
+    "id": "biz-lv5-108",
+    "word": "turmoil",
+    "pronunciation": "/ˈtɜːrmɔɪl/",
+    "partOfSpeech": "명사",
+    "meaning": "혼란, 격동",
+    "exampleEn": "Market turmoil erupted.",
+    "exampleKo": "시장 혼란이 터졌다."
+  },
+  {
+    "id": "biz-lv5-109",
+    "word": "reinforcement",
+    "pronunciation": "/ˌriːɪnˈfɔːrsmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "강화, 보강",
+    "exampleEn": "Positive reinforcement helped.",
+    "exampleKo": "긍정적 강화가 도움이 됐다."
+  },
+  {
+    "id": "biz-lv5-110",
+    "word": "wary",
+    "pronunciation": "/ˈweəri/",
+    "partOfSpeech": "형용사",
+    "meaning": "경계하는",
+    "exampleEn": "Investors are wary of risk.",
+    "exampleKo": "투자자들이 위험을 경계한다."
+  },
+  {
+    "id": "biz-lv5-111",
+    "word": "salespeople",
+    "pronunciation": "/ˈseɪlzpiːpəl/",
+    "partOfSpeech": "명사",
+    "meaning": "영업 직원들",
+    "exampleEn": "Train the salespeople.",
+    "exampleKo": "영업 직원들을 교육하세요."
+  },
+  {
+    "id": "biz-lv5-112",
+    "word": "credible",
+    "pronunciation": "/ˈkredɪbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "신뢰할 수 있는",
+    "exampleEn": "A credible plan was needed.",
+    "exampleKo": "신뢰할 수 있는 계획이 필요했다."
+  },
+  {
+    "id": "biz-lv5-113",
+    "word": "woe",
+    "pronunciation": "/woʊ/",
+    "partOfSpeech": "명사",
+    "meaning": "불행, 고통",
+    "exampleEn": "Financial woes continued.",
+    "exampleKo": "재정적 고통이 계속됐다."
+  },
+  {
+    "id": "biz-lv5-114",
+    "word": "capita",
+    "pronunciation": "/ˈkæpɪtə/",
+    "partOfSpeech": "명사",
+    "meaning": "일인당",
+    "exampleEn": "GDP per capita rose.",
+    "exampleKo": "일인당 GDP가 올랐다."
+  },
+  {
+    "id": "biz-lv5-115",
+    "word": "underestimate",
+    "pronunciation": "/ˌʌndərˈestɪmeɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "과소평가하다",
+    "exampleEn": "Risks were underestimated.",
+    "exampleKo": "위험이 과소평가됐다."
+  },
+  {
+    "id": "biz-lv5-116",
+    "word": "tolerate",
+    "pronunciation": "/ˈtɒləreɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "참다, 견디다",
+    "exampleEn": "No misconduct was tolerated.",
+    "exampleKo": "어떤 비위도 용납되지 않았다."
+  },
+  {
+    "id": "biz-lv5-117",
+    "word": "casino",
+    "pronunciation": "/kəˈsiːnoʊ/",
+    "partOfSpeech": "명사",
+    "meaning": "카지노",
+    "exampleEn": "Financial markets as casino.",
+    "exampleKo": "도박판 같은 금융 시장."
+  },
+  {
+    "id": "biz-lv5-118",
+    "word": "physics",
+    "pronunciation": "/ˈfɪzɪks/",
+    "partOfSpeech": "명사",
+    "meaning": "물리학",
+    "exampleEn": "Study physics.",
+    "exampleKo": "물리학을 공부하세요."
+  },
+  {
+    "id": "biz-lv5-119",
+    "word": "downside",
+    "pronunciation": "/ˈdaʊnsaɪd/",
+    "partOfSpeech": "명사",
+    "meaning": "하방 위험, 단점",
+    "exampleEn": "The downside risk is limited.",
+    "exampleKo": "하방 위험이 제한적이다."
+  },
+  {
+    "id": "biz-lv5-120",
+    "word": "fragile",
+    "pronunciation": "/ˈfrædʒaɪl/",
+    "partOfSpeech": "형용사",
+    "meaning": "취약한, 깨지기 쉬운",
+    "exampleEn": "The recovery is fragile.",
+    "exampleKo": "회복이 취약하다."
+  },
+  {
+    "id": "biz-lv5-121",
+    "word": "invade",
+    "pronunciation": "/ɪnˈveɪd/",
+    "partOfSpeech": "동사",
+    "meaning": "침략하다, 침입하다",
+    "exampleEn": "New firms invaded the market.",
+    "exampleKo": "새 기업들이 시장에 침입했다."
+  },
+  {
+    "id": "biz-lv5-122",
+    "word": "steam",
+    "pronunciation": "/stiːm/",
+    "partOfSpeech": "명사",
+    "meaning": "기세, 힘",
+    "exampleEn": "The economy lost steam.",
+    "exampleKo": "경제가 기세를 잃었다."
+  },
+  {
+    "id": "biz-lv5-123",
+    "word": "subtle",
+    "pronunciation": "/ˈsʌtəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "미묘한",
+    "exampleEn": "Subtle changes in prices.",
+    "exampleKo": "가격의 미묘한 변화."
+  },
+  {
+    "id": "biz-lv5-124",
+    "word": "hydrogen",
+    "pronunciation": "/ˈhaɪdrədʒən/",
+    "partOfSpeech": "명사",
+    "meaning": "수소",
+    "exampleEn": "Hydrogen fuel investment surged.",
+    "exampleKo": "수소 연료 투자가 급증했다."
+  },
+  {
+    "id": "biz-lv5-125",
+    "word": "underground",
+    "pronunciation": "/ˈʌndərɡraʊnd/",
+    "partOfSpeech": "형용사",
+    "meaning": "지하의",
+    "exampleEn": "Underground parking.",
+    "exampleKo": "지하 주차장."
+  },
+  {
+    "id": "biz-lv5-126",
+    "word": "replicate",
+    "pronunciation": "/ˈreplɪkeɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "복제하다, 재현하다",
+    "exampleEn": "The model was replicated.",
+    "exampleKo": "모델이 재현됐다."
+  },
+  {
+    "id": "biz-lv5-127",
+    "word": "crush",
+    "pronunciation": "/krʌʃ/",
+    "partOfSpeech": "동사",
+    "meaning": "압도하다, 뭉개다",
+    "exampleEn": "Competition crushed margins.",
+    "exampleKo": "경쟁이 마진을 압도했다."
+  },
+  {
+    "id": "biz-lv5-128",
+    "word": "appliance",
+    "pronunciation": "/əˈplaɪəns/",
+    "partOfSpeech": "명사",
+    "meaning": "가전제품, 기기",
+    "exampleEn": "The appliance is broken.",
+    "exampleKo": "가전제품이 고장났습니다."
+  },
+  {
+    "id": "biz-lv5-129",
+    "word": "thereafter",
+    "pronunciation": "/ˌðeərˈæftər/",
+    "partOfSpeech": "부사",
+    "meaning": "그 이후에",
+    "exampleEn": "Rates fell and thereafter rose.",
+    "exampleKo": "금리가 하락하고 그 이후에 올랐다."
+  },
+  {
+    "id": "biz-lv5-130",
+    "word": "generator",
+    "pronunciation": "/ˈdʒɛnəreɪtər/",
+    "partOfSpeech": "명사",
+    "meaning": "발전기",
+    "exampleEn": "Backup generator.",
+    "exampleKo": "비상 발전기."
+  },
+  {
+    "id": "biz-lv5-131",
+    "word": "breakthrough",
+    "pronunciation": "/ˈbreɪkθruː/",
+    "partOfSpeech": "명사",
+    "meaning": "돌파구",
+    "exampleEn": "A technology breakthrough occurred.",
+    "exampleKo": "기술 돌파구가 생겼다."
+  },
+  {
+    "id": "biz-lv5-132",
+    "word": "rhetoric",
+    "pronunciation": "/ˈretərɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "수사, 언변",
+    "exampleEn": "Trade rhetoric escalated.",
+    "exampleKo": "무역 언변이 고조됐다."
+  },
+  {
+    "id": "biz-lv5-133",
+    "word": "delta",
+    "pronunciation": "/ˈdeltə/",
+    "partOfSpeech": "명사",
+    "meaning": "델타, 변화량",
+    "exampleEn": "Option delta was calculated.",
+    "exampleKo": "옵션 델타가 계산됐다."
+  },
+  {
+    "id": "biz-lv5-134",
+    "word": "seldom",
+    "pronunciation": "/ˈsɛldəm/",
+    "partOfSpeech": "부사",
+    "meaning": "좀처럼 ~않는",
+    "exampleEn": "I seldom travel without travel insurance.",
+    "exampleKo": "나는 여행 보험 없이는 좀처럼 여행하지 않는다."
+  },
+  {
+    "id": "biz-lv5-135",
+    "word": "marketable",
+    "pronunciation": "/ˈmɑːrkɪtəbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "시장성 있는",
+    "exampleEn": "Marketable securities were sold.",
+    "exampleKo": "시장성 있는 증권이 매각됐다."
+  },
+  {
+    "id": "biz-lv5-136",
+    "word": "plausible",
+    "pronunciation": "/ˈplɔːzɪbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "그럴듯한, 타당한",
+    "exampleEn": "Plausible explanation.",
+    "exampleKo": "그럴듯한 설명."
+  },
+  {
+    "id": "biz-lv5-137",
+    "word": "graphics",
+    "pronunciation": "/ˈɡræfɪks/",
+    "partOfSpeech": "명사",
+    "meaning": "그래픽스",
+    "exampleEn": "Computer graphics.",
+    "exampleKo": "컴퓨터 그래픽스."
+  },
+  {
+    "id": "biz-lv5-138",
+    "word": "conjunction",
+    "pronunciation": "/kənˈdʒʌŋkʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "결합, 접속사",
+    "exampleEn": "In conjunction with partners.",
+    "exampleKo": "파트너들과 함께."
+  },
+  {
+    "id": "biz-lv5-139",
+    "word": "pan",
+    "pronunciation": "/pæn/",
+    "partOfSpeech": "명사",
+    "meaning": "팬, 냄비",
+    "exampleEn": "Heat the pan.",
+    "exampleKo": "팬을 달구세요."
+  },
+  {
+    "id": "biz-lv5-140",
+    "word": "overhaul",
+    "pronunciation": "/ˈoʊvərhɔːl/",
+    "partOfSpeech": "명사",
+    "meaning": "전면 개편",
+    "exampleEn": "A system overhaul was needed.",
+    "exampleKo": "시스템 전면 개편이 필요했다."
+  },
+  {
+    "id": "biz-lv5-141",
+    "word": "sensor",
+    "pronunciation": "/ˈsensər/",
+    "partOfSpeech": "명사",
+    "meaning": "센서",
+    "exampleEn": "IoT sensor data was analyzed.",
+    "exampleKo": "IoT 센서 데이터가 분석됐다."
+  },
+  {
+    "id": "biz-lv5-142",
+    "word": "doubtful",
+    "pronunciation": "/ˈdaʊtfəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "의심스러운, 불확실한",
+    "exampleEn": "Doubtful debts were written off.",
+    "exampleKo": "의심스러운 채권이 대손 처리됐다."
+  },
+  {
+    "id": "biz-lv5-143",
+    "word": "ideological",
+    "pronunciation": "/ˌaɪdɪəˈlɒdʒɪkəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "이념적인",
+    "exampleEn": "Ideological differences emerged.",
+    "exampleKo": "이념적 차이가 드러났다."
+  },
+  {
+    "id": "biz-lv5-144",
+    "word": "tribe",
+    "pronunciation": "/traɪb/",
+    "partOfSpeech": "명사",
+    "meaning": "부족",
+    "exampleEn": "The study examined three indigenous tribes.",
+    "exampleKo": "연구는 세 원주민 부족을 조사했습니다."
+  },
+  {
+    "id": "biz-lv5-145",
+    "word": "grasp",
+    "pronunciation": "/ɡrɑːsp/",
+    "partOfSpeech": "동사",
+    "meaning": "파악하다, 이해하다",
+    "exampleEn": "Analysts grasped the implications.",
+    "exampleKo": "분석가들이 함의를 파악했다."
+  },
+  {
+    "id": "biz-lv5-146",
+    "word": "interactive",
+    "pronunciation": "/ˌɪntərˈæktɪv/",
+    "partOfSpeech": "형용사",
+    "meaning": "상호작용하는",
+    "exampleEn": "Interactive learning.",
+    "exampleKo": "상호작용 학습."
+  },
+  {
+    "id": "biz-lv5-147",
+    "word": "injection",
+    "pronunciation": "/ɪnˈdʒekʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "주입, 투입",
+    "exampleEn": "A cash injection was needed.",
+    "exampleKo": "현금 투입이 필요했다."
+  },
+  {
+    "id": "biz-lv5-148",
+    "word": "bracket",
+    "pronunciation": "/ˈbrækɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "범주, 구간",
+    "exampleEn": "The tax bracket increased.",
+    "exampleKo": "세금 구간이 증가했다."
+  },
+  {
+    "id": "biz-lv5-149",
+    "word": "inappropriate",
+    "pronunciation": "/ˌɪnəˈproʊpriɪt/",
+    "partOfSpeech": "형용사",
+    "meaning": "부적절한",
+    "exampleEn": "Inappropriate behavior.",
+    "exampleKo": "부적절한 행동."
+  },
+  {
+    "id": "biz-lv5-150",
+    "word": "outrage",
+    "pronunciation": "/ˈaʊtreɪdʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "분노",
+    "exampleEn": "Public outrage followed.",
+    "exampleKo": "공분이 이어졌다."
+  },
+  {
+    "id": "biz-lv5-151",
+    "word": "hurdle",
+    "pronunciation": "/ˈhɜːrdəl/",
+    "partOfSpeech": "명사",
+    "meaning": "장애물, 기준 수익률",
+    "exampleEn": "The hurdle rate is 8%.",
+    "exampleKo": "기준 수익률이 8%이다."
+  },
+  {
+    "id": "biz-lv5-152",
+    "word": "morale",
+    "pronunciation": "/məˈrɑːl/",
+    "partOfSpeech": "명사",
+    "meaning": "사기, 의욕",
+    "exampleEn": "Boost employee morale.",
+    "exampleKo": "직원 사기를 높이세요."
+  },
+  {
+    "id": "biz-lv5-153",
+    "word": "coincide",
+    "pronunciation": "/ˌkoʊɪnˈsaɪd/",
+    "partOfSpeech": "동사",
+    "meaning": "일치하다",
+    "exampleEn": "The dates coincide.",
+    "exampleKo": "날짜가 일치한다."
+  },
+  {
+    "id": "biz-lv5-154",
+    "word": "commentator",
+    "pronunciation": "/ˈkɒmənteɪtər/",
+    "partOfSpeech": "명사",
+    "meaning": "논평가",
+    "exampleEn": "Market commentators disagreed.",
+    "exampleKo": "시장 논평가들이 의견을 달리했다."
+  },
+  {
+    "id": "biz-lv5-155",
+    "word": "premier",
+    "pronunciation": "/ˈprɪmɪər/",
+    "partOfSpeech": "명사",
+    "meaning": "수상, 총리",
+    "exampleEn": "The premier announced reforms.",
+    "exampleKo": "수상이 개혁을 발표했다."
+  },
+  {
+    "id": "biz-lv5-156",
+    "word": "insurgency",
+    "pronunciation": "/ɪnˈsɜːrdʒənsi/",
+    "partOfSpeech": "명사",
+    "meaning": "반란, 봉기",
+    "exampleEn": "Insurgency disrupted supply lines.",
+    "exampleKo": "반란이 공급망을 방해했다."
+  },
+  {
+    "id": "biz-lv5-157",
+    "word": "incline",
+    "pronunciation": "/ɪnˈklaɪn/",
+    "partOfSpeech": "동사",
+    "meaning": "기울어지다, 경향이 있다",
+    "exampleEn": "Markets inclined upward.",
+    "exampleKo": "시장이 상향으로 기울었다."
+  },
+  {
+    "id": "biz-lv5-158",
+    "word": "averse",
+    "pronunciation": "/əˈvɜːrs/",
+    "partOfSpeech": "형용사",
+    "meaning": "싫어하는, 기피하는",
+    "exampleEn": "Investors are risk averse.",
+    "exampleKo": "투자자들이 위험을 기피한다."
+  },
+  {
+    "id": "biz-lv5-159",
+    "word": "pill",
+    "pronunciation": "/pɪl/",
+    "partOfSpeech": "명사",
+    "meaning": "알약",
+    "exampleEn": "Take the pill.",
+    "exampleKo": "알약을 복용하세요."
+  },
+  {
+    "id": "biz-lv5-160",
+    "word": "nomination",
+    "pronunciation": "/ˌnɒmɪˈneɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "지명, 추천",
+    "exampleEn": "Award nomination.",
+    "exampleKo": "시상 후보 지명."
+  },
+  {
+    "id": "biz-lv5-161",
+    "word": "enlarge",
+    "pronunciation": "/ɪnˈlɑːrdʒ/",
+    "partOfSpeech": "동사",
+    "meaning": "확대하다",
+    "exampleEn": "The fund was enlarged.",
+    "exampleKo": "펀드가 확대됐다."
+  },
+  {
+    "id": "biz-lv5-162",
+    "word": "ethanol",
+    "pronunciation": "/ˈeθənɒl/",
+    "partOfSpeech": "명사",
+    "meaning": "에탄올",
+    "exampleEn": "Ethanol subsidies were cut.",
+    "exampleKo": "에탄올 보조금이 삭감됐다."
+  },
+  {
+    "id": "biz-lv5-163",
+    "word": "fairness",
+    "pronunciation": "/ˈfeərnəs/",
+    "partOfSpeech": "명사",
+    "meaning": "공정성",
+    "exampleEn": "Fairness in pricing matters.",
+    "exampleKo": "가격 책정의 공정성이 중요하다."
+  },
+  {
+    "id": "biz-lv5-164",
+    "word": "locally",
+    "pronunciation": "/ˈloʊkəli/",
+    "partOfSpeech": "부사",
+    "meaning": "지역적으로",
+    "exampleEn": "Buy locally produced goods.",
+    "exampleKo": "지역 생산 제품을 구매하세요."
+  },
+  {
+    "id": "biz-lv5-165",
+    "word": "dependency",
+    "pronunciation": "/dɪˈpendənsi/",
+    "partOfSpeech": "명사",
+    "meaning": "의존성",
+    "exampleEn": "Oil dependency was reduced.",
+    "exampleKo": "석유 의존성이 줄었다."
+  },
+  {
+    "id": "biz-lv5-166",
+    "word": "prepayment",
+    "pronunciation": "/ˌpriːˈpeɪmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "선불, 조기 상환",
+    "exampleEn": "Prepayment penalties applied.",
+    "exampleKo": "조기 상환 페널티가 적용됐다."
+  },
+  {
+    "id": "biz-lv5-167",
+    "word": "externality",
+    "pronunciation": "/ˌekstɜːrˈnælɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "외부성",
+    "exampleEn": "Negative externalities were taxed.",
+    "exampleKo": "부정적 외부성에 세금이 부과됐다."
+  },
+  {
+    "id": "biz-lv5-168",
+    "word": "helicopter",
+    "pronunciation": "/ˈhelɪkɒptər/",
+    "partOfSpeech": "명사",
+    "meaning": "헬리콥터",
+    "exampleEn": "Helicopter money was discussed.",
+    "exampleKo": "헬리콥터 머니가 논의됐다."
+  },
+  {
+    "id": "biz-lv5-169",
+    "word": "disrupt",
+    "pronunciation": "/dɪsˈrʌpt/",
+    "partOfSpeech": "동사",
+    "meaning": "방해하다, 혼란시키다",
+    "exampleEn": "Don't disrupt the meeting.",
+    "exampleKo": "회의를 방해하지 마세요."
+  },
+  {
+    "id": "biz-lv5-170",
+    "word": "confidential",
+    "pronunciation": "/ˌkɒnfɪˈdɛnʃəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "기밀의",
+    "exampleEn": "Keep it confidential.",
+    "exampleKo": "기밀로 유지하세요."
+  },
+  {
+    "id": "biz-lv5-171",
+    "word": "slot",
+    "pronunciation": "/slɒt/",
+    "partOfSpeech": "명사",
+    "meaning": "슬롯, 자리",
+    "exampleEn": "Time slot.",
+    "exampleKo": "시간 슬롯."
+  },
+  {
+    "id": "biz-lv5-172",
+    "word": "perpetual",
+    "pronunciation": "/pəˈpetʃuəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "영구적인",
+    "exampleEn": "Perpetual bonds were issued.",
+    "exampleKo": "영구채가 발행됐다."
+  },
+  {
+    "id": "biz-lv5-173",
+    "word": "mild",
+    "pronunciation": "/maɪld/",
+    "partOfSpeech": "형용사",
+    "meaning": "순한, 온화한",
+    "exampleEn": "Mild flavor.",
+    "exampleKo": "순한 맛."
+  },
+  {
+    "id": "biz-lv5-174",
+    "word": "ration",
+    "pronunciation": "/ˈræʃən/",
+    "partOfSpeech": "동사",
+    "meaning": "배급하다",
+    "exampleEn": "Credit was rationed.",
+    "exampleKo": "신용이 배급됐다."
+  },
+  {
+    "id": "biz-lv5-175",
+    "word": "mini",
+    "pronunciation": "/ˈmɪni/",
+    "partOfSpeech": "형용사",
+    "meaning": "소형의, 미니",
+    "exampleEn": "Get the mini version.",
+    "exampleKo": "미니 버전을 구매하세요."
+  },
+  {
+    "id": "biz-lv5-176",
+    "word": "mosque",
+    "pronunciation": "/mɒsk/",
+    "partOfSpeech": "명사",
+    "meaning": "모스크",
+    "exampleEn": "Islamic finance grew.",
+    "exampleKo": "이슬람 금융이 성장했다."
+  },
+  {
+    "id": "biz-lv5-177",
+    "word": "inability",
+    "pronunciation": "/ˌɪnəˈbɪlɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "무능, 불가능",
+    "exampleEn": "Inability to repay caused default.",
+    "exampleKo": "상환 불가능이 채무불이행을 초래했다."
+  },
+  {
+    "id": "biz-lv5-178",
+    "word": "pet",
+    "pronunciation": "/pɛt/",
+    "partOfSpeech": "명사",
+    "meaning": "반려동물",
+    "exampleEn": "She has a pet cat.",
+    "exampleKo": "그녀는 고양이를 키운다."
+  },
+  {
+    "id": "biz-lv5-179",
+    "word": "discriminate",
+    "pronunciation": "/dɪˈskrɪmɪneɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "차별하다",
+    "exampleEn": "Laws prevent discriminating.",
+    "exampleKo": "법이 차별을 방지한다."
+  },
+  {
+    "id": "biz-lv5-180",
+    "word": "analytic",
+    "pronunciation": "/ˌænəˈlɪtɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "분석적인",
+    "exampleEn": "Analytic tools improved decisions.",
+    "exampleKo": "분석 도구가 의사결정을 향상시켰다."
+  },
+  {
+    "id": "biz-lv5-181",
+    "word": "highway",
+    "pronunciation": "/ˈhaɪweɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "고속도로",
+    "exampleEn": "Take the highway.",
+    "exampleKo": "고속도로를 이용하세요."
+  },
+  {
+    "id": "biz-lv5-182",
+    "word": "proliferation",
+    "pronunciation": "/prəˌlɪfəˈreɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "확산, 급증",
+    "exampleEn": "Fintech proliferation accelerated.",
+    "exampleKo": "핀테크 확산이 가속됐다."
+  },
+  {
+    "id": "biz-lv5-183",
+    "word": "autonomous",
+    "pronunciation": "/ɔːˈtɒnəməs/",
+    "partOfSpeech": "형용사",
+    "meaning": "자율적인",
+    "exampleEn": "Autonomous vehicles changed logistics.",
+    "exampleKo": "자율주행차가 물류를 변화시켰다."
+  },
+  {
+    "id": "biz-lv5-184",
+    "word": "prone",
+    "pronunciation": "/proʊn/",
+    "partOfSpeech": "형용사",
+    "meaning": "~하기 쉬운",
+    "exampleEn": "Small firms are prone to failure.",
+    "exampleKo": "소기업은 실패하기 쉽다."
+  },
+  {
+    "id": "biz-lv5-185",
+    "word": "disruption",
+    "pronunciation": "/dɪsˈrʌpʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "방해, 혼란",
+    "exampleEn": "Minimize disruption.",
+    "exampleKo": "방해를 최소화하세요."
+  },
+  {
+    "id": "biz-lv5-186",
+    "word": "drawback",
+    "pronunciation": "/ˈdrɔːbæk/",
+    "partOfSpeech": "명사",
+    "meaning": "단점, 결점",
+    "exampleEn": "One drawback is cost.",
+    "exampleKo": "한 가지 단점은 비용이다."
+  },
+  {
+    "id": "biz-lv5-187",
+    "word": "inefficiency",
+    "pronunciation": "/ˌɪnɪˈfɪʃənsi/",
+    "partOfSpeech": "명사",
+    "meaning": "비효율성",
+    "exampleEn": "Inefficiency was addressed.",
+    "exampleKo": "비효율성이 해결됐다."
+  },
+  {
+    "id": "biz-lv5-188",
+    "word": "relieve",
+    "pronunciation": "/rɪˈliːv/",
+    "partOfSpeech": "동사",
+    "meaning": "완화하다, 교대하다",
+    "exampleEn": "Relieve stress.",
+    "exampleKo": "스트레스를 완화하세요."
+  },
+  {
+    "id": "biz-lv5-189",
+    "word": "downgrade",
+    "pronunciation": "/ˈdaʊnɡreɪd/",
+    "partOfSpeech": "동사",
+    "meaning": "강등하다, 하향 조정하다",
+    "exampleEn": "Moody's downgraded the bond.",
+    "exampleKo": "무디스가 채권을 강등했다."
+  },
+  {
+    "id": "biz-lv5-190",
+    "word": "ideology",
+    "pronunciation": "/ˌaɪdɪˈɒlədʒi/",
+    "partOfSpeech": "명사",
+    "meaning": "이념",
+    "exampleEn": "Market ideology shaped policy.",
+    "exampleKo": "시장 이념이 정책을 형성했다."
+  },
+  {
+    "id": "biz-lv5-191",
+    "word": "greenhouse",
+    "pronunciation": "/ˈɡriːnhaʊs/",
+    "partOfSpeech": "명사",
+    "meaning": "온실",
+    "exampleEn": "Greenhouse emissions fell.",
+    "exampleKo": "온실가스 배출이 줄었다."
+  },
+  {
+    "id": "biz-lv5-192",
+    "word": "plead",
+    "pronunciation": "/pliːd/",
+    "partOfSpeech": "동사",
+    "meaning": "간청하다, 변론하다",
+    "exampleEn": "The firm pleaded not guilty.",
+    "exampleKo": "회사가 무죄를 변론했다."
+  },
+  {
+    "id": "biz-lv5-193",
+    "word": "openly",
+    "pronunciation": "/ˈoʊpənli/",
+    "partOfSpeech": "부사",
+    "meaning": "공개적으로",
+    "exampleEn": "Managers openly discussed risks.",
+    "exampleKo": "매니저들이 공개적으로 위험을 논의했다."
+  },
+  {
+    "id": "biz-lv5-194",
+    "word": "elastic",
+    "pronunciation": "/ɪˈlæstɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "탄력적인",
+    "exampleEn": "Demand is highly elastic.",
+    "exampleKo": "수요가 매우 탄력적이다."
+  },
+  {
+    "id": "biz-lv5-195",
+    "word": "oust",
+    "pronunciation": "/aʊst/",
+    "partOfSpeech": "동사",
+    "meaning": "물러나게 하다",
+    "exampleEn": "The CEO was ousted.",
+    "exampleKo": "CEO가 물러나게 됐다."
+  },
+  {
+    "id": "biz-lv5-196",
+    "word": "spite",
+    "pronunciation": "/spaɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "앙심, 악의",
+    "exampleEn": "In spite of the rain.",
+    "exampleKo": "비에도 불구하고."
+  },
+  {
+    "id": "biz-lv5-197",
+    "word": "thorough",
+    "pronunciation": "/ˈθʌrə/",
+    "partOfSpeech": "형용사",
+    "meaning": "철저한, 꼼꼼한",
+    "exampleEn": "Do a thorough review.",
+    "exampleKo": "철저한 검토를 하세요."
+  },
+  {
+    "id": "biz-lv5-198",
+    "word": "forbid",
+    "pronunciation": "/fərˈbɪd/",
+    "partOfSpeech": "동사",
+    "meaning": "금지하다",
+    "exampleEn": "Forbid smoking.",
+    "exampleKo": "흡연을 금지하세요."
+  },
+  {
+    "id": "biz-lv5-199",
+    "word": "entrant",
+    "pronunciation": "/ˈentrənt/",
+    "partOfSpeech": "명사",
+    "meaning": "신규 진입자",
+    "exampleEn": "New entrants disrupted the market.",
+    "exampleKo": "신규 진입자들이 시장을 교란시켰다."
+  },
+  {
+    "id": "biz-lv5-200",
+    "word": "underwriter",
+    "pronunciation": "/ˈʌndərˌraɪtər/",
+    "partOfSpeech": "명사",
+    "meaning": "인수자, 보증인",
+    "exampleEn": "The underwriter set the price.",
+    "exampleKo": "인수자가 가격을 정했다."
+  },
+  {
+    "id": "biz-lv5-201",
+    "word": "cattle",
+    "pronunciation": "/ˈkætəl/",
+    "partOfSpeech": "명사",
+    "meaning": "소, 가축",
+    "exampleEn": "Cattle futures rose sharply.",
+    "exampleKo": "소 선물이 급등했다."
+  },
+  {
+    "id": "biz-lv5-202",
+    "word": "overtime",
+    "pronunciation": "/ˈoʊvərtaɪm/",
+    "partOfSpeech": "명사",
+    "meaning": "초과 근무",
+    "exampleEn": "I worked overtime today.",
+    "exampleKo": "오늘 초과 근무를 했습니다."
+  },
+  {
+    "id": "biz-lv5-203",
+    "word": "newcomer",
+    "pronunciation": "/ˈnjuːˌkʌmər/",
+    "partOfSpeech": "명사",
+    "meaning": "신참자, 신규 기업",
+    "exampleEn": "A newcomer disrupted the sector.",
+    "exampleKo": "신규 기업이 업종을 교란시켰다."
+  },
+  {
+    "id": "biz-lv5-204",
+    "word": "prolong",
+    "pronunciation": "/prəˈlɒŋ/",
+    "partOfSpeech": "동사",
+    "meaning": "연장하다",
+    "exampleEn": "The crisis was prolonged.",
+    "exampleKo": "위기가 연장됐다."
+  },
+  {
+    "id": "biz-lv5-205",
+    "word": "salvage",
+    "pronunciation": "/ˈsælvɪdʒ/",
+    "partOfSpeech": "동사",
+    "meaning": "구하다, 만회하다",
+    "exampleEn": "Analysts tried to salvage the deal.",
+    "exampleKo": "분석가들이 거래를 살리려 했다."
+  },
+  {
+    "id": "biz-lv5-206",
+    "word": "pursuant",
+    "pronunciation": "/pəˈsjuːənt/",
+    "partOfSpeech": "형용사",
+    "meaning": "따라서",
+    "exampleEn": "Pursuant to the contract terms.",
+    "exampleKo": "계약 조건에 따라."
+  },
+  {
+    "id": "biz-lv5-207",
+    "word": "appropriately",
+    "pronunciation": "/əˈproʊprɪɪtli/",
+    "partOfSpeech": "부사",
+    "meaning": "적절하게",
+    "exampleEn": "Risk must be appropriately managed.",
+    "exampleKo": "위험이 적절하게 관리되어야 한다."
+  },
+  {
+    "id": "biz-lv5-208",
+    "word": "cleaner",
+    "pronunciation": "/ˈkliːnər/",
+    "partOfSpeech": "명사",
+    "meaning": "청소부, 세탁소",
+    "exampleEn": "The cleaner comes weekly.",
+    "exampleKo": "청소부가 매주 옵니다."
+  },
+  {
+    "id": "biz-lv5-209",
+    "word": "accusation",
+    "pronunciation": "/ˌækjʊˈzeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "고발, 비난",
+    "exampleEn": "Accusations of fraud were made.",
+    "exampleKo": "사기 고발이 제기됐다."
+  },
+  {
+    "id": "biz-lv5-210",
+    "word": "entrepreneurial",
+    "pronunciation": "/ˌɒntrəprəˈnɜːrɪəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "기업가적인",
+    "exampleEn": "An entrepreneurial spirit drives growth.",
+    "exampleKo": "기업가 정신이 성장을 이끈다."
+  },
+  {
+    "id": "biz-lv5-211",
+    "word": "devaluation",
+    "pronunciation": "/ˌdiːˌvæljʊˈeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "평가절하",
+    "exampleEn": "Currency devaluation followed.",
+    "exampleKo": "통화 평가절하가 뒤따랐다."
+  },
+  {
+    "id": "biz-lv5-212",
+    "word": "outlay",
+    "pronunciation": "/ˈaʊtleɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "지출, 경비",
+    "exampleEn": "Capital outlay rose sharply.",
+    "exampleKo": "자본 지출이 급등했다."
+  },
+  {
+    "id": "biz-lv5-213",
+    "word": "simulate",
+    "pronunciation": "/ˈsɪmjʊleɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "모의실험하다",
+    "exampleEn": "Scenarios were simulated.",
+    "exampleKo": "시나리오가 모의실험됐다."
+  },
+  {
+    "id": "biz-lv5-214",
+    "word": "continental",
+    "pronunciation": "/ˌkɒntɪˈnɛntəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "대륙의",
+    "exampleEn": "Continental breakfast.",
+    "exampleKo": "컨티넨털 조식."
+  },
+  {
+    "id": "biz-lv5-215",
+    "word": "precious",
+    "pronunciation": "/ˈpreʃəs/",
+    "partOfSpeech": "형용사",
+    "meaning": "귀중한",
+    "exampleEn": "Precious metals gained.",
+    "exampleKo": "귀금속이 올랐다."
+  },
+  {
+    "id": "biz-lv5-216",
+    "word": "regain",
+    "pronunciation": "/rɪˈɡeɪn/",
+    "partOfSpeech": "동사",
+    "meaning": "되찾다",
+    "exampleEn": "Markets regained lost ground.",
+    "exampleKo": "시장이 잃었던 자리를 되찾았다."
+  },
+  {
+    "id": "biz-lv5-217",
+    "word": "differentiation",
+    "pronunciation": "/ˌdɪfərenʃɪˈeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "차별화",
+    "exampleEn": "Product differentiation is key.",
+    "exampleKo": "제품 차별화가 핵심이다."
+  },
+  {
+    "id": "biz-lv5-218",
+    "word": "restrictive",
+    "pronunciation": "/rɪˈstrɪktɪv/",
+    "partOfSpeech": "형용사",
+    "meaning": "제한적인",
+    "exampleEn": "Restrictive covenants applied.",
+    "exampleKo": "제한적 약정이 적용됐다."
+  },
+  {
+    "id": "biz-lv5-219",
+    "word": "deed",
+    "pronunciation": "/diːd/",
+    "partOfSpeech": "명사",
+    "meaning": "증서, 행위",
+    "exampleEn": "The property deed was transferred.",
+    "exampleKo": "부동산 증서가 이전됐다."
+  },
+  {
+    "id": "biz-lv5-220",
+    "word": "competent",
+    "pronunciation": "/ˈkɒmpɪtənt/",
+    "partOfSpeech": "형용사",
+    "meaning": "유능한, 적격의",
+    "exampleEn": "A competent manager was hired.",
+    "exampleKo": "유능한 매니저가 채용됐다."
+  },
+  {
+    "id": "biz-lv5-221",
+    "word": "horror",
+    "pronunciation": "/ˈhɒrər/",
+    "partOfSpeech": "명사",
+    "meaning": "공포",
+    "exampleEn": "The financial horror unfolded.",
+    "exampleKo": "금융 공포가 전개됐다."
+  },
+  {
+    "id": "biz-lv5-222",
+    "word": "mechanical",
+    "pronunciation": "/mɪˈkænɪkəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "기계적인",
+    "exampleEn": "Mechanical issue.",
+    "exampleKo": "기계적인 문제."
+  },
+  {
+    "id": "biz-lv5-223",
+    "word": "nationwide",
+    "pronunciation": "/ˌneɪʃənˈwaɪd/",
+    "partOfSpeech": "형용사",
+    "meaning": "전국적인",
+    "exampleEn": "Nationwide campaign.",
+    "exampleKo": "전국 캠페인."
+  },
+  {
+    "id": "biz-lv5-224",
+    "word": "occasional",
+    "pronunciation": "/əˈkeɪʒənəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "간헐적인",
+    "exampleEn": "Occasional losses are expected.",
+    "exampleKo": "간헐적인 손실이 예상된다."
+  },
+  {
+    "id": "biz-lv5-225",
+    "word": "earthquake",
+    "pronunciation": "/ˈɜːrθkweɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "지진",
+    "exampleEn": "Earthquake preparedness.",
+    "exampleKo": "지진 대비."
+  },
+  {
+    "id": "biz-lv5-226",
+    "word": "nominate",
+    "pronunciation": "/ˈnɒmɪneɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "추천하다, 지명하다",
+    "exampleEn": "Nominate a candidate.",
+    "exampleKo": "후보를 지명하세요."
+  },
+  {
+    "id": "biz-lv5-227",
+    "word": "globe",
+    "pronunciation": "/ɡloʊb/",
+    "partOfSpeech": "명사",
+    "meaning": "지구, 세계",
+    "exampleEn": "Firms operate across the globe.",
+    "exampleKo": "기업들이 세계 전역에서 운영된다."
+  },
+  {
+    "id": "biz-lv5-228",
+    "word": "sovereignty",
+    "pronunciation": "/ˈsɒvrɪnti/",
+    "partOfSpeech": "명사",
+    "meaning": "주권",
+    "exampleEn": "Sovereignty over resources mattered.",
+    "exampleKo": "자원에 대한 주권이 중요했다."
+  },
+  {
+    "id": "biz-lv5-229",
+    "word": "asylum",
+    "pronunciation": "/əˈsaɪləm/",
+    "partOfSpeech": "명사",
+    "meaning": "망명, 피난처",
+    "exampleEn": "Financial asylum was sought.",
+    "exampleKo": "금융 피난처가 모색됐다."
+  },
+  {
+    "id": "biz-lv5-230",
+    "word": "isolation",
+    "pronunciation": "/ˌaɪsəˈleɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "고립",
+    "exampleEn": "Economic isolation hurt growth.",
+    "exampleKo": "경제적 고립이 성장을 해쳤다."
+  },
+  {
+    "id": "biz-lv5-231",
+    "word": "circulate",
+    "pronunciation": "/ˈsɜːrkjʊleɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "순환하다, 유통시키다",
+    "exampleEn": "Circulate the memo.",
+    "exampleKo": "메모를 유통시키세요."
+  },
+  {
+    "id": "biz-lv5-232",
+    "word": "overstate",
+    "pronunciation": "/ˌoʊvərˈsteɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "과장하다",
+    "exampleEn": "Risks were overstated.",
+    "exampleKo": "위험이 과장됐다."
+  },
+  {
+    "id": "biz-lv5-233",
+    "word": "partition",
+    "pronunciation": "/pɑːrˈtɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "분할, 구분",
+    "exampleEn": "The data was analyzed after partition into subgroups.",
+    "exampleKo": "데이터는 소그룹으로 분할한 후 분석되었습니다."
+  },
+  {
+    "id": "biz-lv5-234",
+    "word": "hypothetical",
+    "pronunciation": "/ˌhaɪpəˈθetɪkəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "가상의",
+    "exampleEn": "A hypothetical scenario was tested.",
+    "exampleKo": "가상의 시나리오가 테스트됐다."
+  },
+  {
+    "id": "biz-lv5-235",
+    "word": "deprive",
+    "pronunciation": "/dɪˈpraɪv/",
+    "partOfSpeech": "동사",
+    "meaning": "빼앗다, 박탈하다",
+    "exampleEn": "The crisis deprived millions.",
+    "exampleKo": "위기가 수백만 명을 박탈했다."
+  },
+  {
+    "id": "biz-lv5-236",
+    "word": "homeowner",
+    "pronunciation": "/ˈhoʊmoʊnər/",
+    "partOfSpeech": "명사",
+    "meaning": "집주인",
+    "exampleEn": "Homeowner insurance.",
+    "exampleKo": "주택 보험."
+  },
+  {
+    "id": "biz-lv5-237",
+    "word": "investigator",
+    "pronunciation": "/ɪnˈvestɪɡeɪtər/",
+    "partOfSpeech": "명사",
+    "meaning": "조사자",
+    "exampleEn": "Investigators examined records.",
+    "exampleKo": "조사자들이 기록을 검토했다."
+  },
+  {
+    "id": "biz-lv5-238",
+    "word": "explosive",
+    "pronunciation": "/ɪkˈsploʊsɪv/",
+    "partOfSpeech": "형용사",
+    "meaning": "폭발적인",
+    "exampleEn": "Explosive growth was seen.",
+    "exampleKo": "폭발적인 성장이 목격됐다."
+  },
+  {
+    "id": "biz-lv5-239",
+    "word": "tactical",
+    "pronunciation": "/ˈtæktɪkəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "전술적인",
+    "exampleEn": "A tactical retreat was made.",
+    "exampleKo": "전술적 후퇴가 이루어졌다."
+  },
+  {
+    "id": "biz-lv5-240",
+    "word": "psychology",
+    "pronunciation": "/saɪˈkɒlədʒi/",
+    "partOfSpeech": "명사",
+    "meaning": "심리학",
+    "exampleEn": "Market psychology shifted.",
+    "exampleKo": "시장 심리가 변했다."
+  },
+  {
+    "id": "biz-lv5-241",
+    "word": "reap",
+    "pronunciation": "/riːp/",
+    "partOfSpeech": "동사",
+    "meaning": "거두다, 수확하다",
+    "exampleEn": "Investors reaped rewards.",
+    "exampleKo": "투자자들이 보상을 거뒀다."
+  },
+  {
+    "id": "biz-lv5-242",
+    "word": "disposable",
+    "pronunciation": "/dɪˈspoʊzəbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "처분 가능한",
+    "exampleEn": "Disposable income fell.",
+    "exampleKo": "가처분 소득이 감소했다."
+  },
+  {
+    "id": "biz-lv5-243",
+    "word": "arbitration",
+    "pronunciation": "/ˌɑːrbɪˈtreɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "중재",
+    "exampleEn": "Arbitration was initiated.",
+    "exampleKo": "중재가 시작됐다."
+  },
+  {
+    "id": "biz-lv5-244",
+    "word": "furnish",
+    "pronunciation": "/ˈfɜːrnɪʃ/",
+    "partOfSpeech": "동사",
+    "meaning": "가구를 비치하다, 제공하다",
+    "exampleEn": "Furnish the apartment.",
+    "exampleKo": "아파트에 가구를 비치하세요."
+  },
+  {
+    "id": "biz-lv5-245",
+    "word": "boycott",
+    "pronunciation": "/ˈbɔɪkɒt/",
+    "partOfSpeech": "명사",
+    "meaning": "불매운동",
+    "exampleEn": "A consumer boycott began.",
+    "exampleKo": "소비자 불매운동이 시작됐다."
+  },
+  {
+    "id": "biz-lv5-246",
+    "word": "discrete",
+    "pronunciation": "/dɪˈskriːt/",
+    "partOfSpeech": "형용사",
+    "meaning": "별개의, 불연속적인",
+    "exampleEn": "Discrete events drove losses.",
+    "exampleKo": "별개의 사건들이 손실을 초래했다."
+  },
+  {
+    "id": "biz-lv5-247",
+    "word": "gloomy",
+    "pronunciation": "/ˈɡluːmi/",
+    "partOfSpeech": "형용사",
+    "meaning": "침울한, 암울한",
+    "exampleEn": "A gloomy outlook emerged.",
+    "exampleKo": "암울한 전망이 나타났다."
+  },
+  {
+    "id": "biz-lv5-248",
+    "word": "unpredictable",
+    "pronunciation": "/ˌʌnprɪˈdɪktəbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "예측 불가능한",
+    "exampleEn": "Markets are unpredictable.",
+    "exampleKo": "시장은 예측 불가능하다."
+  },
+  {
+    "id": "biz-lv5-249",
+    "word": "worthwhile",
+    "pronunciation": "/ˌwɜːrθˈwaɪl/",
+    "partOfSpeech": "형용사",
+    "meaning": "가치 있는",
+    "exampleEn": "A worthwhile investment.",
+    "exampleKo": "가치 있는 투자."
+  },
+  {
+    "id": "biz-lv5-250",
+    "word": "consecutive",
+    "pronunciation": "/kənˈsɛkjʊtɪv/",
+    "partOfSpeech": "형용사",
+    "meaning": "연속적인",
+    "exampleEn": "Consecutive wins.",
+    "exampleKo": "연속 우승."
+  },
+  {
+    "id": "biz-lv5-251",
+    "word": "accumulation",
+    "pronunciation": "/əˌkjuːmjʊˈleɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "축적, 누적",
+    "exampleEn": "Debt accumulation continued.",
+    "exampleKo": "부채 축적이 계속됐다."
+  },
+  {
+    "id": "biz-lv5-252",
+    "word": "disastrous",
+    "pronunciation": "/dɪˈzɑːstrəs/",
+    "partOfSpeech": "형용사",
+    "meaning": "재앙적인",
+    "exampleEn": "A disastrous merger followed.",
+    "exampleKo": "재앙적인 합병이 뒤따랐다."
+  },
+  {
+    "id": "biz-lv5-253",
+    "word": "dissident",
+    "pronunciation": "/ˈdɪsɪdənt/",
+    "partOfSpeech": "명사",
+    "meaning": "반체제 인사",
+    "exampleEn": "Dissident shareholders voted.",
+    "exampleKo": "반체제 주주들이 투표했다."
+  },
+  {
+    "id": "biz-lv5-254",
+    "word": "tremendous",
+    "pronunciation": "/trɪˈmɛndəs/",
+    "partOfSpeech": "형용사",
+    "meaning": "엄청난, 대단한",
+    "exampleEn": "Tremendous effort.",
+    "exampleKo": "엄청난 노력."
+  },
+  {
+    "id": "biz-lv5-255",
+    "word": "prototype",
+    "pronunciation": "/ˈproʊtətaɪp/",
+    "partOfSpeech": "명사",
+    "meaning": "프로토타입, 원형",
+    "exampleEn": "A prototype was tested.",
+    "exampleKo": "프로토타입이 테스트됐다."
+  },
+  {
+    "id": "biz-lv5-256",
+    "word": "defensive",
+    "pronunciation": "/dɪˈfensɪv/",
+    "partOfSpeech": "형용사",
+    "meaning": "방어적인",
+    "exampleEn": "Defensive stocks outperformed.",
+    "exampleKo": "방어주가 초과 성과를 냈다."
+  },
+  {
+    "id": "biz-lv5-257",
+    "word": "cinema",
+    "pronunciation": "/ˈsɪnɪmə/",
+    "partOfSpeech": "명사",
+    "meaning": "영화관",
+    "exampleEn": "Go to the cinema.",
+    "exampleKo": "영화관에 가세요."
+  },
+  {
+    "id": "biz-lv5-258",
+    "word": "communism",
+    "pronunciation": "/ˈkɒmjʊnɪzəm/",
+    "partOfSpeech": "명사",
+    "meaning": "공산주의",
+    "exampleEn": "Communism collapsed globally.",
+    "exampleKo": "공산주의가 전 세계적으로 붕괴됐다."
+  },
+  {
+    "id": "biz-lv5-259",
+    "word": "unpaid",
+    "pronunciation": "/ʌnˈpeɪd/",
+    "partOfSpeech": "형용사",
+    "meaning": "미지급의",
+    "exampleEn": "Unpaid leave.",
+    "exampleKo": "무급 휴가."
+  },
+  {
+    "id": "biz-lv5-260",
+    "word": "drain",
+    "pronunciation": "/dreɪn/",
+    "partOfSpeech": "동사",
+    "meaning": "고갈시키다",
+    "exampleEn": "Costs drained reserves.",
+    "exampleKo": "비용이 준비금을 고갈시켰다."
+  },
+  {
+    "id": "biz-lv5-261",
+    "word": "frustration",
+    "pronunciation": "/frʌˈstreɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "좌절",
+    "exampleEn": "Investor frustration grew.",
+    "exampleKo": "투자자 좌절감이 높아졌다."
+  },
+  {
+    "id": "biz-lv5-262",
+    "word": "mentor",
+    "pronunciation": "/ˈmɛntɔːr/",
+    "partOfSpeech": "명사",
+    "meaning": "멘토",
+    "exampleEn": "Find a good mentor.",
+    "exampleKo": "좋은 멘토를 찾으세요."
+  },
+  {
+    "id": "biz-lv5-263",
+    "word": "fret",
+    "pronunciation": "/fret/",
+    "partOfSpeech": "동사",
+    "meaning": "걱정하다",
+    "exampleEn": "Markets fretted over the data.",
+    "exampleKo": "시장이 데이터를 걱정했다."
+  },
+  {
+    "id": "biz-lv5-264",
+    "word": "depart",
+    "pronunciation": "/dɪˈpɑːrt/",
+    "partOfSpeech": "동사",
+    "meaning": "출발하다, 떠나다",
+    "exampleEn": "The train will depart at noon.",
+    "exampleKo": "기차는 정오에 출발합니다."
+  },
+  {
+    "id": "biz-lv5-265",
+    "word": "undervalue",
+    "pronunciation": "/ˌʌndərˈvæljuː/",
+    "partOfSpeech": "동사",
+    "meaning": "과소평가하다",
+    "exampleEn": "The stock was undervalued.",
+    "exampleKo": "주식이 과소평가됐다."
+  },
+  {
+    "id": "biz-lv5-266",
+    "word": "diligence",
+    "pronunciation": "/ˈdɪlɪdʒəns/",
+    "partOfSpeech": "명사",
+    "meaning": "성실, 실사",
+    "exampleEn": "Due diligence was conducted.",
+    "exampleKo": "실사가 진행됐다."
+  },
+  {
+    "id": "biz-lv5-267",
+    "word": "suspicious",
+    "pronunciation": "/səˈspɪʃəs/",
+    "partOfSpeech": "형용사",
+    "meaning": "의심스러운",
+    "exampleEn": "Suspicious behavior.",
+    "exampleKo": "의심스러운 행동."
+  },
+  {
+    "id": "biz-lv5-268",
+    "word": "outweigh",
+    "pronunciation": "/ˌaʊtˈweɪ/",
+    "partOfSpeech": "동사",
+    "meaning": "더 중요하다",
+    "exampleEn": "Benefits outweigh the risks.",
+    "exampleKo": "혜택이 위험보다 더 중요하다."
+  },
+  {
+    "id": "biz-lv5-269",
+    "word": "reminder",
+    "pronunciation": "/rɪˈmaɪndər/",
+    "partOfSpeech": "명사",
+    "meaning": "알림, 리마인더",
+    "exampleEn": "Set a reminder.",
+    "exampleKo": "알림을 설정하세요."
+  },
+  {
+    "id": "biz-lv5-270",
+    "word": "yearly",
+    "pronunciation": "/ˈjɪərli/",
+    "partOfSpeech": "형용사",
+    "meaning": "연간의, 매년의",
+    "exampleEn": "Yearly review.",
+    "exampleKo": "연간 검토."
+  },
+  {
+    "id": "biz-lv5-271",
+    "word": "undoubtedly",
+    "pronunciation": "/ʌnˈdaʊtɪdli/",
+    "partOfSpeech": "부사",
+    "meaning": "의심할 여지없이",
+    "exampleEn": "Markets undoubtedly recovered.",
+    "exampleKo": "시장이 의심할 여지없이 회복됐다."
+  },
+  {
+    "id": "biz-lv5-272",
+    "word": "composite",
+    "pronunciation": "/ˈkɒmpəzɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "복합 지수",
+    "exampleEn": "The composite index rose.",
+    "exampleKo": "복합 지수가 올랐다."
+  },
+  {
+    "id": "biz-lv5-273",
+    "word": "specialty",
+    "pronunciation": "/ˈspɛʃəlti/",
+    "partOfSpeech": "명사",
+    "meaning": "전문, 특기",
+    "exampleEn": "Medical specialty.",
+    "exampleKo": "의료 전문 분야."
+  },
+  {
+    "id": "biz-lv5-274",
+    "word": "pizza",
+    "pronunciation": "/ˈpiːtsə/",
+    "partOfSpeech": "명사",
+    "meaning": "피자",
+    "exampleEn": "Order a pizza.",
+    "exampleKo": "피자를 주문하세요."
+  },
+  {
+    "id": "biz-lv5-275",
+    "word": "micro",
+    "pronunciation": "/ˈmaɪkroʊ/",
+    "partOfSpeech": "형용사",
+    "meaning": "미시적인",
+    "exampleEn": "Micro-level data was analyzed.",
+    "exampleKo": "미시적 수준의 데이터가 분석됐다."
+  },
+  {
+    "id": "biz-lv5-276",
+    "word": "ideally",
+    "pronunciation": "/aɪˈdiːəli/",
+    "partOfSpeech": "부사",
+    "meaning": "이상적으로",
+    "exampleEn": "Ideally, we would start now.",
+    "exampleKo": "이상적으로는 지금 시작하겠습니다."
+  },
+  {
+    "id": "biz-lv5-277",
+    "word": "casual",
+    "pronunciation": "/ˈkæʒuəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "편안한, 캐주얼한",
+    "exampleEn": "Dress casually.",
+    "exampleKo": "편안하게 입으세요."
+  },
+  {
+    "id": "biz-lv5-278",
+    "word": "amongst",
+    "pronunciation": "/əˈmʌŋst/",
+    "partOfSpeech": "전치사",
+    "meaning": "~사이에",
+    "exampleEn": "Amongst peers, performance varied.",
+    "exampleKo": "동료들 사이에서 성과가 다양했다."
+  },
+  {
+    "id": "biz-lv5-279",
+    "word": "congressman",
+    "pronunciation": "/ˈkɒŋɡrəsmən/",
+    "partOfSpeech": "명사",
+    "meaning": "하원의원",
+    "exampleEn": "The congressman proposed cuts.",
+    "exampleKo": "하원의원이 삭감을 제안했다."
+  },
+  {
+    "id": "biz-lv5-280",
+    "word": "transit",
+    "pronunciation": "/ˈtrænzɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "통과, 운송",
+    "exampleEn": "Public transit system.",
+    "exampleKo": "대중 교통 시스템."
+  },
+  {
+    "id": "biz-lv5-281",
+    "word": "meantime",
+    "pronunciation": "/ˈmiːntaɪm/",
+    "partOfSpeech": "명사",
+    "meaning": "그 동안",
+    "exampleEn": "In the meantime.",
+    "exampleKo": "그 동안에."
+  },
+  {
+    "id": "biz-lv5-282",
+    "word": "ratify",
+    "pronunciation": "/ˈrætɪfaɪ/",
+    "partOfSpeech": "동사",
+    "meaning": "비준하다",
+    "exampleEn": "The treaty was ratified.",
+    "exampleKo": "조약이 비준됐다."
+  },
+  {
+    "id": "biz-lv5-283",
+    "word": "healthcare",
+    "pronunciation": "/ˈhɛlθkɛər/",
+    "partOfSpeech": "명사",
+    "meaning": "의료, 보건",
+    "exampleEn": "Healthcare system.",
+    "exampleKo": "의료 시스템."
+  },
+  {
+    "id": "biz-lv5-284",
+    "word": "eventual",
+    "pronunciation": "/ɪˈventʃuəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "최종적인, 결국의",
+    "exampleEn": "The eventual outcome was positive.",
+    "exampleKo": "최종 결과가 긍정적이었다."
+  },
+  {
+    "id": "biz-lv5-285",
+    "word": "vague",
+    "pronunciation": "/veɪɡ/",
+    "partOfSpeech": "형용사",
+    "meaning": "모호한",
+    "exampleEn": "The guidance was vague.",
+    "exampleKo": "지침이 모호했다."
+  },
+  {
+    "id": "biz-lv5-286",
+    "word": "correspondent",
+    "pronunciation": "/ˌkɒrɪˈspɒndənt/",
+    "partOfSpeech": "명사",
+    "meaning": "특파원, 통신 은행",
+    "exampleEn": "A correspondent bank was used.",
+    "exampleKo": "통신 은행이 활용됐다."
+  },
+  {
+    "id": "biz-lv5-287",
+    "word": "doom",
+    "pronunciation": "/duːm/",
+    "partOfSpeech": "명사",
+    "meaning": "파국, 운명",
+    "exampleEn": "Doom and gloom forecasts.",
+    "exampleKo": "파국과 암울한 예측들."
+  },
+  {
+    "id": "biz-lv5-288",
+    "word": "rage",
+    "pronunciation": "/reɪdʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "분노",
+    "exampleEn": "Investor rage was intense.",
+    "exampleKo": "투자자 분노가 강렬했다."
+  },
+  {
+    "id": "biz-lv5-289",
+    "word": "myth",
+    "pronunciation": "/mɪθ/",
+    "partOfSpeech": "명사",
+    "meaning": "신화, 미신",
+    "exampleEn": "The growth myth was exposed.",
+    "exampleKo": "성장 신화가 드러났다."
+  },
+  {
+    "id": "biz-lv5-290",
+    "word": "synthetic",
+    "pronunciation": "/sɪnˈθetɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "합성의",
+    "exampleEn": "Synthetic bonds were created.",
+    "exampleKo": "합성 채권이 만들어졌다."
+  },
+  {
+    "id": "biz-lv5-291",
+    "word": "inspect",
+    "pronunciation": "/ɪnˈspɛkt/",
+    "partOfSpeech": "동사",
+    "meaning": "검사하다, 점검하다",
+    "exampleEn": "Please inspect the goods.",
+    "exampleKo": "물품을 검사해 주세요."
+  }
+]
