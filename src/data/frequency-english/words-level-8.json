@@ -1171,12 +1171,12 @@
   },
   {
     "id": "freq-lv8-131",
-    "word": "FALSE",
-    "pronunciation": "/FALSE/",
-    "partOfSpeech": "명사",
-    "meaning": "FALSE",
-    "exampleEn": "The study focused on FALSE as a key variable.",
-    "exampleKo": "연구는 핵심 변수로서 FALSE에 초점을 맞췄습니다."
+    "word": "false",
+    "pronunciation": "/fɔːls/",
+    "partOfSpeech": "형용사",
+    "meaning": "거짓의, 틀린",
+    "exampleEn": "The rumor turned out to be false.",
+    "exampleKo": "그 소문은 거짓으로 밝혀졌다."
   },
   {
     "id": "freq-lv8-132",
