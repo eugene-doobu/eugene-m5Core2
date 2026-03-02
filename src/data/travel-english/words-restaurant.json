@@ -1,0 +1,821 @@
+[
+  {
+    "id": "travel-restaurant-001",
+    "word": "restaurant",
+    "pronunciation": "/ˈrɛstərɒnt/",
+    "partOfSpeech": "명사",
+    "meaning": "식당, 레스토랑",
+    "exampleEn": "Can you recommend a good restaurant nearby?",
+    "exampleKo": "근처에 좋은 식당을 추천해 주실 수 있나요?"
+  },
+  {
+    "id": "travel-restaurant-002",
+    "word": "menu",
+    "pronunciation": "/ˈmɛnjuː/",
+    "partOfSpeech": "명사",
+    "meaning": "메뉴",
+    "exampleEn": "May I see the menu, please?",
+    "exampleKo": "메뉴판을 볼 수 있을까요?"
+  },
+  {
+    "id": "travel-restaurant-003",
+    "word": "order",
+    "pronunciation": "/ˈɔːrdər/",
+    "partOfSpeech": "동사",
+    "meaning": "주문하다",
+    "exampleEn": "Are you ready to order?",
+    "exampleKo": "주문하실 준비가 되셨나요?"
+  },
+  {
+    "id": "travel-restaurant-004",
+    "word": "appetizer",
+    "pronunciation": "/ˈæpɪtaɪzər/",
+    "partOfSpeech": "명사",
+    "meaning": "애피타이저",
+    "exampleEn": "We started with a light appetizer.",
+    "exampleKo": "우리는 가벼운 애피타이저로 시작했다."
+  },
+  {
+    "id": "travel-restaurant-005",
+    "word": "main course",
+    "pronunciation": "/meɪn kɔːrs/",
+    "partOfSpeech": "명사",
+    "meaning": "메인 요리",
+    "exampleEn": "I'll have the grilled salmon as my main course.",
+    "exampleKo": "메인 요리로 그릴 연어를 주문하겠습니다."
+  },
+  {
+    "id": "travel-restaurant-006",
+    "word": "dessert",
+    "pronunciation": "/dɪˈzɜːrt/",
+    "partOfSpeech": "명사",
+    "meaning": "디저트",
+    "exampleEn": "I'd like a slice of chocolate cake for dessert.",
+    "exampleKo": "디저트로 초콜릿 케이크 한 조각을 주세요."
+  },
+  {
+    "id": "travel-restaurant-007",
+    "word": "beverage",
+    "pronunciation": "/ˈbɛvərɪdʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "음료",
+    "exampleEn": "Would you like a beverage with your meal?",
+    "exampleKo": "식사와 함께 음료를 드시겠어요?"
+  },
+  {
+    "id": "travel-restaurant-008",
+    "word": "water",
+    "pronunciation": "/ˈwɔːtər/",
+    "partOfSpeech": "명사",
+    "meaning": "물",
+    "exampleEn": "Could I get a glass of water, please?",
+    "exampleKo": "물 한 잔 주실 수 있을까요?"
+  },
+  {
+    "id": "travel-restaurant-009",
+    "word": "juice",
+    "pronunciation": "/dʒuːs/",
+    "partOfSpeech": "명사",
+    "meaning": "주스",
+    "exampleEn": "I'll start with a glass of orange juice.",
+    "exampleKo": "오렌지 주스 한 잔으로 시작하겠습니다."
+  },
+  {
+    "id": "travel-restaurant-010",
+    "word": "coffee",
+    "pronunciation": "/ˈkɒfi/",
+    "partOfSpeech": "명사",
+    "meaning": "커피",
+    "exampleEn": "Could I have a black coffee, please?",
+    "exampleKo": "블랙 커피 한 잔 주시겠어요?"
+  },
+  {
+    "id": "travel-restaurant-011",
+    "word": "tea",
+    "pronunciation": "/tiː/",
+    "partOfSpeech": "명사",
+    "meaning": "차",
+    "exampleEn": "I'd prefer green tea after the meal.",
+    "exampleKo": "식사 후에는 녹차를 마시고 싶습니다."
+  },
+  {
+    "id": "travel-restaurant-012",
+    "word": "wine",
+    "pronunciation": "/waɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "와인",
+    "exampleEn": "Could we see the wine list?",
+    "exampleKo": "와인 리스트를 볼 수 있을까요?"
+  },
+  {
+    "id": "travel-restaurant-013",
+    "word": "beer",
+    "pronunciation": "/bɪər/",
+    "partOfSpeech": "명사",
+    "meaning": "맥주",
+    "exampleEn": "I'll have a cold beer, please.",
+    "exampleKo": "시원한 맥주 한 잔 부탁합니다."
+  },
+  {
+    "id": "travel-restaurant-014",
+    "word": "cocktail",
+    "pronunciation": "/ˈkɒkteɪl/",
+    "partOfSpeech": "명사",
+    "meaning": "칵테일",
+    "exampleEn": "This restaurant serves excellent cocktails.",
+    "exampleKo": "이 식당은 훌륭한 칵테일을 제공한다."
+  },
+  {
+    "id": "travel-restaurant-015",
+    "word": "soft drink",
+    "pronunciation": "/sɒft drɪŋk/",
+    "partOfSpeech": "명사",
+    "meaning": "탄산음료, 청량음료",
+    "exampleEn": "I'd like a cola or another soft drink.",
+    "exampleKo": "콜라나 다른 청량음료를 마시고 싶습니다."
+  },
+  {
+    "id": "travel-restaurant-016",
+    "word": "ice",
+    "pronunciation": "/aɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "얼음",
+    "exampleEn": "Could I have my drink with no ice?",
+    "exampleKo": "음료에 얼음 없이 주실 수 있나요?"
+  },
+  {
+    "id": "travel-restaurant-017",
+    "word": "straw",
+    "pronunciation": "/strɔː/",
+    "partOfSpeech": "명사",
+    "meaning": "빨대",
+    "exampleEn": "Do you have paper straws?",
+    "exampleKo": "종이 빨대가 있나요?"
+  },
+  {
+    "id": "travel-restaurant-018",
+    "word": "napkin",
+    "pronunciation": "/ˈnæpkɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "냅킨",
+    "exampleEn": "Could I have an extra napkin?",
+    "exampleKo": "냅킨을 하나 더 주실 수 있나요?"
+  },
+  {
+    "id": "travel-restaurant-019",
+    "word": "plate",
+    "pronunciation": "/pleɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "접시",
+    "exampleEn": "The portions are so large they barely fit on the plate.",
+    "exampleKo": "양이 너무 많아 접시에 거의 다 담기지 않는다."
+  },
+  {
+    "id": "travel-restaurant-020",
+    "word": "bowl",
+    "pronunciation": "/boʊl/",
+    "partOfSpeech": "명사",
+    "meaning": "그릇",
+    "exampleEn": "The soup comes in a large bowl.",
+    "exampleKo": "수프는 큰 그릇에 나옵니다."
+  },
+  {
+    "id": "travel-restaurant-021",
+    "word": "cup",
+    "pronunciation": "/kʌp/",
+    "partOfSpeech": "명사",
+    "meaning": "컵",
+    "exampleEn": "May I have a cup of hot water?",
+    "exampleKo": "따뜻한 물 한 컵 주실 수 있나요?"
+  },
+  {
+    "id": "travel-restaurant-022",
+    "word": "glass",
+    "pronunciation": "/ɡlɑːs/",
+    "partOfSpeech": "명사",
+    "meaning": "유리잔",
+    "exampleEn": "Bring us a glass of sparkling water, please.",
+    "exampleKo": "탄산수 한 잔 가져다 주세요."
+  },
+  {
+    "id": "travel-restaurant-023",
+    "word": "fork",
+    "pronunciation": "/fɔːrk/",
+    "partOfSpeech": "명사",
+    "meaning": "포크",
+    "exampleEn": "Could I get a fork? I dropped mine.",
+    "exampleKo": "포크 하나 주실 수 있나요? 제 것을 떨어뜨렸어요."
+  },
+  {
+    "id": "travel-restaurant-024",
+    "word": "knife",
+    "pronunciation": "/naɪf/",
+    "partOfSpeech": "명사",
+    "meaning": "나이프",
+    "exampleEn": "I need a sharper knife to cut this steak.",
+    "exampleKo": "이 스테이크를 자르려면 더 날카로운 나이프가 필요해요."
+  },
+  {
+    "id": "travel-restaurant-025",
+    "word": "spoon",
+    "pronunciation": "/spuːn/",
+    "partOfSpeech": "명사",
+    "meaning": "숟가락",
+    "exampleEn": "Is there a spoon for the soup?",
+    "exampleKo": "수프용 숟가락이 있나요?"
+  },
+  {
+    "id": "travel-restaurant-026",
+    "word": "chopsticks",
+    "pronunciation": "/ˈtʃɒpˌstɪks/",
+    "partOfSpeech": "명사",
+    "meaning": "젓가락",
+    "exampleEn": "Do you know how to use chopsticks?",
+    "exampleKo": "젓가락 사용법을 아세요?"
+  },
+  {
+    "id": "travel-restaurant-027",
+    "word": "tray",
+    "pronunciation": "/treɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "쟁반",
+    "exampleEn": "The waiter carried everything on a large tray.",
+    "exampleKo": "웨이터는 큰 쟁반에 모든 것을 담아 날랐다."
+  },
+  {
+    "id": "travel-restaurant-028",
+    "word": "table",
+    "pronunciation": "/ˈteɪbəl/",
+    "partOfSpeech": "명사",
+    "meaning": "테이블",
+    "exampleEn": "We'd like a table for four, please.",
+    "exampleKo": "4인용 테이블 부탁합니다."
+  },
+  {
+    "id": "travel-restaurant-029",
+    "word": "chair",
+    "pronunciation": "/tʃɛər/",
+    "partOfSpeech": "명사",
+    "meaning": "의자",
+    "exampleEn": "Is this chair taken?",
+    "exampleKo": "이 의자 자리가 있나요?"
+  },
+  {
+    "id": "travel-restaurant-030",
+    "word": "booth",
+    "pronunciation": "/buːð/",
+    "partOfSpeech": "명사",
+    "meaning": "부스 좌석",
+    "exampleEn": "We prefer a booth for more privacy.",
+    "exampleKo": "우리는 더 프라이빗한 부스 좌석을 선호한다."
+  },
+  {
+    "id": "travel-restaurant-031",
+    "word": "waiter",
+    "pronunciation": "/ˈweɪtər/",
+    "partOfSpeech": "명사",
+    "meaning": "남자 웨이터",
+    "exampleEn": "Excuse me, waiter — could we get the check?",
+    "exampleKo": "실례합니다, 웨이터 — 계산서 주실 수 있나요?"
+  },
+  {
+    "id": "travel-restaurant-032",
+    "word": "waitress",
+    "pronunciation": "/ˈweɪtrɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "여자 웨이트리스",
+    "exampleEn": "The waitress was very friendly and helpful.",
+    "exampleKo": "여자 웨이트리스가 매우 친절하고 도움이 됐다."
+  },
+  {
+    "id": "travel-restaurant-033",
+    "word": "chef",
+    "pronunciation": "/ʃɛf/",
+    "partOfSpeech": "명사",
+    "meaning": "주방장",
+    "exampleEn": "The chef personally prepared this dish.",
+    "exampleKo": "주방장이 이 요리를 직접 준비했습니다."
+  },
+  {
+    "id": "travel-restaurant-034",
+    "word": "cashier",
+    "pronunciation": "/kæˈʃɪər/",
+    "partOfSpeech": "명사",
+    "meaning": "계산원",
+    "exampleEn": "Pay the cashier at the front counter.",
+    "exampleKo": "앞쪽 카운터에서 계산원에게 지불하세요."
+  },
+  {
+    "id": "travel-restaurant-035",
+    "word": "host",
+    "pronunciation": "/hoʊst/",
+    "partOfSpeech": "명사",
+    "meaning": "안내 직원",
+    "exampleEn": "The host will seat you shortly.",
+    "exampleKo": "안내 직원이 곧 자리를 안내해 드릴 것입니다."
+  },
+  {
+    "id": "travel-restaurant-037",
+    "word": "waiting list",
+    "pronunciation": "/ˈweɪtɪŋ lɪst/",
+    "partOfSpeech": "명사",
+    "meaning": "대기 명단",
+    "exampleEn": "We were put on the waiting list for 20 minutes.",
+    "exampleKo": "우리는 20분 대기 명단에 올랐다."
+  },
+  {
+    "id": "travel-restaurant-038",
+    "word": "seat",
+    "pronunciation": "/siːt/",
+    "partOfSpeech": "명사",
+    "meaning": "자리",
+    "exampleEn": "Is this seat taken?",
+    "exampleKo": "이 자리 있나요?"
+  },
+  {
+    "id": "travel-restaurant-039",
+    "word": "outdoor seating",
+    "pronunciation": "/ˈaʊtdɔːr ˈsiːtɪŋ/",
+    "partOfSpeech": "명사",
+    "meaning": "야외 좌석",
+    "exampleEn": "I prefer outdoor seating on nice days.",
+    "exampleKo": "날씨가 좋을 때는 야외 좌석을 선호합니다."
+  },
+  {
+    "id": "travel-restaurant-040",
+    "word": "smoking section",
+    "pronunciation": "/ˈsmoʊkɪŋ ˈsɛkʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "흡연석",
+    "exampleEn": "Does this restaurant have a smoking section?",
+    "exampleKo": "이 식당에 흡연석이 있나요?"
+  },
+  {
+    "id": "travel-restaurant-041",
+    "word": "non-smoking",
+    "pronunciation": "/nɒn ˈsmoʊkɪŋ/",
+    "partOfSpeech": "형용사",
+    "meaning": "금연의",
+    "exampleEn": "We'd like a table in the non-smoking area.",
+    "exampleKo": "금연 구역의 테이블로 부탁합니다."
+  },
+  {
+    "id": "travel-restaurant-043",
+    "word": "check",
+    "pronunciation": "/tʃɛk/",
+    "partOfSpeech": "명사",
+    "meaning": "계산서 (미국식)",
+    "exampleEn": "Can we get the check when you have a moment?",
+    "exampleKo": "시간이 되실 때 계산서 주실 수 있나요?"
+  },
+  {
+    "id": "travel-restaurant-045",
+    "word": "service charge",
+    "pronunciation": "/ˈsɜːrvɪs tʃɑːrdʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "봉사료",
+    "exampleEn": "A 10% service charge is automatically added.",
+    "exampleKo": "봉사료 10%가 자동으로 추가됩니다."
+  },
+  {
+    "id": "travel-restaurant-047",
+    "word": "credit card",
+    "pronunciation": "/ˈkrɛdɪt kɑːrd/",
+    "partOfSpeech": "명사",
+    "meaning": "신용카드",
+    "exampleEn": "I'll pay by credit card.",
+    "exampleKo": "신용카드로 결제하겠습니다."
+  },
+  {
+    "id": "travel-restaurant-048",
+    "word": "cash",
+    "pronunciation": "/kæʃ/",
+    "partOfSpeech": "명사",
+    "meaning": "현금",
+    "exampleEn": "Do you accept cash?",
+    "exampleKo": "현금으로 결제할 수 있나요?"
+  },
+  {
+    "id": "travel-restaurant-049",
+    "word": "split the bill",
+    "pronunciation": "/splɪt ðə bɪl/",
+    "partOfSpeech": "동사",
+    "meaning": "더치페이하다",
+    "exampleEn": "Shall we split the bill?",
+    "exampleKo": "더치페이할까요?"
+  },
+  {
+    "id": "travel-restaurant-050",
+    "word": "takeout",
+    "pronunciation": "/ˈteɪkˌaʊt/",
+    "partOfSpeech": "명사",
+    "meaning": "포장 음식",
+    "exampleEn": "I'd like to place a takeout order.",
+    "exampleKo": "포장 주문을 하고 싶습니다."
+  },
+  {
+    "id": "travel-restaurant-051",
+    "word": "delivery",
+    "pronunciation": "/dɪˈlɪvəri/",
+    "partOfSpeech": "명사",
+    "meaning": "배달, 배송",
+    "exampleEn": "Do you offer home delivery?",
+    "exampleKo": "가정 배송 서비스가 있나요?"
+  },
+  {
+    "id": "travel-restaurant-052",
+    "word": "dine-in",
+    "pronunciation": "/daɪn ɪn/",
+    "partOfSpeech": "형용사",
+    "meaning": "매장 내 식사의",
+    "exampleEn": "This discount is for dine-in customers only.",
+    "exampleKo": "이 할인은 매장 내 식사 고객에게만 적용됩니다."
+  },
+  {
+    "id": "travel-restaurant-054",
+    "word": "brunch",
+    "pronunciation": "/brʌntʃ/",
+    "partOfSpeech": "명사",
+    "meaning": "브런치",
+    "exampleEn": "Let's go for brunch on Sunday morning.",
+    "exampleKo": "일요일 아침에 브런치 먹으러 가자."
+  },
+  {
+    "id": "travel-restaurant-055",
+    "word": "portion",
+    "pronunciation": "/ˈpɔːrʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "1인분, 양",
+    "exampleEn": "The portion size here is very generous.",
+    "exampleKo": "이곳의 1인분 양이 매우 많다."
+  },
+  {
+    "id": "travel-restaurant-056",
+    "word": "serving",
+    "pronunciation": "/ˈsɜːrvɪŋ/",
+    "partOfSpeech": "명사",
+    "meaning": "1회 제공량",
+    "exampleEn": "Each serving contains 300 calories.",
+    "exampleKo": "1회 제공량에는 300칼로리가 들어 있습니다."
+  },
+  {
+    "id": "travel-restaurant-057",
+    "word": "ingredient",
+    "pronunciation": "/ɪnˈɡriːdiənt/",
+    "partOfSpeech": "명사",
+    "meaning": "재료",
+    "exampleEn": "What are the main ingredients in this dish?",
+    "exampleKo": "이 요리의 주요 재료가 무엇인가요?"
+  },
+  {
+    "id": "travel-restaurant-058",
+    "word": "spicy",
+    "pronunciation": "/ˈspaɪsi/",
+    "partOfSpeech": "형용사",
+    "meaning": "매운",
+    "exampleEn": "Is this dish very spicy?",
+    "exampleKo": "이 요리가 많이 맵나요?"
+  },
+  {
+    "id": "travel-restaurant-059",
+    "word": "mild",
+    "pronunciation": "/maɪld/",
+    "partOfSpeech": "형용사",
+    "meaning": "순한, 자극적이지 않은",
+    "exampleEn": "I'd prefer something mild, not too spicy.",
+    "exampleKo": "매운 것보다 순한 것을 원합니다."
+  },
+  {
+    "id": "travel-restaurant-060",
+    "word": "sweet",
+    "pronunciation": "/swiːt/",
+    "partOfSpeech": "형용사",
+    "meaning": "달콤한",
+    "exampleEn": "This dessert is too sweet for me.",
+    "exampleKo": "이 디저트는 저에게 너무 달콤합니다."
+  },
+  {
+    "id": "travel-restaurant-061",
+    "word": "sour",
+    "pronunciation": "/saʊər/",
+    "partOfSpeech": "형용사",
+    "meaning": "신",
+    "exampleEn": "The sauce has a pleasantly sour taste.",
+    "exampleKo": "소스가 기분 좋게 신맛이 난다."
+  },
+  {
+    "id": "travel-restaurant-062",
+    "word": "salty",
+    "pronunciation": "/ˈsɔːlti/",
+    "partOfSpeech": "형용사",
+    "meaning": "짠",
+    "exampleEn": "The soup is a bit too salty for my taste.",
+    "exampleKo": "수프가 제 입맛에는 조금 너무 짭니다."
+  },
+  {
+    "id": "travel-restaurant-063",
+    "word": "bitter",
+    "pronunciation": "/ˈbɪtər/",
+    "partOfSpeech": "형용사",
+    "meaning": "쓴",
+    "exampleEn": "Dark chocolate has a slightly bitter taste.",
+    "exampleKo": "다크 초콜릿은 약간 쓴맛이 난다."
+  },
+  {
+    "id": "travel-restaurant-064",
+    "word": "savory",
+    "pronunciation": "/ˈseɪvəri/",
+    "partOfSpeech": "형용사",
+    "meaning": "고소한, 풍미 있는",
+    "exampleEn": "The stew has a rich, savory flavor.",
+    "exampleKo": "스튜는 풍부하고 고소한 맛이 난다."
+  },
+  {
+    "id": "travel-restaurant-065",
+    "word": "bland",
+    "pronunciation": "/blænd/",
+    "partOfSpeech": "형용사",
+    "meaning": "맛이 없는, 싱거운",
+    "exampleEn": "The pasta was a bit bland without seasoning.",
+    "exampleKo": "파스타가 양념 없이 조금 싱거웠다."
+  },
+  {
+    "id": "travel-restaurant-066",
+    "word": "fresh",
+    "pronunciation": "/frɛʃ/",
+    "partOfSpeech": "형용사",
+    "meaning": "신선한",
+    "exampleEn": "The vegetables here are always fresh.",
+    "exampleKo": "여기의 채소는 항상 신선합니다."
+  },
+  {
+    "id": "travel-restaurant-067",
+    "word": "raw",
+    "pronunciation": "/rɔː/",
+    "partOfSpeech": "형용사",
+    "meaning": "날것의",
+    "exampleEn": "I prefer my tuna raw, like in sashimi.",
+    "exampleKo": "저는 생선회처럼 날것의 참치를 선호합니다."
+  },
+  {
+    "id": "travel-restaurant-068",
+    "word": "grilled",
+    "pronunciation": "/ɡrɪld/",
+    "partOfSpeech": "형용사",
+    "meaning": "구운",
+    "exampleEn": "I'll have the grilled chicken salad.",
+    "exampleKo": "구운 닭고기 샐러드를 주문하겠습니다."
+  },
+  {
+    "id": "travel-restaurant-069",
+    "word": "fried",
+    "pronunciation": "/fraɪd/",
+    "partOfSpeech": "형용사",
+    "meaning": "튀긴",
+    "exampleEn": "The fried calamari was perfectly crispy.",
+    "exampleKo": "튀긴 오징어 링이 완벽하게 바삭했다."
+  },
+  {
+    "id": "travel-restaurant-070",
+    "word": "baked",
+    "pronunciation": "/beɪkt/",
+    "partOfSpeech": "형용사",
+    "meaning": "구운 (오븐)",
+    "exampleEn": "The baked potato comes with sour cream.",
+    "exampleKo": "구운 감자에는 사워크림이 곁들여 나옵니다."
+  },
+  {
+    "id": "travel-restaurant-071",
+    "word": "steamed",
+    "pronunciation": "/stiːmd/",
+    "partOfSpeech": "형용사",
+    "meaning": "찐",
+    "exampleEn": "I'd like the dumplings steamed, not fried.",
+    "exampleKo": "만두를 튀기지 말고 쪄주세요."
+  },
+  {
+    "id": "travel-restaurant-072",
+    "word": "roasted",
+    "pronunciation": "/ˈroʊstɪd/",
+    "partOfSpeech": "형용사",
+    "meaning": "로스팅한",
+    "exampleEn": "The roasted vegetables make a great side dish.",
+    "exampleKo": "로스팅한 채소는 훌륭한 사이드 디시가 된다."
+  },
+  {
+    "id": "travel-restaurant-073",
+    "word": "boiled",
+    "pronunciation": "/bɔɪld/",
+    "partOfSpeech": "형용사",
+    "meaning": "삶은",
+    "exampleEn": "I'll have a boiled egg with my breakfast.",
+    "exampleKo": "아침 식사로 삶은 달걀을 주세요."
+  },
+  {
+    "id": "travel-restaurant-074",
+    "word": "vegetarian",
+    "pronunciation": "/ˌvɛdʒɪˈtɛəriən/",
+    "partOfSpeech": "형용사",
+    "meaning": "채식주의의",
+    "exampleEn": "Do you have vegetarian options on the menu?",
+    "exampleKo": "메뉴에 채식주의자를 위한 옵션이 있나요?"
+  },
+  {
+    "id": "travel-restaurant-075",
+    "word": "vegan",
+    "pronunciation": "/ˈviːɡən/",
+    "partOfSpeech": "형용사",
+    "meaning": "완전 채식주의의",
+    "exampleEn": "Is there anything vegan on the menu?",
+    "exampleKo": "메뉴에 비건 음식이 있나요?"
+  },
+  {
+    "id": "travel-restaurant-076",
+    "word": "gluten-free",
+    "pronunciation": "/ˈɡluːtən friː/",
+    "partOfSpeech": "형용사",
+    "meaning": "글루텐 프리의",
+    "exampleEn": "I need a gluten-free option due to an intolerance.",
+    "exampleKo": "불내증 때문에 글루텐 프리 옵션이 필요합니다."
+  },
+  {
+    "id": "travel-restaurant-077",
+    "word": "allergy",
+    "pronunciation": "/ˈælərdʒi/",
+    "partOfSpeech": "명사",
+    "meaning": "알레르기",
+    "exampleEn": "I have a bee sting allergy.",
+    "exampleKo": "저는 벌에 쏘이면 알레르기가 있습니다."
+  },
+  {
+    "id": "travel-restaurant-078",
+    "word": "dairy-free",
+    "pronunciation": "/ˈdɛəri friː/",
+    "partOfSpeech": "형용사",
+    "meaning": "유제품 무첨가의",
+    "exampleEn": "Does this dish contain dairy? I'm dairy-free.",
+    "exampleKo": "이 요리에 유제품이 들어가나요? 저는 유제품을 먹지 않습니다."
+  },
+  {
+    "id": "travel-restaurant-079",
+    "word": "organic",
+    "pronunciation": "/ɔːrˈɡænɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "유기농의",
+    "exampleEn": "All vegetables used here are organic.",
+    "exampleKo": "여기서 사용하는 모든 채소는 유기농입니다."
+  },
+  {
+    "id": "travel-restaurant-080",
+    "word": "signature dish",
+    "pronunciation": "/ˈsɪɡnɪtʃər dɪʃ/",
+    "partOfSpeech": "명사",
+    "meaning": "대표 메뉴",
+    "exampleEn": "What is your signature dish?",
+    "exampleKo": "이 식당의 대표 메뉴는 무엇인가요?"
+  },
+  {
+    "id": "travel-restaurant-081",
+    "word": "side dish",
+    "pronunciation": "/saɪd dɪʃ/",
+    "partOfSpeech": "명사",
+    "meaning": "사이드 디시",
+    "exampleEn": "Which side dish comes with the steak?",
+    "exampleKo": "스테이크에 어떤 사이드 디시가 나오나요?"
+  },
+  {
+    "id": "travel-restaurant-082",
+    "word": "salad",
+    "pronunciation": "/ˈsæləd/",
+    "partOfSpeech": "명사",
+    "meaning": "샐러드",
+    "exampleEn": "I'll have the Caesar salad as a starter.",
+    "exampleKo": "시저 샐러드를 에피타이저로 주세요."
+  },
+  {
+    "id": "travel-restaurant-083",
+    "word": "soup",
+    "pronunciation": "/suːp/",
+    "partOfSpeech": "명사",
+    "meaning": "수프",
+    "exampleEn": "The soup of the day is tomato basil.",
+    "exampleKo": "오늘의 수프는 토마토 바질입니다."
+  },
+  {
+    "id": "travel-restaurant-084",
+    "word": "pasta",
+    "pronunciation": "/ˈpæstə/",
+    "partOfSpeech": "명사",
+    "meaning": "파스타",
+    "exampleEn": "The carbonara pasta is excellent here.",
+    "exampleKo": "이곳의 카르보나라 파스타가 매우 훌륭하다."
+  },
+  {
+    "id": "travel-restaurant-085",
+    "word": "steak",
+    "pronunciation": "/steɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "스테이크",
+    "exampleEn": "How would you like your steak cooked?",
+    "exampleKo": "스테이크를 어떻게 익혀 드릴까요?"
+  },
+  {
+    "id": "travel-restaurant-086",
+    "word": "seafood",
+    "pronunciation": "/ˈsiːfuːd/",
+    "partOfSpeech": "명사",
+    "meaning": "해산물",
+    "exampleEn": "This restaurant specializes in fresh seafood.",
+    "exampleKo": "이 식당은 신선한 해산물을 전문으로 합니다."
+  },
+  {
+    "id": "travel-restaurant-087",
+    "word": "well-done",
+    "pronunciation": "/ˌwɛl ˈdʌn/",
+    "partOfSpeech": "형용사",
+    "meaning": "완전히 익힌",
+    "exampleEn": "I'd like my steak well-done, please.",
+    "exampleKo": "스테이크를 완전히 익혀 주세요."
+  },
+  {
+    "id": "travel-restaurant-088",
+    "word": "medium rare",
+    "pronunciation": "/ˈmiːdiəm rɛər/",
+    "partOfSpeech": "형용사",
+    "meaning": "미디엄 레어로 익힌",
+    "exampleEn": "The chef recommends the steak medium rare.",
+    "exampleKo": "주방장은 미디엄 레어로 익힌 스테이크를 추천합니다."
+  },
+  {
+    "id": "travel-restaurant-089",
+    "word": "rare",
+    "pronunciation": "/rɛər/",
+    "partOfSpeech": "형용사",
+    "meaning": "덜 익힌",
+    "exampleEn": "I prefer my steak rare.",
+    "exampleKo": "스테이크를 덜 익히는 것을 선호합니다."
+  },
+  {
+    "id": "travel-restaurant-090",
+    "word": "sauce",
+    "pronunciation": "/sɔːs/",
+    "partOfSpeech": "명사",
+    "meaning": "소스",
+    "exampleEn": "What sauce comes with the dish?",
+    "exampleKo": "요리에 어떤 소스가 곁들여지나요?"
+  },
+  {
+    "id": "travel-restaurant-091",
+    "word": "condiment",
+    "pronunciation": "/ˈkɒndɪmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "조미료, 양념",
+    "exampleEn": "The table has salt, pepper, and other condiments.",
+    "exampleKo": "테이블에 소금, 후추와 다른 조미료가 있습니다."
+  },
+  {
+    "id": "travel-restaurant-092",
+    "word": "refill",
+    "pronunciation": "/ˈriːfɪl/",
+    "partOfSpeech": "명사",
+    "meaning": "리필",
+    "exampleEn": "Do you offer free refills on soft drinks?",
+    "exampleKo": "청량음료 무료 리필이 되나요?"
+  },
+  {
+    "id": "travel-restaurant-093",
+    "word": "doggy bag",
+    "pronunciation": "/ˈdɒɡi bæɡ/",
+    "partOfSpeech": "명사",
+    "meaning": "남은 음식 포장 봉투",
+    "exampleEn": "Could I have a doggy bag for the leftovers?",
+    "exampleKo": "남은 음식을 포장해 주실 수 있나요?"
+  },
+  {
+    "id": "travel-restaurant-094",
+    "word": "sold out",
+    "pronunciation": "/soʊld aʊt/",
+    "partOfSpeech": "형용사",
+    "meaning": "매진된",
+    "exampleEn": "I'm afraid this item is sold out.",
+    "exampleKo": "죄송하지만 이 물건은 매진되었습니다."
+  },
+  {
+    "id": "travel-restaurant-096",
+    "word": "last order",
+    "pronunciation": "/lɑːst ˈɔːrdər/",
+    "partOfSpeech": "명사",
+    "meaning": "라스트 오더",
+    "exampleEn": "Last order is at 10 p.m.",
+    "exampleKo": "라스트 오더는 오후 10시입니다."
+  },
+  {
+    "id": "travel-restaurant-097",
+    "word": "bon appétit",
+    "pronunciation": "/ˌbɒn æpɪˈtiː/",
+    "partOfSpeech": "감탄사",
+    "meaning": "맛있게 드세요",
+    "exampleEn": "The waiter smiled and said 'Bon appétit!'",
+    "exampleKo": "웨이터가 미소 지으며 '맛있게 드세요!'라고 말했다."
+  }
+]

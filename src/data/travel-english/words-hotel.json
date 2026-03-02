@@ -1,0 +1,803 @@
+[
+  {
+    "id": "travel-hotel-001",
+    "word": "hotel",
+    "pronunciation": "/hoʊˈtɛl/",
+    "partOfSpeech": "명사",
+    "meaning": "호텔",
+    "exampleEn": "The hotel is located right in the city center.",
+    "exampleKo": "호텔은 도심 바로 한가운데 위치해 있다."
+  },
+  {
+    "id": "travel-hotel-005",
+    "word": "front desk",
+    "pronunciation": "/frʌnt dɛsk/",
+    "partOfSpeech": "명사",
+    "meaning": "프런트 데스크",
+    "exampleEn": "Ask the front desk for an extra pillow.",
+    "exampleKo": "프런트 데스크에 베개를 하나 더 요청하세요."
+  },
+  {
+    "id": "travel-hotel-006",
+    "word": "lobby",
+    "pronunciation": "/ˈlɒbi/",
+    "partOfSpeech": "명사",
+    "meaning": "로비",
+    "exampleEn": "We agreed to meet in the hotel lobby at noon.",
+    "exampleKo": "우리는 정오에 호텔 로비에서 만나기로 했다."
+  },
+  {
+    "id": "travel-hotel-007",
+    "word": "room key",
+    "pronunciation": "/ruːm kiː/",
+    "partOfSpeech": "명사",
+    "meaning": "객실 키",
+    "exampleEn": "I left my room key inside the room.",
+    "exampleKo": "객실 키를 방 안에 두고 나왔다."
+  },
+  {
+    "id": "travel-hotel-008",
+    "word": "key card",
+    "pronunciation": "/ˈkiː kɑːrd/",
+    "partOfSpeech": "명사",
+    "meaning": "키 카드",
+    "exampleEn": "Tap your key card on the reader to unlock the door.",
+    "exampleKo": "문을 열려면 리더기에 키 카드를 대세요."
+  },
+  {
+    "id": "travel-hotel-009",
+    "word": "single room",
+    "pronunciation": "/ˈsɪŋɡəl ruːm/",
+    "partOfSpeech": "명사",
+    "meaning": "싱글룸",
+    "exampleEn": "I booked a single room for one night.",
+    "exampleKo": "하룻밤 싱글룸을 예약했다."
+  },
+  {
+    "id": "travel-hotel-010",
+    "word": "double room",
+    "pronunciation": "/ˈdʌbəl ruːm/",
+    "partOfSpeech": "명사",
+    "meaning": "더블룸",
+    "exampleEn": "The double room has a king-size bed.",
+    "exampleKo": "더블룸에는 킹사이즈 침대가 있다."
+  },
+  {
+    "id": "travel-hotel-011",
+    "word": "suite",
+    "pronunciation": "/swiːt/",
+    "partOfSpeech": "명사",
+    "meaning": "스위트룸",
+    "exampleEn": "They stayed in a suite with a sea view.",
+    "exampleKo": "그들은 바다 전망 스위트룸에 묵었다."
+  },
+  {
+    "id": "travel-hotel-012",
+    "word": "twin room",
+    "pronunciation": "/twɪn ruːm/",
+    "partOfSpeech": "명사",
+    "meaning": "트윈룸",
+    "exampleEn": "Can I book a twin room for two adults?",
+    "exampleKo": "성인 두 명을 위한 트윈룸을 예약할 수 있나요?"
+  },
+  {
+    "id": "travel-hotel-013",
+    "word": "bed",
+    "pronunciation": "/bɛd/",
+    "partOfSpeech": "명사",
+    "meaning": "침대",
+    "exampleEn": "The bed was extremely comfortable.",
+    "exampleKo": "침대가 매우 편안했다."
+  },
+  {
+    "id": "travel-hotel-014",
+    "word": "pillow",
+    "pronunciation": "/ˈpɪloʊ/",
+    "partOfSpeech": "명사",
+    "meaning": "베개",
+    "exampleEn": "Could I get an extra pillow, please?",
+    "exampleKo": "베개를 하나 더 주실 수 있나요?"
+  },
+  {
+    "id": "travel-hotel-015",
+    "word": "blanket",
+    "pronunciation": "/ˈblæŋkɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "담요",
+    "exampleEn": "It was cold, so I asked for an extra blanket.",
+    "exampleKo": "추웠기 때문에 담요를 하나 더 요청했다."
+  },
+  {
+    "id": "travel-hotel-016",
+    "word": "mattress",
+    "pronunciation": "/ˈmætrɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "매트리스",
+    "exampleEn": "The mattress in this room is very firm.",
+    "exampleKo": "이 객실의 매트리스는 매우 단단하다."
+  },
+  {
+    "id": "travel-hotel-017",
+    "word": "sheet",
+    "pronunciation": "/ʃiːt/",
+    "partOfSpeech": "명사",
+    "meaning": "시트",
+    "exampleEn": "Please change the bed sheets.",
+    "exampleKo": "침대 시트를 교체해 주세요."
+  },
+  {
+    "id": "travel-hotel-018",
+    "word": "towel",
+    "pronunciation": "/ˈtaʊəl/",
+    "partOfSpeech": "명사",
+    "meaning": "수건",
+    "exampleEn": "There are fresh towels in the bathroom.",
+    "exampleKo": "욕실에 신선한 수건이 있습니다."
+  },
+  {
+    "id": "travel-hotel-019",
+    "word": "bathrobe",
+    "pronunciation": "/ˈbæθroʊb/",
+    "partOfSpeech": "명사",
+    "meaning": "목욕 가운",
+    "exampleEn": "The hotel provided a comfortable bathrobe.",
+    "exampleKo": "호텔에서 편안한 목욕 가운을 제공했다."
+  },
+  {
+    "id": "travel-hotel-020",
+    "word": "slippers",
+    "pronunciation": "/ˈslɪpərz/",
+    "partOfSpeech": "명사",
+    "meaning": "슬리퍼",
+    "exampleEn": "There is a pair of slippers under the bed.",
+    "exampleKo": "침대 아래에 슬리퍼 한 켤레가 있다."
+  },
+  {
+    "id": "travel-hotel-021",
+    "word": "mini bar",
+    "pronunciation": "/ˈmɪni bɑːr/",
+    "partOfSpeech": "명사",
+    "meaning": "미니바",
+    "exampleEn": "Drinks from the mini bar will be charged to your room.",
+    "exampleKo": "미니바의 음료는 객실 요금에 추가됩니다."
+  },
+  {
+    "id": "travel-hotel-022",
+    "word": "room service",
+    "pronunciation": "/ruːm ˈsɜːrvɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "룸서비스",
+    "exampleEn": "I ordered room service because I was too tired to go out.",
+    "exampleKo": "너무 피곤해서 외출하지 않고 룸서비스를 주문했다."
+  },
+  {
+    "id": "travel-hotel-023",
+    "word": "wake-up call",
+    "pronunciation": "/ˈweɪk ʌp kɔːl/",
+    "partOfSpeech": "명사",
+    "meaning": "모닝콜",
+    "exampleEn": "Can you arrange a wake-up call for 6 a.m., please?",
+    "exampleKo": "오전 6시에 모닝콜을 요청할 수 있을까요?"
+  },
+  {
+    "id": "travel-hotel-024",
+    "word": "do not disturb",
+    "pronunciation": "/duː nɒt dɪˈstɜːrb/",
+    "partOfSpeech": "명사",
+    "meaning": "방해 금지",
+    "exampleEn": "Hang the do-not-disturb sign on the door handle.",
+    "exampleKo": "문 손잡이에 방해 금지 표지를 걸어 두세요."
+  },
+  {
+    "id": "travel-hotel-025",
+    "word": "housekeeping",
+    "pronunciation": "/ˈhaʊsˌkiːpɪŋ/",
+    "partOfSpeech": "명사",
+    "meaning": "객실 청소 서비스",
+    "exampleEn": "Housekeeping will clean your room every morning.",
+    "exampleKo": "객실 청소 서비스가 매일 아침 방을 청소할 것입니다."
+  },
+  {
+    "id": "travel-hotel-026",
+    "word": "laundry",
+    "pronunciation": "/ˈlɔːndri/",
+    "partOfSpeech": "명사",
+    "meaning": "세탁 서비스",
+    "exampleEn": "The hotel offers same-day laundry service.",
+    "exampleKo": "호텔은 당일 세탁 서비스를 제공합니다."
+  },
+  {
+    "id": "travel-hotel-027",
+    "word": "dry cleaning",
+    "pronunciation": "/ˌdraɪ ˈkliːnɪŋ/",
+    "partOfSpeech": "명사",
+    "meaning": "드라이클리닝",
+    "exampleEn": "Is there a dry-cleaning service available?",
+    "exampleKo": "드라이클리닝 서비스가 가능한가요?"
+  },
+  {
+    "id": "travel-hotel-028",
+    "word": "iron",
+    "pronunciation": "/ˈaɪərn/",
+    "partOfSpeech": "명사",
+    "meaning": "다리미",
+    "exampleEn": "There is an iron in the wardrobe.",
+    "exampleKo": "옷장 안에 다리미가 있습니다."
+  },
+  {
+    "id": "travel-hotel-029",
+    "word": "hanger",
+    "pronunciation": "/ˈhæŋər/",
+    "partOfSpeech": "명사",
+    "meaning": "옷걸이",
+    "exampleEn": "Use the hangers in the closet for your clothes.",
+    "exampleKo": "옷장의 옷걸이를 이용해 옷을 걸어 두세요."
+  },
+  {
+    "id": "travel-hotel-030",
+    "word": "wardrobe",
+    "pronunciation": "/ˈwɔːrdroʊb/",
+    "partOfSpeech": "명사",
+    "meaning": "옷장",
+    "exampleEn": "You can store your luggage in the wardrobe.",
+    "exampleKo": "옷장에 짐을 보관할 수 있습니다."
+  },
+  {
+    "id": "travel-hotel-031",
+    "word": "air conditioning",
+    "pronunciation": "/ɛr kənˈdɪʃənɪŋ/",
+    "partOfSpeech": "명사",
+    "meaning": "에어컨",
+    "exampleEn": "Please adjust the air conditioning using the remote.",
+    "exampleKo": "리모컨으로 에어컨을 조절해 주세요."
+  },
+  {
+    "id": "travel-hotel-032",
+    "word": "heater",
+    "pronunciation": "/ˈhiːtər/",
+    "partOfSpeech": "명사",
+    "meaning": "히터",
+    "exampleEn": "The heater in the room doesn't seem to be working.",
+    "exampleKo": "객실의 히터가 작동하지 않는 것 같다."
+  },
+  {
+    "id": "travel-hotel-033",
+    "word": "thermostat",
+    "pronunciation": "/ˈθɜːrməstæt/",
+    "partOfSpeech": "명사",
+    "meaning": "온도 조절기",
+    "exampleEn": "Set the thermostat to your preferred temperature.",
+    "exampleKo": "온도 조절기를 원하는 온도로 설정하세요."
+  },
+  {
+    "id": "travel-hotel-034",
+    "word": "Wi-Fi",
+    "pronunciation": "/ˈwaɪ faɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "와이파이",
+    "exampleEn": "What is the Wi-Fi password for the hotel?",
+    "exampleKo": "호텔 와이파이 비밀번호가 무엇인가요?"
+  },
+  {
+    "id": "travel-hotel-035",
+    "word": "outlet",
+    "pronunciation": "/ˈaʊtlɛt/",
+    "partOfSpeech": "명사",
+    "meaning": "콘센트",
+    "exampleEn": "The outlet near the desk is the most convenient.",
+    "exampleKo": "책상 옆 콘센트가 가장 편리하다."
+  },
+  {
+    "id": "travel-hotel-036",
+    "word": "adapter",
+    "pronunciation": "/əˈdæptər/",
+    "partOfSpeech": "명사",
+    "meaning": "어댑터",
+    "exampleEn": "Do you have a universal power adapter?",
+    "exampleKo": "범용 전원 어댑터가 있나요?"
+  },
+  {
+    "id": "travel-hotel-037",
+    "word": "bathroom",
+    "pronunciation": "/ˈbæθruːm/",
+    "partOfSpeech": "명사",
+    "meaning": "욕실",
+    "exampleEn": "The bathroom has both a shower and a bathtub.",
+    "exampleKo": "욕실에는 샤워기와 욕조가 모두 있다."
+  },
+  {
+    "id": "travel-hotel-038",
+    "word": "shower",
+    "pronunciation": "/ˈʃaʊər/",
+    "partOfSpeech": "명사",
+    "meaning": "샤워기, 샤워",
+    "exampleEn": "The hot water in the shower is not working.",
+    "exampleKo": "샤워기의 온수가 나오지 않는다."
+  },
+  {
+    "id": "travel-hotel-039",
+    "word": "bathtub",
+    "pronunciation": "/ˈbæθtʌb/",
+    "partOfSpeech": "명사",
+    "meaning": "욕조",
+    "exampleEn": "I love relaxing in the bathtub after a long trip.",
+    "exampleKo": "긴 여행 후 욕조에서 쉬는 것을 좋아한다."
+  },
+  {
+    "id": "travel-hotel-040",
+    "word": "toilet",
+    "pronunciation": "/ˈtɔɪlɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "변기, 화장실",
+    "exampleEn": "The toilet is clogged and needs maintenance.",
+    "exampleKo": "변기가 막혀 수리가 필요합니다."
+  },
+  {
+    "id": "travel-hotel-041",
+    "word": "hot water",
+    "pronunciation": "/hɒt ˈwɔːtər/",
+    "partOfSpeech": "명사",
+    "meaning": "온수",
+    "exampleEn": "There is no hot water in the bathroom.",
+    "exampleKo": "욕실에 온수가 나오지 않는다."
+  },
+  {
+    "id": "travel-hotel-042",
+    "word": "hairdryer",
+    "pronunciation": "/ˈhɛərˌdraɪər/",
+    "partOfSpeech": "명사",
+    "meaning": "헤어드라이어",
+    "exampleEn": "The hairdryer is in the top drawer.",
+    "exampleKo": "헤어드라이어는 맨 위 서랍 안에 있습니다."
+  },
+  {
+    "id": "travel-hotel-043",
+    "word": "shampoo",
+    "pronunciation": "/ʃæmˈpuː/",
+    "partOfSpeech": "명사",
+    "meaning": "샴푸",
+    "exampleEn": "The hotel provides shampoo and conditioner.",
+    "exampleKo": "호텔에서 샴푸와 컨디셔너를 제공합니다."
+  },
+  {
+    "id": "travel-hotel-044",
+    "word": "soap",
+    "pronunciation": "/soʊp/",
+    "partOfSpeech": "명사",
+    "meaning": "비누",
+    "exampleEn": "There is a bar of soap by the sink.",
+    "exampleKo": "세면대 옆에 비누가 있습니다."
+  },
+  {
+    "id": "travel-hotel-045",
+    "word": "toiletries",
+    "pronunciation": "/ˈtɔɪlɪtriz/",
+    "partOfSpeech": "명사",
+    "meaning": "세면도구",
+    "exampleEn": "The hotel provides complimentary toiletries.",
+    "exampleKo": "호텔에서 무료 세면도구를 제공합니다."
+  },
+  {
+    "id": "travel-hotel-046",
+    "word": "amenities",
+    "pronunciation": "/əˈmiːnɪtiz/",
+    "partOfSpeech": "명사",
+    "meaning": "편의시설",
+    "exampleEn": "The hotel has excellent amenities including a pool and gym.",
+    "exampleKo": "호텔에는 수영장과 체육관을 포함한 훌륭한 편의시설이 있다."
+  },
+  {
+    "id": "travel-hotel-047",
+    "word": "elevator",
+    "pronunciation": "/ˈɛlɪˌveɪtər/",
+    "partOfSpeech": "명사",
+    "meaning": "엘리베이터",
+    "exampleEn": "Take the elevator to the 10th floor.",
+    "exampleKo": "엘리베이터를 타고 10층으로 올라가세요."
+  },
+  {
+    "id": "travel-hotel-048",
+    "word": "stairs",
+    "pronunciation": "/stɛrz/",
+    "partOfSpeech": "명사",
+    "meaning": "계단",
+    "exampleEn": "The stairs are at the end of the corridor.",
+    "exampleKo": "계단은 복도 끝에 있습니다."
+  },
+  {
+    "id": "travel-hotel-049",
+    "word": "floor",
+    "pronunciation": "/flɔːr/",
+    "partOfSpeech": "명사",
+    "meaning": "층",
+    "exampleEn": "My room is on the fifth floor.",
+    "exampleKo": "내 방은 5층에 있다."
+  },
+  {
+    "id": "travel-hotel-050",
+    "word": "corridor",
+    "pronunciation": "/ˈkɒrɪdɔːr/",
+    "partOfSpeech": "명사",
+    "meaning": "복도",
+    "exampleEn": "Walk down the corridor and turn left.",
+    "exampleKo": "복도를 따라 걸어가다 왼쪽으로 돌아세요."
+  },
+  {
+    "id": "travel-hotel-051",
+    "word": "emergency exit",
+    "pronunciation": "/ɪˈmɜːrdʒənsi ˈɛɡzɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "비상구",
+    "exampleEn": "The emergency exit is at the end of the hall.",
+    "exampleKo": "비상구는 복도 끝에 있습니다."
+  },
+  {
+    "id": "travel-hotel-052",
+    "word": "fire escape",
+    "pronunciation": "/ˈfaɪər ɪˌskeɪp/",
+    "partOfSpeech": "명사",
+    "meaning": "화재 비상구",
+    "exampleEn": "The fire escape is clearly marked on each floor.",
+    "exampleKo": "화재 비상구는 각 층에 명확히 표시되어 있다."
+  },
+  {
+    "id": "travel-hotel-053",
+    "word": "safe",
+    "pronunciation": "/seɪf/",
+    "partOfSpeech": "형용사",
+    "meaning": "안전한",
+    "exampleEn": "Is it safe to walk here at night?",
+    "exampleKo": "밤에 여기서 걷는 것이 안전한가요?"
+  },
+  {
+    "id": "travel-hotel-054",
+    "word": "deposit box",
+    "pronunciation": "/dɪˈpɒzɪt bɒks/",
+    "partOfSpeech": "명사",
+    "meaning": "보관함",
+    "exampleEn": "The front desk has a safe deposit box for valuables.",
+    "exampleKo": "프런트 데스크에 귀중품 보관함이 있습니다."
+  },
+  {
+    "id": "travel-hotel-056",
+    "word": "valet parking",
+    "pronunciation": "/ˈvæleɪ ˈpɑːrkɪŋ/",
+    "partOfSpeech": "명사",
+    "meaning": "대리 주차",
+    "exampleEn": "The hotel offers valet parking for an additional fee.",
+    "exampleKo": "호텔에서는 추가 요금으로 대리 주차 서비스를 제공합니다."
+  },
+  {
+    "id": "travel-hotel-057",
+    "word": "bellboy",
+    "pronunciation": "/ˈbɛlˌbɔɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "벨보이",
+    "exampleEn": "The bellboy will bring your luggage to your room.",
+    "exampleKo": "벨보이가 짐을 객실로 가져다 드릴 것입니다."
+  },
+  {
+    "id": "travel-hotel-058",
+    "word": "concierge",
+    "pronunciation": "/ˌkɒnsiˈɛərʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "컨시어지",
+    "exampleEn": "Ask the concierge for restaurant recommendations.",
+    "exampleKo": "컨시어지에게 식당 추천을 요청하세요."
+  },
+  {
+    "id": "travel-hotel-060",
+    "word": "tip",
+    "pronunciation": "/tɪp/",
+    "partOfSpeech": "명사",
+    "meaning": "팁",
+    "exampleEn": "We left a 15% tip for the great service.",
+    "exampleKo": "훌륭한 서비스에 15% 팁을 남겼다."
+  },
+  {
+    "id": "travel-hotel-061",
+    "word": "receipt",
+    "pronunciation": "/rɪˈsiːt/",
+    "partOfSpeech": "명사",
+    "meaning": "영수증",
+    "exampleEn": "I need a receipt for my expense report.",
+    "exampleKo": "경비 보고서를 위해 영수증이 필요합니다."
+  },
+  {
+    "id": "travel-hotel-062",
+    "word": "bill",
+    "pronunciation": "/bɪl/",
+    "partOfSpeech": "명사",
+    "meaning": "계산서",
+    "exampleEn": "Could we have the bill, please?",
+    "exampleKo": "계산서 주실 수 있나요?"
+  },
+  {
+    "id": "travel-hotel-063",
+    "word": "rate",
+    "pronunciation": "/reɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "요금, 숙박비",
+    "exampleEn": "What is the nightly rate for a double room?",
+    "exampleKo": "더블룸의 1박 요금이 얼마인가요?"
+  },
+  {
+    "id": "travel-hotel-064",
+    "word": "discount",
+    "pronunciation": "/ˈdɪskaʊnt/",
+    "partOfSpeech": "명사",
+    "meaning": "할인",
+    "exampleEn": "Is there a discount for students?",
+    "exampleKo": "학생 할인이 있나요?"
+  },
+  {
+    "id": "travel-hotel-065",
+    "word": "complimentary",
+    "pronunciation": "/ˌkɒmplɪˈmɛntəri/",
+    "partOfSpeech": "형용사",
+    "meaning": "서비스로 제공되는",
+    "exampleEn": "The bread basket is complimentary.",
+    "exampleKo": "빵 바구니는 서비스로 제공됩니다."
+  },
+  {
+    "id": "travel-hotel-066",
+    "word": "breakfast",
+    "pronunciation": "/ˈbrɛkfəst/",
+    "partOfSpeech": "명사",
+    "meaning": "아침 식사",
+    "exampleEn": "Breakfast is served from 7 to 10 a.m.",
+    "exampleKo": "조식은 오전 7시부터 10시까지 제공됩니다."
+  },
+  {
+    "id": "travel-hotel-067",
+    "word": "buffet",
+    "pronunciation": "/ˈbʌfeɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "뷔페",
+    "exampleEn": "The hotel restaurant offers a Sunday brunch buffet.",
+    "exampleKo": "호텔 레스토랑은 일요일 브런치 뷔페를 제공합니다."
+  },
+  {
+    "id": "travel-hotel-068",
+    "word": "swimming pool",
+    "pronunciation": "/ˈswɪmɪŋ puːl/",
+    "partOfSpeech": "명사",
+    "meaning": "수영장",
+    "exampleEn": "The outdoor swimming pool is heated year-round.",
+    "exampleKo": "야외 수영장은 연중 온수로 운영됩니다."
+  },
+  {
+    "id": "travel-hotel-069",
+    "word": "gym",
+    "pronunciation": "/dʒɪm/",
+    "partOfSpeech": "명사",
+    "meaning": "체육관",
+    "exampleEn": "The hotel gym is open 24 hours a day.",
+    "exampleKo": "호텔 체육관은 24시간 운영됩니다."
+  },
+  {
+    "id": "travel-hotel-070",
+    "word": "spa",
+    "pronunciation": "/spɑː/",
+    "partOfSpeech": "명사",
+    "meaning": "스파",
+    "exampleEn": "Book a spa treatment in advance.",
+    "exampleKo": "스파 트리트먼트는 미리 예약하세요."
+  },
+  {
+    "id": "travel-hotel-071",
+    "word": "sauna",
+    "pronunciation": "/ˈsɔːnə/",
+    "partOfSpeech": "명사",
+    "meaning": "사우나",
+    "exampleEn": "Enjoy the sauna on the top floor.",
+    "exampleKo": "최상층의 사우나를 즐기세요."
+  },
+  {
+    "id": "travel-hotel-072",
+    "word": "balcony",
+    "pronunciation": "/ˈbælkəni/",
+    "partOfSpeech": "명사",
+    "meaning": "발코니",
+    "exampleEn": "The room has a private balcony with a sea view.",
+    "exampleKo": "객실에는 바다 전망의 개인 발코니가 있다."
+  },
+  {
+    "id": "travel-hotel-073",
+    "word": "view",
+    "pronunciation": "/vjuː/",
+    "partOfSpeech": "명사",
+    "meaning": "전망",
+    "exampleEn": "I'd like a room with a mountain view, please.",
+    "exampleKo": "산 전망의 객실을 원합니다."
+  },
+  {
+    "id": "travel-hotel-074",
+    "word": "ocean view",
+    "pronunciation": "/ˈoʊʃən vjuː/",
+    "partOfSpeech": "명사",
+    "meaning": "바다 전망",
+    "exampleEn": "An ocean-view room costs a bit more.",
+    "exampleKo": "바다 전망 객실은 조금 더 비싸다."
+  },
+  {
+    "id": "travel-hotel-075",
+    "word": "city view",
+    "pronunciation": "/ˈsɪti vjuː/",
+    "partOfSpeech": "명사",
+    "meaning": "도시 전망",
+    "exampleEn": "The city-view room is perfect for night scenes.",
+    "exampleKo": "도시 전망 객실은 야경 감상에 안성맞춤이다."
+  },
+  {
+    "id": "travel-hotel-076",
+    "word": "noise complaint",
+    "pronunciation": "/nɔɪz kəmˈpleɪnt/",
+    "partOfSpeech": "명사",
+    "meaning": "소음 불만",
+    "exampleEn": "I need to make a noise complaint about room 302.",
+    "exampleKo": "302호실에 대한 소음 불만을 제기해야 합니다."
+  },
+  {
+    "id": "travel-hotel-077",
+    "word": "maintenance",
+    "pronunciation": "/ˈmeɪntənəns/",
+    "partOfSpeech": "명사",
+    "meaning": "유지 보수",
+    "exampleEn": "I'll send someone from maintenance right away.",
+    "exampleKo": "지금 바로 유지 보수 담당자를 보내겠습니다."
+  },
+  {
+    "id": "travel-hotel-078",
+    "word": "repair",
+    "pronunciation": "/rɪˈpɛər/",
+    "partOfSpeech": "명사",
+    "meaning": "수리",
+    "exampleEn": "The shower needs repair.",
+    "exampleKo": "샤워기 수리가 필요합니다."
+  },
+  {
+    "id": "travel-hotel-079",
+    "word": "clogged",
+    "pronunciation": "/klɒɡd/",
+    "partOfSpeech": "형용사",
+    "meaning": "막힌",
+    "exampleEn": "The drain is clogged.",
+    "exampleKo": "배수구가 막혀 있습니다."
+  },
+  {
+    "id": "travel-hotel-080",
+    "word": "leak",
+    "pronunciation": "/liːk/",
+    "partOfSpeech": "명사",
+    "meaning": "누수",
+    "exampleEn": "There is a leak in the bathroom ceiling.",
+    "exampleKo": "욕실 천장에서 누수가 있다."
+  },
+  {
+    "id": "travel-hotel-082",
+    "word": "late check-out",
+    "pronunciation": "/leɪt ˈtʃɛk ˌaʊt/",
+    "partOfSpeech": "명사",
+    "meaning": "늦은 체크아웃",
+    "exampleEn": "Can I arrange a late check-out until 2 p.m.?",
+    "exampleKo": "오후 2시까지 늦은 체크아웃을 요청할 수 있나요?"
+  },
+  {
+    "id": "travel-hotel-083",
+    "word": "early check-in",
+    "pronunciation": "/ˈɜːrli ˈtʃɛk ɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "조기 체크인",
+    "exampleEn": "Early check-in is available if your room is ready.",
+    "exampleKo": "객실이 준비된 경우 조기 체크인이 가능합니다."
+  },
+  {
+    "id": "travel-hotel-084",
+    "word": "luggage storage",
+    "pronunciation": "/ˈlʌɡɪdʒ ˈstɔːrɪdʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "짐 보관 서비스",
+    "exampleEn": "Can you store my luggage until my flight this evening?",
+    "exampleKo": "오늘 저녁 항공편까지 짐을 맡아주실 수 있나요?"
+  },
+  {
+    "id": "travel-hotel-085",
+    "word": "lost and found",
+    "pronunciation": "/lɒst ænd faʊnd/",
+    "partOfSpeech": "명사",
+    "meaning": "분실물 센터",
+    "exampleEn": "I left my glasses in the room — is there a lost and found?",
+    "exampleKo": "방에 안경을 두고 왔는데 분실물 센터가 있나요?"
+  },
+  {
+    "id": "travel-hotel-086",
+    "word": "non-smoking room",
+    "pronunciation": "/nɒn ˈsmoʊkɪŋ ruːm/",
+    "partOfSpeech": "명사",
+    "meaning": "금연 객실",
+    "exampleEn": "Please book me a non-smoking room.",
+    "exampleKo": "금연 객실로 예약해 주세요."
+  },
+  {
+    "id": "travel-hotel-087",
+    "word": "crib",
+    "pronunciation": "/krɪb/",
+    "partOfSpeech": "명사",
+    "meaning": "아기 침대",
+    "exampleEn": "Can we have a crib for our baby?",
+    "exampleKo": "아기용 침대를 이용할 수 있나요?"
+  },
+  {
+    "id": "travel-hotel-088",
+    "word": "fully booked",
+    "pronunciation": "/ˈfʊli bʊkt/",
+    "partOfSpeech": "형용사",
+    "meaning": "만실인",
+    "exampleEn": "The hotel is fully booked for this weekend.",
+    "exampleKo": "이번 주말에 호텔이 만실입니다."
+  },
+  {
+    "id": "travel-hotel-089",
+    "word": "available",
+    "pronunciation": "/əˈveɪləbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "이용 가능한",
+    "exampleEn": "Is the room available from Friday?",
+    "exampleKo": "금요일부터 객실 이용이 가능한가요?"
+  },
+  {
+    "id": "travel-hotel-090",
+    "word": "guest",
+    "pronunciation": "/ɡɛst/",
+    "partOfSpeech": "명사",
+    "meaning": "투숙객",
+    "exampleEn": "All guests receive a complimentary breakfast.",
+    "exampleKo": "모든 투숙객은 무료 조식을 받습니다."
+  },
+  {
+    "id": "travel-hotel-091",
+    "word": "identity card",
+    "pronunciation": "/aɪˈdɛntɪti kɑːrd/",
+    "partOfSpeech": "명사",
+    "meaning": "신분증",
+    "exampleEn": "Please present your identity card at check-in.",
+    "exampleKo": "체크인 시 신분증을 제시해 주세요."
+  },
+  {
+    "id": "travel-hotel-094",
+    "word": "extend stay",
+    "pronunciation": "/ɪkˈstɛnd steɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "투숙 연장",
+    "exampleEn": "I would like to extend my stay by one more night.",
+    "exampleKo": "하룻밤 더 투숙을 연장하고 싶습니다."
+  },
+  {
+    "id": "travel-hotel-095",
+    "word": "overcharge",
+    "pronunciation": "/ˌoʊvərˈtʃɑːrdʒ/",
+    "partOfSpeech": "동사",
+    "meaning": "과다 청구하다",
+    "exampleEn": "I think there's been an overcharge on my bill.",
+    "exampleKo": "청구서에 과다 청구가 있는 것 같습니다."
+  },
+  {
+    "id": "travel-hotel-096",
+    "word": "refund",
+    "pronunciation": "/ˈriːfʌnd/",
+    "partOfSpeech": "명사",
+    "meaning": "환불",
+    "exampleEn": "Can I get a refund if the item is defective?",
+    "exampleKo": "물건이 불량이면 환불받을 수 있나요?"
+  },
+  {
+    "id": "travel-hotel-097",
+    "word": "bed bug",
+    "pronunciation": "/ˈbɛd bʌɡ/",
+    "partOfSpeech": "명사",
+    "meaning": "빈대",
+    "exampleEn": "I found a bed bug in my room and need to change rooms.",
+    "exampleKo": "객실에서 빈대를 발견했는데 방을 바꿔야 합니다."
+  }
+]

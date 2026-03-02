@@ -1,0 +1,938 @@
+[
+  {
+    "id": "travel-airport-001",
+    "word": "airport",
+    "pronunciation": "/ˈɛərpɔːrt/",
+    "partOfSpeech": "명사",
+    "meaning": "공항",
+    "exampleEn": "I arrived at the airport two hours before departure.",
+    "exampleKo": "나는 출발 2시간 전에 공항에 도착했다."
+  },
+  {
+    "id": "travel-airport-002",
+    "word": "flight",
+    "pronunciation": "/flaɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "항공편",
+    "exampleEn": "My flight to London departs at 7 a.m.",
+    "exampleKo": "런던행 내 항공편은 오전 7시에 출발한다."
+  },
+  {
+    "id": "travel-airport-003",
+    "word": "boarding pass",
+    "pronunciation": "/ˈbɔːrdɪŋ pæs/",
+    "partOfSpeech": "명사",
+    "meaning": "탑승권",
+    "exampleEn": "Please have your boarding pass ready at the gate.",
+    "exampleKo": "탑승구에서 탑승권을 준비해 주세요."
+  },
+  {
+    "id": "travel-airport-004",
+    "word": "gate",
+    "pronunciation": "/ɡeɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "탑승구",
+    "exampleEn": "The flight to Paris departs from gate 12.",
+    "exampleKo": "파리행 항공편은 12번 탑승구에서 출발합니다."
+  },
+  {
+    "id": "travel-airport-005",
+    "word": "terminal",
+    "pronunciation": "/ˈtɜːrmɪnəl/",
+    "partOfSpeech": "명사",
+    "meaning": "터미널",
+    "exampleEn": "Which terminal does my airline use?",
+    "exampleKo": "제 항공사는 어느 터미널을 사용하나요?"
+  },
+  {
+    "id": "travel-airport-006",
+    "word": "departure",
+    "pronunciation": "/dɪˈpɑːrtʃər/",
+    "partOfSpeech": "명사",
+    "meaning": "출발",
+    "exampleEn": "The departure time has been moved up by one hour.",
+    "exampleKo": "출발 시간이 한 시간 앞당겨졌다."
+  },
+  {
+    "id": "travel-airport-007",
+    "word": "arrival",
+    "pronunciation": "/əˈraɪvəl/",
+    "partOfSpeech": "명사",
+    "meaning": "도착",
+    "exampleEn": "Check the arrivals board for updates.",
+    "exampleKo": "도착 안내판에서 업데이트를 확인하세요."
+  },
+  {
+    "id": "travel-airport-008",
+    "word": "check-in",
+    "pronunciation": "/ˈtʃɛk ɪn/",
+    "partOfSpeech": "동사",
+    "meaning": "체크인하다",
+    "exampleEn": "Check-in time is from 3 p.m.",
+    "exampleKo": "체크인 시간은 오후 3시부터입니다."
+  },
+  {
+    "id": "travel-airport-009",
+    "word": "baggage",
+    "pronunciation": "/ˈbæɡɪdʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "수하물",
+    "exampleEn": "Your baggage allowance is 23 kilograms.",
+    "exampleKo": "수하물 허용 무게는 23킬로그램입니다."
+  },
+  {
+    "id": "travel-airport-010",
+    "word": "luggage",
+    "pronunciation": "/ˈlʌɡɪdʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "짐, 수하물",
+    "exampleEn": "I need to claim my luggage at belt three.",
+    "exampleKo": "3번 벨트에서 짐을 찾아야 해요."
+  },
+  {
+    "id": "travel-airport-011",
+    "word": "carry-on",
+    "pronunciation": "/ˈkæri ɒn/",
+    "partOfSpeech": "명사",
+    "meaning": "기내 반입 수하물",
+    "exampleEn": "The carry-on bag must fit in the overhead bin.",
+    "exampleKo": "기내 반입 가방은 머리 위 짐칸에 들어가야 합니다."
+  },
+  {
+    "id": "travel-airport-012",
+    "word": "overhead bin",
+    "pronunciation": "/ˈoʊvərˌhɛd bɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "머리 위 짐칸",
+    "exampleEn": "Please stow your bag in the overhead bin.",
+    "exampleKo": "가방을 머리 위 짐칸에 넣어 주세요."
+  },
+  {
+    "id": "travel-airport-013",
+    "word": "seat belt",
+    "pronunciation": "/ˈsiːt bɛlt/",
+    "partOfSpeech": "명사",
+    "meaning": "안전벨트",
+    "exampleEn": "Please fasten your seat belt during takeoff.",
+    "exampleKo": "이륙 중에는 안전벨트를 착용해 주세요."
+  },
+  {
+    "id": "travel-airport-014",
+    "word": "aisle",
+    "pronunciation": "/aɪl/",
+    "partOfSpeech": "명사",
+    "meaning": "매장 통로",
+    "exampleEn": "The electronics are in aisle five.",
+    "exampleKo": "전자제품은 5번 통로에 있습니다."
+  },
+  {
+    "id": "travel-airport-015",
+    "word": "window seat",
+    "pronunciation": "/ˈwɪndoʊ siːt/",
+    "partOfSpeech": "명사",
+    "meaning": "창가 좌석",
+    "exampleEn": "She always books a window seat for the view.",
+    "exampleKo": "그녀는 경치를 보기 위해 항상 창가 좌석을 예약한다."
+  },
+  {
+    "id": "travel-airport-016",
+    "word": "passport",
+    "pronunciation": "/ˈpæspɔːrt/",
+    "partOfSpeech": "명사",
+    "meaning": "여권",
+    "exampleEn": "Make sure your passport is valid for at least six months.",
+    "exampleKo": "여권의 유효기간이 최소 6개월 이상인지 확인하세요."
+  },
+  {
+    "id": "travel-airport-017",
+    "word": "visa",
+    "pronunciation": "/ˈviːzə/",
+    "partOfSpeech": "명사",
+    "meaning": "비자",
+    "exampleEn": "Do I need a visa to enter this country?",
+    "exampleKo": "이 나라에 입국하려면 비자가 필요한가요?"
+  },
+  {
+    "id": "travel-airport-018",
+    "word": "customs",
+    "pronunciation": "/ˈkʌstəmz/",
+    "partOfSpeech": "명사",
+    "meaning": "세관",
+    "exampleEn": "You must declare all goods at customs.",
+    "exampleKo": "세관에서 모든 물품을 신고해야 합니다."
+  },
+  {
+    "id": "travel-airport-019",
+    "word": "immigration",
+    "pronunciation": "/ˌɪmɪˈɡreɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "출입국 심사",
+    "exampleEn": "The immigration queue was very long today.",
+    "exampleKo": "오늘 출입국 심사 줄이 매우 길었다."
+  },
+  {
+    "id": "travel-airport-020",
+    "word": "declaration",
+    "pronunciation": "/ˌdɛkləˈreɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "세관 신고",
+    "exampleEn": "Fill out the customs declaration form on the plane.",
+    "exampleKo": "비행기에서 세관 신고서를 작성하세요."
+  },
+  {
+    "id": "travel-airport-021",
+    "word": "duty-free",
+    "pronunciation": "/ˌdjuːti ˈfriː/",
+    "partOfSpeech": "형용사",
+    "meaning": "면세의",
+    "exampleEn": "I bought this perfume duty-free at the airport.",
+    "exampleKo": "이 향수를 공항 면세점에서 샀다."
+  },
+  {
+    "id": "travel-airport-022",
+    "word": "transit",
+    "pronunciation": "/ˈtrænzɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "경유",
+    "exampleEn": "Passengers in transit do not need to clear customs.",
+    "exampleKo": "경유 승객은 세관을 통과할 필요가 없습니다."
+  },
+  {
+    "id": "travel-airport-023",
+    "word": "layover",
+    "pronunciation": "/ˈleɪˌoʊvər/",
+    "partOfSpeech": "명사",
+    "meaning": "경유 대기 시간",
+    "exampleEn": "We have a four-hour layover in Dubai.",
+    "exampleKo": "우리는 두바이에서 4시간 경유 대기가 있다."
+  },
+  {
+    "id": "travel-airport-024",
+    "word": "connecting flight",
+    "pronunciation": "/kəˈnɛktɪŋ flaɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "연결 항공편",
+    "exampleEn": "I missed my connecting flight because of the delay.",
+    "exampleKo": "지연으로 인해 연결 항공편을 놓쳤다."
+  },
+  {
+    "id": "travel-airport-025",
+    "word": "delay",
+    "pronunciation": "/dɪˈleɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "지연, 연착",
+    "exampleEn": "The flight was delayed by two hours due to weather.",
+    "exampleKo": "항공편이 날씨로 인해 두 시간 지연되었다."
+  },
+  {
+    "id": "travel-airport-026",
+    "word": "cancel",
+    "pronunciation": "/ˈkænsəl/",
+    "partOfSpeech": "동사",
+    "meaning": "취소하다",
+    "exampleEn": "The airline cancelled the flight due to a storm.",
+    "exampleKo": "항공사가 폭풍으로 인해 항공편을 취소했다."
+  },
+  {
+    "id": "travel-airport-027",
+    "word": "boarding",
+    "pronunciation": "/ˈbɔːrdɪŋ/",
+    "partOfSpeech": "명사",
+    "meaning": "탑승",
+    "exampleEn": "Boarding begins 45 minutes before departure.",
+    "exampleKo": "탑승은 출발 45분 전에 시작됩니다."
+  },
+  {
+    "id": "travel-airport-028",
+    "word": "takeoff",
+    "pronunciation": "/ˈteɪkˌɔːf/",
+    "partOfSpeech": "명사",
+    "meaning": "이륙",
+    "exampleEn": "The pilot announced takeoff would be in ten minutes.",
+    "exampleKo": "기장이 10분 후 이륙한다고 발표했다."
+  },
+  {
+    "id": "travel-airport-029",
+    "word": "landing",
+    "pronunciation": "/ˈlændɪŋ/",
+    "partOfSpeech": "명사",
+    "meaning": "착륙",
+    "exampleEn": "The landing was smooth despite the turbulence.",
+    "exampleKo": "난기류에도 불구하고 착륙은 부드러웠다."
+  },
+  {
+    "id": "travel-airport-030",
+    "word": "turbulence",
+    "pronunciation": "/ˈtɜːrbjʊləns/",
+    "partOfSpeech": "명사",
+    "meaning": "난기류",
+    "exampleEn": "Please remain seated during turbulence.",
+    "exampleKo": "난기류 동안에는 자리에 앉아 계세요."
+  },
+  {
+    "id": "travel-airport-031",
+    "word": "pilot",
+    "pronunciation": "/ˈpaɪlət/",
+    "partOfSpeech": "명사",
+    "meaning": "조종사",
+    "exampleEn": "The pilot welcomed us aboard the aircraft.",
+    "exampleKo": "기장이 항공기에 탑승한 우리를 환영했다."
+  },
+  {
+    "id": "travel-airport-032",
+    "word": "flight attendant",
+    "pronunciation": "/flaɪt əˈtɛndənt/",
+    "partOfSpeech": "명사",
+    "meaning": "승무원",
+    "exampleEn": "The flight attendant showed us the safety procedures.",
+    "exampleKo": "승무원이 안전 절차를 보여주었다."
+  },
+  {
+    "id": "travel-airport-033",
+    "word": "announcement",
+    "pronunciation": "/əˈnaʊnsmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "안내 방송",
+    "exampleEn": "There was an announcement about the gate change.",
+    "exampleKo": "탑승구 변경에 대한 안내 방송이 있었다."
+  },
+  {
+    "id": "travel-airport-034",
+    "word": "security check",
+    "pronunciation": "/sɪˈkjʊərɪti tʃɛk/",
+    "partOfSpeech": "명사",
+    "meaning": "보안 검색",
+    "exampleEn": "All passengers must pass through the security check.",
+    "exampleKo": "모든 승객은 보안 검색을 통과해야 합니다."
+  },
+  {
+    "id": "travel-airport-035",
+    "word": "metal detector",
+    "pronunciation": "/ˈmɛtəl dɪˈtɛktər/",
+    "partOfSpeech": "명사",
+    "meaning": "금속 탐지기",
+    "exampleEn": "Remove your belt before going through the metal detector.",
+    "exampleKo": "금속 탐지기를 통과하기 전에 벨트를 제거하세요."
+  },
+  {
+    "id": "travel-airport-036",
+    "word": "scanner",
+    "pronunciation": "/ˈskænər/",
+    "partOfSpeech": "명사",
+    "meaning": "스캐너, 검색 장치",
+    "exampleEn": "Put your laptop in the scanner tray separately.",
+    "exampleKo": "노트북은 스캐너 트레이에 따로 넣으세요."
+  },
+  {
+    "id": "travel-airport-037",
+    "word": "prohibited",
+    "pronunciation": "/prəˈhɪbɪtɪd/",
+    "partOfSpeech": "형용사",
+    "meaning": "금지된",
+    "exampleEn": "Sharp objects are prohibited in carry-on bags.",
+    "exampleKo": "날카로운 물체는 기내 반입 가방에 금지되어 있습니다."
+  },
+  {
+    "id": "travel-airport-038",
+    "word": "liquid",
+    "pronunciation": "/ˈlɪkwɪd/",
+    "partOfSpeech": "명사",
+    "meaning": "액체",
+    "exampleEn": "Liquids over 100ml are not allowed in carry-on luggage.",
+    "exampleKo": "100ml 초과 액체는 기내 반입이 허용되지 않습니다."
+  },
+  {
+    "id": "travel-airport-039",
+    "word": "restriction",
+    "pronunciation": "/rɪˈstrɪkʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "제한, 규제",
+    "exampleEn": "There are weight restrictions on checked baggage.",
+    "exampleKo": "위탁 수하물에는 무게 제한이 있습니다."
+  },
+  {
+    "id": "travel-airport-040",
+    "word": "baggage claim",
+    "pronunciation": "/ˈbæɡɪdʒ kleɪm/",
+    "partOfSpeech": "명사",
+    "meaning": "수하물 찾는 곳",
+    "exampleEn": "Head to baggage claim on level one.",
+    "exampleKo": "1층 수하물 찾는 곳으로 가세요."
+  },
+  {
+    "id": "travel-airport-041",
+    "word": "conveyor belt",
+    "pronunciation": "/kənˈveɪər bɛlt/",
+    "partOfSpeech": "명사",
+    "meaning": "컨베이어 벨트",
+    "exampleEn": "Your suitcase will come out on conveyor belt number three.",
+    "exampleKo": "여러분의 여행 가방은 3번 컨베이어 벨트로 나올 것입니다."
+  },
+  {
+    "id": "travel-airport-042",
+    "word": "lost luggage",
+    "pronunciation": "/lɒst ˈlʌɡɪdʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "분실 수하물",
+    "exampleEn": "I need to report lost luggage to the airline desk.",
+    "exampleKo": "항공사 데스크에 분실 수하물을 신고해야 합니다."
+  },
+  {
+    "id": "travel-airport-043",
+    "word": "airline",
+    "pronunciation": "/ˈɛərˌlaɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "항공사",
+    "exampleEn": "Which airline are you flying with?",
+    "exampleKo": "어느 항공사를 이용하시나요?"
+  },
+  {
+    "id": "travel-airport-044",
+    "word": "ticket",
+    "pronunciation": "/ˈtɪkɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "항공권, 티켓",
+    "exampleEn": "I booked my ticket online three months ago.",
+    "exampleKo": "3개월 전에 온라인으로 항공권을 예매했다."
+  },
+  {
+    "id": "travel-airport-045",
+    "word": "round trip",
+    "pronunciation": "/ˈraʊnd trɪp/",
+    "partOfSpeech": "명사",
+    "meaning": "왕복 여행",
+    "exampleEn": "A round trip ticket is often cheaper than two one-ways.",
+    "exampleKo": "왕복 항공권이 편도 두 장보다 저렴한 경우가 많다."
+  },
+  {
+    "id": "travel-airport-046",
+    "word": "one-way",
+    "pronunciation": "/ˈwʌnˌweɪ/",
+    "partOfSpeech": "형용사",
+    "meaning": "편도의",
+    "exampleEn": "I bought a one-way ticket because my return date is uncertain.",
+    "exampleKo": "귀국일이 불확실해서 편도 항공권을 샀다."
+  },
+  {
+    "id": "travel-airport-047",
+    "word": "economy class",
+    "pronunciation": "/ɪˈkɒnəmi klɑːs/",
+    "partOfSpeech": "명사",
+    "meaning": "이코노미석",
+    "exampleEn": "Economy class seats are more affordable but less comfortable.",
+    "exampleKo": "이코노미석은 더 저렴하지만 덜 편안하다."
+  },
+  {
+    "id": "travel-airport-048",
+    "word": "business class",
+    "pronunciation": "/ˈbɪznɪs klɑːs/",
+    "partOfSpeech": "명사",
+    "meaning": "비즈니스석",
+    "exampleEn": "Business class comes with wider seats and better meals.",
+    "exampleKo": "비즈니스석에는 더 넓은 좌석과 더 나은 식사가 제공된다."
+  },
+  {
+    "id": "travel-airport-049",
+    "word": "first class",
+    "pronunciation": "/fɜːrst klɑːs/",
+    "partOfSpeech": "명사",
+    "meaning": "퍼스트 클래스",
+    "exampleEn": "First class passengers board before everyone else.",
+    "exampleKo": "퍼스트 클래스 승객은 다른 모든 승객보다 먼저 탑승한다."
+  },
+  {
+    "id": "travel-airport-050",
+    "word": "upgrade",
+    "pronunciation": "/ˈʌpɡreɪd/",
+    "partOfSpeech": "명사",
+    "meaning": "업그레이드",
+    "exampleEn": "Is it possible to upgrade to a suite?",
+    "exampleKo": "스위트룸으로 업그레이드가 가능한가요?"
+  },
+  {
+    "id": "travel-airport-051",
+    "word": "reservation",
+    "pronunciation": "/ˌrɛzərˈveɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "예약",
+    "exampleEn": "I made a reservation for two seats in economy.",
+    "exampleKo": "이코노미석 두 자리를 예약했다."
+  },
+  {
+    "id": "travel-airport-052",
+    "word": "confirm",
+    "pronunciation": "/kənˈfɜːrm/",
+    "partOfSpeech": "동사",
+    "meaning": "확인하다",
+    "exampleEn": "Please confirm your booking at least 24 hours before departure.",
+    "exampleKo": "출발 24시간 전까지 예약을 확인해 주세요."
+  },
+  {
+    "id": "travel-airport-053",
+    "word": "itinerary",
+    "pronunciation": "/aɪˈtɪnəreri/",
+    "partOfSpeech": "명사",
+    "meaning": "여행 일정",
+    "exampleEn": "Our itinerary includes a visit to the old town.",
+    "exampleKo": "여행 일정에 구시가지 방문이 포함되어 있다."
+  },
+  {
+    "id": "travel-airport-054",
+    "word": "travel agency",
+    "pronunciation": "/ˈtrævəl ˈeɪdʒənsi/",
+    "partOfSpeech": "명사",
+    "meaning": "여행사",
+    "exampleEn": "The travel agency arranged everything for our trip.",
+    "exampleKo": "여행사가 우리 여행의 모든 것을 준비해 주었다."
+  },
+  {
+    "id": "travel-airport-055",
+    "word": "bus",
+    "pronunciation": "/bʌs/",
+    "partOfSpeech": "명사",
+    "meaning": "버스",
+    "exampleEn": "Take the airport bus to the city center.",
+    "exampleKo": "시내 중심으로 가는 공항 버스를 타세요."
+  },
+  {
+    "id": "travel-airport-056",
+    "word": "taxi",
+    "pronunciation": "/ˈtæksi/",
+    "partOfSpeech": "명사",
+    "meaning": "택시",
+    "exampleEn": "A taxi from the airport to downtown costs about 30 dollars.",
+    "exampleKo": "공항에서 시내까지 택시 요금은 약 30달러입니다."
+  },
+  {
+    "id": "travel-airport-057",
+    "word": "subway",
+    "pronunciation": "/ˈsʌbˌweɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "지하철",
+    "exampleEn": "The subway is the fastest way to get to the airport.",
+    "exampleKo": "지하철이 공항에 가는 가장 빠른 방법이다."
+  },
+  {
+    "id": "travel-airport-058",
+    "word": "train",
+    "pronunciation": "/treɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "기차",
+    "exampleEn": "The express train to the airport runs every 15 minutes.",
+    "exampleKo": "공항행 급행열차는 15분마다 운행된다."
+  },
+  {
+    "id": "travel-airport-059",
+    "word": "platform",
+    "pronunciation": "/ˈplætfɔːrm/",
+    "partOfSpeech": "명사",
+    "meaning": "플랫폼, 승강장",
+    "exampleEn": "The train to downtown leaves from platform 4.",
+    "exampleKo": "시내행 열차는 4번 플랫폼에서 출발한다."
+  },
+  {
+    "id": "travel-airport-060",
+    "word": "station",
+    "pronunciation": "/ˈsteɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "역",
+    "exampleEn": "Is there a train station near the airport?",
+    "exampleKo": "공항 근처에 기차역이 있나요?"
+  },
+  {
+    "id": "travel-airport-061",
+    "word": "fare",
+    "pronunciation": "/fɛər/",
+    "partOfSpeech": "명사",
+    "meaning": "요금",
+    "exampleEn": "What is the bus fare to the city center?",
+    "exampleKo": "시내 중심까지 버스 요금이 얼마인가요?"
+  },
+  {
+    "id": "travel-airport-062",
+    "word": "transfer",
+    "pronunciation": "/ˈtrænsfɜːr/",
+    "partOfSpeech": "명사",
+    "meaning": "환승",
+    "exampleEn": "You need to transfer at the central station.",
+    "exampleKo": "중앙역에서 환승해야 합니다."
+  },
+  {
+    "id": "travel-airport-063",
+    "word": "route",
+    "pronunciation": "/ruːt/",
+    "partOfSpeech": "명사",
+    "meaning": "노선, 경로",
+    "exampleEn": "Which bus route goes to the hotel district?",
+    "exampleKo": "호텔 지구로 가는 버스 노선이 어떻게 되나요?"
+  },
+  {
+    "id": "travel-airport-064",
+    "word": "schedule",
+    "pronunciation": "/ˈskɛdʒuːl/",
+    "partOfSpeech": "명사",
+    "meaning": "시간표, 일정",
+    "exampleEn": "Check the train schedule on the board.",
+    "exampleKo": "안내판에서 기차 시간표를 확인하세요."
+  },
+  {
+    "id": "travel-airport-065",
+    "word": "timetable",
+    "pronunciation": "/ˈtaɪmˌteɪbəl/",
+    "partOfSpeech": "명사",
+    "meaning": "시간표",
+    "exampleEn": "Download the timetable app for real-time updates.",
+    "exampleKo": "실시간 업데이트를 위해 시간표 앱을 다운로드하세요."
+  },
+  {
+    "id": "travel-airport-066",
+    "word": "express",
+    "pronunciation": "/ɪkˈsprɛs/",
+    "partOfSpeech": "형용사",
+    "meaning": "급행의",
+    "exampleEn": "The express train takes only 30 minutes.",
+    "exampleKo": "급행열차는 30분밖에 걸리지 않는다."
+  },
+  {
+    "id": "travel-airport-067",
+    "word": "local train",
+    "pronunciation": "/ˈloʊkəl treɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "완행열차",
+    "exampleEn": "The local train stops at every station.",
+    "exampleKo": "완행열차는 모든 역에 정차한다."
+  },
+  {
+    "id": "travel-airport-068",
+    "word": "stop",
+    "pronunciation": "/stɒp/",
+    "partOfSpeech": "명사",
+    "meaning": "정류장",
+    "exampleEn": "Get off at the third stop from here.",
+    "exampleKo": "여기서 세 번째 정류장에서 내리세요."
+  },
+  {
+    "id": "travel-airport-069",
+    "word": "destination",
+    "pronunciation": "/ˌdɛstɪˈneɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "목적지",
+    "exampleEn": "What is your final destination?",
+    "exampleKo": "최종 목적지가 어디인가요?"
+  },
+  {
+    "id": "travel-airport-070",
+    "word": "map",
+    "pronunciation": "/mæp/",
+    "partOfSpeech": "명사",
+    "meaning": "지도",
+    "exampleEn": "Pick up a free map at the information center.",
+    "exampleKo": "안내 센터에서 무료 지도를 받으세요."
+  },
+  {
+    "id": "travel-airport-071",
+    "word": "direction",
+    "pronunciation": "/dɪˈrɛkʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "방향, 길 안내",
+    "exampleEn": "Could you give me directions to the nearest hotel?",
+    "exampleKo": "가장 가까운 호텔로 가는 길을 알려주실 수 있나요?"
+  },
+  {
+    "id": "travel-airport-072",
+    "word": "traffic",
+    "pronunciation": "/ˈtræfɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "교통 (체증)",
+    "exampleEn": "Heavy traffic made us late for the flight.",
+    "exampleKo": "심한 교통 체증으로 항공편에 늦었다."
+  },
+  {
+    "id": "travel-airport-073",
+    "word": "rush hour",
+    "pronunciation": "/ˈrʌʃ ˌaʊər/",
+    "partOfSpeech": "명사",
+    "meaning": "러시아워, 출퇴근 시간",
+    "exampleEn": "Avoid the subway during rush hour if possible.",
+    "exampleKo": "가능하면 출퇴근 시간에는 지하철을 피하세요."
+  },
+  {
+    "id": "travel-airport-074",
+    "word": "parking",
+    "pronunciation": "/ˈpɑːrkɪŋ/",
+    "partOfSpeech": "명사",
+    "meaning": "주차",
+    "exampleEn": "Free parking is available for hotel guests.",
+    "exampleKo": "호텔 투숙객에게 무료 주차가 제공됩니다."
+  },
+  {
+    "id": "travel-airport-075",
+    "word": "rental car",
+    "pronunciation": "/ˈrɛntəl kɑːr/",
+    "partOfSpeech": "명사",
+    "meaning": "렌터카",
+    "exampleEn": "I picked up a rental car at the airport.",
+    "exampleKo": "공항에서 렌터카를 받았다."
+  },
+  {
+    "id": "travel-airport-076",
+    "word": "driver",
+    "pronunciation": "/ˈdraɪvər/",
+    "partOfSpeech": "명사",
+    "meaning": "운전기사, 운전자",
+    "exampleEn": "The driver will hold a sign with your name.",
+    "exampleKo": "기사가 당신의 이름이 적힌 표지판을 들고 있을 것입니다."
+  },
+  {
+    "id": "travel-airport-077",
+    "word": "highway",
+    "pronunciation": "/ˈhaɪˌweɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "고속도로",
+    "exampleEn": "Take the highway for the fastest route to the airport.",
+    "exampleKo": "공항까지 가장 빠른 경로로 고속도로를 이용하세요."
+  },
+  {
+    "id": "travel-airport-078",
+    "word": "toll",
+    "pronunciation": "/toʊl/",
+    "partOfSpeech": "명사",
+    "meaning": "통행료",
+    "exampleEn": "Do you have cash for the highway toll?",
+    "exampleKo": "고속도로 통행료를 낼 현금이 있나요?"
+  },
+  {
+    "id": "travel-airport-079",
+    "word": "gas station",
+    "pronunciation": "/ɡæs ˈsteɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "주유소",
+    "exampleEn": "Fill up the rental car at a gas station before returning it.",
+    "exampleKo": "반납 전에 주유소에서 렌터카를 주유하세요."
+  },
+  {
+    "id": "travel-airport-080",
+    "word": "fuel",
+    "pronunciation": "/fjuːəl/",
+    "partOfSpeech": "명사",
+    "meaning": "연료",
+    "exampleEn": "The fuel gauge is nearly empty.",
+    "exampleKo": "연료 게이지가 거의 비어 있다."
+  },
+  {
+    "id": "travel-airport-081",
+    "word": "accident",
+    "pronunciation": "/ˈæksɪdənt/",
+    "partOfSpeech": "명사",
+    "meaning": "사고",
+    "exampleEn": "I need to report an accident.",
+    "exampleKo": "사고를 신고해야 합니다."
+  },
+  {
+    "id": "travel-airport-082",
+    "word": "speed limit",
+    "pronunciation": "/ˈspiːd ˌlɪmɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "제한 속도",
+    "exampleEn": "The speed limit on this road is 60 km/h.",
+    "exampleKo": "이 도로의 제한 속도는 시속 60킬로미터입니다."
+  },
+  {
+    "id": "travel-airport-083",
+    "word": "intersection",
+    "pronunciation": "/ˌɪntərˈsɛkʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "교차로",
+    "exampleEn": "Turn left at the next intersection.",
+    "exampleKo": "다음 교차로에서 좌회전하세요."
+  },
+  {
+    "id": "travel-airport-084",
+    "word": "crosswalk",
+    "pronunciation": "/ˈkrɔːsˌwɔːk/",
+    "partOfSpeech": "명사",
+    "meaning": "횡단보도",
+    "exampleEn": "Always use the crosswalk to cross the street safely.",
+    "exampleKo": "안전하게 길을 건너려면 항상 횡단보도를 이용하세요."
+  },
+  {
+    "id": "travel-airport-085",
+    "word": "sidewalk",
+    "pronunciation": "/ˈsaɪdˌwɔːk/",
+    "partOfSpeech": "명사",
+    "meaning": "인도, 보도",
+    "exampleEn": "Keep to the sidewalk when walking near traffic.",
+    "exampleKo": "차량 통행 근처에서는 인도를 따라 걷세요."
+  },
+  {
+    "id": "travel-airport-086",
+    "word": "bridge",
+    "pronunciation": "/brɪdʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "다리 (건축물)",
+    "exampleEn": "Walk across the old stone bridge for a great view.",
+    "exampleKo": "멋진 전망을 위해 오래된 돌다리를 건너세요."
+  },
+  {
+    "id": "travel-airport-087",
+    "word": "tunnel",
+    "pronunciation": "/ˈtʌnəl/",
+    "partOfSpeech": "명사",
+    "meaning": "터널",
+    "exampleEn": "The road goes through a long tunnel under the mountain.",
+    "exampleKo": "도로는 산 아래 긴 터널을 통과한다."
+  },
+  {
+    "id": "travel-airport-088",
+    "word": "ferry",
+    "pronunciation": "/ˈfɛri/",
+    "partOfSpeech": "명사",
+    "meaning": "여객선, 페리",
+    "exampleEn": "We took the ferry to the island.",
+    "exampleKo": "우리는 페리를 타고 섬으로 갔다."
+  },
+  {
+    "id": "travel-airport-089",
+    "word": "harbor",
+    "pronunciation": "/ˈhɑːrbər/",
+    "partOfSpeech": "명사",
+    "meaning": "항구",
+    "exampleEn": "The cruise ship is docked at the harbor.",
+    "exampleKo": "크루즈선이 항구에 정박해 있다."
+  },
+  {
+    "id": "travel-airport-090",
+    "word": "cruise",
+    "pronunciation": "/kruːz/",
+    "partOfSpeech": "명사",
+    "meaning": "크루즈 여행",
+    "exampleEn": "We booked a seven-day cruise in the Mediterranean.",
+    "exampleKo": "우리는 지중해 7일 크루즈를 예약했다."
+  },
+  {
+    "id": "travel-airport-091",
+    "word": "bicycle",
+    "pronunciation": "/ˈbaɪsɪkəl/",
+    "partOfSpeech": "명사",
+    "meaning": "자전거",
+    "exampleEn": "You can rent a bicycle to explore the city.",
+    "exampleKo": "자전거를 빌려 도시를 탐방할 수 있습니다."
+  },
+  {
+    "id": "travel-airport-092",
+    "word": "scooter",
+    "pronunciation": "/ˈskuːtər/",
+    "partOfSpeech": "명사",
+    "meaning": "스쿠터",
+    "exampleEn": "Renting a scooter is a popular way to see the island.",
+    "exampleKo": "스쿠터 대여는 섬을 구경하는 인기 있는 방법이다."
+  },
+  {
+    "id": "travel-airport-093",
+    "word": "helmet",
+    "pronunciation": "/ˈhɛlmɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "헬멧",
+    "exampleEn": "Wearing a helmet is required by law here.",
+    "exampleKo": "이곳에서는 헬멧 착용이 법으로 규정되어 있다."
+  },
+  {
+    "id": "travel-airport-094",
+    "word": "navigation",
+    "pronunciation": "/ˌnævɪˈɡeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "내비게이션, 길 안내",
+    "exampleEn": "Turn on navigation before driving in an unfamiliar city.",
+    "exampleKo": "낯선 도시에서 운전하기 전에 내비게이션을 켜세요."
+  },
+  {
+    "id": "travel-airport-095",
+    "word": "GPS",
+    "pronunciation": "/ˌdʒiː piː ˈɛs/",
+    "partOfSpeech": "명사",
+    "meaning": "GPS, 위성항법장치",
+    "exampleEn": "The GPS told me to take the next exit.",
+    "exampleKo": "GPS가 다음 출구를 이용하라고 했다."
+  },
+  {
+    "id": "travel-airport-096",
+    "word": "detour",
+    "pronunciation": "/ˈdiːtʊər/",
+    "partOfSpeech": "명사",
+    "meaning": "우회로",
+    "exampleEn": "The road is closed; follow the detour signs.",
+    "exampleKo": "도로가 폐쇄되었으니 우회 표지판을 따라가세요."
+  },
+  {
+    "id": "travel-airport-097",
+    "word": "pedestrian",
+    "pronunciation": "/pəˈdɛstriən/",
+    "partOfSpeech": "명사",
+    "meaning": "보행자",
+    "exampleEn": "This street is pedestrian-only on weekends.",
+    "exampleKo": "이 거리는 주말에는 보행자 전용입니다."
+  },
+  {
+    "id": "travel-airport-098",
+    "word": "departure lounge",
+    "pronunciation": "/dɪˈpɑːrtʃər laʊndʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "출국 라운지",
+    "exampleEn": "Relax in the departure lounge until your gate is announced.",
+    "exampleKo": "탑승구가 발표될 때까지 출국 라운지에서 쉬세요."
+  },
+  {
+    "id": "travel-airport-099",
+    "word": "arrival hall",
+    "pronunciation": "/əˈraɪvəl hɔːl/",
+    "partOfSpeech": "명사",
+    "meaning": "도착 홀",
+    "exampleEn": "Meet me in the arrival hall after you clear customs.",
+    "exampleKo": "세관을 통과한 후 도착 홀에서 만납시다."
+  },
+  {
+    "id": "travel-airport-100",
+    "word": "check-out",
+    "pronunciation": "/ˈtʃɛk ˌaʊt/",
+    "partOfSpeech": "동사",
+    "meaning": "체크아웃하다",
+    "exampleEn": "Please check out by 11 a.m.",
+    "exampleKo": "오전 11시까지 체크아웃해 주세요."
+  },
+  {
+    "id": "travel-airport-101",
+    "word": "trolley",
+    "pronunciation": "/ˈtrɒli/",
+    "partOfSpeech": "명사",
+    "meaning": "짐 카트",
+    "exampleEn": "Use a trolley to carry your heavy bags through the airport.",
+    "exampleKo": "무거운 짐을 공항 안에서 옮길 때 카트를 이용하세요."
+  },
+  {
+    "id": "travel-airport-102",
+    "word": "porter",
+    "pronunciation": "/ˈpɔːrtər/",
+    "partOfSpeech": "명사",
+    "meaning": "포터",
+    "exampleEn": "The porter helped carry our heavy suitcases.",
+    "exampleKo": "포터가 무거운 여행 가방을 들어주었다."
+  },
+  {
+    "id": "travel-airport-103",
+    "word": "e-ticket",
+    "pronunciation": "/ˈiː ˌtɪkɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "전자 항공권",
+    "exampleEn": "Show your e-ticket on your phone at the check-in counter.",
+    "exampleKo": "체크인 카운터에서 휴대폰의 전자 항공권을 보여주세요."
+  },
+  {
+    "id": "travel-airport-104",
+    "word": "mobile boarding",
+    "pronunciation": "/ˈmoʊbəl ˈbɔːrdɪŋ/",
+    "partOfSpeech": "명사",
+    "meaning": "모바일 탑승",
+    "exampleEn": "Mobile boarding passes are accepted at all gates.",
+    "exampleKo": "모바일 탑승권은 모든 탑승구에서 허용됩니다."
+  }
+]

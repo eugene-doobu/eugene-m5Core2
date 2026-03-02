@@ -1,0 +1,704 @@
+[
+  {
+    "id": "travel-shopping-001",
+    "word": "shop",
+    "pronunciation": "/ʃɒp/",
+    "partOfSpeech": "명사",
+    "meaning": "가게",
+    "exampleEn": "There are many interesting shops in the old town.",
+    "exampleKo": "구시가지에 흥미로운 가게들이 많이 있다."
+  },
+  {
+    "id": "travel-shopping-002",
+    "word": "store",
+    "pronunciation": "/stɔːr/",
+    "partOfSpeech": "명사",
+    "meaning": "상점",
+    "exampleEn": "The department store is open until 9 p.m.",
+    "exampleKo": "백화점은 오후 9시까지 열려 있다."
+  },
+  {
+    "id": "travel-shopping-003",
+    "word": "shopping mall",
+    "pronunciation": "/ˈʃɒpɪŋ mɔːl/",
+    "partOfSpeech": "명사",
+    "meaning": "쇼핑몰",
+    "exampleEn": "The shopping mall has over 200 stores.",
+    "exampleKo": "쇼핑몰에는 200개 이상의 상점이 있다."
+  },
+  {
+    "id": "travel-shopping-004",
+    "word": "market",
+    "pronunciation": "/ˈmɑːrkɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "시장",
+    "exampleEn": "The local market sells fresh produce every morning.",
+    "exampleKo": "지역 시장에서 매일 아침 신선한 농산물을 팝니다."
+  },
+  {
+    "id": "travel-shopping-005",
+    "word": "price",
+    "pronunciation": "/praɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "가격",
+    "exampleEn": "What is the price of this item?",
+    "exampleKo": "이 물건의 가격이 얼마인가요?"
+  },
+  {
+    "id": "travel-shopping-006",
+    "word": "cost",
+    "pronunciation": "/kɒst/",
+    "partOfSpeech": "명사",
+    "meaning": "비용",
+    "exampleEn": "How much does this cost?",
+    "exampleKo": "이것은 얼마인가요?"
+  },
+  {
+    "id": "travel-shopping-007",
+    "word": "expensive",
+    "pronunciation": "/ɪkˈspɛnsɪv/",
+    "partOfSpeech": "형용사",
+    "meaning": "비싼",
+    "exampleEn": "That watch is too expensive for me.",
+    "exampleKo": "그 시계는 나에게 너무 비싸다."
+  },
+  {
+    "id": "travel-shopping-008",
+    "word": "cheap",
+    "pronunciation": "/tʃiːp/",
+    "partOfSpeech": "형용사",
+    "meaning": "저렴한",
+    "exampleEn": "I found a cheap but good souvenir.",
+    "exampleKo": "저렴하지만 좋은 기념품을 찾았다."
+  },
+  {
+    "id": "travel-shopping-009",
+    "word": "bargain",
+    "pronunciation": "/ˈbɑːrɡɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "할인 상품, 흥정",
+    "exampleEn": "I got a real bargain at the flea market.",
+    "exampleKo": "벼룩시장에서 정말 저렴하게 샀다."
+  },
+  {
+    "id": "travel-shopping-010",
+    "word": "sale",
+    "pronunciation": "/seɪl/",
+    "partOfSpeech": "명사",
+    "meaning": "세일",
+    "exampleEn": "Everything is on sale this weekend.",
+    "exampleKo": "이번 주말에는 모든 것이 세일 중이다."
+  },
+  {
+    "id": "travel-shopping-012",
+    "word": "coupon",
+    "pronunciation": "/ˈkuːpɒn/",
+    "partOfSpeech": "명사",
+    "meaning": "쿠폰",
+    "exampleEn": "I have a coupon for 20% off.",
+    "exampleKo": "20% 할인 쿠폰이 있습니다."
+  },
+  {
+    "id": "travel-shopping-015",
+    "word": "debit card",
+    "pronunciation": "/ˈdɛbɪt kɑːrd/",
+    "partOfSpeech": "명사",
+    "meaning": "직불카드",
+    "exampleEn": "I'll use my debit card for this purchase.",
+    "exampleKo": "이 구매는 직불카드로 결제할게요."
+  },
+  {
+    "id": "travel-shopping-016",
+    "word": "contactless payment",
+    "pronunciation": "/ˈkɒntæktlɪs ˈpeɪmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "비접촉 결제",
+    "exampleEn": "Do you accept contactless payment?",
+    "exampleKo": "비접촉 결제가 가능한가요?"
+  },
+  {
+    "id": "travel-shopping-018",
+    "word": "change",
+    "pronunciation": "/tʃeɪndʒ/",
+    "partOfSpeech": "명사",
+    "meaning": "거스름돈",
+    "exampleEn": "Keep the change.",
+    "exampleKo": "잔돈은 가지세요."
+  },
+  {
+    "id": "travel-shopping-019",
+    "word": "exchange rate",
+    "pronunciation": "/ɪksˈtʃeɪndʒ reɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "환율",
+    "exampleEn": "What is today's exchange rate?",
+    "exampleKo": "오늘 환율이 어떻게 되나요?"
+  },
+  {
+    "id": "travel-shopping-020",
+    "word": "currency",
+    "pronunciation": "/ˈkɜːrənsi/",
+    "partOfSpeech": "명사",
+    "meaning": "통화",
+    "exampleEn": "What currency should I use here?",
+    "exampleKo": "여기서는 어떤 통화를 사용해야 하나요?"
+  },
+  {
+    "id": "travel-shopping-021",
+    "word": "ATM",
+    "pronunciation": "/ˌeɪ tiː ˈɛm/",
+    "partOfSpeech": "명사",
+    "meaning": "ATM, 현금자동인출기",
+    "exampleEn": "Is there an ATM nearby?",
+    "exampleKo": "근처에 ATM이 있나요?"
+  },
+  {
+    "id": "travel-shopping-022",
+    "word": "withdraw",
+    "pronunciation": "/wɪðˈdrɔː/",
+    "partOfSpeech": "동사",
+    "meaning": "인출하다",
+    "exampleEn": "I need to withdraw some cash.",
+    "exampleKo": "현금을 좀 인출해야 합니다."
+  },
+  {
+    "id": "travel-shopping-023",
+    "word": "dollar",
+    "pronunciation": "/ˈdɒlər/",
+    "partOfSpeech": "명사",
+    "meaning": "달러",
+    "exampleEn": "Do you accept US dollars here?",
+    "exampleKo": "여기서 미국 달러를 받나요?"
+  },
+  {
+    "id": "travel-shopping-024",
+    "word": "euro",
+    "pronunciation": "/ˈjʊəroʊ/",
+    "partOfSpeech": "명사",
+    "meaning": "유로",
+    "exampleEn": "Prices are listed in euros.",
+    "exampleKo": "가격은 유로로 표시됩니다."
+  },
+  {
+    "id": "travel-shopping-025",
+    "word": "pound",
+    "pronunciation": "/paʊnd/",
+    "partOfSpeech": "명사",
+    "meaning": "파운드",
+    "exampleEn": "I need to exchange dollars for pounds.",
+    "exampleKo": "달러를 파운드로 환전해야 합니다."
+  },
+  {
+    "id": "travel-shopping-026",
+    "word": "size",
+    "pronunciation": "/saɪz/",
+    "partOfSpeech": "명사",
+    "meaning": "사이즈",
+    "exampleEn": "What size do you need?",
+    "exampleKo": "몇 사이즈가 필요하세요?"
+  },
+  {
+    "id": "travel-shopping-027",
+    "word": "small",
+    "pronunciation": "/smɔːl/",
+    "partOfSpeech": "형용사",
+    "meaning": "작은",
+    "exampleEn": "Do you have this in a small?",
+    "exampleKo": "이것 스몰 사이즈 있나요?"
+  },
+  {
+    "id": "travel-shopping-028",
+    "word": "medium",
+    "pronunciation": "/ˈmiːdiəm/",
+    "partOfSpeech": "형용사",
+    "meaning": "중간 크기의",
+    "exampleEn": "I'm usually a medium.",
+    "exampleKo": "저는 보통 미디엄 사이즈입니다."
+  },
+  {
+    "id": "travel-shopping-029",
+    "word": "large",
+    "pronunciation": "/lɑːrdʒ/",
+    "partOfSpeech": "형용사",
+    "meaning": "큰",
+    "exampleEn": "Do you have this shirt in large?",
+    "exampleKo": "이 셔츠 라지 사이즈 있나요?"
+  },
+  {
+    "id": "travel-shopping-030",
+    "word": "extra large",
+    "pronunciation": "/ˈɛkstrə lɑːrdʒ/",
+    "partOfSpeech": "형용사",
+    "meaning": "특대 사이즈의",
+    "exampleEn": "I need extra large in this style.",
+    "exampleKo": "이 스타일에서 특대 사이즈가 필요합니다."
+  },
+  {
+    "id": "travel-shopping-031",
+    "word": "fitting room",
+    "pronunciation": "/ˈfɪtɪŋ ruːm/",
+    "partOfSpeech": "명사",
+    "meaning": "탈의실",
+    "exampleEn": "Where is the fitting room?",
+    "exampleKo": "탈의실이 어디에 있나요?"
+  },
+  {
+    "id": "travel-shopping-032",
+    "word": "try on",
+    "pronunciation": "/traɪ ɒn/",
+    "partOfSpeech": "동사",
+    "meaning": "입어보다",
+    "exampleEn": "May I try this on?",
+    "exampleKo": "이것을 입어봐도 될까요?"
+  },
+  {
+    "id": "travel-shopping-033",
+    "word": "fit",
+    "pronunciation": "/fɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "맞다",
+    "exampleEn": "Does this dress fit you well?",
+    "exampleKo": "이 원피스가 잘 맞나요?"
+  },
+  {
+    "id": "travel-shopping-034",
+    "word": "tight",
+    "pronunciation": "/taɪt/",
+    "partOfSpeech": "형용사",
+    "meaning": "꽉 맞는",
+    "exampleEn": "These jeans are a bit tight.",
+    "exampleKo": "이 청바지가 조금 꽉 맞는다."
+  },
+  {
+    "id": "travel-shopping-035",
+    "word": "loose",
+    "pronunciation": "/luːs/",
+    "partOfSpeech": "형용사",
+    "meaning": "헐렁한",
+    "exampleEn": "The jacket is a bit loose around the shoulders.",
+    "exampleKo": "재킷이 어깨 부분이 조금 헐렁하다."
+  },
+  {
+    "id": "travel-shopping-036",
+    "word": "color",
+    "pronunciation": "/ˈkʌlər/",
+    "partOfSpeech": "명사",
+    "meaning": "색상",
+    "exampleEn": "Do you have this in a different color?",
+    "exampleKo": "다른 색상도 있나요?"
+  },
+  {
+    "id": "travel-shopping-037",
+    "word": "style",
+    "pronunciation": "/staɪl/",
+    "partOfSpeech": "명사",
+    "meaning": "스타일",
+    "exampleEn": "I'm looking for a classic style.",
+    "exampleKo": "클래식한 스타일을 찾고 있습니다."
+  },
+  {
+    "id": "travel-shopping-038",
+    "word": "brand",
+    "pronunciation": "/brænd/",
+    "partOfSpeech": "명사",
+    "meaning": "브랜드",
+    "exampleEn": "Is this a local brand?",
+    "exampleKo": "이것은 현지 브랜드인가요?"
+  },
+  {
+    "id": "travel-shopping-039",
+    "word": "quality",
+    "pronunciation": "/ˈkwɒlɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "품질",
+    "exampleEn": "The quality is excellent for the price.",
+    "exampleKo": "가격에 비해 품질이 훌륭하다."
+  },
+  {
+    "id": "travel-shopping-040",
+    "word": "material",
+    "pronunciation": "/məˈtɪəriəl/",
+    "partOfSpeech": "명사",
+    "meaning": "소재, 재질",
+    "exampleEn": "What material is this jacket made of?",
+    "exampleKo": "이 재킷은 어떤 소재로 만들어졌나요?"
+  },
+  {
+    "id": "travel-shopping-041",
+    "word": "cotton",
+    "pronunciation": "/ˈkɒtən/",
+    "partOfSpeech": "명사",
+    "meaning": "면, 면화",
+    "exampleEn": "I prefer cotton shirts in the summer.",
+    "exampleKo": "여름에는 면 셔츠를 선호합니다."
+  },
+  {
+    "id": "travel-shopping-042",
+    "word": "silk",
+    "pronunciation": "/sɪlk/",
+    "partOfSpeech": "명사",
+    "meaning": "실크, 비단",
+    "exampleEn": "This is made from pure silk.",
+    "exampleKo": "이것은 순수 실크로 만들어졌습니다."
+  },
+  {
+    "id": "travel-shopping-043",
+    "word": "leather",
+    "pronunciation": "/ˈlɛðər/",
+    "partOfSpeech": "명사",
+    "meaning": "가죽",
+    "exampleEn": "These are genuine leather shoes.",
+    "exampleKo": "이것은 진짜 가죽 신발입니다."
+  },
+  {
+    "id": "travel-shopping-044",
+    "word": "wool",
+    "pronunciation": "/wʊl/",
+    "partOfSpeech": "명사",
+    "meaning": "울, 양모",
+    "exampleEn": "This scarf is made of merino wool.",
+    "exampleKo": "이 스카프는 메리노 울로 만들어졌습니다."
+  },
+  {
+    "id": "travel-shopping-045",
+    "word": "souvenir",
+    "pronunciation": "/ˌsuːvəˈnɪər/",
+    "partOfSpeech": "명사",
+    "meaning": "기념품",
+    "exampleEn": "I bought a souvenir magnet for my fridge.",
+    "exampleKo": "냉장고 자석 기념품을 샀다."
+  },
+  {
+    "id": "travel-shopping-046",
+    "word": "gift",
+    "pronunciation": "/ɡɪft/",
+    "partOfSpeech": "명사",
+    "meaning": "선물",
+    "exampleEn": "I'm looking for a gift for my friend.",
+    "exampleKo": "친구에게 줄 선물을 찾고 있습니다."
+  },
+  {
+    "id": "travel-shopping-047",
+    "word": "bag",
+    "pronunciation": "/bæɡ/",
+    "partOfSpeech": "명사",
+    "meaning": "가방",
+    "exampleEn": "Could I have a bag for my purchases?",
+    "exampleKo": "구매한 물건을 담을 가방을 주실 수 있나요?"
+  },
+  {
+    "id": "travel-shopping-048",
+    "word": "plastic bag",
+    "pronunciation": "/ˈplæstɪk bæɡ/",
+    "partOfSpeech": "명사",
+    "meaning": "비닐봉지",
+    "exampleEn": "Do you have a plastic bag?",
+    "exampleKo": "비닐봉지가 있나요?"
+  },
+  {
+    "id": "travel-shopping-049",
+    "word": "gift wrap",
+    "pronunciation": "/ɡɪft ræp/",
+    "partOfSpeech": "명사",
+    "meaning": "선물 포장",
+    "exampleEn": "Could you gift-wrap this for me?",
+    "exampleKo": "선물 포장을 해주실 수 있나요?"
+  },
+  {
+    "id": "travel-shopping-050",
+    "word": "shoes",
+    "pronunciation": "/ʃuːz/",
+    "partOfSpeech": "명사",
+    "meaning": "신발",
+    "exampleEn": "I'm looking for a pair of comfortable shoes.",
+    "exampleKo": "편안한 신발 한 켤레를 찾고 있습니다."
+  },
+  {
+    "id": "travel-shopping-051",
+    "word": "boots",
+    "pronunciation": "/buːts/",
+    "partOfSpeech": "명사",
+    "meaning": "부츠",
+    "exampleEn": "These leather boots look great.",
+    "exampleKo": "이 가죽 부츠가 정말 멋져 보인다."
+  },
+  {
+    "id": "travel-shopping-052",
+    "word": "sneakers",
+    "pronunciation": "/ˈsniːkərz/",
+    "partOfSpeech": "명사",
+    "meaning": "운동화",
+    "exampleEn": "I need a pair of running sneakers.",
+    "exampleKo": "달리기용 운동화 한 켤레가 필요합니다."
+  },
+  {
+    "id": "travel-shopping-053",
+    "word": "accessories",
+    "pronunciation": "/əkˈsɛsəriz/",
+    "partOfSpeech": "명사",
+    "meaning": "액세서리",
+    "exampleEn": "The accessories section is on the third floor.",
+    "exampleKo": "액세서리 코너는 3층에 있습니다."
+  },
+  {
+    "id": "travel-shopping-054",
+    "word": "jewelry",
+    "pronunciation": "/ˈdʒuːəlri/",
+    "partOfSpeech": "명사",
+    "meaning": "보석류, 장신구",
+    "exampleEn": "She bought beautiful jewelry at the market.",
+    "exampleKo": "그녀는 시장에서 아름다운 장신구를 샀다."
+  },
+  {
+    "id": "travel-shopping-055",
+    "word": "necklace",
+    "pronunciation": "/ˈnɛklɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "목걸이",
+    "exampleEn": "I bought a silver necklace as a souvenir.",
+    "exampleKo": "기념품으로 은 목걸이를 샀다."
+  },
+  {
+    "id": "travel-shopping-056",
+    "word": "bracelet",
+    "pronunciation": "/ˈbreɪslɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "팔찌",
+    "exampleEn": "The handmade bracelets are very popular.",
+    "exampleKo": "수제 팔찌가 매우 인기 있다."
+  },
+  {
+    "id": "travel-shopping-057",
+    "word": "sunglasses",
+    "pronunciation": "/ˈsʌnˌɡlɑːsɪz/",
+    "partOfSpeech": "명사",
+    "meaning": "선글라스",
+    "exampleEn": "I need to buy sunglasses for the beach.",
+    "exampleKo": "해변을 위한 선글라스를 구입해야 합니다."
+  },
+  {
+    "id": "travel-shopping-058",
+    "word": "hat",
+    "pronunciation": "/hæt/",
+    "partOfSpeech": "명사",
+    "meaning": "모자",
+    "exampleEn": "This straw hat is perfect for the summer.",
+    "exampleKo": "이 밀짚모자는 여름에 딱이다."
+  },
+  {
+    "id": "travel-shopping-059",
+    "word": "wallet",
+    "pronunciation": "/ˈwɒlɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "지갑",
+    "exampleEn": "I bought a leather wallet as a gift.",
+    "exampleKo": "선물로 가죽 지갑을 샀다."
+  },
+  {
+    "id": "travel-shopping-060",
+    "word": "backpack",
+    "pronunciation": "/ˈbækˌpæk/",
+    "partOfSpeech": "명사",
+    "meaning": "백팩, 배낭",
+    "exampleEn": "I need a lightweight backpack for traveling.",
+    "exampleKo": "여행용 가벼운 백팩이 필요합니다."
+  },
+  {
+    "id": "travel-shopping-061",
+    "word": "suitcase",
+    "pronunciation": "/ˈsuːtˌkeɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "여행 가방",
+    "exampleEn": "I bought a new suitcase for the trip.",
+    "exampleKo": "여행을 위해 새 여행 가방을 샀다."
+  },
+  {
+    "id": "travel-shopping-063",
+    "word": "return",
+    "pronunciation": "/rɪˈtɜːrn/",
+    "partOfSpeech": "동사",
+    "meaning": "반품하다",
+    "exampleEn": "I'd like to return this shirt.",
+    "exampleKo": "이 셔츠를 반품하고 싶습니다."
+  },
+  {
+    "id": "travel-shopping-064",
+    "word": "exchange",
+    "pronunciation": "/ɪksˈtʃeɪndʒ/",
+    "partOfSpeech": "동사",
+    "meaning": "교환하다",
+    "exampleEn": "Can I exchange this for a different size?",
+    "exampleKo": "다른 사이즈로 교환할 수 있나요?"
+  },
+  {
+    "id": "travel-shopping-065",
+    "word": "warranty",
+    "pronunciation": "/ˈwɒrənti/",
+    "partOfSpeech": "명사",
+    "meaning": "보증",
+    "exampleEn": "Does this product come with a warranty?",
+    "exampleKo": "이 제품에 보증이 포함되어 있나요?"
+  },
+  {
+    "id": "travel-shopping-066",
+    "word": "defective",
+    "pronunciation": "/dɪˈfɛktɪv/",
+    "partOfSpeech": "형용사",
+    "meaning": "결함이 있는",
+    "exampleEn": "The item I bought turned out to be defective.",
+    "exampleKo": "내가 산 물건이 결함이 있는 것으로 판명됐다."
+  },
+  {
+    "id": "travel-shopping-067",
+    "word": "tax-free",
+    "pronunciation": "/tæks friː/",
+    "partOfSpeech": "형용사",
+    "meaning": "세금 면제의",
+    "exampleEn": "Is this item tax-free for tourists?",
+    "exampleKo": "이 물건은 관광객에게 세금이 면제되나요?"
+  },
+  {
+    "id": "travel-shopping-069",
+    "word": "customs declaration",
+    "pronunciation": "/ˈkʌstəmz ˌdɛkləˈreɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "세관 신고",
+    "exampleEn": "You must fill out a customs declaration if buying over the limit.",
+    "exampleKo": "한도를 초과하여 구매하는 경우 세관 신고서를 작성해야 합니다."
+  },
+  {
+    "id": "travel-shopping-070",
+    "word": "import limit",
+    "pronunciation": "/ˈɪmpɔːrt ˈlɪmɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "반입 한도",
+    "exampleEn": "Alcohol has a strict import limit per person.",
+    "exampleKo": "주류에는 1인당 엄격한 반입 한도가 있습니다."
+  },
+  {
+    "id": "travel-shopping-071",
+    "word": "shipping",
+    "pronunciation": "/ˈʃɪpɪŋ/",
+    "partOfSpeech": "명사",
+    "meaning": "배송",
+    "exampleEn": "International shipping takes about two weeks.",
+    "exampleKo": "국제 배송은 약 2주가 걸립니다."
+  },
+  {
+    "id": "travel-shopping-073",
+    "word": "fragile",
+    "pronunciation": "/ˈfrædʒaɪl/",
+    "partOfSpeech": "형용사",
+    "meaning": "깨지기 쉬운",
+    "exampleEn": "Please label this package as fragile.",
+    "exampleKo": "이 소포에 '취급 주의' 라벨을 붙여 주세요."
+  },
+  {
+    "id": "travel-shopping-075",
+    "word": "shelf",
+    "pronunciation": "/ʃɛlf/",
+    "partOfSpeech": "명사",
+    "meaning": "선반",
+    "exampleEn": "Put it back on the shelf, please.",
+    "exampleKo": "선반에 다시 올려놓아 주세요."
+  },
+  {
+    "id": "travel-shopping-076",
+    "word": "counter",
+    "pronunciation": "/ˈkaʊntər/",
+    "partOfSpeech": "명사",
+    "meaning": "카운터",
+    "exampleEn": "Pay at the counter by the exit.",
+    "exampleKo": "출구 옆 카운터에서 결제하세요."
+  },
+  {
+    "id": "travel-shopping-078",
+    "word": "checkout",
+    "pronunciation": "/ˈtʃɛkˌaʊt/",
+    "partOfSpeech": "명사",
+    "meaning": "계산대",
+    "exampleEn": "There's a long queue at the checkout.",
+    "exampleKo": "계산대에 줄이 길다."
+  },
+  {
+    "id": "travel-shopping-079",
+    "word": "barcode",
+    "pronunciation": "/ˈbɑːrkoʊd/",
+    "partOfSpeech": "명사",
+    "meaning": "바코드",
+    "exampleEn": "The cashier will scan the barcode.",
+    "exampleKo": "계산원이 바코드를 스캔할 것입니다."
+  },
+  {
+    "id": "travel-shopping-080",
+    "word": "queue",
+    "pronunciation": "/kjuː/",
+    "partOfSpeech": "명사",
+    "meaning": "줄",
+    "exampleEn": "There's a long queue to enter the museum.",
+    "exampleKo": "박물관 입장을 위한 줄이 깁니다."
+  },
+  {
+    "id": "travel-shopping-081",
+    "word": "vendor",
+    "pronunciation": "/ˈvɛndər/",
+    "partOfSpeech": "명사",
+    "meaning": "판매상",
+    "exampleEn": "Many street vendors sell local crafts.",
+    "exampleKo": "많은 노점상이 현지 공예품을 판다."
+  },
+  {
+    "id": "travel-shopping-082",
+    "word": "haggle",
+    "pronunciation": "/ˈhæɡəl/",
+    "partOfSpeech": "동사",
+    "meaning": "흥정하다",
+    "exampleEn": "In some markets, you can haggle over the price.",
+    "exampleKo": "일부 시장에서는 가격을 흥정할 수 있다."
+  },
+  {
+    "id": "travel-shopping-083",
+    "word": "negotiation",
+    "pronunciation": "/nɪˌɡoʊʃiˈeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "협상, 흥정",
+    "exampleEn": "Price negotiation is common at street markets.",
+    "exampleKo": "가격 협상은 노점 시장에서 흔하다."
+  },
+  {
+    "id": "travel-shopping-084",
+    "word": "in stock",
+    "pronunciation": "/ɪn stɒk/",
+    "partOfSpeech": "형용사",
+    "meaning": "재고 있는",
+    "exampleEn": "Is this model still in stock?",
+    "exampleKo": "이 모델이 아직 재고가 있나요?"
+  },
+  {
+    "id": "travel-shopping-086",
+    "word": "order online",
+    "pronunciation": "/ˈɔːrdər ˈɒnlaɪn/",
+    "partOfSpeech": "동사",
+    "meaning": "온라인 주문하다",
+    "exampleEn": "You can order online and pick it up in store.",
+    "exampleKo": "온라인으로 주문하고 매장에서 수령할 수 있습니다."
+  },
+  {
+    "id": "travel-shopping-087",
+    "word": "pickup",
+    "pronunciation": "/ˈpɪkˌʌp/",
+    "partOfSpeech": "명사",
+    "meaning": "픽업, 수령",
+    "exampleEn": "Your order is ready for pickup.",
+    "exampleKo": "주문하신 물건을 수령하실 수 있습니다."
+  },
+  {
+    "id": "travel-shopping-088",
+    "word": "tracking number",
+    "pronunciation": "/ˈtrækɪŋ ˈnʌmbər/",
+    "partOfSpeech": "명사",
+    "meaning": "운송장 번호",
+    "exampleEn": "Here is your tracking number to follow the delivery.",
+    "exampleKo": "배송을 추적할 수 있는 운송장 번호입니다."
+  }
+]
