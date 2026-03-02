@@ -1,0 +1,2171 @@
+[
+  {
+    "id": "acad-lv3-001",
+    "word": "meaningful",
+    "pronunciation": "/ˈmiːnɪŋfəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "의미 있는, 유의미한",
+    "exampleEn": "The study yielded meaningful results.",
+    "exampleKo": "그 연구는 유의미한 결과를 산출했습니다."
+  },
+  {
+    "id": "acad-lv3-002",
+    "word": "wavelength",
+    "pronunciation": "/ˈweɪvlɛŋθ/",
+    "partOfSpeech": "명사",
+    "meaning": "파장",
+    "exampleEn": "Light of different wavelengths has different colors.",
+    "exampleKo": "다양한 파장의 빛은 서로 다른 색을 가집니다."
+  },
+  {
+    "id": "acad-lv3-003",
+    "word": "diagnose",
+    "pronunciation": "/ˈdaɪəɡnoʊz/",
+    "partOfSpeech": "동사",
+    "meaning": "진단하다",
+    "exampleEn": "The condition was difficult to diagnose accurately.",
+    "exampleKo": "그 상태는 정확하게 진단하기 어려웠습니다."
+  },
+  {
+    "id": "acad-lv3-004",
+    "word": "accent",
+    "pronunciation": "/ˈæksɛnt/",
+    "partOfSpeech": "명사",
+    "meaning": "억양, 강조",
+    "exampleEn": "The speaker had a distinct regional accent.",
+    "exampleKo": "그 화자는 뚜렷한 지역 억양을 가지고 있었습니다."
+  },
+  {
+    "id": "acad-lv3-005",
+    "word": "realm",
+    "pronunciation": "/rɛlm/",
+    "partOfSpeech": "명사",
+    "meaning": "영역, 분야",
+    "exampleEn": "This discovery opened a new realm of research.",
+    "exampleKo": "이 발견은 새로운 연구 영역을 열었습니다."
+  },
+  {
+    "id": "acad-lv3-006",
+    "word": "replication",
+    "pronunciation": "/ˌrɛplɪˈkeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "복제, 반복 실험",
+    "exampleEn": "Replication of the study confirmed the findings.",
+    "exampleKo": "연구 반복 실험이 결과를 확인했습니다."
+  },
+  {
+    "id": "acad-lv3-007",
+    "word": "basin",
+    "pronunciation": "/ˈbeɪsən/",
+    "partOfSpeech": "명사",
+    "meaning": "분지, 유역",
+    "exampleEn": "The river basin was studied.",
+    "exampleKo": "강 유역이 연구됐다."
+  },
+  {
+    "id": "acad-lv3-008",
+    "word": "admission",
+    "pronunciation": "/ədˈmɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "입장, 입학",
+    "exampleEn": "Admission is free.",
+    "exampleKo": "입장료가 무료입니다."
+  },
+  {
+    "id": "acad-lv3-009",
+    "word": "interestingly",
+    "pronunciation": "/ˈɪntrɪstɪŋli/",
+    "partOfSpeech": "부사",
+    "meaning": "흥미롭게도",
+    "exampleEn": "Interestingly, results varied.",
+    "exampleKo": "흥미롭게도 결과가 다양했다."
+  },
+  {
+    "id": "acad-lv3-010",
+    "word": "clarify",
+    "pronunciation": "/ˈklærɪfaɪ/",
+    "partOfSpeech": "동사",
+    "meaning": "명확히 하다",
+    "exampleEn": "Clarify the instructions.",
+    "exampleKo": "지침을 명확히 하세요."
+  },
+  {
+    "id": "acad-lv3-011",
+    "word": "grid",
+    "pronunciation": "/ɡrɪd/",
+    "partOfSpeech": "명사",
+    "meaning": "격자, 전력망",
+    "exampleEn": "The power grid failed.",
+    "exampleKo": "전력망이 고장났다."
+  },
+  {
+    "id": "acad-lv3-012",
+    "word": "curriculum",
+    "pronunciation": "/kəˈrɪkjʊləm/",
+    "partOfSpeech": "명사",
+    "meaning": "교육과정",
+    "exampleEn": "The curriculum was revised.",
+    "exampleKo": "교육과정이 개정됐다."
+  },
+  {
+    "id": "acad-lv3-013",
+    "word": "displacement",
+    "pronunciation": "/dɪsˈpleɪsmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "변위, 이동",
+    "exampleEn": "Vertical displacement was measured.",
+    "exampleKo": "수직 변위가 측정됐다."
+  },
+  {
+    "id": "acad-lv3-014",
+    "word": "coherent",
+    "pronunciation": "/koʊˈhɪərənt/",
+    "partOfSpeech": "형용사",
+    "meaning": "일관된, 논리적인",
+    "exampleEn": "A coherent argument was made.",
+    "exampleKo": "일관된 논증이 제시됐다."
+  },
+  {
+    "id": "acad-lv3-015",
+    "word": "standardize",
+    "pronunciation": "/ˈstændərdaɪz/",
+    "partOfSpeech": "동사",
+    "meaning": "표준화하다",
+    "exampleEn": "Processes were standardized.",
+    "exampleKo": "프로세스가 표준화됐다."
+  },
+  {
+    "id": "acad-lv3-016",
+    "word": "civilization",
+    "pronunciation": "/ˌsɪvəlaɪˈzeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "문명",
+    "exampleEn": "Ancient civilizations were studied.",
+    "exampleKo": "고대 문명이 연구됐다."
+  },
+  {
+    "id": "acad-lv3-017",
+    "word": "positively",
+    "pronunciation": "/ˈpɒzɪtɪvli/",
+    "partOfSpeech": "부사",
+    "meaning": "긍정적으로",
+    "exampleEn": "Markets reacted positively.",
+    "exampleKo": "시장이 긍정적으로 반응했다."
+  },
+  {
+    "id": "acad-lv3-018",
+    "word": "bacterial",
+    "pronunciation": "/bækˈtɪərɪəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "박테리아의",
+    "exampleEn": "Bacterial infection was treated.",
+    "exampleKo": "박테리아 감염이 치료됐다."
+  },
+  {
+    "id": "acad-lv3-019",
+    "word": "deficiency",
+    "pronunciation": "/dɪˈfɪʃənsi/",
+    "partOfSpeech": "명사",
+    "meaning": "결핍, 부족",
+    "exampleEn": "A cash deficiency needs immediate attention.",
+    "exampleKo": "현금 부족은 즉각적인 주의가 필요합니다."
+  },
+  {
+    "id": "acad-lv3-020",
+    "word": "legitimate",
+    "pronunciation": "/lɪˈdʒɪtɪmɪt/",
+    "partOfSpeech": "형용사",
+    "meaning": "합법적인",
+    "exampleEn": "A legitimate business must comply.",
+    "exampleKo": "합법적인 사업은 준수해야 한다."
+  },
+  {
+    "id": "acad-lv3-021",
+    "word": "sophisticate",
+    "pronunciation": "/səˈfɪstɪkeɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "세련되게 하다",
+    "exampleEn": "Sophisticate the approach.",
+    "exampleKo": "접근법을 세련되게 하세요."
+  },
+  {
+    "id": "acad-lv3-022",
+    "word": "accelerate",
+    "pronunciation": "/əkˈseləreɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "가속하다",
+    "exampleEn": "Growth accelerated last quarter.",
+    "exampleKo": "지난 분기에 성장이 가속됐다."
+  },
+  {
+    "id": "acad-lv3-023",
+    "word": "exponential",
+    "pronunciation": "/ˌekspəˈnenʃəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "지수적인",
+    "exampleEn": "Exponential growth was observed.",
+    "exampleKo": "지수적 성장이 관찰됐다."
+  },
+  {
+    "id": "acad-lv3-024",
+    "word": "formally",
+    "pronunciation": "/ˈfɔːrmli/",
+    "partOfSpeech": "부사",
+    "meaning": "공식적으로",
+    "exampleEn": "Formally announce.",
+    "exampleKo": "공식적으로 발표하세요."
+  },
+  {
+    "id": "acad-lv3-025",
+    "word": "socially",
+    "pronunciation": "/ˈsoʊʃəli/",
+    "partOfSpeech": "부사",
+    "meaning": "사회적으로",
+    "exampleEn": "Socially responsible investing grew.",
+    "exampleKo": "사회적 책임 투자가 성장했다."
+  },
+  {
+    "id": "acad-lv3-026",
+    "word": "accurately",
+    "pronunciation": "/ˈækjʊrɪtli/",
+    "partOfSpeech": "부사",
+    "meaning": "정확하게",
+    "exampleEn": "Report the data accurately.",
+    "exampleKo": "데이터를 정확하게 보고하세요."
+  },
+  {
+    "id": "acad-lv3-027",
+    "word": "influential",
+    "pronunciation": "/ˌɪnfluˈɛnʃəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "영향력 있는",
+    "exampleEn": "Influential leader.",
+    "exampleKo": "영향력 있는 리더."
+  },
+  {
+    "id": "acad-lv3-028",
+    "word": "progression",
+    "pronunciation": "/prəˈɡreʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "진행, 발전",
+    "exampleEn": "Disease progression was tracked.",
+    "exampleKo": "질병 진행이 추적됐다."
+  },
+  {
+    "id": "acad-lv3-029",
+    "word": "essence",
+    "pronunciation": "/ˈesəns/",
+    "partOfSpeech": "명사",
+    "meaning": "본질, 핵심",
+    "exampleEn": "The essence of business is profit.",
+    "exampleKo": "사업의 본질은 이익이다."
+  },
+  {
+    "id": "acad-lv3-030",
+    "word": "cylinder",
+    "pronunciation": "/ˈsɪlɪndər/",
+    "partOfSpeech": "명사",
+    "meaning": "원통",
+    "exampleEn": "A cylinder volume formula applies.",
+    "exampleKo": "원통 부피 공식이 적용된다."
+  },
+  {
+    "id": "acad-lv3-031",
+    "word": "scholarship",
+    "pronunciation": "/ˈskɒlərʃɪp/",
+    "partOfSpeech": "명사",
+    "meaning": "장학금",
+    "exampleEn": "Apply for a scholarship.",
+    "exampleKo": "장학금에 지원하세요."
+  },
+  {
+    "id": "acad-lv3-032",
+    "word": "sodium",
+    "pronunciation": "/ˈsoʊdɪəm/",
+    "partOfSpeech": "명사",
+    "meaning": "나트륨",
+    "exampleEn": "Sodium intake affects blood pressure.",
+    "exampleKo": "나트륨 섭취가 혈압에 영향을 미친다."
+  },
+  {
+    "id": "acad-lv3-033",
+    "word": "predominantly",
+    "pronunciation": "/prɪˈdɒmɪnəntli/",
+    "partOfSpeech": "부사",
+    "meaning": "주로",
+    "exampleEn": "The sample was predominantly male.",
+    "exampleKo": "표본은 주로 남성이었다."
+  },
+  {
+    "id": "acad-lv3-034",
+    "word": "oscillation",
+    "pronunciation": "/ˌɒsɪˈleɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "진동, 진폭",
+    "exampleEn": "Wave oscillation was measured.",
+    "exampleKo": "파동 진동이 측정됐다."
+  },
+  {
+    "id": "acad-lv3-035",
+    "word": "impulse",
+    "pronunciation": "/ˈɪmpʌls/",
+    "partOfSpeech": "명사",
+    "meaning": "충동, 충격",
+    "exampleEn": "Nerve impulses travel fast.",
+    "exampleKo": "신경 충동이 빠르게 이동한다."
+  },
+  {
+    "id": "acad-lv3-036",
+    "word": "theorist",
+    "pronunciation": "/ˈθɪərɪst/",
+    "partOfSpeech": "명사",
+    "meaning": "이론가",
+    "exampleEn": "The theorist proposed a model.",
+    "exampleKo": "이론가가 모델을 제안했다."
+  },
+  {
+    "id": "acad-lv3-037",
+    "word": "manipulate",
+    "pronunciation": "/məˈnɪpjʊleɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "조작하다",
+    "exampleEn": "Prices were manipulated.",
+    "exampleKo": "가격이 조작됐다."
+  },
+  {
+    "id": "acad-lv3-038",
+    "word": "alliance",
+    "pronunciation": "/əˈlaɪəns/",
+    "partOfSpeech": "명사",
+    "meaning": "동맹, 연합",
+    "exampleEn": "Strategic alliance.",
+    "exampleKo": "전략적 동맹."
+  },
+  {
+    "id": "acad-lv3-039",
+    "word": "crystal",
+    "pronunciation": "/ˈkrɪstəl/",
+    "partOfSpeech": "명사",
+    "meaning": "결정, 크리스탈",
+    "exampleEn": "Crystal structures were analyzed.",
+    "exampleKo": "결정 구조가 분석됐다."
+  },
+  {
+    "id": "acad-lv3-040",
+    "word": "importantly",
+    "pronunciation": "/ɪmˈpɔːrtəntli/",
+    "partOfSpeech": "부사",
+    "meaning": "중요하게",
+    "exampleEn": "Most importantly, margins held.",
+    "exampleKo": "가장 중요하게, 마진이 유지됐다."
+  },
+  {
+    "id": "acad-lv3-041",
+    "word": "stack",
+    "pronunciation": "/stæk/",
+    "partOfSpeech": "명사",
+    "meaning": "더미, 스택",
+    "exampleEn": "Stack the papers neatly.",
+    "exampleKo": "서류를 가지런히 쌓으세요."
+  },
+  {
+    "id": "acad-lv3-042",
+    "word": "drift",
+    "pronunciation": "/drɪft/",
+    "partOfSpeech": "동사",
+    "meaning": "표류하다, 서서히 변하다",
+    "exampleEn": "Rates drifted lower.",
+    "exampleKo": "금리가 서서히 낮아졌다."
+  },
+  {
+    "id": "acad-lv3-043",
+    "word": "nest",
+    "pronunciation": "/nest/",
+    "partOfSpeech": "명사",
+    "meaning": "둥지, 집합",
+    "exampleEn": "Nested data structures were used.",
+    "exampleKo": "중첩된 데이터 구조가 사용됐다."
+  },
+  {
+    "id": "acad-lv3-044",
+    "word": "fossil",
+    "pronunciation": "/ˈfɒsəl/",
+    "partOfSpeech": "명사",
+    "meaning": "화석",
+    "exampleEn": "Fossil fuels must be reduced.",
+    "exampleKo": "화석 연료를 줄여야 한다."
+  },
+  {
+    "id": "acad-lv3-045",
+    "word": "resistant",
+    "pronunciation": "/rɪˈzɪstənt/",
+    "partOfSpeech": "형용사",
+    "meaning": "저항하는",
+    "exampleEn": "Drug resistant bacteria emerged.",
+    "exampleKo": "약물 내성 박테리아가 나타났다."
+  },
+  {
+    "id": "acad-lv3-046",
+    "word": "dimensional",
+    "pronunciation": "/daɪˈmenʃənəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "차원의",
+    "exampleEn": "Three-dimensional modeling was used.",
+    "exampleKo": "3차원 모델링이 사용됐다."
+  },
+  {
+    "id": "acad-lv3-047",
+    "word": "punishment",
+    "pronunciation": "/ˈpʌnɪʃmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "처벌",
+    "exampleEn": "Stiff punishment deters fraud.",
+    "exampleKo": "엄한 처벌이 사기를 억제한다."
+  },
+  {
+    "id": "acad-lv3-048",
+    "word": "rhetoric",
+    "pronunciation": "/ˈretərɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "수사, 언변",
+    "exampleEn": "Trade rhetoric escalated.",
+    "exampleKo": "무역 언변이 고조됐다."
+  },
+  {
+    "id": "acad-lv3-049",
+    "word": "artifact",
+    "pronunciation": "/ˈɑːrtɪfækt/",
+    "partOfSpeech": "명사",
+    "meaning": "인공물, 유물",
+    "exampleEn": "Historical artifacts were preserved.",
+    "exampleKo": "역사적 유물이 보존됐다."
+  },
+  {
+    "id": "acad-lv3-050",
+    "word": "carrier",
+    "pronunciation": "/ˈkæriər/",
+    "partOfSpeech": "명사",
+    "meaning": "항공사, 운송업체",
+    "exampleEn": "Which carrier are you flying with?",
+    "exampleKo": "어느 항공사를 이용하시나요?"
+  },
+  {
+    "id": "acad-lv3-051",
+    "word": "surgical",
+    "pronunciation": "/ˈsɜːrdʒɪkəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "외과의",
+    "exampleEn": "Surgical intervention was needed.",
+    "exampleKo": "외과적 개입이 필요했다."
+  },
+  {
+    "id": "acad-lv3-052",
+    "word": "coordination",
+    "pronunciation": "/koʊˌɔːrdɪˈneɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "조율, 조정",
+    "exampleEn": "Policy coordination was needed.",
+    "exampleKo": "정책 조율이 필요했다."
+  },
+  {
+    "id": "acad-lv3-053",
+    "word": "turbulent",
+    "pronunciation": "/ˈtɜːrbjʊlənt/",
+    "partOfSpeech": "형용사",
+    "meaning": "격동적인, 난류의",
+    "exampleEn": "Turbulent flow was analyzed.",
+    "exampleKo": "난류 흐름이 분석됐다."
+  },
+  {
+    "id": "acad-lv3-054",
+    "word": "quantum",
+    "pronunciation": "/ˈkwɒntəm/",
+    "partOfSpeech": "명사",
+    "meaning": "양자",
+    "exampleEn": "Quantum mechanics is complex.",
+    "exampleKo": "양자 역학은 복잡하다."
+  },
+  {
+    "id": "acad-lv3-055",
+    "word": "sediment",
+    "pronunciation": "/ˈsedɪmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "침전물",
+    "exampleEn": "Sediment layers were analyzed.",
+    "exampleKo": "침전물 층이 분석됐다."
+  },
+  {
+    "id": "acad-lv3-056",
+    "word": "ray",
+    "pronunciation": "/reɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "광선",
+    "exampleEn": "A ray of sunlight.",
+    "exampleKo": "햇살."
+  },
+  {
+    "id": "acad-lv3-057",
+    "word": "conserve",
+    "pronunciation": "/kənˈsɜːrv/",
+    "partOfSpeech": "동사",
+    "meaning": "보존하다",
+    "exampleEn": "Energy must be conserved.",
+    "exampleKo": "에너지를 보존해야 한다."
+  },
+  {
+    "id": "acad-lv3-058",
+    "word": "primer",
+    "pronunciation": "/ˈpraɪmər/",
+    "partOfSpeech": "명사",
+    "meaning": "입문서, 프라이머",
+    "exampleEn": "A DNA primer was designed.",
+    "exampleKo": "DNA 프라이머가 설계됐다."
+  },
+  {
+    "id": "acad-lv3-059",
+    "word": "grasp",
+    "pronunciation": "/ɡrɑːsp/",
+    "partOfSpeech": "동사",
+    "meaning": "파악하다, 이해하다",
+    "exampleEn": "Analysts grasped the implications.",
+    "exampleKo": "분석가들이 함의를 파악했다."
+  },
+  {
+    "id": "acad-lv3-060",
+    "word": "bulk",
+    "pronunciation": "/bʌlk/",
+    "partOfSpeech": "명사",
+    "meaning": "대량, 주요 부분",
+    "exampleEn": "Buy in bulk.",
+    "exampleKo": "대량으로 구매하세요."
+  },
+  {
+    "id": "acad-lv3-061",
+    "word": "terminology",
+    "pronunciation": "/ˌtɜːrmɪˈnɒlədʒi/",
+    "partOfSpeech": "명사",
+    "meaning": "전문 용어",
+    "exampleEn": "Technical terminology was defined.",
+    "exampleKo": "기술 전문 용어가 정의됐다."
+  },
+  {
+    "id": "acad-lv3-062",
+    "word": "vegetation",
+    "pronunciation": "/ˌvedʒɪˈteɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "식물, 초목",
+    "exampleEn": "Vegetation cover declined.",
+    "exampleKo": "식물 피복이 감소했다."
+  },
+  {
+    "id": "acad-lv3-063",
+    "word": "triangle",
+    "pronunciation": "/ˈtraɪæŋɡəl/",
+    "partOfSpeech": "명사",
+    "meaning": "삼각형",
+    "exampleEn": "The triangle inequality holds.",
+    "exampleKo": "삼각 부등식이 성립한다."
+  },
+  {
+    "id": "acad-lv3-064",
+    "word": "traditionally",
+    "pronunciation": "/trəˈdɪʃənəli/",
+    "partOfSpeech": "부사",
+    "meaning": "전통적으로",
+    "exampleEn": "Traditionally prepared.",
+    "exampleKo": "전통적으로 준비됐다."
+  },
+  {
+    "id": "acad-lv3-065",
+    "word": "execute",
+    "pronunciation": "/ˈɛksɪkjuːt/",
+    "partOfSpeech": "동사",
+    "meaning": "실행하다, 처형하다",
+    "exampleEn": "Execute the plan.",
+    "exampleKo": "계획을 실행하세요."
+  },
+  {
+    "id": "acad-lv3-066",
+    "word": "intensive",
+    "pronunciation": "/ɪnˈtensɪv/",
+    "partOfSpeech": "형용사",
+    "meaning": "집중적인",
+    "exampleEn": "Intensive training was required.",
+    "exampleKo": "집중 훈련이 필요했다."
+  },
+  {
+    "id": "acad-lv3-067",
+    "word": "reconstruct",
+    "pronunciation": "/ˌriːkənˈstrʌkt/",
+    "partOfSpeech": "동사",
+    "meaning": "재구성하다",
+    "exampleEn": "Ancestral sequences were reconstructed.",
+    "exampleKo": "조상 서열이 재구성됐다."
+  },
+  {
+    "id": "acad-lv3-068",
+    "word": "broadly",
+    "pronunciation": "/ˈbrɔːdli/",
+    "partOfSpeech": "부사",
+    "meaning": "광범위하게, 대체로",
+    "exampleEn": "Broadly speaking, growth slowed.",
+    "exampleKo": "대체로 보면 성장이 둔화됐다."
+  },
+  {
+    "id": "acad-lv3-069",
+    "word": "metabolism",
+    "pronunciation": "/məˈtæbəlɪzəm/",
+    "partOfSpeech": "명사",
+    "meaning": "대사",
+    "exampleEn": "Cellular metabolism was measured.",
+    "exampleKo": "세포 대사가 측정됐다."
+  },
+  {
+    "id": "acad-lv3-070",
+    "word": "revolutionary",
+    "pronunciation": "/ˌrevəˈluːʃənəri/",
+    "partOfSpeech": "형용사",
+    "meaning": "혁명적인",
+    "exampleEn": "Revolutionary technology emerged.",
+    "exampleKo": "혁명적인 기술이 등장했다."
+  },
+  {
+    "id": "acad-lv3-071",
+    "word": "merge",
+    "pronunciation": "/mɜːrdʒ/",
+    "partOfSpeech": "동사",
+    "meaning": "합병하다, 합치다",
+    "exampleEn": "Merge the two companies.",
+    "exampleKo": "두 회사를 합병하세요."
+  },
+  {
+    "id": "acad-lv3-072",
+    "word": "dilemma",
+    "pronunciation": "/dɪˈlemə/",
+    "partOfSpeech": "명사",
+    "meaning": "딜레마",
+    "exampleEn": "A moral dilemma was faced.",
+    "exampleKo": "도덕적 딜레마에 직면했다."
+  },
+  {
+    "id": "acad-lv3-073",
+    "word": "motif",
+    "pronunciation": "/moʊˈtiːf/",
+    "partOfSpeech": "명사",
+    "meaning": "모티프, 주제",
+    "exampleEn": "A recurring motif was identified.",
+    "exampleKo": "반복되는 모티프가 확인됐다."
+  },
+  {
+    "id": "acad-lv3-074",
+    "word": "motive",
+    "pronunciation": "/ˈmoʊtɪv/",
+    "partOfSpeech": "명사",
+    "meaning": "동기, 의도",
+    "exampleEn": "The motive was profit.",
+    "exampleKo": "동기는 이익이었다."
+  },
+  {
+    "id": "acad-lv3-075",
+    "word": "subtle",
+    "pronunciation": "/ˈsʌtəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "미묘한",
+    "exampleEn": "Subtle changes in prices.",
+    "exampleKo": "가격의 미묘한 변화."
+  },
+  {
+    "id": "acad-lv3-076",
+    "word": "clinic",
+    "pronunciation": "/ˈklɪnɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "클리닉, 진료소",
+    "exampleEn": "Visit the dental clinic.",
+    "exampleKo": "치과 진료소를 방문하세요."
+  },
+  {
+    "id": "acad-lv3-077",
+    "word": "allocate",
+    "pronunciation": "/ˈæləkeɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "할당하다",
+    "exampleEn": "Allocate resources.",
+    "exampleKo": "자원을 할당하세요."
+  },
+  {
+    "id": "acad-lv3-078",
+    "word": "hydrogen",
+    "pronunciation": "/ˈhaɪdrədʒən/",
+    "partOfSpeech": "명사",
+    "meaning": "수소",
+    "exampleEn": "Hydrogen fuel investment surged.",
+    "exampleKo": "수소 연료 투자가 급증했다."
+  },
+  {
+    "id": "acad-lv3-079",
+    "word": "dissertation",
+    "pronunciation": "/ˌdɪsəˈteɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "논문",
+    "exampleEn": "A dissertation was submitted.",
+    "exampleKo": "논문이 제출됐다."
+  },
+  {
+    "id": "acad-lv3-080",
+    "word": "susceptible",
+    "pronunciation": "/səˈseptɪbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "취약한, 민감한",
+    "exampleEn": "Children are susceptible to illness.",
+    "exampleKo": "아이들이 질병에 취약하다."
+  },
+  {
+    "id": "acad-lv3-081",
+    "word": "architect",
+    "pronunciation": "/ˈɑːrkɪtɛkt/",
+    "partOfSpeech": "명사",
+    "meaning": "건축가",
+    "exampleEn": "She is a talented architect.",
+    "exampleKo": "그녀는 재능 있는 건축가입니다."
+  },
+  {
+    "id": "acad-lv3-082",
+    "word": "coronary",
+    "pronunciation": "/ˈkɒrənəri/",
+    "partOfSpeech": "형용사",
+    "meaning": "관상동맥의",
+    "exampleEn": "Coronary disease was studied.",
+    "exampleKo": "관상동맥 질환이 연구됐다."
+  },
+  {
+    "id": "acad-lv3-083",
+    "word": "breakdown",
+    "pronunciation": "/ˈbreɪkdaʊn/",
+    "partOfSpeech": "명사",
+    "meaning": "세부 내역, 붕괴",
+    "exampleEn": "A cost breakdown was provided.",
+    "exampleKo": "비용 세부 내역이 제공됐다."
+  },
+  {
+    "id": "acad-lv3-084",
+    "word": "inject",
+    "pronunciation": "/ɪnˈdʒekt/",
+    "partOfSpeech": "동사",
+    "meaning": "주입하다",
+    "exampleEn": "Vaccine was injected.",
+    "exampleKo": "백신이 주입됐다."
+  },
+  {
+    "id": "acad-lv3-085",
+    "word": "economist",
+    "pronunciation": "/ɪˈkɒnəmɪst/",
+    "partOfSpeech": "명사",
+    "meaning": "경제학자",
+    "exampleEn": "The economist predicted growth.",
+    "exampleKo": "경제학자가 성장을 예측했다."
+  },
+  {
+    "id": "acad-lv3-086",
+    "word": "momentum",
+    "pronunciation": "/moʊˈmentəm/",
+    "partOfSpeech": "명사",
+    "meaning": "모멘텀, 추진력",
+    "exampleEn": "Growth momentum continued.",
+    "exampleKo": "성장 모멘텀이 계속됐다."
+  },
+  {
+    "id": "acad-lv3-087",
+    "word": "polar",
+    "pronunciation": "/ˈpoʊlər/",
+    "partOfSpeech": "형용사",
+    "meaning": "극의, 양극의",
+    "exampleEn": "Polar coordinates were used.",
+    "exampleKo": "극좌표가 사용됐다."
+  },
+  {
+    "id": "acad-lv3-088",
+    "word": "backward",
+    "pronunciation": "/ˈbækwərd/",
+    "partOfSpeech": "형용사",
+    "meaning": "후진의, 역방향의",
+    "exampleEn": "Backward integration was pursued.",
+    "exampleKo": "후방 통합이 추구됐다."
+  },
+  {
+    "id": "acad-lv3-089",
+    "word": "multiply",
+    "pronunciation": "/ˈmʌltɪplaɪ/",
+    "partOfSpeech": "동사",
+    "meaning": "곱하다, 증가하다",
+    "exampleEn": "Multiply by two.",
+    "exampleKo": "2를 곱하세요."
+  },
+  {
+    "id": "acad-lv3-090",
+    "word": "morality",
+    "pronunciation": "/məˈrælɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "도덕성",
+    "exampleEn": "Morality guides behavior.",
+    "exampleKo": "도덕성이 행동을 안내한다."
+  },
+  {
+    "id": "acad-lv3-091",
+    "word": "communicative",
+    "pronunciation": "/kəˈmjuːnɪkətɪv/",
+    "partOfSpeech": "형용사",
+    "meaning": "의사소통적인",
+    "exampleEn": "Communicative competence was assessed.",
+    "exampleKo": "의사소통 능력이 평가됐다."
+  },
+  {
+    "id": "acad-lv3-092",
+    "word": "physically",
+    "pronunciation": "/ˈfɪzɪkli/",
+    "partOfSpeech": "부사",
+    "meaning": "물리적으로",
+    "exampleEn": "Assets physically inspected.",
+    "exampleKo": "자산이 물리적으로 검사됐다."
+  },
+  {
+    "id": "acad-lv3-093",
+    "word": "rainfall",
+    "pronunciation": "/ˈreɪnfɔːl/",
+    "partOfSpeech": "명사",
+    "meaning": "강우량",
+    "exampleEn": "Annual rainfall.",
+    "exampleKo": "연간 강우량."
+  },
+  {
+    "id": "acad-lv3-094",
+    "word": "politically",
+    "pronunciation": "/pəˈlɪtɪkli/",
+    "partOfSpeech": "부사",
+    "meaning": "정치적으로",
+    "exampleEn": "The decision was politically motivated.",
+    "exampleKo": "그 결정은 정치적으로 동기 부여됐다."
+  },
+  {
+    "id": "acad-lv3-095",
+    "word": "invasion",
+    "pronunciation": "/ɪnˈveɪʒən/",
+    "partOfSpeech": "명사",
+    "meaning": "침략",
+    "exampleEn": "Market invasion by foreign firms.",
+    "exampleKo": "외국 기업의 시장 침략."
+  },
+  {
+    "id": "acad-lv3-096",
+    "word": "inevitably",
+    "pronunciation": "/ɪnˈevɪtəbli/",
+    "partOfSpeech": "부사",
+    "meaning": "불가피하게",
+    "exampleEn": "Costs inevitably rose.",
+    "exampleKo": "비용이 불가피하게 올랐다."
+  },
+  {
+    "id": "acad-lv3-097",
+    "word": "capitalism",
+    "pronunciation": "/ˈkæpɪtəlɪzəm/",
+    "partOfSpeech": "명사",
+    "meaning": "자본주의",
+    "exampleEn": "Capitalism promotes competition.",
+    "exampleKo": "자본주의는 경쟁을 촉진한다."
+  },
+  {
+    "id": "acad-lv3-098",
+    "word": "expertise",
+    "pronunciation": "/ˌɛkspɜːrˈtiːz/",
+    "partOfSpeech": "명사",
+    "meaning": "전문 지식",
+    "exampleEn": "Share your expertise.",
+    "exampleKo": "전문 지식을 공유하세요."
+  },
+  {
+    "id": "acad-lv3-099",
+    "word": "inferior",
+    "pronunciation": "/ɪnˈfɪərɪər/",
+    "partOfSpeech": "형용사",
+    "meaning": "열등한",
+    "exampleEn": "Inferior goods were rejected.",
+    "exampleKo": "열등 재화가 거부됐다."
+  },
+  {
+    "id": "acad-lv3-100",
+    "word": "actively",
+    "pronunciation": "/ˈæktɪvli/",
+    "partOfSpeech": "부사",
+    "meaning": "능동적으로",
+    "exampleEn": "Actively participate.",
+    "exampleKo": "능동적으로 참여하세요."
+  },
+  {
+    "id": "acad-lv3-101",
+    "word": "quotation",
+    "pronunciation": "/kwoʊˈteɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "견적, 인용",
+    "exampleEn": "A price quotation was issued.",
+    "exampleKo": "가격 견적이 발행됐다."
+  },
+  {
+    "id": "acad-lv3-102",
+    "word": "composite",
+    "pronunciation": "/ˈkɒmpəzɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "복합 지수",
+    "exampleEn": "The composite index rose.",
+    "exampleKo": "복합 지수가 올랐다."
+  },
+  {
+    "id": "acad-lv3-103",
+    "word": "historically",
+    "pronunciation": "/hɪˈstɒrɪkli/",
+    "partOfSpeech": "부사",
+    "meaning": "역사적으로",
+    "exampleEn": "Historically, rates were lower.",
+    "exampleKo": "역사적으로 금리가 더 낮았다."
+  },
+  {
+    "id": "acad-lv3-104",
+    "word": "textbook",
+    "pronunciation": "/ˈtɛkstbʊk/",
+    "partOfSpeech": "명사",
+    "meaning": "교과서",
+    "exampleEn": "Buy the required textbook.",
+    "exampleKo": "필수 교과서를 구매하세요."
+  },
+  {
+    "id": "acad-lv3-105",
+    "word": "bundle",
+    "pronunciation": "/ˈbʌndəl/",
+    "partOfSpeech": "명사",
+    "meaning": "묶음",
+    "exampleEn": "Products were bundled together.",
+    "exampleKo": "제품이 묶음으로 판매됐다."
+  },
+  {
+    "id": "acad-lv3-106",
+    "word": "elementary",
+    "pronunciation": "/ˌelɪˈmentəri/",
+    "partOfSpeech": "형용사",
+    "meaning": "기본적인, 초등의",
+    "exampleEn": "Elementary particles were studied.",
+    "exampleKo": "기본 입자가 연구됐다."
+  },
+  {
+    "id": "acad-lv3-107",
+    "word": "capitalist",
+    "pronunciation": "/ˈkæpɪtəlɪst/",
+    "partOfSpeech": "명사",
+    "meaning": "자본가",
+    "exampleEn": "The capitalist invested wisely.",
+    "exampleKo": "자본가가 현명하게 투자했다."
+  },
+  {
+    "id": "acad-lv3-108",
+    "word": "flexibility",
+    "pronunciation": "/ˌflɛksɪˈbɪlɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "유연성",
+    "exampleEn": "Work flexibility.",
+    "exampleKo": "업무 유연성."
+  },
+  {
+    "id": "acad-lv3-109",
+    "word": "cord",
+    "pronunciation": "/kɔːrd/",
+    "partOfSpeech": "명사",
+    "meaning": "코드, 끈",
+    "exampleEn": "Power cord.",
+    "exampleKo": "전원 코드."
+  },
+  {
+    "id": "acad-lv3-110",
+    "word": "realistic",
+    "pronunciation": "/ˌriːəˈlɪstɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "현실적인",
+    "exampleEn": "Be realistic.",
+    "exampleKo": "현실적으로 생각하세요."
+  },
+  {
+    "id": "acad-lv3-111",
+    "word": "initiation",
+    "pronunciation": "/ɪˌnɪʃɪˈeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "시작, 입문",
+    "exampleEn": "Initiation of transcription.",
+    "exampleKo": "전사의 시작."
+  },
+  {
+    "id": "acad-lv3-112",
+    "word": "horizon",
+    "pronunciation": "/həˈraɪzən/",
+    "partOfSpeech": "명사",
+    "meaning": "지평선, 전망",
+    "exampleEn": "Investment horizons vary.",
+    "exampleKo": "투자 지평이 다양하다."
+  },
+  {
+    "id": "acad-lv3-113",
+    "word": "consultation",
+    "pronunciation": "/ˌkɒnsəlˈteɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "상담, 협의",
+    "exampleEn": "Free consultation.",
+    "exampleKo": "무료 상담."
+  },
+  {
+    "id": "acad-lv3-114",
+    "word": "ruler",
+    "pronunciation": "/ˈruːlər/",
+    "partOfSpeech": "명사",
+    "meaning": "지배자, 통치자",
+    "exampleEn": "The market ruler set prices.",
+    "exampleKo": "시장 지배자가 가격을 정했다."
+  },
+  {
+    "id": "acad-lv3-115",
+    "word": "freely",
+    "pronunciation": "/ˈfriːli/",
+    "partOfSpeech": "부사",
+    "meaning": "자유롭게",
+    "exampleEn": "Capital flows freely.",
+    "exampleKo": "자본이 자유롭게 흐른다."
+  },
+  {
+    "id": "acad-lv3-116",
+    "word": "rotate",
+    "pronunciation": "/roʊˈteɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "회전하다",
+    "exampleEn": "The molecule rotates freely.",
+    "exampleKo": "분자가 자유롭게 회전한다."
+  },
+  {
+    "id": "acad-lv3-117",
+    "word": "commodity",
+    "pronunciation": "/kəˈmɒdɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "상품, 원자재",
+    "exampleEn": "Commodity price.",
+    "exampleKo": "상품 가격."
+  },
+  {
+    "id": "acad-lv3-118",
+    "word": "elevation",
+    "pronunciation": "/ˌelɪˈveɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "고도, 높이",
+    "exampleEn": "Elevation affects climate.",
+    "exampleKo": "고도가 기후에 영향을 미친다."
+  },
+  {
+    "id": "acad-lv3-119",
+    "word": "intervene",
+    "pronunciation": "/ˌɪntərˈviːn/",
+    "partOfSpeech": "동사",
+    "meaning": "개입하다",
+    "exampleEn": "The central bank intervened.",
+    "exampleKo": "중앙은행이 개입했다."
+  },
+  {
+    "id": "acad-lv3-120",
+    "word": "compensate",
+    "pronunciation": "/ˈkɒmpɛnseɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "보상하다",
+    "exampleEn": "Compensate for the loss.",
+    "exampleKo": "손실을 보상하세요."
+  },
+  {
+    "id": "acad-lv3-121",
+    "word": "atomic",
+    "pronunciation": "/əˈtɒmɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "원자의",
+    "exampleEn": "Atomic mass was calculated.",
+    "exampleKo": "원자 질량이 계산됐다."
+  },
+  {
+    "id": "acad-lv3-122",
+    "word": "trivial",
+    "pronunciation": "/ˈtrɪvɪəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "사소한",
+    "exampleEn": "The error was trivial.",
+    "exampleKo": "오류가 사소했다."
+  },
+  {
+    "id": "acad-lv3-123",
+    "word": "stance",
+    "pronunciation": "/stæns/",
+    "partOfSpeech": "명사",
+    "meaning": "입장, 태도",
+    "exampleEn": "The hawkish stance continued.",
+    "exampleKo": "매파적 입장이 계속됐다."
+  },
+  {
+    "id": "acad-lv3-124",
+    "word": "stabilize",
+    "pronunciation": "/ˈsteɪbɪlaɪz/",
+    "partOfSpeech": "동사",
+    "meaning": "안정시키다",
+    "exampleEn": "Rates were stabilized.",
+    "exampleKo": "금리가 안정됐다."
+  },
+  {
+    "id": "acad-lv3-125",
+    "word": "profound",
+    "pronunciation": "/prəˈfaʊnd/",
+    "partOfSpeech": "형용사",
+    "meaning": "심오한, 깊은",
+    "exampleEn": "Profound changes occurred.",
+    "exampleKo": "심오한 변화가 일어났다."
+  },
+  {
+    "id": "acad-lv3-126",
+    "word": "whereby",
+    "pronunciation": "/weərˈbaɪ/",
+    "partOfSpeech": "부사",
+    "meaning": "그에 따라",
+    "exampleEn": "A system whereby taxes apply.",
+    "exampleKo": "세금이 적용되는 시스템."
+  },
+  {
+    "id": "acad-lv3-127",
+    "word": "ancestor",
+    "pronunciation": "/ˈænsestər/",
+    "partOfSpeech": "명사",
+    "meaning": "조상",
+    "exampleEn": "Common ancestors were identified.",
+    "exampleKo": "공통 조상이 확인됐다."
+  },
+  {
+    "id": "acad-lv3-128",
+    "word": "genetics",
+    "pronunciation": "/dʒɪˈnetɪks/",
+    "partOfSpeech": "명사",
+    "meaning": "유전학",
+    "exampleEn": "Genetics explains inheritance.",
+    "exampleKo": "유전학이 유전을 설명한다."
+  },
+  {
+    "id": "acad-lv3-129",
+    "word": "proton",
+    "pronunciation": "/ˈproʊtɒn/",
+    "partOfSpeech": "명사",
+    "meaning": "양성자",
+    "exampleEn": "Protons carry positive charge.",
+    "exampleKo": "양성자가 양전하를 운반한다."
+  },
+  {
+    "id": "acad-lv3-130",
+    "word": "phosphate",
+    "pronunciation": "/ˈfɒsfeɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "인산염",
+    "exampleEn": "Phosphate is essential for ATP.",
+    "exampleKo": "인산염이 ATP에 필수적이다."
+  },
+  {
+    "id": "acad-lv3-131",
+    "word": "gravity",
+    "pronunciation": "/ˈɡrævɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "중력",
+    "exampleEn": "Gravity holds objects down.",
+    "exampleKo": "중력이 물체를 아래로 잡아당긴다."
+  },
+  {
+    "id": "acad-lv3-132",
+    "word": "pole",
+    "pronunciation": "/poʊl/",
+    "partOfSpeech": "명사",
+    "meaning": "장대, 극",
+    "exampleEn": "North Pole.",
+    "exampleKo": "북극."
+  },
+  {
+    "id": "acad-lv3-133",
+    "word": "puzzle",
+    "pronunciation": "/ˈpʌzəl/",
+    "partOfSpeech": "명사",
+    "meaning": "퍼즐, 수수께끼",
+    "exampleEn": "Solve the puzzle.",
+    "exampleKo": "퍼즐을 푸세요."
+  },
+  {
+    "id": "acad-lv3-134",
+    "word": "respiratory",
+    "pronunciation": "/rɪˈspɪrətəri/",
+    "partOfSpeech": "형용사",
+    "meaning": "호흡의",
+    "exampleEn": "Respiratory function was tested.",
+    "exampleKo": "호흡 기능이 테스트됐다."
+  },
+  {
+    "id": "acad-lv3-135",
+    "word": "elimination",
+    "pronunciation": "/ɪˌlɪmɪˈneɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "제거, 탈락",
+    "exampleEn": "Gaussian elimination was applied.",
+    "exampleKo": "가우시안 소거법이 적용됐다."
+  },
+  {
+    "id": "acad-lv3-136",
+    "word": "exit",
+    "pronunciation": "/ˈɛɡzɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "출구, 비상구",
+    "exampleEn": "Use the emergency exit.",
+    "exampleKo": "비상구를 이용하세요."
+  },
+  {
+    "id": "acad-lv3-137",
+    "word": "corruption",
+    "pronunciation": "/kəˈrʌpʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "부패",
+    "exampleEn": "Fight corruption.",
+    "exampleKo": "부패와 싸우세요."
+  },
+  {
+    "id": "acad-lv3-138",
+    "word": "circulate",
+    "pronunciation": "/ˈsɜːrkjʊleɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "순환하다, 유통시키다",
+    "exampleEn": "Circulate the memo.",
+    "exampleKo": "메모를 유통시키세요."
+  },
+  {
+    "id": "acad-lv3-139",
+    "word": "obscure",
+    "pronunciation": "/əbˈskjʊər/",
+    "partOfSpeech": "형용사",
+    "meaning": "모호한, 잘 알려지지 않은",
+    "exampleEn": "Obscure accounting rules hid losses.",
+    "exampleKo": "모호한 회계 규정이 손실을 감췄다."
+  },
+  {
+    "id": "acad-lv3-140",
+    "word": "contradict",
+    "pronunciation": "/ˌkɒntrəˈdɪkt/",
+    "partOfSpeech": "동사",
+    "meaning": "모순되다, 반박하다",
+    "exampleEn": "Your actions contradict your words.",
+    "exampleKo": "행동이 말과 모순됩니다."
+  },
+  {
+    "id": "acad-lv3-141",
+    "word": "interfere",
+    "pronunciation": "/ˌɪntərˈfɪər/",
+    "partOfSpeech": "동사",
+    "meaning": "간섭하다",
+    "exampleEn": "Don't interfere.",
+    "exampleKo": "간섭하지 마세요."
+  },
+  {
+    "id": "acad-lv3-142",
+    "word": "trauma",
+    "pronunciation": "/ˈtrɔːmə/",
+    "partOfSpeech": "명사",
+    "meaning": "외상, 트라우마",
+    "exampleEn": "Psychological trauma was treated.",
+    "exampleKo": "심리적 외상이 치료됐다."
+  },
+  {
+    "id": "acad-lv3-143",
+    "word": "upward",
+    "pronunciation": "/ˈʌpwərd/",
+    "partOfSpeech": "형용사",
+    "meaning": "상향의, 위로",
+    "exampleEn": "Prices moved upward.",
+    "exampleKo": "가격이 상향 이동했다."
+  },
+  {
+    "id": "acad-lv3-144",
+    "word": "gross",
+    "pronunciation": "/ɡroʊs/",
+    "partOfSpeech": "형용사",
+    "meaning": "총, 전체의",
+    "exampleEn": "Gross profit.",
+    "exampleKo": "매출 총이익."
+  },
+  {
+    "id": "acad-lv3-145",
+    "word": "optical",
+    "pronunciation": "/ˈɒptɪkəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "광학의",
+    "exampleEn": "Optical instruments were used.",
+    "exampleKo": "광학 기구가 사용됐다."
+  },
+  {
+    "id": "acad-lv3-146",
+    "word": "communist",
+    "pronunciation": "/ˈkɒmjʊnɪst/",
+    "partOfSpeech": "명사",
+    "meaning": "공산주의자",
+    "exampleEn": "Communist policies changed markets.",
+    "exampleKo": "공산주의 정책이 시장을 바꿨다."
+  },
+  {
+    "id": "acad-lv3-147",
+    "word": "continent",
+    "pronunciation": "/ˈkɒntɪnənt/",
+    "partOfSpeech": "명사",
+    "meaning": "대륙",
+    "exampleEn": "The company expanded across the continent.",
+    "exampleKo": "회사가 대륙 전체로 확장됐다."
+  },
+  {
+    "id": "acad-lv3-148",
+    "word": "physics",
+    "pronunciation": "/ˈfɪzɪks/",
+    "partOfSpeech": "명사",
+    "meaning": "물리학",
+    "exampleEn": "Study physics.",
+    "exampleKo": "물리학을 공부하세요."
+  },
+  {
+    "id": "acad-lv3-149",
+    "word": "viable",
+    "pronunciation": "/ˈvaɪəbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "실현 가능한, 생존 가능한",
+    "exampleEn": "A viable business model was found.",
+    "exampleKo": "실현 가능한 사업 모델이 발견됐다."
+  },
+  {
+    "id": "acad-lv3-150",
+    "word": "limb",
+    "pronunciation": "/lɪm/",
+    "partOfSpeech": "명사",
+    "meaning": "팔다리, 가지",
+    "exampleEn": "Limb development was studied.",
+    "exampleKo": "팔다리 발달이 연구됐다."
+  },
+  {
+    "id": "acad-lv3-151",
+    "word": "retrieve",
+    "pronunciation": "/rɪˈtriːv/",
+    "partOfSpeech": "동사",
+    "meaning": "회수하다, 검색하다",
+    "exampleEn": "Retrieve the data.",
+    "exampleKo": "데이터를 검색하세요."
+  },
+  {
+    "id": "acad-lv3-152",
+    "word": "presume",
+    "pronunciation": "/prɪˈzjuːm/",
+    "partOfSpeech": "동사",
+    "meaning": "추정하다, 가정하다",
+    "exampleEn": "It is presumed solvent.",
+    "exampleKo": "지급 능력이 있다고 추정된다."
+  },
+  {
+    "id": "acad-lv3-153",
+    "word": "rationality",
+    "pronunciation": "/ˌræʃəˈnælɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "합리성",
+    "exampleEn": "Bounded rationality limits decisions.",
+    "exampleKo": "제한된 합리성이 의사결정을 제한한다."
+  },
+  {
+    "id": "acad-lv3-154",
+    "word": "stereotype",
+    "pronunciation": "/ˈsterɪətaɪp/",
+    "partOfSpeech": "명사",
+    "meaning": "고정관념",
+    "exampleEn": "Stereotypes affect behavior.",
+    "exampleKo": "고정관념이 행동에 영향을 미친다."
+  },
+  {
+    "id": "acad-lv3-155",
+    "word": "slavery",
+    "pronunciation": "/ˈsleɪvəri/",
+    "partOfSpeech": "명사",
+    "meaning": "노예제",
+    "exampleEn": "Slavery was abolished.",
+    "exampleKo": "노예제가 폐지됐다."
+  },
+  {
+    "id": "acad-lv3-156",
+    "word": "artistic",
+    "pronunciation": "/ɑːrˈtɪstɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "예술적인",
+    "exampleEn": "Artistic talent.",
+    "exampleKo": "예술적 재능."
+  },
+  {
+    "id": "acad-lv3-157",
+    "word": "faculty",
+    "pronunciation": "/ˈfækəlti/",
+    "partOfSpeech": "명사",
+    "meaning": "교수진, 능력",
+    "exampleEn": "Faculty meeting.",
+    "exampleKo": "교수진 회의."
+  },
+  {
+    "id": "acad-lv3-158",
+    "word": "anthropology",
+    "pronunciation": "/ˌænθrəˈpɒlədʒi/",
+    "partOfSpeech": "명사",
+    "meaning": "인류학",
+    "exampleEn": "Cultural anthropology was studied.",
+    "exampleKo": "문화 인류학이 연구됐다."
+  },
+  {
+    "id": "acad-lv3-159",
+    "word": "antibiotic",
+    "pronunciation": "/ˌæntɪbaɪˈɒtɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "항생제",
+    "exampleEn": "Antibiotic resistance grew.",
+    "exampleKo": "항생제 내성이 증가했다."
+  },
+  {
+    "id": "acad-lv3-160",
+    "word": "portray",
+    "pronunciation": "/pɔːrˈtreɪ/",
+    "partOfSpeech": "동사",
+    "meaning": "묘사하다, 나타내다",
+    "exampleEn": "Media portrayed losses unfairly.",
+    "exampleKo": "미디어가 손실을 불공정하게 묘사했다."
+  },
+  {
+    "id": "acad-lv3-161",
+    "word": "sexuality",
+    "pronunciation": "/ˌsekʃuˈælɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "성정체성",
+    "exampleEn": "Human sexuality was studied.",
+    "exampleKo": "인간 성정체성이 연구됐다."
+  },
+  {
+    "id": "acad-lv3-162",
+    "word": "chemistry",
+    "pronunciation": "/ˈkɛmɪstri/",
+    "partOfSpeech": "명사",
+    "meaning": "화학",
+    "exampleEn": "Chemistry lab.",
+    "exampleKo": "화학 실험실."
+  },
+  {
+    "id": "acad-lv3-163",
+    "word": "axiom",
+    "pronunciation": "/ˈæksɪəm/",
+    "partOfSpeech": "명사",
+    "meaning": "공리",
+    "exampleEn": "Mathematical axioms were stated.",
+    "exampleKo": "수학적 공리가 서술됐다."
+  },
+  {
+    "id": "acad-lv3-164",
+    "word": "pest",
+    "pronunciation": "/pest/",
+    "partOfSpeech": "명사",
+    "meaning": "해충",
+    "exampleEn": "Pest control was implemented.",
+    "exampleKo": "해충 방제가 시행됐다."
+  },
+  {
+    "id": "acad-lv3-165",
+    "word": "fracture",
+    "pronunciation": "/ˈfræktʃər/",
+    "partOfSpeech": "명사",
+    "meaning": "골절, 균열",
+    "exampleEn": "A stress fracture was found.",
+    "exampleKo": "스트레스 골절이 발견됐다."
+  },
+  {
+    "id": "acad-lv3-166",
+    "word": "transplant",
+    "pronunciation": "/ˈtrænsplɑːnt/",
+    "partOfSpeech": "명사",
+    "meaning": "이식",
+    "exampleEn": "Organ transplant was successful.",
+    "exampleKo": "장기 이식이 성공했다."
+  },
+  {
+    "id": "acad-lv3-167",
+    "word": "goods",
+    "pronunciation": "/ɡʊdz/",
+    "partOfSpeech": "명사",
+    "meaning": "상품, 물품",
+    "exampleEn": "All goods must be declared at customs.",
+    "exampleKo": "모든 물품은 세관에서 신고해야 합니다."
+  },
+  {
+    "id": "acad-lv3-168",
+    "word": "shortly",
+    "pronunciation": "/ˈʃɔːrtli/",
+    "partOfSpeech": "부사",
+    "meaning": "곧, 잠시 후",
+    "exampleEn": "I'll be there shortly.",
+    "exampleKo": "곧 거기 도착할 것입니다."
+  },
+  {
+    "id": "acad-lv3-169",
+    "word": "epidemic",
+    "pronunciation": "/ˌepɪˈdemɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "유행병",
+    "exampleEn": "An epidemic was declared.",
+    "exampleKo": "유행병이 선언됐다."
+  },
+  {
+    "id": "acad-lv3-170",
+    "word": "inversion",
+    "pronunciation": "/ɪnˈvɜːrʒən/",
+    "partOfSpeech": "명사",
+    "meaning": "역전, 역순",
+    "exampleEn": "Temperature inversion occurred.",
+    "exampleKo": "기온 역전이 발생했다."
+  },
+  {
+    "id": "acad-lv3-171",
+    "word": "irrelevant",
+    "pronunciation": "/ɪˈrɛlɪvənt/",
+    "partOfSpeech": "형용사",
+    "meaning": "관련 없는",
+    "exampleEn": "Irrelevant information.",
+    "exampleKo": "관련 없는 정보."
+  },
+  {
+    "id": "acad-lv3-172",
+    "word": "mechanic",
+    "pronunciation": "/mɪˈkænɪk/",
+    "partOfSpeech": "명사",
+    "meaning": "정비사, 기계공",
+    "exampleEn": "Call a mechanic.",
+    "exampleKo": "정비사를 부르세요."
+  },
+  {
+    "id": "acad-lv3-173",
+    "word": "epidemiology",
+    "pronunciation": "/ˌepɪˌdiːmɪˈɒlədʒi/",
+    "partOfSpeech": "명사",
+    "meaning": "역학",
+    "exampleEn": "Epidemiology tracks disease spread.",
+    "exampleKo": "역학이 질병 확산을 추적한다."
+  },
+  {
+    "id": "acad-lv3-174",
+    "word": "dissolve",
+    "pronunciation": "/dɪˈzɒlv/",
+    "partOfSpeech": "동사",
+    "meaning": "해산하다, 녹이다",
+    "exampleEn": "The partnership was dissolved.",
+    "exampleKo": "파트너십이 해산됐다."
+  },
+  {
+    "id": "acad-lv3-175",
+    "word": "fatigue",
+    "pronunciation": "/fəˈtiːɡ/",
+    "partOfSpeech": "명사",
+    "meaning": "피로",
+    "exampleEn": "Mental fatigue.",
+    "exampleKo": "정신적 피로."
+  },
+  {
+    "id": "acad-lv3-176",
+    "word": "nonetheless",
+    "pronunciation": "/ˌnʌnðəˈles/",
+    "partOfSpeech": "부사",
+    "meaning": "그럼에도 불구하고",
+    "exampleEn": "Risks remain; nonetheless, invest.",
+    "exampleKo": "위험이 있지만, 그럼에도 불구하고 투자한다."
+  },
+  {
+    "id": "acad-lv3-177",
+    "word": "bargain",
+    "pronunciation": "/ˈbɑːrɡɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "좋은 거래, 할인 상품",
+    "exampleEn": "That's a bargain!",
+    "exampleKo": "저렴한 가격이네요!"
+  },
+  {
+    "id": "acad-lv3-178",
+    "word": "infectious",
+    "pronunciation": "/ɪnˈfekʃəs/",
+    "partOfSpeech": "형용사",
+    "meaning": "전염성의",
+    "exampleEn": "An infectious disease spread.",
+    "exampleKo": "전염성 질환이 확산됐다."
+  },
+  {
+    "id": "acad-lv3-179",
+    "word": "individually",
+    "pronunciation": "/ˌɪndɪˈvɪdʒuəli/",
+    "partOfSpeech": "부사",
+    "meaning": "개별적으로",
+    "exampleEn": "Address individually.",
+    "exampleKo": "개별적으로 다루세요."
+  },
+  {
+    "id": "acad-lv3-180",
+    "word": "psychologist",
+    "pronunciation": "/saɪˈkɒlədʒɪst/",
+    "partOfSpeech": "명사",
+    "meaning": "심리학자",
+    "exampleEn": "A psychologist conducted tests.",
+    "exampleKo": "심리학자가 테스트를 진행했다."
+  },
+  {
+    "id": "acad-lv3-181",
+    "word": "trans",
+    "pronunciation": "/træns/",
+    "partOfSpeech": "접두사",
+    "meaning": "가로질러, 변화",
+    "exampleEn": "Trans-membrane proteins exist.",
+    "exampleKo": "막관통 단백질이 존재한다."
+  },
+  {
+    "id": "acad-lv3-182",
+    "word": "irrigation",
+    "pronunciation": "/ˌɪrɪˈɡeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "관개",
+    "exampleEn": "Irrigation expanded crop yields.",
+    "exampleKo": "관개가 작물 수확량을 늘렸다."
+  },
+  {
+    "id": "acad-lv3-183",
+    "word": "diary",
+    "pronunciation": "/ˈdaɪəri/",
+    "partOfSpeech": "명사",
+    "meaning": "일지, 일정표",
+    "exampleEn": "The economic diary is full.",
+    "exampleKo": "경제 일정이 가득 차 있다."
+  },
+  {
+    "id": "acad-lv3-184",
+    "word": "treaty",
+    "pronunciation": "/ˈtriːti/",
+    "partOfSpeech": "명사",
+    "meaning": "조약, 협정",
+    "exampleEn": "Sign a treaty.",
+    "exampleKo": "조약에 서명하세요."
+  },
+  {
+    "id": "acad-lv3-185",
+    "word": "rehabilitation",
+    "pronunciation": "/ˌriːəˌbɪlɪˈteɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "재활",
+    "exampleEn": "Physical rehabilitation helped recovery.",
+    "exampleKo": "물리 재활이 회복을 도왔다."
+  },
+  {
+    "id": "acad-lv3-186",
+    "word": "illusion",
+    "pronunciation": "/ɪˈluːʒən/",
+    "partOfSpeech": "명사",
+    "meaning": "환상, 착각",
+    "exampleEn": "An optical illusion was created.",
+    "exampleKo": "착시 현상이 만들어졌다."
+  },
+  {
+    "id": "acad-lv3-187",
+    "word": "bat",
+    "pronunciation": "/bæt/",
+    "partOfSpeech": "명사",
+    "meaning": "박쥐",
+    "exampleEn": "Bat echolocation was studied.",
+    "exampleKo": "박쥐 반향정위가 연구됐다."
+  },
+  {
+    "id": "acad-lv3-188",
+    "word": "optimum",
+    "pronunciation": "/ˈɒptɪməm/",
+    "partOfSpeech": "명사",
+    "meaning": "최적",
+    "exampleEn": "The optimum price was found.",
+    "exampleKo": "최적 가격이 발견됐다."
+  },
+  {
+    "id": "acad-lv3-189",
+    "word": "fever",
+    "pronunciation": "/ˈfiːvər/",
+    "partOfSpeech": "명사",
+    "meaning": "열, 발열",
+    "exampleEn": "A high fever developed.",
+    "exampleKo": "고열이 생겼다."
+  },
+  {
+    "id": "acad-lv3-190",
+    "word": "paradox",
+    "pronunciation": "/ˈpærədɒks/",
+    "partOfSpeech": "명사",
+    "meaning": "역설",
+    "exampleEn": "Jevons paradox was described.",
+    "exampleKo": "제번스의 역설이 설명됐다."
+  },
+  {
+    "id": "acad-lv3-191",
+    "word": "kidney",
+    "pronunciation": "/ˈkɪdni/",
+    "partOfSpeech": "명사",
+    "meaning": "신장",
+    "exampleEn": "Kidney function was measured.",
+    "exampleKo": "신장 기능이 측정됐다."
+  },
+  {
+    "id": "acad-lv3-192",
+    "word": "predator",
+    "pronunciation": "/ˈpredətər/",
+    "partOfSpeech": "명사",
+    "meaning": "포식자",
+    "exampleEn": "Predator-prey dynamics were modeled.",
+    "exampleKo": "포식자-피식자 역학이 모델링됐다."
+  },
+  {
+    "id": "acad-lv3-193",
+    "word": "migrate",
+    "pronunciation": "/maɪˈɡreɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "이동하다, 이주하다",
+    "exampleEn": "Birds migrate seasonally.",
+    "exampleKo": "새들이 계절에 따라 이동한다."
+  },
+  {
+    "id": "acad-lv3-194",
+    "word": "infinity",
+    "pronunciation": "/ɪnˈfɪnɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "무한대",
+    "exampleEn": "The series approaches infinity.",
+    "exampleKo": "급수가 무한대에 접근한다."
+  },
+  {
+    "id": "acad-lv3-195",
+    "word": "shallow",
+    "pronunciation": "/ˈʃæloʊ/",
+    "partOfSpeech": "형용사",
+    "meaning": "얕은",
+    "exampleEn": "Shallow water effects were studied.",
+    "exampleKo": "얕은 물의 효과가 연구됐다."
+  },
+  {
+    "id": "acad-lv3-196",
+    "word": "fundamentally",
+    "pronunciation": "/ˌfʌndəˈmentəli/",
+    "partOfSpeech": "부사",
+    "meaning": "근본적으로",
+    "exampleEn": "The theory is fundamentally flawed.",
+    "exampleKo": "이론이 근본적으로 결함이 있다."
+  },
+  {
+    "id": "acad-lv3-197",
+    "word": "synthetic",
+    "pronunciation": "/sɪnˈθetɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "합성의",
+    "exampleEn": "Synthetic bonds were created.",
+    "exampleKo": "합성 채권이 만들어졌다."
+  },
+  {
+    "id": "acad-lv3-198",
+    "word": "solar",
+    "pronunciation": "/ˈsoʊlər/",
+    "partOfSpeech": "형용사",
+    "meaning": "태양의",
+    "exampleEn": "Solar energy is clean.",
+    "exampleKo": "태양 에너지는 깨끗하다."
+  },
+  {
+    "id": "acad-lv3-199",
+    "word": "hepatitis",
+    "pronunciation": "/ˌhepəˈtaɪtɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "간염",
+    "exampleEn": "Hepatitis B vaccination is required.",
+    "exampleKo": "B형 간염 예방접종이 필요하다."
+  },
+  {
+    "id": "acad-lv3-200",
+    "word": "ton",
+    "pronunciation": "/tʌn/",
+    "partOfSpeech": "명사",
+    "meaning": "톤",
+    "exampleEn": "One ton.",
+    "exampleKo": "1톤."
+  },
+  {
+    "id": "acad-lv3-201",
+    "word": "bubble",
+    "pronunciation": "/ˈbʌbəl/",
+    "partOfSpeech": "명사",
+    "meaning": "거품, 버블",
+    "exampleEn": "Housing bubble.",
+    "exampleKo": "주택 거품."
+  },
+  {
+    "id": "acad-lv3-202",
+    "word": "bracket",
+    "pronunciation": "/ˈbrækɪt/",
+    "partOfSpeech": "명사",
+    "meaning": "범주, 구간",
+    "exampleEn": "The tax bracket increased.",
+    "exampleKo": "세금 구간이 증가했다."
+  },
+  {
+    "id": "acad-lv3-203",
+    "word": "elasticity",
+    "pronunciation": "/ˌɪlæˈstɪsɪti/",
+    "partOfSpeech": "명사",
+    "meaning": "탄력성",
+    "exampleEn": "Price elasticity measures demand.",
+    "exampleKo": "가격 탄력성은 수요를 측정한다."
+  },
+  {
+    "id": "acad-lv3-204",
+    "word": "cure",
+    "pronunciation": "/kjʊər/",
+    "partOfSpeech": "명사",
+    "meaning": "해결책, 치료",
+    "exampleEn": "No cure for inflation exists.",
+    "exampleKo": "인플레이션의 해결책이 없다."
+  },
+  {
+    "id": "acad-lv3-205",
+    "word": "contradictory",
+    "pronunciation": "/ˌkɒntrəˈdɪktəri/",
+    "partOfSpeech": "형용사",
+    "meaning": "모순적인",
+    "exampleEn": "Contradictory evidence was found.",
+    "exampleKo": "모순적인 증거가 발견됐다."
+  },
+  {
+    "id": "acad-lv3-206",
+    "word": "sensation",
+    "pronunciation": "/senˈseɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "감각, 센세이션",
+    "exampleEn": "Pain sensation was reduced.",
+    "exampleKo": "통증 감각이 감소됐다."
+  },
+  {
+    "id": "acad-lv3-207",
+    "word": "sustainable",
+    "pronunciation": "/səˈsteɪnəbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "지속 가능한",
+    "exampleEn": "Sustainable growth is the goal.",
+    "exampleKo": "지속 가능한 성장이 목표이다."
+  },
+  {
+    "id": "acad-lv3-208",
+    "word": "elastic",
+    "pronunciation": "/ɪˈlæstɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "탄력적인",
+    "exampleEn": "Demand is highly elastic.",
+    "exampleKo": "수요가 매우 탄력적이다."
+  },
+  {
+    "id": "acad-lv3-209",
+    "word": "machinery",
+    "pronunciation": "/məˈʃiːnəri/",
+    "partOfSpeech": "명사",
+    "meaning": "기계류",
+    "exampleEn": "The machinery needs repair.",
+    "exampleKo": "기계류가 수리가 필요합니다."
+  },
+  {
+    "id": "acad-lv3-210",
+    "word": "dictate",
+    "pronunciation": "/ˈdɪkteɪt/",
+    "partOfSpeech": "동사",
+    "meaning": "지시하다, 결정하다",
+    "exampleEn": "Markets dictate prices.",
+    "exampleKo": "시장이 가격을 결정한다."
+  },
+  {
+    "id": "acad-lv3-211",
+    "word": "vitamin",
+    "pronunciation": "/ˈvaɪtəmɪn/",
+    "partOfSpeech": "명사",
+    "meaning": "비타민",
+    "exampleEn": "Take daily vitamins.",
+    "exampleKo": "매일 비타민을 복용하세요."
+  },
+  {
+    "id": "acad-lv3-212",
+    "word": "incline",
+    "pronunciation": "/ɪnˈklaɪn/",
+    "partOfSpeech": "동사",
+    "meaning": "기울어지다, 경향이 있다",
+    "exampleEn": "Markets inclined upward.",
+    "exampleKo": "시장이 상향으로 기울었다."
+  },
+  {
+    "id": "acad-lv3-213",
+    "word": "leisure",
+    "pronunciation": "/ˈlɛʒər/",
+    "partOfSpeech": "명사",
+    "meaning": "여가, 레저",
+    "exampleEn": "Leisure time is important.",
+    "exampleKo": "여가 시간이 중요하다."
+  },
+  {
+    "id": "acad-lv3-214",
+    "word": "enforcement",
+    "pronunciation": "/ɪnˈfɔːrsmənt/",
+    "partOfSpeech": "명사",
+    "meaning": "집행, 단속",
+    "exampleEn": "Law enforcement took action.",
+    "exampleKo": "법 집행이 조치를 취했다."
+  },
+  {
+    "id": "acad-lv3-215",
+    "word": "prey",
+    "pronunciation": "/preɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "먹이",
+    "exampleEn": "Prey populations declined.",
+    "exampleKo": "먹이 개체수가 감소했다."
+  },
+  {
+    "id": "acad-lv3-216",
+    "word": "cyclic",
+    "pronunciation": "/ˈsɪklɪk/",
+    "partOfSpeech": "형용사",
+    "meaning": "순환적인",
+    "exampleEn": "Cyclic patterns were identified.",
+    "exampleKo": "순환적 패턴이 확인됐다."
+  },
+  {
+    "id": "acad-lv3-217",
+    "word": "clue",
+    "pronunciation": "/kluː/",
+    "partOfSpeech": "명사",
+    "meaning": "단서, 힌트",
+    "exampleEn": "I have no clue where the key is.",
+    "exampleKo": "열쇠가 어디 있는지 전혀 모르겠습니다."
+  },
+  {
+    "id": "acad-lv3-218",
+    "word": "friction",
+    "pronunciation": "/ˈfrɪkʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "마찰",
+    "exampleEn": "Friction reduces efficiency.",
+    "exampleKo": "마찰이 효율을 줄인다."
+  },
+  {
+    "id": "acad-lv3-219",
+    "word": "parenthesis",
+    "pronunciation": "/pəˈrenθəsɪs/",
+    "partOfSpeech": "명사",
+    "meaning": "괄호",
+    "exampleEn": "Use parentheses correctly.",
+    "exampleKo": "괄호를 올바르게 사용하세요."
+  },
+  {
+    "id": "acad-lv3-220",
+    "word": "noble",
+    "pronunciation": "/ˈnoʊbəl/",
+    "partOfSpeech": "형용사",
+    "meaning": "고귀한, 비활성의",
+    "exampleEn": "Noble gases are stable.",
+    "exampleKo": "비활성 기체는 안정적이다."
+  },
+  {
+    "id": "acad-lv3-221",
+    "word": "potassium",
+    "pronunciation": "/pəˈtæsɪəm/",
+    "partOfSpeech": "명사",
+    "meaning": "칼륨",
+    "exampleEn": "Potassium is essential for nerves.",
+    "exampleKo": "칼륨이 신경에 필수적이다."
+  },
+  {
+    "id": "acad-lv3-222",
+    "word": "reactive",
+    "pronunciation": "/riˈæktɪv/",
+    "partOfSpeech": "형용사",
+    "meaning": "반응성이 있는",
+    "exampleEn": "Highly reactive elements were tested.",
+    "exampleKo": "반응성이 높은 원소가 테스트됐다."
+  },
+  {
+    "id": "acad-lv3-223",
+    "word": "genetically",
+    "pronunciation": "/dʒɪˈnetɪkli/",
+    "partOfSpeech": "부사",
+    "meaning": "유전적으로",
+    "exampleEn": "Genetically modified crops exist.",
+    "exampleKo": "유전자 변형 작물이 존재한다."
+  },
+  {
+    "id": "acad-lv3-224",
+    "word": "bacteria",
+    "pronunciation": "/bækˈtɪəriə/",
+    "partOfSpeech": "명사",
+    "meaning": "박테리아",
+    "exampleEn": "Kill bacteria.",
+    "exampleKo": "박테리아를 죽이세요."
+  },
+  {
+    "id": "acad-lv3-225",
+    "word": "wisdom",
+    "pronunciation": "/ˈwɪzdəm/",
+    "partOfSpeech": "명사",
+    "meaning": "지혜",
+    "exampleEn": "Conventional wisdom was wrong.",
+    "exampleKo": "통념이 틀렸다."
+  },
+  {
+    "id": "acad-lv3-226",
+    "word": "crude",
+    "pronunciation": "/kruːd/",
+    "partOfSpeech": "형용사",
+    "meaning": "원유의, 가공하지 않은",
+    "exampleEn": "Crude oil prices rose.",
+    "exampleKo": "원유 가격이 올랐다."
+  },
+  {
+    "id": "acad-lv3-227",
+    "word": "realism",
+    "pronunciation": "/ˈriːəlɪzəm/",
+    "partOfSpeech": "명사",
+    "meaning": "사실주의, 현실주의",
+    "exampleEn": "Economic realism prevailed.",
+    "exampleKo": "경제적 현실주의가 우세했다."
+  },
+  {
+    "id": "acad-lv3-228",
+    "word": "deliberately",
+    "pronunciation": "/dɪˈlɪbərɪtli/",
+    "partOfSpeech": "부사",
+    "meaning": "의도적으로",
+    "exampleEn": "Prices were deliberately kept low.",
+    "exampleKo": "가격이 의도적으로 낮게 유지됐다."
+  },
+  {
+    "id": "acad-lv3-229",
+    "word": "chemotherapy",
+    "pronunciation": "/ˌkiːmoʊˈθerəpi/",
+    "partOfSpeech": "명사",
+    "meaning": "화학요법",
+    "exampleEn": "Chemotherapy was administered.",
+    "exampleKo": "화학요법이 투여됐다."
+  },
+  {
+    "id": "acad-lv3-230",
+    "word": "surplus",
+    "pronunciation": "/ˈsɜːrpləs/",
+    "partOfSpeech": "명사",
+    "meaning": "잉여, 흑자",
+    "exampleEn": "Trade surplus.",
+    "exampleKo": "무역 흑자."
+  },
+  {
+    "id": "acad-lv3-231",
+    "word": "capillary",
+    "pronunciation": "/ˈkæpɪləri/",
+    "partOfSpeech": "명사",
+    "meaning": "모세혈관",
+    "exampleEn": "Capillary action draws water up.",
+    "exampleKo": "모세관 작용이 물을 끌어올린다."
+  },
+  {
+    "id": "acad-lv3-232",
+    "word": "directive",
+    "pronunciation": "/dɪˈrektɪv/",
+    "partOfSpeech": "명사",
+    "meaning": "지침, 명령",
+    "exampleEn": "EU directives must be followed.",
+    "exampleKo": "EU 지침을 따라야 한다."
+  },
+  {
+    "id": "acad-lv3-233",
+    "word": "globalization",
+    "pronunciation": "/ˌɡloʊbəlaɪˈzeɪʃən/",
+    "partOfSpeech": "명사",
+    "meaning": "세계화",
+    "exampleEn": "Globalization reshaped trade.",
+    "exampleKo": "세계화가 무역을 재편했다."
+  },
+  {
+    "id": "acad-lv3-234",
+    "word": "alien",
+    "pronunciation": "/ˈeɪlɪən/",
+    "partOfSpeech": "형용사",
+    "meaning": "외래의, 낯선",
+    "exampleEn": "Alien species disrupted ecosystems.",
+    "exampleKo": "외래종이 생태계를 교란했다."
+  },
+  {
+    "id": "acad-lv3-235",
+    "word": "portfolio",
+    "pronunciation": "/pɔːrtˈfoʊlioʊ/",
+    "partOfSpeech": "명사",
+    "meaning": "포트폴리오",
+    "exampleEn": "Diversify your investment portfolio.",
+    "exampleKo": "투자 포트폴리오를 다양화하세요."
+  },
+  {
+    "id": "acad-lv3-236",
+    "word": "monopoly",
+    "pronunciation": "/məˈnɒpəli/",
+    "partOfSpeech": "명사",
+    "meaning": "독점",
+    "exampleEn": "Market monopoly.",
+    "exampleKo": "시장 독점."
+  },
+  {
+    "id": "acad-lv3-237",
+    "word": "lifestyle",
+    "pronunciation": "/ˈlaɪfstaɪl/",
+    "partOfSpeech": "명사",
+    "meaning": "생활 방식",
+    "exampleEn": "Healthy lifestyle.",
+    "exampleKo": "건강한 생활 방식."
+  },
+  {
+    "id": "acad-lv3-238",
+    "word": "invert",
+    "pronunciation": "/ɪnˈvɜːrt/",
+    "partOfSpeech": "동사",
+    "meaning": "역전시키다, 뒤집다",
+    "exampleEn": "The matrix was inverted.",
+    "exampleKo": "행렬이 역전됐다."
+  },
+  {
+    "id": "acad-lv3-239",
+    "word": "thread",
+    "pronunciation": "/θred/",
+    "partOfSpeech": "명사",
+    "meaning": "실, 스레드",
+    "exampleEn": "A thread of logic was followed.",
+    "exampleKo": "논리의 실마리가 따라졌다."
+  },
+  {
+    "id": "acad-lv3-240",
+    "word": "clay",
+    "pronunciation": "/kleɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "점토",
+    "exampleEn": "Clay soil retains water.",
+    "exampleKo": "점토 토양이 물을 보유한다."
+  },
+  {
+    "id": "acad-lv3-241",
+    "word": "dye",
+    "pronunciation": "/daɪ/",
+    "partOfSpeech": "명사",
+    "meaning": "염료",
+    "exampleEn": "Fluorescent dyes were used.",
+    "exampleKo": "형광 염료가 사용됐다."
+  }
+]
