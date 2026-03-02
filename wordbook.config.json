@@ -35,37 +35,75 @@
       "id": "frequency-english",
       "name": "Frequency English",
       "nameKo": "빈도순 영단어",
-      "description": "가장 많이 쓰이는 단어부터 차근차근 배우세요.",
+      "description": "NGSL 기반 최빈도 영어 단어 2,809개",
       "icon": "📊",
       "levels": [
-        {
-          "id": "level-1",
-          "name": "Level 1",
-          "nameKo": "Lv.1 입문",
-          "description": "가장 기본이 되는 필수 단어 68개",
-          "icon": "🌱"
-        },
-        {
-          "id": "level-2",
-          "name": "Level 2",
-          "nameKo": "Lv.2 초급",
-          "description": "일상에서 바로 쓰는 단어 68개",
-          "icon": "🌿"
-        },
-        {
-          "id": "level-3",
-          "name": "Level 3",
-          "nameKo": "Lv.3 중급",
-          "description": "회화와 실용 표현 단어 69개",
-          "icon": "🌳"
-        },
-        {
-          "id": "level-4",
-          "name": "Level 4",
-          "nameKo": "Lv.4 중고급",
-          "description": "표현력을 넓히는 단어 65개",
-          "icon": "🌲"
-        }
+        { "id": "level-1", "name": "Level 1", "nameKo": "Lv.1 입문", "description": "최빈도 단어 1~281", "icon": "🌱" },
+        { "id": "level-2", "name": "Level 2", "nameKo": "Lv.2 기초", "description": "최빈도 단어 282~562", "icon": "🌿" },
+        { "id": "level-3", "name": "Level 3", "nameKo": "Lv.3 초급", "description": "최빈도 단어 563~843", "icon": "🌳" },
+        { "id": "level-4", "name": "Level 4", "nameKo": "Lv.4 초중급", "description": "최빈도 단어 844~1124", "icon": "🌲" },
+        { "id": "level-5", "name": "Level 5", "nameKo": "Lv.5 중급", "description": "최빈도 단어 1125~1405", "icon": "🍀" },
+        { "id": "level-6", "name": "Level 6", "nameKo": "Lv.6 중급+", "description": "최빈도 단어 1406~1686", "icon": "🌻" },
+        { "id": "level-7", "name": "Level 7", "nameKo": "Lv.7 중고급", "description": "최빈도 단어 1687~1967", "icon": "🌾" },
+        { "id": "level-8", "name": "Level 8", "nameKo": "Lv.8 고급", "description": "최빈도 단어 1968~2248", "icon": "🍁" },
+        { "id": "level-9", "name": "Level 9", "nameKo": "Lv.9 고급+", "description": "최빈도 단어 2249~2529", "icon": "🔥" },
+        { "id": "level-10", "name": "Level 10", "nameKo": "Lv.10 최상급", "description": "최빈도 단어 2530~2809", "icon": "💎" }
+      ]
+    },
+    {
+      "id": "toeic-essential",
+      "name": "TOEIC Essential",
+      "nameKo": "TOEIC 필수 단어",
+      "description": "TSL 기반 TOEIC 빈출 단어 1,250개",
+      "icon": "📝",
+      "levels": [
+        { "id": "level-1", "name": "Level 1", "nameKo": "Lv.1 기본", "description": "TOEIC 빈출 1~250", "icon": "🌱" },
+        { "id": "level-2", "name": "Level 2", "nameKo": "Lv.2 초급", "description": "TOEIC 빈출 251~500", "icon": "🌿" },
+        { "id": "level-3", "name": "Level 3", "nameKo": "Lv.3 중급", "description": "TOEIC 빈출 501~750", "icon": "🌳" },
+        { "id": "level-4", "name": "Level 4", "nameKo": "Lv.4 고급", "description": "TOEIC 빈출 751~1000", "icon": "🌲" },
+        { "id": "level-5", "name": "Level 5", "nameKo": "Lv.5 최상급", "description": "TOEIC 빈출 1001~1250", "icon": "💎" }
+      ]
+    },
+    {
+      "id": "travel-english",
+      "name": "Travel English",
+      "nameKo": "여행 영어",
+      "description": "해외 여행에서 꼭 필요한 상황별 단어 500개",
+      "icon": "✈️",
+      "levels": [
+        { "id": "airport", "name": "Airport & Transport", "nameKo": "공항·교통", "description": "공항, 비행기, 교통수단 관련 100개", "icon": "🛫" },
+        { "id": "hotel", "name": "Hotel & Accommodation", "nameKo": "숙소·호텔", "description": "호텔, 숙소 관련 100개", "icon": "🏨" },
+        { "id": "restaurant", "name": "Food & Restaurant", "nameKo": "음식·식당", "description": "식당, 음식 주문 관련 100개", "icon": "🍽️" },
+        { "id": "shopping", "name": "Shopping & Money", "nameKo": "쇼핑·환전", "description": "쇼핑, 결제, 환전 관련 100개", "icon": "🛍️" },
+        { "id": "sightseeing", "name": "Sightseeing & Emergency", "nameKo": "관광·긴급상황", "description": "관광, 길찾기, 긴급상황 관련 100개", "icon": "🗺️" }
+      ]
+    },
+    {
+      "id": "business-english",
+      "name": "Business English",
+      "nameKo": "비즈니스 영어",
+      "description": "BSL 기반 비즈니스 핵심 단어 1,744개",
+      "icon": "💼",
+      "levels": [
+        { "id": "level-1", "name": "Level 1", "nameKo": "Lv.1 기본", "description": "비즈니스 빈출 1~291", "icon": "🌱" },
+        { "id": "level-2", "name": "Level 2", "nameKo": "Lv.2 초급", "description": "비즈니스 빈출 292~582", "icon": "🌿" },
+        { "id": "level-3", "name": "Level 3", "nameKo": "Lv.3 중급", "description": "비즈니스 빈출 583~873", "icon": "🌳" },
+        { "id": "level-4", "name": "Level 4", "nameKo": "Lv.4 중고급", "description": "비즈니스 빈출 874~1164", "icon": "🌲" },
+        { "id": "level-5", "name": "Level 5", "nameKo": "Lv.5 고급", "description": "비즈니스 빈출 1165~1455", "icon": "🍁" },
+        { "id": "level-6", "name": "Level 6", "nameKo": "Lv.6 최상급", "description": "비즈니스 빈출 1456~1744", "icon": "💎" }
+      ]
+    },
+    {
+      "id": "academic-english",
+      "name": "Academic English",
+      "nameKo": "논문 영단어",
+      "description": "NAWL 기반 학술 필수 단어 963개",
+      "icon": "🎓",
+      "levels": [
+        { "id": "level-1", "name": "Level 1", "nameKo": "Lv.1 기본", "description": "학술 빈출 1~241", "icon": "🌱" },
+        { "id": "level-2", "name": "Level 2", "nameKo": "Lv.2 초급", "description": "학술 빈출 242~482", "icon": "🌿" },
+        { "id": "level-3", "name": "Level 3", "nameKo": "Lv.3 중급", "description": "학술 빈출 483~723", "icon": "🌳" },
+        { "id": "level-4", "name": "Level 4", "nameKo": "Lv.4 고급", "description": "학술 빈출 724~963", "icon": "🌲" }
       ]
     }
   ]

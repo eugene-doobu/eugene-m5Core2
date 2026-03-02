@@ -32,10 +32,12 @@ describe('Word data integrity', () => {
     expect(uniqueIds.size).toBe(ids.length);
   });
 
-  test('no duplicate words across all wordbooks', () => {
-    const words = allWords.map((w) => w.word);
-    const uniqueWords = new Set(words);
-    expect(uniqueWords.size).toBe(words.length);
+  test('no duplicate words within each wordbook', () => {
+    allLevelsByWordbook.forEach(({ levels }) => {
+      const words = levels.flatMap((l) => l.words).map((w) => w.word);
+      const uniqueWords = new Set(words);
+      expect(uniqueWords.size).toBe(words.length);
+    });
   });
 
   test('every wordbook in config has a corresponding data directory', () => {
