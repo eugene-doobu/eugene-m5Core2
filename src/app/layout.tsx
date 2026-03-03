@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import './globals.css';
 import Header from '@/components/Header';
+import ErrorBoundary from '@/components/ErrorBoundary';
 import { appConfig } from '@/lib/config';
 
 export const metadata: Metadata = {
@@ -17,7 +18,9 @@ export default function RootLayout({
     <html lang={appConfig.app.lang}>
       <body className="antialiased min-h-screen bg-slate-50">
         <Header />
-        <main>{children}</main>
+        <main>
+          <ErrorBoundary>{children}</ErrorBoundary>
+        </main>
       </body>
     </html>
   );

@@ -1,4 +1,4 @@
-import { render, screen } from '@testing-library/react';
+import { render, screen, waitFor } from '@testing-library/react';
 import LearnPage from '@/app/learn/page';
 
 jest.mock('next/link', () => {
@@ -36,36 +36,39 @@ jest.mock('@/data', () => ({
       levels: [],
     },
   ],
-  getAllWordsForWordbook: (id: string) => {
+  getAllWordsForWordbook: async (id: string) => {
     if (id === 'frequency-english') return [{ id: 'w1' }, { id: 'w2' }];
     if (id === 'toeic-vocab') return [{ id: 'w3' }];
     return [];
   },
-  allWords: [{ id: 'w1' }, { id: 'w2' }, { id: 'w3' }],
 }));
 
 describe('Learn page (wordbook selection)', () => {
-  test('renders page title', () => {
+  test('renders page title', async () => {
     render(<LearnPage />);
     expect(screen.getByText('학습하기')).toBeInTheDocument();
   });
 
-  test('renders all wordbook cards', () => {
+  test('renders all wordbook cards', async () => {
     render(<LearnPage />);
-    expect(screen.getByText('빈도순 영단어')).toBeInTheDocument();
-    expect(screen.getByText('TOEIC 필수 단어')).toBeInTheDocument();
+    await waitFor(() => {
+      expect(screen.getByText('빈도순 영단어')).toBeInTheDocument();
+      expect(screen.getByText('TOEIC 필수 단어')).toBeInTheDocument();
+    });
   });
 
-  test('renders total progress bar', () => {
+  test('renders total progress bar', async () => {
     render(<LearnPage />);
     expect(screen.getByText('전체 진행률')).toBeInTheDocument();
   });
 
-  test('each wordbook links to correct path', () => {
+  test('each wordbook links to correct path', async () => {
     render(<LearnPage />);
-    const links = screen.getAllByRole('link');
-    const hrefs = links.map((l) => l.getAttribute('href'));
-    expect(hrefs).toContain('/learn/frequency-english');
-    expect(hrefs).toContain('/learn/toeic-vocab');
+    await waitFor(() => {
+      const links = screen.getAllByRole('link');
+      const hrefs = links.map((l) => l.getAttribute('href'));
+      expect(hrefs).toContain('/learn/frequency-english');
+      expect(hrefs).toContain('/learn/toeic-vocab');
+    });
   });
 });

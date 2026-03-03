@@ -1,6 +1,7 @@
 import { isDesktopBrowser } from './device-detect';
+import { TTS_AUDIO_CACHE_NAME } from '@/lib/constants';
 
-const CACHE_NAME = 'salvador-tts-audio-v1';
+const CACHE_NAME = TTS_AUDIO_CACHE_NAME;
 
 function getCacheKey(text: string, lang: string): string {
   let hash = 5381;

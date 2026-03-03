@@ -1,10 +1,12 @@
+import { DESKTOP_MIN_WIDTH } from '@/lib/constants';
+
 /**
  * PC 웹 브라우저인지 판별. TTS 오디오 캐싱 활성화 여부 결정에 사용.
  */
 export function isDesktopBrowser(): boolean {
   if (typeof window === 'undefined') return false;
 
-  const wideScreen = window.innerWidth >= 1024;
+  const wideScreen = window.innerWidth >= DESKTOP_MIN_WIDTH;
   if (!wideScreen) return false;
 
   if (navigator.maxTouchPoints === 0) return true;

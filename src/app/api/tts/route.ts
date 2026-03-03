@@ -1,7 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { AZURE_DEFAULT_REGION, TTS_TEXT_MAX_LENGTH, TTS_CACHE_MAX_AGE } from '@/lib/constants';
 
 const AZURE_TTS_KEY = process.env.AZURE_TTS_KEY;
-const AZURE_TTS_REGION = process.env.AZURE_TTS_REGION || 'eastasia';
+const AZURE_TTS_REGION = process.env.AZURE_TTS_REGION || AZURE_DEFAULT_REGION;
 
 export async function GET() {
   return NextResponse.json({ available: !!AZURE_TTS_KEY });
@@ -42,9 +43,9 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    if (text.length > 500) {
+    if (text.length > TTS_TEXT_MAX_LENGTH) {
       return NextResponse.json(
-        { error: 'Text too long (max 500 characters)' },
+        { error: `Text too long (max ${TTS_TEXT_MAX_LENGTH} characters)` },
         { status: 400 }
       );
     }
@@ -78,7 +79,7 @@ export async function POST(request: NextRequest) {
       status: 200,
       headers: {
         'Content-Type': 'audio/opus',
-        'Cache-Control': 'public, max-age=86400, immutable',
+        'Cache-Control': `public, max-age=${TTS_CACHE_MAX_AGE}, immutable`,
       },
     });
   } catch (error) {

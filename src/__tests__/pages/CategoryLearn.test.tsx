@@ -1,4 +1,4 @@
-import { render, screen } from '@testing-library/react';
+import { render, screen, waitFor } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import LevelLearnPage from '@/app/learn/[wordbook]/[level]/page';
 
@@ -45,7 +45,7 @@ jest.mock('@/data', () => ({
     }
     return [];
   },
-  getWordsByLevel: (wordbookId: string, levelId: string) => {
+  getWordsByLevel: async (wordbookId: string, levelId: string) => {
     if (wordbookId === 'frequency-english' && levelId === 'level-1') {
       return [
         {
@@ -95,42 +95,54 @@ global.SpeechSynthesisUtterance = jest.fn().mockImplementation((text) => ({
 describe('LevelLearn page', () => {
   const user = userEvent.setup();
 
-  test('renders level title and word counter', () => {
+  test('renders level title and word counter', async () => {
     render(<LevelLearnPage />);
-    expect(screen.getByText('Lv.1 입문')).toBeInTheDocument();
-    expect(screen.getByText('1 / 3')).toBeInTheDocument();
+    await waitFor(() => {
+      expect(screen.getByText('Lv.1 입문')).toBeInTheDocument();
+      expect(screen.getByText('1 / 3')).toBeInTheDocument();
+    });
   });
 
-  test('renders first word card (front and back)', () => {
+  test('renders first word card (front and back)', async () => {
     render(<LevelLearnPage />);
-    const wordElements = screen.getAllByText('apple');
-    expect(wordElements).toHaveLength(2);
-    expect(screen.getByText('/ˈæpəl/')).toBeInTheDocument();
+    await waitFor(() => {
+      const wordElements = screen.getAllByText('apple');
+      expect(wordElements).toHaveLength(2);
+      expect(screen.getByText('/ˈæpəl/')).toBeInTheDocument();
+    });
   });
 
-  test('renders progress bar', () => {
+  test('renders progress bar', async () => {
     render(<LevelLearnPage />);
-    expect(screen.getByText('학습 진행률')).toBeInTheDocument();
+    await waitFor(() => {
+      expect(screen.getByText('학습 진행률')).toBeInTheDocument();
+    });
   });
 
-  test('renders back link to wordbook page', () => {
+  test('renders back link to wordbook page', async () => {
     render(<LevelLearnPage />);
-    const links = screen.getAllByRole('link');
-    const hrefs = links.map((l) => l.getAttribute('href'));
-    expect(hrefs).toContain('/learn/frequency-english');
+    await waitFor(() => {
+      const links = screen.getAllByRole('link');
+      const hrefs = links.map((l) => l.getAttribute('href'));
+      expect(hrefs).toContain('/learn/frequency-english');
+    });
   });
 
-  test('prev button is disabled on first word', () => {
+  test('prev button is disabled on first word', async () => {
     render(<LevelLearnPage />);
-    const prevButton = screen.getByText('이전');
-    expect(prevButton).toBeDisabled();
+    await waitFor(() => {
+      const prevButton = screen.getByText('이전');
+      expect(prevButton).toBeDisabled();
+    });
   });
 
   test('next button navigates to second word', async () => {
     render(<LevelLearnPage />);
-    const nextButton = screen.getByText('다음');
+    await waitFor(() => {
+      expect(screen.getByText('다음')).toBeInTheDocument();
+    });
 
-    await user.click(nextButton);
+    await user.click(screen.getByText('다음'));
 
     expect(screen.getByText('2 / 3')).toBeInTheDocument();
     expect(screen.getAllByText('book')).toHaveLength(2);
@@ -138,6 +150,9 @@ describe('LevelLearn page', () => {
 
   test('prev button navigates back after going next', async () => {
     render(<LevelLearnPage />);
+    await waitFor(() => {
+      expect(screen.getByText('다음')).toBeInTheDocument();
+    });
 
     await user.click(screen.getByText('다음'));
     expect(screen.getAllByText('book')).toHaveLength(2);
@@ -149,6 +164,9 @@ describe('LevelLearn page', () => {
 
   test('next button is disabled on last word', async () => {
     render(<LevelLearnPage />);
+    await waitFor(() => {
+      expect(screen.getByText('다음')).toBeInTheDocument();
+    });
 
     await user.click(screen.getByText('다음'));
     await user.click(screen.getByText('다음'));
@@ -157,25 +175,31 @@ describe('LevelLearn page', () => {
     expect(screen.getByText('다음')).toBeDisabled();
   });
 
-  test('dot indicators match word count', () => {
+  test('dot indicators match word count', async () => {
     render(<LevelLearnPage />);
-    const dots = screen.getAllByRole('button', { name: /단어 \d+/ });
-    expect(dots).toHaveLength(3);
+    await waitFor(() => {
+      const dots = screen.getAllByRole('button', { name: /단어 \d+/ });
+      expect(dots).toHaveLength(3);
+    });
   });
 
   test('clicking dot navigates to that word', async () => {
     render(<LevelLearnPage />);
-    const dot3 = screen.getByRole('button', { name: '단어 3' });
+    await waitFor(() => {
+      expect(screen.getByRole('button', { name: '단어 3' })).toBeInTheDocument();
+    });
 
-    await user.click(dot3);
+    await user.click(screen.getByRole('button', { name: '단어 3' }));
 
     expect(screen.getByText('3 / 3')).toBeInTheDocument();
     expect(screen.getAllByText('cat')).toHaveLength(2);
   });
 
-  test('renders complete toggle button', () => {
+  test('renders complete toggle button', async () => {
     render(<LevelLearnPage />);
-    expect(screen.getByText('학습 완료로 표시')).toBeInTheDocument();
+    await waitFor(() => {
+      expect(screen.getByText('학습 완료로 표시')).toBeInTheDocument();
+    });
   });
 });
 

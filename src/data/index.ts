@@ -1,50 +1,50 @@
 import type { Word, Category, Wordbook, WordbookConfig } from '@/types';
 import config from '../../wordbook.config.json';
 
-const wordFilesContext = require.context('./', true, /\/words-.*\.json$/);
-
-// Parse keys like "./frequency-english/words-level-1.json" → { wordbookId, levelId }
-const wordData: Record<string, Record<string, Word[]>> = {};
-wordFilesContext.keys().forEach((key: string) => {
-  const match = key.match(/^\.\/(.+)\/words-(.+)\.json$/);
-  if (match) {
-    const [, wordbookId, levelId] = match;
-    if (!wordData[wordbookId]) {
-      wordData[wordbookId] = {};
-    }
-    wordData[wordbookId][levelId] = wordFilesContext(key) as Word[];
-  }
-});
-
 const typedConfig = config as unknown as WordbookConfig;
 
-const wordbooks: Wordbook[] = typedConfig.wordbooks
-  .filter((wb) => wordData[wb.id] !== undefined)
-  .map((wb) => ({
-    ...wb,
-    levels: wb.levels.filter((level) => wordData[wb.id]?.[level.id] !== undefined),
-  }));
+const wordbooks: Wordbook[] = typedConfig.wordbooks;
 
 function getWordbookLevels(wordbookId: string): Category[] {
   const wb = wordbooks.find((w) => w.id === wordbookId);
   return wb?.levels ?? [];
 }
 
-function getWordsByLevel(wordbookId: string, levelId: string): Word[] {
-  return wordData[wordbookId]?.[levelId] ?? [];
+// 데이터 캐시: 한번 로딩된 레벨 데이터를 메모리에 유지
+const wordDataCache: Record<string, Word[]> = {};
+
+async function getWordsByLevel(wordbookId: string, levelId: string): Promise<Word[]> {
+  const key = `${wordbookId}/${levelId}`;
+  if (wordDataCache[key]) return wordDataCache[key];
+
+  try {
+    const data = await import(`./${wordbookId}/words-${levelId}.json`);
+    wordDataCache[key] = (data.default ?? data) as Word[];
+    return wordDataCache[key];
+  } catch {
+    return [];
+  }
 }
 
-function getAllWordsForWordbook(wordbookId: string): Word[] {
+async function getAllWordsForWordbook(wordbookId: string): Promise<Word[]> {
   const levels = getWordbookLevels(wordbookId);
-  return levels.flatMap((level) => getWordsByLevel(wordbookId, level.id));
+  const results = await Promise.all(
+    levels.map((level) => getWordsByLevel(wordbookId, level.id))
+  );
+  return results.flat();
 }
 
-const allWords: Word[] = wordbooks.flatMap((wb) => getAllWordsForWordbook(wb.id));
+async function getAllWords(): Promise<Word[]> {
+  const results = await Promise.all(
+    wordbooks.map((wb) => getAllWordsForWordbook(wb.id))
+  );
+  return results.flat();
+}
 
 export {
   wordbooks,
   getWordbookLevels,
   getWordsByLevel,
   getAllWordsForWordbook,
-  allWords,
+  getAllWords,
 };

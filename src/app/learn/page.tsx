@@ -1,15 +1,32 @@
 'use client';
 
+import { useState, useEffect } from 'react';
 import WordbookCard from '@/components/WordbookCard';
 import ProgressBar from '@/components/ProgressBar';
 import { useProgress } from '@/hooks/useProgress';
-import { wordbooks, getAllWordsForWordbook, allWords } from '@/data';
+import { wordbooks, getAllWordsForWordbook } from '@/data';
 import { appConfig } from '@/lib/config';
 
 export default function LearnPage() {
   const { getProgressRate } = useProgress();
+  const [wordIdsByWordbook, setWordIdsByWordbook] = useState<Record<string, string[]>>({});
+  const [loading, setLoading] = useState(true);
 
-  const allWordIds = allWords.map((w) => w.id);
+  useEffect(() => {
+    async function loadWordIds() {
+      const entries = await Promise.all(
+        wordbooks.map(async (wb) => {
+          const words = await getAllWordsForWordbook(wb.id);
+          return [wb.id, words.map((w) => w.id)] as const;
+        })
+      );
+      setWordIdsByWordbook(Object.fromEntries(entries));
+      setLoading(false);
+    }
+    loadWordIds();
+  }, []);
+
+  const allWordIds = Object.values(wordIdsByWordbook).flat();
   const totalProgress = getProgressRate(allWordIds);
 
   return (
@@ -25,8 +42,7 @@ export default function LearnPage() {
 
       <div className="grid sm:grid-cols-2 gap-4">
         {wordbooks.map((wb) => {
-          const wbWords = getAllWordsForWordbook(wb.id);
-          const wbWordIds = wbWords.map((w) => w.id);
+          const wbWordIds = wordIdsByWordbook[wb.id] ?? [];
           return (
             <WordbookCard
               key={wb.id}
@@ -34,7 +50,7 @@ export default function LearnPage() {
               nameKo={wb.nameKo}
               description={wb.description}
               icon={wb.icon}
-              totalWordCount={wbWords.length}
+              totalWordCount={loading ? 0 : wbWordIds.length}
               progressRate={getProgressRate(wbWordIds)}
             />
           );

@@ -464,8 +464,8 @@
     "pronunciation": "/slɒt/",
     "partOfSpeech": "명사",
     "meaning": "슬롯, 자리",
-    "exampleEn": "Time slot.",
-    "exampleKo": "시간 슬롯."
+    "exampleEn": "Please choose an available time slot for the meeting.",
+    "exampleKo": "회의에 가능한 시간대를 선택해 주세요."
   },
   {
     "id": "acad-lv4-053",
@@ -635,8 +635,8 @@
     "pronunciation": "/sʌb/",
     "partOfSpeech": "접두사",
     "meaning": "하위~, 부~",
-    "exampleEn": "Submarine.",
-    "exampleKo": "잠수함."
+    "exampleEn": "The navy deployed a submarine for the mission.",
+    "exampleKo": "해군은 임무를 위해 잠수함을 배치했어요."
   },
   {
     "id": "acad-lv4-072",
@@ -860,8 +860,8 @@
     "pronunciation": "/ɡræm/",
     "partOfSpeech": "명사",
     "meaning": "그램",
-    "exampleEn": "100 grams.",
-    "exampleKo": "100그램."
+    "exampleEn": "The recipe calls for 100 grams of sugar.",
+    "exampleKo": "이 레시피에는 설탕 100그램이 필요해요."
   },
   {
     "id": "acad-lv4-097",

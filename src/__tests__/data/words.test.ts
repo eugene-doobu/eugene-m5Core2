@@ -83,10 +83,10 @@ describe('Word data integrity', () => {
       });
     });
 
-    test('example sentences are non-empty strings', () => {
+    test('example sentences have meaningful length', () => {
       words.forEach((word) => {
-        expect(word.exampleEn.length).toBeGreaterThan(3);
-        expect(word.exampleKo.length).toBeGreaterThan(1);
+        expect(word.exampleEn.length).toBeGreaterThan(10);
+        expect(word.exampleKo.length).toBeGreaterThan(3);
       });
     });
   });

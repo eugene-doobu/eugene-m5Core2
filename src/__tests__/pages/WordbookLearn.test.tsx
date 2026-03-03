@@ -1,4 +1,4 @@
-import { render, screen } from '@testing-library/react';
+import { render, screen, waitFor } from '@testing-library/react';
 import WordbookLearnPage from '@/app/learn/[wordbook]/page';
 
 const mockNotFound = jest.fn();
@@ -42,7 +42,7 @@ jest.mock('@/data', () => ({
     }
     return [];
   },
-  getWordsByLevel: (wordbookId: string, levelId: string) => {
+  getWordsByLevel: async (wordbookId: string, levelId: string) => {
     if (wordbookId === 'frequency-english' && levelId === 'level-1') {
       return [{ id: 'lv1-001', word: 'test' }];
     }
@@ -51,44 +51,44 @@ jest.mock('@/data', () => ({
     }
     return [];
   },
-  getAllWordsForWordbook: (wordbookId: string) => {
-    if (wordbookId === 'frequency-english') {
-      return [{ id: 'lv1-001', word: 'test' }, { id: 'lv2-001', word: 'hello' }];
-    }
-    return [];
-  },
 }));
 
 describe('WordbookLearn page (level selection)', () => {
-  test('renders wordbook title', () => {
+  test('renders wordbook title', async () => {
     render(<WordbookLearnPage />);
     expect(screen.getByText('빈도순 영단어')).toBeInTheDocument();
   });
 
-  test('renders all level cards', () => {
+  test('renders all level cards', async () => {
     render(<WordbookLearnPage />);
-    expect(screen.getByText('Lv.1 입문')).toBeInTheDocument();
-    expect(screen.getByText('Lv.2 초급')).toBeInTheDocument();
+    await waitFor(() => {
+      expect(screen.getByText('Lv.1 입문')).toBeInTheDocument();
+      expect(screen.getByText('Lv.2 초급')).toBeInTheDocument();
+    });
   });
 
-  test('renders total progress bar', () => {
+  test('renders total progress bar', async () => {
     render(<WordbookLearnPage />);
     expect(screen.getByText('전체 진행률')).toBeInTheDocument();
   });
 
-  test('each level links to correct path', () => {
+  test('each level links to correct path', async () => {
     render(<WordbookLearnPage />);
-    const links = screen.getAllByRole('link');
-    const hrefs = links.map((l) => l.getAttribute('href'));
-    expect(hrefs).toContain('/learn/frequency-english/level-1');
-    expect(hrefs).toContain('/learn/frequency-english/level-2');
+    await waitFor(() => {
+      const links = screen.getAllByRole('link');
+      const hrefs = links.map((l) => l.getAttribute('href'));
+      expect(hrefs).toContain('/learn/frequency-english/level-1');
+      expect(hrefs).toContain('/learn/frequency-english/level-2');
+    });
   });
 
-  test('back link points to /learn', () => {
+  test('back link points to /learn', async () => {
     render(<WordbookLearnPage />);
-    const links = screen.getAllByRole('link');
-    const hrefs = links.map((l) => l.getAttribute('href'));
-    expect(hrefs).toContain('/learn');
+    await waitFor(() => {
+      const links = screen.getAllByRole('link');
+      const hrefs = links.map((l) => l.getAttribute('href'));
+      expect(hrefs).toContain('/learn');
+    });
   });
 });
 

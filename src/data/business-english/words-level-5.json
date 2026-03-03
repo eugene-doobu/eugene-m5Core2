@@ -420,7 +420,7 @@
     "partOfSpeech": "명사",
     "meaning": "광선",
     "exampleEn": "A ray of sunlight.",
-    "exampleKo": "햇살."
+    "exampleKo": "강한 햇살이 창문을 통해 들어왔어요."
   },
   {
     "id": "biz-lv5-048",
@@ -1535,8 +1535,8 @@
     "pronunciation": "/slɒt/",
     "partOfSpeech": "명사",
     "meaning": "슬롯, 자리",
-    "exampleEn": "Time slot.",
-    "exampleKo": "시간 슬롯."
+    "exampleEn": "Please choose an available time slot for the meeting.",
+    "exampleKo": "회의에 가능한 시간대를 선택해 주세요."
   },
   {
     "id": "biz-lv5-172",

@@ -1,10 +1,12 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import { useParams, notFound } from 'next/navigation';
 import Link from 'next/link';
+import type { Word } from '@/types';
 import WordCard from '@/components/WordCard';
 import ProgressBar from '@/components/ProgressBar';
+import { ChevronLeftIcon } from '@/components/icons';
 import { useProgress } from '@/hooks/useProgress';
 import { useTTS } from '@/hooks/useTTS';
 import { wordbooks, getWordbookLevels, getWordsByLevel } from '@/data';
@@ -16,14 +18,14 @@ function LevelLearnContent({
 }: {
   wordbookId: string;
   levelNameKo: string;
-  words: import('@/types').Word[];
+  words: Word[];
 }) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const { isCompleted, toggleWord, getProgressRate } = useProgress();
   const { speak, isAvailable: ttsAvailable } = useTTS();
 
   const currentWord = words[currentIndex];
-  const wordIds = words.map((w) => w.id);
+  const wordIds = useMemo(() => words.map((w) => w.id), [words]);
   const progressRate = getProgressRate(wordIds);
 
   const goNext = () => {
@@ -47,18 +49,7 @@ function LevelLearnContent({
           className="text-slate-400 hover:text-slate-600 transition-colors"
           aria-label="뒤로 가기"
         >
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            fill="currentColor"
-            className="w-6 h-6"
-          >
-            <path
-              fillRule="evenodd"
-              d="M7.72 12.53a.75.75 0 010-1.06l7.5-7.5a.75.75 0 111.06 1.06L9.31 12l6.97 6.97a.75.75 0 11-1.06 1.06l-7.5-7.5z"
-              clipRule="evenodd"
-            />
-          </svg>
+          <ChevronLeftIcon />
         </Link>
         <div className="flex-1">
           <h1 className="text-xl font-bold text-slate-800">{levelNameKo}</h1>
@@ -139,9 +130,30 @@ export default function LevelLearnPage() {
   const wb = wordbooks.find((w) => w.id === wordbookId);
   const levels = getWordbookLevels(wordbookId);
   const level = levels.find((l) => l.id === levelId);
-  const words = getWordsByLevel(wordbookId, levelId);
 
-  if (!wb || !level || words.length === 0) {
+  const [words, setWords] = useState<Word[]>([]);
+  const [loading, setLoading] = useState(true);
+
+  useEffect(() => {
+    getWordsByLevel(wordbookId, levelId).then((data) => {
+      setWords(data);
+      setLoading(false);
+    });
+  }, [wordbookId, levelId]);
+
+  if (!wb || !level) {
+    notFound();
+  }
+
+  if (loading) {
+    return (
+      <div className="max-w-4xl mx-auto px-4 py-10 text-center text-slate-400">
+        로딩 중...
+      </div>
+    );
+  }
+
+  if (words.length === 0) {
     notFound();
   }
 

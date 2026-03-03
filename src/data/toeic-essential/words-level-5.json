@@ -104,8 +104,8 @@
     "pronunciation": "/slɒt/",
     "partOfSpeech": "명사",
     "meaning": "슬롯, 자리",
-    "exampleEn": "Time slot.",
-    "exampleKo": "시간 슬롯."
+    "exampleEn": "Please choose an available time slot for the meeting.",
+    "exampleKo": "회의에 가능한 시간대를 선택해 주세요."
   },
   {
     "id": "toeic-lv5-013",
@@ -1401,7 +1401,7 @@
     "partOfSpeech": "명사",
     "meaning": "정전, 서비스 중단",
     "exampleEn": "Power outage.",
-    "exampleKo": "정전."
+    "exampleKo": "폭풍으로 인해 대규모 정전이 발생했어요."
   },
   {
     "id": "toeic-lv5-157",

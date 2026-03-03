@@ -1,5 +1,5 @@
 import { renderHook, act, waitFor } from '@testing-library/react';
-import { useTTS } from '@/hooks/useTTS';
+import { useTTS, _resetTTSCache } from '@/hooks/useTTS';
 import * as azureTts from '@/lib/tts/azure-tts';
 import * as audioCache from '@/lib/tts/audio-cache';
 
@@ -41,6 +41,7 @@ describe('useTTS', () => {
 
   beforeEach(() => {
     jest.clearAllMocks();
+    _resetTTSCache();
     mockGetCachedAudio.mockResolvedValue(null);
     mockSetCachedAudio.mockResolvedValue(undefined);
     mockAudioInstance.onended = null;

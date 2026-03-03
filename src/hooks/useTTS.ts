@@ -3,6 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from 'react';
 import { azureSpeak } from '@/lib/tts/azure-tts';
 import { getCachedAudio, setCachedAudio } from '@/lib/tts/audio-cache';
+import { TTS_API_ENDPOINT } from '@/lib/constants';
 
 function playAudioBuffer(
   buffer: ArrayBuffer,
@@ -27,15 +28,32 @@ function playAudioBuffer(
   audio.play().catch(cleanup);
 }
 
+let cachedAvailability: boolean | null = null;
+
+/** @internal 테스트 전용 — 모듈 캐시 초기화 */
+export function _resetTTSCache() {
+  cachedAvailability = null;
+}
+
 export function useTTS() {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const [isAvailable, setIsAvailable] = useState(false);
 
   useEffect(() => {
-    fetch('/api/tts')
+    if (cachedAvailability !== null) {
+      setIsAvailable(cachedAvailability);
+      return;
+    }
+    fetch(TTS_API_ENDPOINT)
       .then((res) => res.json())
-      .then((data) => setIsAvailable(data.available === true))
-      .catch(() => setIsAvailable(false));
+      .then((data) => {
+        cachedAvailability = data.available === true;
+        setIsAvailable(cachedAvailability);
+      })
+      .catch(() => {
+        cachedAvailability = false;
+        setIsAvailable(false);
+      });
   }, []);
 
   const stop = useCallback(() => {
@@ -65,8 +83,8 @@ export function useTTS() {
 
         // 3. 캐시 저장 (fire-and-forget)
         setCachedAudio(text, lang, result.audio, result.contentType);
-      } catch {
-        // Azure 실패 시 조용히 무시
+      } catch (err) {
+        console.warn('[TTS] Speech synthesis failed:', err);
       }
     },
     [isAvailable, stop]

@@ -501,7 +501,7 @@
     "partOfSpeech": "명사",
     "meaning": "광선",
     "exampleEn": "A ray of sunlight.",
-    "exampleKo": "햇살."
+    "exampleKo": "강한 햇살이 창문을 통해 들어왔어요."
   },
   {
     "id": "acad-lv3-057",
@@ -1185,7 +1185,7 @@
     "partOfSpeech": "명사",
     "meaning": "장대, 극",
     "exampleEn": "North Pole.",
-    "exampleKo": "북극."
+    "exampleKo": "탐험가들이 북극에 도달하는 데 여러 달이 걸렸어요."
   },
   {
     "id": "acad-lv3-133",
@@ -1796,8 +1796,8 @@
     "pronunciation": "/tʌn/",
     "partOfSpeech": "명사",
     "meaning": "톤",
-    "exampleEn": "One ton.",
-    "exampleKo": "1톤."
+    "exampleEn": "This truck can carry up to one ton of cargo.",
+    "exampleKo": "이 트럭은 최대 1톤의 화물을 실을 수 있어요."
   },
   {
     "id": "acad-lv3-201",

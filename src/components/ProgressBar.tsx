@@ -1,10 +1,12 @@
+import { memo } from 'react';
+
 interface ProgressBarProps {
   percentage: number;
   label?: string;
   size?: 'sm' | 'md';
 }
 
-export default function ProgressBar({
+export default memo(function ProgressBar({
   percentage,
   label,
   size = 'md',
@@ -36,4 +38,4 @@ export default function ProgressBar({
       </div>
     </div>
   );
-}
+})
